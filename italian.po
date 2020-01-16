@@ -53,7 +53,7 @@ msgstr "E io sono una di loro! Una femmina di Elfo pittato benedetto, per la pre
 #: /Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(1).Lines
 msgctxt ",0180484249AE71470005A78484607A18"
 msgid "Ah I suppose you are like most @MONSTER_RACE@ then."
-msgstr ""
+msgstr "Ah, suppongo tu sia come la maggior parte dei @MONSTER_RACE@, allora."
 
 #. Key:	01DB8D8A43F7EC40F07FB3A355D39722
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
@@ -340,7 +340,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.Lines(2).Lines
 msgctxt ",0D3C4D8D4F6C01DE00A1B88BD745C860"
 msgid "A bath perhaps? Or maybe one of your wild ones took a dirt nap. I will wash them all."
-msgstr ""
+msgstr "Un bagno, forse? O forse qualcuno dei tuoi selvatici si è sporcato troppo. In tal caso posso lavarlo."
 
 #. Key:	0D9D20584BA7B523EE2834B29064B88E
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R04.Default__BlossomDefault01_R04_C.SessionData.Lines(0).Lines
@@ -389,7 +389,7 @@ msgstr "*Suck* *lick*"
 #: /Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.LinesGrungy(1).LinesGrungy
 msgctxt ",0F3DB30048A1D95AFB32AEBCA67D8C96"
 msgid "You need a bath. Come now, place your body between my breasts and let's get you clean."
-msgstr ""
+msgstr "Hai bisogno di un bagnp. Vieni, posa il tuo corpo sul mio seno e vediamo di pulirti."
 
 #. Key:	0F5F4BBA4C14BF84662CB09F0D97B147
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(2).Lines
@@ -438,7 +438,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.Lines(3).Lines
 msgctxt ",1101687D48DB923571BCF99F288D40BC"
 msgid "Won't you stay in my loving embrace and feel my music?"
-msgstr ""
+msgstr "Vuoi stare nel mio amorevole abbraccio e sentire la mia musica?"
 
 #. Key:	11020A854E2D02F780F8BEA52E1E313C
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry02_R01.Default__EmissaryBlessedInquiry02_R01_C.SessionData.Lines(0).Lines
@@ -739,7 +739,7 @@ msgstr "Purtroppo non posso più aiutarti a raccogliere fluidi dei @MONSTER_RACE
 #: /Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(2).Lines
 msgctxt ",1DA742CA40AC6A3A7EC5B6834EEA93B8"
 msgid "Mermaids are unique Formurians, we hear frequencies most others cannot."
-msgstr ""
+msgstr "Le sirene sono tritoni unici, sentiamo frequenze che altri non possono."
 
 #. Key:	1E23F2524EB7DC68DC07EC92E709C65F
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -851,7 +851,7 @@ msgstr "Questo rende il tuo lavoro molto più semplice!"
 #: /Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.LinesGrungy(3).LinesGrungy
 msgctxt ",226CAB5E40652DCF455036A02B7F0BEF"
 msgid "Human, look how dirty you have become. No, no, this won't do."
-msgstr ""
+msgstr "Umano, gurda quanto sporco su di te. No, no, non va affatto bene."
 
 #. Key:	22721E7243A0F89426773BB6C47E987A
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(2).Lines
@@ -935,7 +935,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyDefault01_UpHere.Default__RomyDefault01_UpHere_C.SessionData.Lines(1).Lines
 msgctxt ",25D626114231ECB08961C6AB69737AE1"
 msgid "You must think it's odd that you are the only one of your kind, never I have I heard your tune before."
-msgstr ""
+msgstr "Devi pensare che sia strano essere l'unico della tua specie. Non ho mai sentito la tua melodia."
 
 #. Key:	2632B36446A9D5F9E018209CB73837B8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.DisplayName
@@ -1054,7 +1054,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_RL.Default__RomyDefault01_YourMusic_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",2BCA631C4BEC509E1B1DAC824001A31A"
 msgid "Whoa, actually I'm tone-deaf."
-msgstr ""
+msgstr "Whoa, a dire il vero non so proprio cantare."
 
 #. Key:	2BF4676042EE4C0FA5B54F8CDCD3C5A6
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(1).Lines
@@ -1075,7 +1075,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(0).Lines
 msgctxt ",2CCE0ADD406CF961196E5BAEDA387652"
 msgid "Can you not hear it?"
-msgstr ""
+msgstr "Riesci a sentirlo?"
 
 #. Key:	2D40A8404D1D3D0D2D24B49349427E5A
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -1103,7 +1103,7 @@ msgstr "Dai a Felce altro latte... slurp! Crescerò più in fretta con altro lat
 #: /Game/Dialogue/Romy/Default/RomyDefault01_RL.Default__RomyDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",2DF7474B4ED132A075973ABFA667399C"
 msgid "I want to hear your music."
-msgstr ""
+msgstr "Voglio ascoltare la tua musica."
 
 #. Key:	2E18B0B24CC860D3136F0CA493EDDD3B
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(0).Lines
@@ -1264,7 +1264,7 @@ msgstr "Awww... miao... Cassie ora è triste."
 #: /Game/Dialogue/Romy/Default/RomyDefault01_RL.Default__RomyDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",3526724A47197988348500AADC4A0504"
 msgid "So, you bathe all day?"
-msgstr ""
+msgstr "Quindi, passi tutto il tempo a lavarti?"
 
 #. Key:	354E29D445D2F28CFD2E2782082F8D11
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_StartSnatchT.Default__MirruDefault01_StartSnatchT_C.SessionData.Lines(0).Lines
@@ -1495,7 +1495,7 @@ msgstr "Perché hai detto padrone?"
 #: /Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(6).Lines
 msgctxt ",3EEDCB0B41A901791EE10990EB7EBF6A"
 msgid "But every now and then a few like to roll around in the dirt."
-msgstr ""
+msgstr "Ma ogni tanto qualcuno adora rotolarsi nel fango"
 
 #. Key:	3EF462824AF0C626F44930B3EB3D1614
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(6).Lines
@@ -1880,7 +1880,7 @@ msgstr "Lasciami avvolgere le mie labbra sul tuo grosso cazzo, il mio corpo desi
 #: /Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_RL.Default__RomyDefault01_YourMusic_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",4B9F497F40EDDFFEA5F6DCB0FB8B4675"
 msgid "Yeah let's sing some songs!"
-msgstr ""
+msgstr "Sì, cantiamo un po'!"
 
 #. Key:	4BC8B3D446816CE0D525CD99477CF0CF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(8).ResponseData.BreederPrompt
@@ -1901,7 +1901,7 @@ msgstr "La mia specialità è il latte di ogni tipo, compreso quello che ho di f
 #: /Game/Dialogue/Romy/Default/RomyDefault01_UpHere.Default__RomyDefault01_UpHere_C.SessionData.Lines(4).Lines
 msgctxt ",4D0B9DAB42EF8CA84E014A8298104E74"
 msgid "Only the Goddess will give you answers. Sadly, I cannot hear Her song, for it is much too great for my ears."
-msgstr ""
+msgstr "Solo da Dea ti darà delle risposte. Purtroppo io non posso sentire il suo canto, essendo questo troppo grande per le mie orecchie."
 
 #. Key:	4DA62EBE4FE5CCF8694322AA22E38C1D
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(12).Lines
@@ -1950,14 +1950,14 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyDefault01_BatheAllDay.Default__RomyDefault01_BatheAllDay_C.SessionData.Lines(2).Lines
 msgctxt ",4E7998DA4738ECC33C9E7DA9B98FC68B"
 msgid "They let me wash every inch of their bodies, and I enjoy it... immensely."
-msgstr ""
+msgstr "Lascia che lavi ogni centimetro dei loro corpi, e io ne goda... immensamente."
 
 #. Key:	4E899A5D4E84988C4EA22C94596B1177
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFemale(2).LinesToFemale
 #: /Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",4E899A5D4E84988C4EA22C94596B1177"
 msgid "Wave after wave of pleasure will engulf you, and the entire town will know your beautiful voice."
-msgstr ""
+msgstr "Onda dopo onda di piacere perderai il controllo, e l'intera cittò sentirà la tua magnifica voce."
 
 #. Key:	4E9D03D24AE3DC71062DEA8716955966
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(2).ResponseData.BreederPrompt
@@ -2055,7 +2055,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_ToneDeaf.Default__RomyDefault01_YourMusic_ToneDeaf_C.SessionData.Lines(1).Lines
 msgctxt ",51CEBDA94681ACB09279C2A598681796"
 msgid "Do return if you reconsider."
-msgstr ""
+msgstr "Ritorna, se cambi idea."
 
 #. Key:	51E33E8544C5A1055CF34EA764D9E53C
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -2167,7 +2167,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.LinesGrungy(4).LinesGrungy
 msgctxt ",55DE769C4C259F81CB55299E36998DA3"
 msgid "Remove your clothes, and let me wash you."
-msgstr ""
+msgstr "Togliti i vestiti, e lascia che ti lavi."
 
 #. Key:	560FCF68432946FE1C6D7BA2F8088AB6
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(0 - Value).TravelShrines.ShrineName
@@ -2503,7 +2503,7 @@ msgstr "Ma che splendida felce parlante..."
 #: /Game/Dialogue/Romy/Default/RomyDefault01_RL.Default__RomyDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",668D13F146AB0A33AF196F814E2CAA98"
 msgid "Bathe."
-msgstr ""
+msgstr "Lavati."
 
 #. Key:	66E8E5AB4E2D126AFBE3A7858C3E70EF
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_PussyPortals.Default__NeelaDefault01_PussyPortals_C.SessionData.Lines(0).Lines
@@ -2538,7 +2538,7 @@ msgstr "Lasciami che dica solo \"esperienze\" che voi delle terre emerse potete 
 #: /Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_ToneDeaf.Default__RomyDefault01_YourMusic_ToneDeaf_C.SessionData.Lines(0).Lines
 msgctxt ",679B9CA8446900121B93359B9CD3CC08"
 msgid "What a shame... such beautiful sounds we could make."
-msgstr ""
+msgstr "Che peccato... potevamo fare dei suoni così belli..."
 
 #. Key:	67EB3E22466BD62D9BC182899350E3AF
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -2959,7 +2959,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.Lines(1).Lines
 msgctxt ",7618202D4A38C8CACBFF19A33C3F1E02"
 msgid "What can this humble mermaid do for you?"
-msgstr ""
+msgstr "Cosa può fare per te questa umile sirena?"
 
 #. Key:	76894E414F0E86A40CDEB69862E1A67C
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(1).Lines
@@ -2980,7 +2980,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.LinesGrungy(5).LinesGrungy
 msgctxt ",76DD724248BA7178346EC59171F3BDF4"
 msgid "No I want to. Trust me... I want to feel every corner of that human body."
-msgstr ""
+msgstr "No, voglio farlo. Credimi...  Voglio sentire ogni angolo del corpo umano."
 
 #. Key:	7738600347E52873B1AB5D8B148524AC
 #. SourceLocation:	/Game/Dialogue/Leylanna/SexScenes/LeylannaLeyCov.Default__LeylannaLeyCov_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -3008,7 +3008,7 @@ msgstr "Senza dubbio incontrerai dei Benedetti in questo mondo che vorranno semp
 #: /Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(5).Lines
 msgctxt ",77E7C4FC4287147D1A10F5BD3D5F5081"
 msgid "Bathe them of course, if they're dirty. Fortunately, @MONSTER_RACE@ are very clean naturally."
-msgstr ""
+msgstr "Lavarlo, ovviamente, se sono sporchi. Fortunatamente, i @MONSTER_RACE@ di solito sono molto puliti"
 
 #. Key:	786684AF43E49B03AB1575A2054AC196
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.DisplayName
@@ -3176,7 +3176,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",8044648D4BB5A708D0C1658B377C01A4"
 msgid "Warm bath, sweet music, and now the pleasant company of the human."
-msgstr ""
+msgstr "bagno caldo, dolce musica, e ora la piacevole compagnia di un umano."
 
 #. Key:	8103840A43F7351F6B263C98CC5A6335
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(2).Lines
@@ -3393,7 +3393,7 @@ msgstr "Certo, è una tentazione bere tutti i fluidi, ma io ti amo Padrone, e so
 #: /Game/Dialogue/Romy/Default/RomyDefault01_BatheAllDay.Default__RomyDefault01_BatheAllDay_C.SessionData.Lines(0).Lines
 msgctxt ",870E3E9A4756B06E4D8C9FB1967261E9"
 msgid "It feels so good, and as a mermaid I must be close to the water."
-msgstr ""
+msgstr "È così bello, e in quanto sirena devo essere sempre vicina all'acqua."
 
 #. Key:	87F01F0B48F45D7E461449960ED82A56
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaGreeting01.Default__LeylannaGreeting01_C.SessionData.Lines(1).Lines
@@ -3463,7 +3463,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",896A556649DF30C2C9A122A0DA91A3C0"
 msgid "You do wish to feel my music, I knew it."
-msgstr ""
+msgstr "Vuoi sentire la mia musica, lo sapevo."
 
 #. Key:	89AD310E47680E241C7AEEB5C24A9E59
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -3694,7 +3694,7 @@ msgstr "Il mio corpo desidera il tuo delizioso latte."
 #: /Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.LinesGrungy(2).LinesGrungy
 msgctxt ",907E7C35462D4EC3BC72C5B05C7ABDB9"
 msgid "I hear your eyes working your way down my voluptuous form, your heart beats faster, but... oh... no."
-msgstr ""
+msgstr "Sento i tuoi occhi indugiare sulle mie voluttuose forme, il tuo cuore batte veloce, ma... oh... no."
 
 #. Key:	90AAD27D43E39D45DAC8A492F1373436
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToMale(9).LinesToMale
@@ -3890,7 +3890,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(4).Lines
 msgctxt ",97819B7A480CF2968256F1AD74021DAD"
 msgid "Then... well you might imagine what we do."
-msgstr ""
+msgstr "Allora... beh, puoi immaginare cosa facciamo."
 
 #. Key:	97B6C8DB42BBC06231748889E00AC3AE
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(3).Lines
@@ -4079,7 +4079,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",9EEBDB0446F2AAFA8F605E8A3DE83534"
 msgid "Your face will know the sweet melody of my soft large breasts."
-msgstr ""
+msgstr "Il tuo volto conoscerà la più dolce melodia dei miei morbidi e grandi seni"
 
 #. Key:	9EEFE8B54303A99BB5053CA7F7960A23
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.FormurianPond.ManageActionMessage
@@ -4268,7 +4268,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyDefault01_RL.Default__RomyDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
 msgctxt ",A7310E5A43F60121BD9352B96FBB8369"
 msgid "How did you get up here?"
-msgstr ""
+msgstr "Come sei salita quassù?"
 
 #. Key:	A7C8404E4B6C68006478148076380602
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(14).Lines
@@ -4324,7 +4324,7 @@ msgstr "Guarda il mio meraviglioso fiore, è sbocciato! Cielo, è stato strano..
 #: /Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",AA16BE3B4732F407329ED6B450557C71"
 msgid "A strange song approaches me, a tune not heard in this land."
-msgstr ""
+msgstr "Una strana canzone si avvicina, una melodia che non ho mai sentito in questa terra."
 
 #. Key:	AA3F14D64D5670190F05DD83A37D1AC9
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_F.Default__FernDefault02_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
@@ -4569,7 +4569,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",B3B231554333647A7518C9A44578C0B1"
 msgid "I hear your eyes working your way down my voluptuous form, your heart beats faster."
-msgstr ""
+msgstr "Sento i tuoi occhi indugiare sulle mie voluttuose forme, il tuo cuore batte velocemente."
 
 #. Key:	B3B7244F401573EDDD24A0BB5011F55C
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm_RL_T.Default__LeylannaDefault01_HowToSpiritForm_RL_T_C.ResponseData(2).ResponseData.BreederPrompt
@@ -4632,7 +4632,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyDefault01_BatheAllDay.Default__RomyDefault01_BatheAllDay_C.SessionData.Lines(1).Lines
 msgctxt ",B69F20F0421426CBBF0D7FBE2E7C76D6"
 msgid "The townsfolk come here to relax and make love, it is beautiful."
-msgstr ""
+msgstr "Gli abitanti della città vengono qui per rilassarsi e fare l'amore, è stupendo."
 
 #. Key:	B740BA7F4ADFB18E32DFE99606B483B3
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(0).Lines
@@ -4646,7 +4646,7 @@ msgstr "Sia benedetta se dico di no, ma speravo che melo chiedessi!"
 #: /Game/Dialogue/Romy/Default/RomyDefault01_UpHere.Default__RomyDefault01_UpHere_C.SessionData.Lines(0).Lines
 msgctxt ",B792D83B44DC1E7BF9DAE08B4D4A3E70"
 msgid "The real question is: how did you get here human?"
-msgstr ""
+msgstr "La vera domanda è: cosa ti porta qui, umano?"
 
 #. Key:	B79CB910400AA9573644BCA03D3D9F51
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(15).Lines
@@ -4772,7 +4772,7 @@ msgstr "oooh, sono una ragazza sensibile! Mi farai... ohhh."
 #: /Game/Dialogue/Romy/Default/RomyDefault01_UpHere.Default__RomyDefault01_UpHere_C.SessionData.Lines(2).Lines
 msgctxt ",BCB1A0F54609C871293D96B90F2E8B8E"
 msgid "Ponder this, you just manifested on a ranch in front of a purple elf."
-msgstr ""
+msgstr "Rifletti su questo, sei apparso in un ranch di fronte ad un elfo viola."
 
 #. Key:	BCCE27C44B7552836451CAB377E5AE75
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(2).Lines
@@ -4863,7 +4863,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyDefault01_BatheMe.Default__RomyDefault01_BatheMe_C.SessionData.Lines(0).Lines
 msgctxt ",BFE1041943E9B477E3A7848FC8505D3E"
 msgid "Who shall I cleanse of their grungy trait?"
-msgstr ""
+msgstr "Chi devo ripulire?"
 
 #. Key:	BFE419FB4198F6466864C0A660018BA3
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Thriae/Harvest/ThriaeHarvest.Default__ThriaeHarvest_C.Harvest.Description
@@ -5031,7 +5031,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyDefault01_UpHere.Default__RomyDefault01_UpHere_C.SessionData.Lines(3).Lines
 msgctxt ",C9B4EBAD46E07D79B09C1DBE7BE0F774"
 msgid "I know you have no memories before that moment, so let it sink in that you should not be here at all."
-msgstr ""
+msgstr "So che non hai memorie di prima di quel momento, passiamo oltre sul il fatto che non dovresti proprio essere qui."
 
 #. Key:	C9DFA1EB40C3BF78D4B015AC82833310
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.DisplayName
@@ -5059,7 +5059,7 @@ msgstr "Attento, umano. non è saggio sottovalutare la lussuria di un Kraken."
 #: /Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",CB6197724E6737AA23A5DD991AD65537"
 msgid "With my delicate fingers, I shall play your vagina like an instrument"
-msgstr ""
+msgstr "Con le mie dita delicate, danzerò sulla tua vagina come fosse uno strumento."
 
 #. Key:	CBCA7A624672A12A721B83B16D8F5A02
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToMale(4).LinesToMale
@@ -5122,7 +5122,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(3).Lines
 msgctxt ",CEC4092D45D0DBE6546A729EE34F0267"
 msgid "Our voices can reach a pitch so pleasant to the ear, that any within reach may become entranced."
-msgstr ""
+msgstr "Le nostre voci possono raggiungere una nota dal suono così piacevole che chiunque la ascolti rimane incantato."
 
 #. Key:	CEC660F240FC0F1941C19ABA02D18068
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -5311,7 +5311,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyDefault01_RL.Default__RomyDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",D5CB7ED64FDBBF8094BDFE9F5271E39E"
 msgid "You hear my uh... music?"
-msgstr ""
+msgstr "Hai sentito la mia uh... melodia?"
 
 #. Key:	D5E48FA54813F998B6D165A5B2F04BF7
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(11).LinesToMale
@@ -5689,7 +5689,7 @@ msgstr "Cosa sono i @MONSTER_RACE@ selvatici?"
 #: /Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",E1E308E24203BE20934F4FBC8BEC61C7"
 msgid "With my voluptuous mermaid body, I shall play your dick like an instrument"
-msgstr ""
+msgstr "Con il mio voluttuoso corpo di sirena, userò il tuo cazzo come fosse uno strumento."
 
 #. Key:	E1E5995441F81E5B6E79E8A5481789F0
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchF.Default__MirruSnatchF_C.SessionData.Lines(1).Lines
@@ -5787,7 +5787,7 @@ msgstr "Ma quello che davvero vogliamo e accoppiarci con voi."
 #: /Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_Start.Default__RomyDefault01_YourMusic_Start_C.SessionData.Lines(0).Lines
 msgctxt ",E5B7F2E2469864C41253FC892250ED92"
 msgid "Yes! Sing with me human."
-msgstr ""
+msgstr "Sì! Canta con me, umano!"
 
 #. Key:	E5F734734AC1001F041105949672E015
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(11).Lines
@@ -6144,7 +6144,7 @@ msgstr "Ohhh quanto aspettavo di avvolgere le mie labbra su un cazzo umano! Ahhh
 #: /Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.LinesGrungy(0).LinesGrungy
 msgctxt ",F743D4EB4B4F3333AEE950BA4458ECE8"
 msgid "Oh you dirty dirty human... what have you done to yourself?"
-msgstr ""
+msgstr "Oh, sporco, sporco, umano... come ti sei conciato?"
 
 #. Key:	F74E8BFF48A0493236F0C6B2CDD1F4DB
 #. SourceLocation:	/Game/Dialogue/Leylanna/SexScenes/LeylannaLeyCov.Default__LeylannaLeyCov_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -6340,7 +6340,7 @@ msgstr "*Slurp* *Lick*"
 #: /Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",FCD1F71F4D144F31FDAB9F89767AC8E7"
 msgid "Yes it sounds so sweet, it is the sound of human desire. Ahhh... it grows louder as your gaze turns upon my breasts."
-msgstr ""
+msgstr "Sì, era così dolce, il suono del desiderio umano. Ahhh... il suono aumenta ogni volta che posi lo sguardo sul mio seno."
 
 #. Key:	FD257CB04C6B3AB420244298D2C33047
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.DisplayName
