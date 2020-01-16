@@ -32,7 +32,7 @@ msgstr "Questa cintura per gli attrezzi a stento ferma la mia stecca di burro!"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_RL.Default__MirruDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",01386D9C478E6BE9974F00942E5EA1E0"
 msgid "Formuria?"
-msgstr ""
+msgstr "Tritoni?"
 
 #. Key:	014BFFCA4F173DACEC2A00A8398888F4
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(3).Lines
@@ -270,7 +270,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(0).Lines
 msgctxt ",0AA608164C47369E28D0C6BFDB27289A"
 msgid "The most noble, mighty, and feared race beneath the waves we are!"
-msgstr ""
+msgstr "Siamo la specie più nobile, potente e temuta sotto le onde!"
 
 #. Key:	0BB0A695454FD69DAA129F82F023EB23
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -319,7 +319,7 @@ msgstr "*Purr*"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy_RL_F.Default__MirruDefault01_BodySexToy_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",0CE3BF194F0AEDEFF8FD32BC70EC9A18"
 msgid "You have multiple hearts?!"
-msgstr ""
+msgstr "Hai più di un cuore?!"
 
 #. Key:	0CF85A94478ED7F4CC8BA58C2B66D95C
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -396,7 +396,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(2).Lines
 msgctxt ",0F5F4BBA4C14BF84662CB09F0D97B147"
 msgid "While we have destructive past, most Krakens today are peaceful and seek only love and pleasure as other @MONSTER_RACE@."
-msgstr ""
+msgstr "Nonostante il nostro passato distruttivo, quasi tutti i Kraken di oggi sono pacifici e cercano solo piacere come gli altri @MONSTER_RACE@"
 
 #. Key:	0FC69F2441505B7DAACAC7807627892D
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R05.Default__FernDefault03_R05_C.SessionData.Lines(1).Lines
@@ -417,7 +417,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy_RL_F.Default__MirruDefault01_BodySexToy_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",106EA6A747A0901892BD12A925DA79A5"
 msgid "Have your way with me!"
-msgstr ""
+msgstr "Fa di me quello che vuoi!"
 
 #. Key:	107C6B8448B1F139A90AFDBD17AE1AA9
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(25).LinesToFemale
@@ -459,7 +459,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(3).Lines
 msgctxt ",115E28B04787E362B52C17AF826B86A5"
 msgid "You must understand human, our large fleshy bodies pulse with lust and are difficult to satisfy."
-msgstr ""
+msgstr "Devi capire, umano, che il nostro grande corpo carnoso pulsa di lussuria ed è difficile da soddisfare."
 
 #. Key:	1187860A495AEE8B52286F8DA6A1DF53
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_F.Default__FernDefault01_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
@@ -515,7 +515,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(2).Lines
 msgctxt ",12D3C80246AEABBC7C78CD8D7A2FD415"
 msgid "Do you like my thick deep vagina? Ahh... penetrate it with all your might..."
-msgstr ""
+msgstr "Ti piace la mia grossa e profonda vagina? Ahh... penetrala con tutta la tua forza..."
 
 #. Key:	12F0D8C14278EB1A73FD4289B39B7E87
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_RL_F.Default__BlossomDefault01_RL_F_C.ResponseData(2).ResponseData.BreederPrompt
@@ -634,7 +634,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",193F948E4333F3741026EABB87402DD3"
 msgid "A chance to mate with a human is making my hearts pound, and my tentacles slick..."
-msgstr ""
+msgstr "L'opportunità di accoppiarmi con un umano fa battere forte i miei cuori, e i miei tentacoli stanno fremendo..."
 
 #. Key:	19A2E9D044587CE3E0AC5B8D366B6974
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01.Default__AmberMaeDefault01_C.SessionData.Lines(0).Lines
@@ -676,7 +676,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(4).Lines
 msgctxt ",1AF544224BFAECD89C2CE99B8EE6EB2D"
 msgid "It is custom for future queens to make pilgrimage to the dry lands and..."
-msgstr ""
+msgstr "È tradizione per le future regine pellegrinare nella terraferma e..."
 
 #. Key:	1B5A3D3E4B34533CC5E7E599C01B1A38
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(30).LinesToFemale
@@ -865,7 +865,7 @@ msgstr "Possiamo divertirci un sacco con il mio corpo da fiore! Voglio fare l'am
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",22A642E14AB14A866F4A749782B623B0"
 msgid "Ahhh... yes. My desires are surging, won't you indulge in my body? I will try to be gentle."
-msgstr ""
+msgstr "Ahhh... sììì. I miei desideri stanno sorgendo, vuoi abbandonarti al mio corpo? Cercherò di essere delicata. "
 
 #. Key:	22DBDC6341C9C5D8D427F0A18A87ED40
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.BovaurShed.ManageActionMessage
@@ -893,7 +893,7 @@ msgstr "Puoi sempre... continuare a darmi i tuoi fluidi. Ti ricompenserò con pi
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy_RL_T.Default__MirruDefault01_BodySexToy_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",239678F6481C22C297A01BAF6A94E397"
 msgid "I want to experience Kraken vagina..."
-msgstr ""
+msgstr "Voglio provare l'esperienza della vagina di un Kraeken..."
 
 #. Key:	23E7B88A464A51712A11B1A07FE361A3
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -956,7 +956,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy_RL_T.Default__MirruDefault01_BodySexToy_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",26D2F9824AAF8A08377F478BB7C771AB"
 msgid "Have your way with me!"
-msgstr ""
+msgstr "Fa di me quello che vuoi!"
 
 #. Key:	26DCB9EA476437386094CA87FFE3E422
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_R02.Default__EmissaryBlessedInquiry01_R02_C.SessionData.Lines(0).Lines
@@ -1040,7 +1040,7 @@ msgstr "Puoi avere il mio sperma!"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(3).Lines
 msgctxt ",2B4CCE054929809171D1D88C30341FB2"
 msgid "Mother has reigned for 788 years human, and it is law that rulers stepdown at 800."
-msgstr ""
+msgstr "Mia madre ha regnato per oltre 788 anni umani, ed è legge che il regnante abdichi a 800."
 
 #. Key:	2BA86FB140866995E4F323B86DA72C9A
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_SellMonsters.Default__EmissaryDefault01_SellMonsters_C.SessionData.Lines(0).Lines
@@ -1194,7 +1194,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(3).Lines
 msgctxt ",31774B0844F7A12FF85DC5AE10CA3013"
 msgid "Oh... ahh... it feels so good."
-msgstr ""
+msgstr "Oh... ahh... è così bello."
 
 #. Key:	31E2065041FFF628ED41DEB3E33F080F
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_Pregnancy.Default__FaleneDefault01_Pregnancy_C.SessionData.Lines(3).Lines
@@ -1271,7 +1271,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_StartSnatchT.Default__MirruDefault01_StartSnatchT_C.SessionData.Lines(0).Lines
 msgctxt ",354E29D445D2F28CFD2E2782082F8D11"
 msgid "Ahhh... come here human!"
-msgstr ""
+msgstr "Ahhh... vieni qui umano!"
 
 #. Key:	3587D87D4538714F62271FBFA1D17FFF
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R01.Default__FernDefault03_R01_C.SessionData.Lines(2).Lines
@@ -1285,7 +1285,7 @@ msgstr "Se devo trascorrere il resto dell'eternità in un posto, voglio farlo so
 #: /Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(0).Lines
 msgctxt ",35B0312145CDC987463545B35DBCF219"
 msgid "Submit human... I cannot control my desires!"
-msgstr ""
+msgstr "Sottomettiti umano... Non posso controllare i miei desideri!"
 
 #. Key:	35CF617940B0723BA4795CA4E3D0FA22
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_StartLoveMakingT.Default__LeylannaDefault01_StartLoveMakingT_C.SessionData.Lines(0).Lines
@@ -1341,7 +1341,7 @@ msgstr "Ma guarda! L'umano!"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFemale(4).LinesToFemale
 msgctxt ",37933117464CBF3120925D83C7A81935"
 msgid "Imagine how good my tentacles will feel between your labia... and I promise they will touch every corner."
-msgstr ""
+msgstr "Immagina la sensazione dei miei tentacoli tra le tue labbra... e prometto che toccherò ogni anfratto."
 
 #. Key:	37BE82A749B75C694B68B3856342C2A7
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToMale(4).LinesToMale
@@ -1516,7 +1516,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToMale(1).LinesToMale
 msgctxt ",3F053255484259108C0E28AFBD627175"
 msgid "You have no idea how much restraint I am putting forth at this moment..."
-msgstr ""
+msgstr "Non hai idea di quanto mi stia trattenendo in questo momento..."
 
 #. Key:	40100E704D14DC5D1B113F84C1BCE936
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(10).LinesToMale
@@ -1572,7 +1572,7 @@ msgstr "..."
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(7).Lines
 msgctxt ",41542C1D49AAE2C08A8E1785C30CC95C"
 msgid "Most Krakens are futas, to maximize our pleasure and breeding potential."
-msgstr ""
+msgstr "La maggior parte dei Kraken sono futa, per massimizzare il nostro piacere e potenziale riproduttivo."
 
 #. Key:	4190CA08434458A4DA0C58AFFD9BDDC9
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(2).Lines
@@ -1642,7 +1642,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_MultipleHearts.Default__MirruDefault01_MultipleHearts_C.SessionData.Lines(1).Lines
 msgctxt ",43D16A4C487E8E717D3AF2A72A1F2C56"
 msgid "Way to kill the mood human."
-msgstr ""
+msgstr "Bel modo di rovinare l'atmosfera, umano."
 
 #. Key:	43D6E7FC4718254A804FD5AF3D1C8186
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(3).Lines
@@ -1698,7 +1698,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_RL.Default__MirruDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",45B1E6E34C7DA1B37BDE04B204DC4C4B"
 msgid "So you're a princess..."
-msgstr ""
+msgstr "Quindi sei una principessa..."
 
 #. Key:	45DEB2444826198BC72D2197A3F25B05
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.NekoCondo_1.ManageActionMessage
@@ -1719,7 +1719,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(1).Lines
 msgctxt ",4673804842CCE448A5F016907F5651DD"
 msgid "My mother is a magnificent Kraken, a beautiful voluptous maiden of the sea. To be half as good a queen as her would be a life well lived..."
-msgstr ""
+msgstr "Mia madre è un maestoso Kraken, una magnifica, lasciva signora dei mari. Essere una buona regina la metà di lei sarebbe una vita ben spesa..."
 
 #. Key:	46DF2A6B40E2BC05DF3CD5879A17D834
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Sylvan/Harvest/SylvanHarvest.Default__SylvanHarvest_C.Harvest.Description
@@ -1810,7 +1810,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(6).Lines
 msgctxt ",48F333E347A7091F18F946AADDC3C69D"
 msgid "Oh... you please this Kraken princess greatly human..."
-msgstr ""
+msgstr "Oh... Umano, tu compiaci ampiamente questa principessa kraken..."
 
 #. Key:	4941188D4EE43A48ECE99F9361838C0C
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(4).LinesToMale
@@ -1852,7 +1852,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(4).Lines
 msgctxt ",4AA8E4C347C6877955982195612DC01D"
 msgid "This pleases me greatly... ahhhh."
-msgstr ""
+msgstr "Questo è estremamente bello... ahhhh."
 
 #. Key:	4AD3767B435A26CAE69202B605CB1776
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_RL_F.Default__FernDefault03_RL_F_C.ResponseData(2).ResponseData.BreederPrompt
@@ -2020,14 +2020,14 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_RL.Default__MirruDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",5075655C40C6B014FB7A99AE08709576"
 msgid "Tell me about Krakens."
-msgstr ""
+msgstr "Parlami dei Kraken."
 
 #. Key:	5091F30244DD52A6CED9788A1B9B6A79
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(6).Lines
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(6).Lines
 msgctxt ",5091F30244DD52A6CED9788A1B9B6A79"
 msgid "Ah! Mirru princess of the sea will not divulge such things!"
-msgstr ""
+msgstr "Ah! La principessa dei mari Mirru non palerà di questo!"
 
 #. Key:	50B849704DFA728D7330279E30E472A8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.HelpText
@@ -2363,7 +2363,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01.Default__MirruDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",610937E54B5168894FBCF992E5728C73"
 msgid "The human of the drylands returns."
-msgstr ""
+msgstr "L'umano delle terre emerse fa ritorno."
 
 #. Key:	611DA9BB4817A59AE6891B9EEF129C59
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_SpiritForm.Default__LeylannaDefault01_SpiritForm_C.SessionData.Lines(2).Lines
@@ -2405,7 +2405,7 @@ msgstr "Presto fiorirò del tutto e non potrò più muovermi. Poremmo divertirci
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",62FF5D604699246B05ECEDA19F98F1BA"
 msgid "You have no idea how much restraint I am putting forth at this moment..."
-msgstr ""
+msgstr "Non hai idea di quanto mi stia sforzando per trattenermi in questo momento..."
 
 #. Key:	63A5E9734DC0420DD97A739128DEEF85
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -2454,7 +2454,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_RL.Default__MirruDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
 msgctxt ",6496BB7A43CF18E495C6FABAEFB6B0C9"
 msgid "Your body would make a great sex toy."
-msgstr ""
+msgstr "Il tuo corpo sarebbe un giocattolo sessuale magnifico."
 
 #. Key:	64DDB04B426866024F9EFC98D34E99E5
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_RL_F.Default__BlossomDefault01_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
@@ -2531,7 +2531,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(5).Lines
 msgctxt ",679174774B8AE81A6C98AE933C6D1BF3"
 msgid "Let me just say, \"experience\" what you drylanders have to offer."
-msgstr ""
+msgstr "Lasciami che dica solo \"esperienze\" che voi delle terre emerse potete offrire."
 
 #. Key:	679B9CA8446900121B93359B9CD3CC08
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_ToneDeaf.Default__RomyDefault01_YourMusic_ToneDeaf_C.SessionData.Lines(0).Lines
@@ -2552,7 +2552,7 @@ msgstr "*Purr*"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(5).Lines
 msgctxt ",688E1D934E2D63E60F30488E807E8643"
 msgid "While we never want to do harm, our desires must be satisfied at any expense."
-msgstr ""
+msgstr "Anche se non vogliamo mai far del male, i nostri desideri devono essere soddisfatti ad ogni costo."
 
 #. Key:	68CDC1534D4397A3A7211A8ED7C2F578
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(5).Lines
@@ -2580,14 +2580,14 @@ msgstr "Cosa puoi fare?"
 #: /Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",6993DD7B4964C190B75F98AABA008FAA"
 msgid "Well butter my butt and slap me with a biscuit. A human!"
-msgstr "Che mi imburrino il fondo e schiaffeggi un biscotto. Un umano!"
+msgstr "Che mi imburrino il fondo e mi schiaffeggi un biscotto. Un umano!"
 
 #. Key:	69F9118A434154DE440203AEBAD52F22
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(6).Lines
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(6).Lines
 msgctxt ",69F9118A434154DE440203AEBAD52F22"
 msgid "If that means keeping our mates wrapped for hours while we milk every last drop of seed from them, so be it."
-msgstr ""
+msgstr "Se questo significa mantenere i nostri compagni avvolti per ore mentre mungiamo ogni ultima goccia di seme da loro, così sia."
 
 #. Key:	6A4F7C15487175679D62FFA469639D1A
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow_RL_F.Default__CassieDefault01_Meow_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
@@ -2622,7 +2622,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(4).Lines
 msgctxt ",6B7696AA4F7FC59BCCFABC996AED1F8B"
 msgid "I envy my lesser siblings in a way, they are not required to embark on a 30 year pilgrimage like me."
-msgstr ""
+msgstr "In un certo senso invidio i miei fratelli minori, a loro non viene chiesto di impegnarsi in un pellegrinaggio come me."
 
 #. Key:	6C9735694D5FA2594461AF9E28110F5C
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(26).LinesToFemale
@@ -2678,7 +2678,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",6E3ED9254DE919CFE39F24ACDABD6292"
 msgid "You have no idea how much restraint I am putting forth at this moment..."
-msgstr ""
+msgstr "Non hai idea di quanto mi stia impegnando per trattenermi in questo momento"
 
 #. Key:	6E5A40D849715A40BDC9ECBCE9E3F1C1
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(23).LinesToMale
@@ -2692,7 +2692,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(5).Lines
 msgctxt ",6E673F5644EA7EA6CE684F9AD751AAA9"
 msgid "Oh... ah... it feels so good. I am going to cum."
-msgstr ""
+msgstr "Oh... ah... è così bello. Sto per venire"
 
 #. Key:	6E7585B44800A93D4B9E9AB43E129A72
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(5).Lines
@@ -2727,7 +2727,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",6F1214E04CFF55C4F15CF6B9593AE091"
 msgid "Ahhh... yes. My desires are surging, won't you indulge in my body? I will try to be gentle."
-msgstr ""
+msgstr "Ahhh.. sì. I miei desideri stanno sorgendo, vuoi abbandonermi al mio corpo? cercherò di essere delicata."
 
 #. Key:	6F1DCF64442949FA9CD221911F8540AD
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(2).LinesToMale
@@ -2846,7 +2846,7 @@ msgstr "Non è bellissima?"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01.Default__MirruDefault01_C.SessionData.Lines(1).Lines
 msgctxt ",72676A264244C7A242C2688B7B60F6A5"
 msgid "Have thou come to please this Kraken princess?"
-msgstr ""
+msgstr "Vieni per dar piacere a questa principessa Kraken?"
 
 #. Key:	729B81554E3D9EF979C07FB7C419E3C5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -2909,14 +2909,14 @@ msgstr ""
 #: /Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(5).Lines
 msgctxt ",7413D71A4AAA4CA135368D8D6BD67DC1"
 msgid "I am going to cum... ahhh... it will be messy."
-msgstr ""
+msgstr "Sto per venire... ahhh... sarà un casino."
 
 #. Key:	744F4E844CF281ADE05939B86FCE678E
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy_RL_T.Default__MirruDefault01_BodySexToy_RL_T_C.ResponseData(2).ResponseData.BreederPrompt
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy_RL_T.Default__MirruDefault01_BodySexToy_RL_T_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",744F4E844CF281ADE05939B86FCE678E"
 msgid "You have multiple hearts?!"
-msgstr ""
+msgstr "Hai più di un cuore?"
 
 #. Key:	74E667E542A1B2DD54B1A4852E0B5BDE
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_T.Default__FernDefault02_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
@@ -3056,7 +3056,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruGreeting01.Default__MirruGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",7A60BC8D497743BB08B8F9AF812EDCC7"
 msgid "My name is Mirru."
-msgstr ""
+msgstr "Il mio nome è Mirru."
 
 #. Key:	7AE87BF645B6A4B1D35071A966CCF13E
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -3133,7 +3133,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(1).Lines
 msgctxt ",7ECA06BA481C3327A91288A9BFF1F23D"
 msgid "Ahh... ohhhh... yes!"
-msgstr ""
+msgstr "Ahh... ohhhh... sì!"
 
 #. Key:	7ED8B0A7419F30B18D98B1BF4842D4A5
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R03.Default__BlossomDefault01_R03_C.SessionData.Lines(1).Lines
@@ -3217,7 +3217,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(6).Lines
 msgctxt ",83C8B41F462880323A7E26B8AE678AA1"
 msgid "Yes, ohh... feed my voluptuous body all of your seed. Ahhhhh..."
-msgstr ""
+msgstr "Sì, ohh... dai al mio lussurioso corpo tutto il tuo seme. Ahhhhh..."
 
 #. Key:	840B179B496FE7BBE7487EAE11227191
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(9 - Value).TravelShrines.ShrineName
@@ -3469,7 +3469,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",89AD310E47680E241C7AEEB5C24A9E59"
 msgid "A chance to mate with a human is making my hearts pound, and my tentacles slick..."
-msgstr ""
+msgstr "L'opportunità di accoppiarmi con un umano fa battere forte i miei cuori, e i miei tentacoli stanno fremendo..."
 
 #. Key:	89C2CF4D4CB264FC19F1259B533341FD
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm.Default__LeylannaDefault01_HowToSpiritForm_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -3525,7 +3525,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(5).Lines
 msgctxt ",8B4E1ACB4F89392773B344A3BE6A4E57"
 msgid "They remain at home to serve and please mother... oh how I miss pleasing mother. Her body was so..."
-msgstr ""
+msgstr "Loro restano a casa per servire compiacere la madre.. o, mi manca compiacere mia madre. Il suo corpo era così..."
 
 #. Key:	8B77D0FA4239D5EB678BAE8CDE396838
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.DisplayName
@@ -3574,7 +3574,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToMale(2).LinesToMale
 msgctxt ",8CD67FB74B2E43F406AB5B932B717B19"
 msgid "A chance to mate with a human is making my hearts pound, and my tentacles slick..."
-msgstr ""
+msgstr "L'opportunità di accoppiarmi con un umano fa battere forte i miei cuori, e i miei tentacoli stanno fremendo..."
 
 #. Key:	8D055D5140B28DADFD055EA100CF2F32
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Vulwarg/Harvest/VulwargHarvest.Default__VulwargHarvest_C.Harvest.Description
@@ -3595,7 +3595,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_MultipleHearts.Default__MirruDefault01_MultipleHearts_C.SessionData.Lines(0).Lines
 msgctxt ",8D3533C24DF82A263421E5AD13FC2CE1"
 msgid "What? Yes... hearts... Krakens require two."
-msgstr ""
+msgstr "Cosa? sì... cuori... Noi Kraken ne abbiamo due."
 
 #. Key:	8D3E28104D0EAE4C533EE39A8D65B6DB
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(3).Lines
@@ -3805,7 +3805,7 @@ msgstr "Infatti! il tuo fluido delizioso ha fatto meraviglie"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(2).Lines
 msgctxt ",94861BA24AA560F31BB02F9A4AC431F9"
 msgid "Unlike most Krakens, she is pure female and not futa. She is very rare."
-msgstr ""
+msgstr "Diversamente dakka maggior parte dei Kraken, lei è una semplice donna e non futa. È molto raro."
 
 #. Key:	94FAC38648F37068EA98D4BEB220AA61
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(4).Lines
@@ -3840,7 +3840,7 @@ msgstr "Sono una Alraune in crescita, hai forse dei fluidi che non ti servono?"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFuta(4).LinesToFuta
 msgctxt ",960E85EF4CA91DAAA4DCFF93B84D183E"
 msgid "Imagine all of the places you could slide your dick in human... and I promise I would make them all feel so good..."
-msgstr ""
+msgstr "Immagina tutti i posti in cui potresti infilare il tuo pene, umano.... e ti pometto che ciascuno di essi sarà eccezzionale..."
 
 #. Key:	96824C894B9B4241DBDFEEB68C760057
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(30).LinesToMale
@@ -3861,7 +3861,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_StartSnatchF.Default__MirruDefault01_StartSnatchF_C.SessionData.Lines(0).Lines
 msgctxt ",96CB06FD409452A1B37913AA11EB845B"
 msgid "Ahhh... come here human!"
-msgstr ""
+msgstr "Ahhh... vieni qui, umano!"
 
 #. Key:	96D35D8C41748461CFD8F9A9404E42B5
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -3903,7 +3903,7 @@ msgstr "Affonda nel mio corpo di seta e ti farò provare piacere per ore. puoi p
 #: /Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(3).Lines
 msgctxt ",97C48C5D4FCF938DF123EA94C35A3858"
 msgid "Feel my soft girthy tentacles embrace you... oh... yes."
-msgstr ""
+msgstr "Senti i miei morbidi e grossi tentacoli avvolgerti... oh... sì."
 
 #. Key:	97DE1E2D44F75CDC8B07A3ACE527EFC4
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R03.Default__FernDefault03_R03_C.SessionData.Lines(1).Lines
@@ -4239,7 +4239,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruGreeting01.Default__MirruGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",A6DD5AA2419F165755885E8ED44BB09B"
 msgid "You are lucky, for today you have crossed paths with the Kraken princess of Formuria."
-msgstr ""
+msgstr "La fortuna è dalla tua parte, hai incrociato la principessa Kraken di Formuria."
 
 #. Key:	A6EE239344DA6CC08AFE6E8689A1996F
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(1).Lines
@@ -4358,7 +4358,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(0).Lines
 msgctxt ",ABE8783F45F5B2BBC550D384AB07C325"
 msgid "Indeed, and soon queen of all Formuria."
-msgstr ""
+msgstr "Esatto, e presto regina di tutta Formuria."
 
 #. Key:	ABE9EC6846B58FCFACC56D9EEF9C2B8B
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Titan/Harvest/TitanHarvest.Default__TitanHarvest_C.Harvest.RaceName
@@ -4897,7 +4897,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(4).Lines
 msgctxt ",C18558714C7A7B697778D68CFD03FAF0"
 msgid "Such has caused many a Kraken to force herself on weaker mates."
-msgstr ""
+msgstr "Questo ha costretto molti Kraken a riprodursi con compagni deboli."
 
 #. Key:	C198075048B96603CACC81A045A05956
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_PussyPortals.Default__NeelaDefault01_PussyPortals_C.SessionData.Lines(1).Lines
@@ -4911,14 +4911,14 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(1).Lines
 msgctxt ",C29993C74D67F8AE960E44826013B47C"
 msgid "Krakens founded Formuria, and we have upheld lordship ever since. Our subjects respect us, and we rule over them with mercy and honor."
-msgstr ""
+msgstr "I Kraken hanno fondato Formuria, e abbiamo mantenuto il dominio da allora. I nostri sottoposti ci rispettano, e regnamo su di loro con grazia e onore."
 
 #. Key:	C2F976F9463088F39315118741B15D32
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_StartKrakVag.Default__MirruDefault01_StartKrakVag_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_StartKrakVag.Default__MirruDefault01_StartKrakVag_C.SessionData.Lines(0).Lines
 msgctxt ",C2F976F9463088F39315118741B15D32"
 msgid "Ohh... you will not regret it human."
-msgstr ""
+msgstr "Ohh... non te ne pentirai, umano."
 
 #. Key:	C3445C514F78EFD7116EE28D6898079D
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(5).Lines
@@ -5051,7 +5051,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",CAB7654B473208B56B23F8857B8CBCA0"
 msgid "Careful human, a Kraken's lust is not to be underestimated."
-msgstr ""
+msgstr "Attento, umano. non è saggio sottovalutare la lussuria di un Kraken."
 
 #. Key:	CB6197724E6737AA23A5DD991AD65537
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -5065,7 +5065,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToMale(4).LinesToMale
 msgctxt ",CBCA7A624672A12A721B83B16D8F5A02"
 msgid "Imagine all of the places you could slide your dick in human... and I promise I would make them all feel so good..."
-msgstr ""
+msgstr "Immagina tutti i posti in cui potresti infilare il tuo pene, umano.... e ti pometto che ciascuno di essi sarà eccezzionale..."
 
 #. Key:	CBF60252404E432514F2A08225E15D38
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(1).Lines
@@ -5093,7 +5093,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",CE27DDF94397A475B6331E9CAF6EB7C5"
 msgid "Ahhh... yes. My desires are surging, won't you indulge in my body? I will try to be gentle."
-msgstr ""
+msgstr "Ahh... sì. I miei desideri si stanno risvegliando, vuoi abbandonarti al mio corpo? Cercherò di essere delicata."
 
 #. Key:	CE3354BC4C98FE63B630758F10560253
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(23).LinesToFuta
@@ -5142,7 +5142,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruGreeting01.Default__MirruGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",CFA095544A3BB18577988A9489DE24CC"
 msgid "Ah so it is true. Indeed, a human does walk the dry land."
-msgstr ""
+msgstr "Ah, è così vero. Infatto, gli uomini camminano sulle terre emerse."
 
 #. Key:	CFDBD54945D68B87A04B7B9DDE06F521
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToMale(1).LinesToMale
@@ -5191,7 +5191,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(1).Lines
 msgctxt ",D1984E71418CEF4F3D39AC911B217790"
 msgid "Many aquatic @MONSTER_RACE@ inhabit our fair kingdom, but only Krakens have the might and will to rule."
-msgstr ""
+msgstr "Molti @MONSTER_RACE@ acquatici abitano il nostro regno, ma solo i Kraken hanno la forza e la volontà di regnare."
 
 #. Key:	D1FC026043E82386A07099A46452AB0F
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(13).Lines
@@ -5268,7 +5268,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/SexScenes/MirruSnatchF.Default__MirruSnatchF_C.SessionData.Lines(4).Lines
 msgctxt ",D4BAFDEE4340A6062B18808C4CB9ABF1"
 msgid "Soon... ahhh... you will be covered and impregnated by sticky Kraken pleasure..."
-msgstr ""
+msgstr "Presto... ahhh... ti coprirò e impregnerò di viscoso piacere Kraken... "
 
 #. Key:	D4F1F3F04E4BCBC46FFF2E9AC9B301C0
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm_RL_T.Default__LeylannaDefault01_RechargeSpiritForm_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
@@ -5527,7 +5527,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/SexScenes/MirruSnatchF.Default__MirruSnatchF_C.SessionData.Lines(0).Lines
 msgctxt ",DC880E904973CDED818EF58F9949FB40"
 msgid "Submit human... I cannot control my desires!"
-msgstr ""
+msgstr "Sottomettiti, umano, Non posso controllare i miei desideri!"
 
 #. Key:	DC956C0949E5CA05486F1583CEACA3ED
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.DisplayName
@@ -5597,7 +5597,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(0).Lines
 msgctxt ",DED8326741203DABBF5FDBB2B97D6492"
 msgid "Formuria is a kingdom deep beneath the sea, and it is my home."
-msgstr ""
+msgstr "Formuria è un regno nelle profondità marine, ed è la mia casa."
 
 #. Key:	DF7ACA4545FC48FBC7FBD9816CFDE6DA
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm_RL_T.Default__LeylannaDefault01_HowToSpiritForm_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
@@ -5695,7 +5695,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/SexScenes/MirruSnatchF.Default__MirruSnatchF_C.SessionData.Lines(1).Lines
 msgctxt ",E1E5995441F81E5B6E79E8A5481789F0"
 msgid "Ahh... ohhhh... yes! Please both of my tentacle heads..."
-msgstr ""
+msgstr "Ahh... ohhhh... sì! Dai piacere ai miei tentacoli..."
 
 #. Key:	E20511A746C7BFEF4C46D5A2F2586CD0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.HelpText
@@ -5758,7 +5758,7 @@ msgstr "*Suck* *Suck*"
 #: /Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(1).Lines
 msgctxt ",E45685834D7AE2795D9FA29F5CCF8B18"
 msgid "Ahh... ohhhh... yes!"
-msgstr ""
+msgstr "Ahh... ohhhh... sì!"
 
 #. Key:	E460226A4FF1B186BCA5DE85158B49AF
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -5877,7 +5877,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(2).Lines
 msgctxt ",EA5FEF4E48F8E04291135AA9D42A6CE4"
 msgid "It is I, Mirru, who will be next in line to become queen, for all of my siblings are of low birth."
-msgstr ""
+msgstr "Sono io, Mirru, che prenderò il posto della regina, essendo tutti i miei fratelli più giovani."
 
 #. Key:	EB2D583D443FA7DB15278C95780CBC37
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -5891,7 +5891,7 @@ msgstr "Miao! Hehehe, non farmi iniziare!"
 #: /Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(2).Lines
 msgctxt ",EB717BA44A439427B1DE6CA60FA650A2"
 msgid "Do you like my thick deep vagina? Ahh... penetrate it with all your might..."
-msgstr ""
+msgstr "Ti piace la mia grossa profonda vagina? Ahh... penetrala con tutta la tua forza..."
 
 #. Key:	EB8281BE4BDC307B5C0B208F2E5CDCED
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(5).Lines
@@ -6038,7 +6038,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(4).Lines
 msgctxt ",F15CA5AC442824FB00747A8771A80403"
 msgid "Yes, ohh... give me all of your seed. Ahhhhh..."
-msgstr ""
+msgstr "Sì, ohh... dammi tutto il tuo seme. Ahhhhh..."
 
 #. Key:	F1D3A2E044E22D62A15FD2A3C291C751
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.HelpText
@@ -6171,14 +6171,14 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",F7A6401147093A75B20588870BFA39C7"
 msgid "Careful human, a Kraken's lust is not to be underestimated."
-msgstr ""
+msgstr "Attento umano, non è saggio sottovalutare la brama di un Kraken."
 
 #. Key:	F88AA516424D4DB3A67953803B2F3000
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(3).Lines
 msgctxt ",F88AA516424D4DB3A67953803B2F3000"
 msgid "*Sigh* I hold them dear, but pity them for not being born Kraken."
-msgstr ""
+msgstr "*Sigh* Voglio bene a loro, ma mi dispiace che non siano nati come Kraken."
 
 #. Key:	F8A579884E09A8EAFE39C78D6B221425
 #. SourceLocation:	/Game/Dialogue/AmberMae/SexScenes/AmberMilkyF.Default__AmberMilkyF_C.SessionData.Lines(2).Lines
@@ -6248,7 +6248,7 @@ msgstr "*Purr*"
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(9).Lines
 msgctxt ",FA4364AD420E7246DD976FA55489258C"
 msgid "At least, I can promise a Kraken's body will provide our mates with enormous pleasure."
-msgstr ""
+msgstr "Se non altro, posso promettere che il corpo di un Kraken può procurare al suo partner un piacere enorme."
 
 #. Key:	FAA5B41940157F8963E69CB4ACE814A4
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_MilkyProducts.Default__AmberMaeDefault01_MilkyProducts_C.SessionData.Lines(0).Lines
@@ -6276,21 +6276,21 @@ msgstr ""
 #: /Game/Dialogue/Mirru/SexScenes/MirruSnatchF.Default__MirruSnatchF_C.SessionData.Lines(5).Lines
 msgctxt ",FAD4B31949B0D1AC3DE5B3A79B8048C6"
 msgid "Ohhh yes... ahhh..."
-msgstr ""
+msgstr "Ohhh sì... ahhh..."
 
 #. Key:	FB2BB3B44297DAF2860982BAD6C1819A
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToMale(0).LinesToMale
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToMale(0).LinesToMale
 msgctxt ",FB2BB3B44297DAF2860982BAD6C1819A"
 msgid "Careful human, a Kraken's lust is not to be underestimated."
-msgstr ""
+msgstr "Attento umano, non è saggio sottovalutare la lussuria di un Kraken."
 
 #. Key:	FB857A0E425DC310680C179A127076D3
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchF.Default__MirruSnatchF_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Mirru/SexScenes/MirruSnatchF.Default__MirruSnatchF_C.SessionData.Lines(3).Lines
 msgctxt ",FB857A0E425DC310680C179A127076D3"
 msgid "Ahh... it feels so good! I am going to cum."
-msgstr ""
+msgstr "Ahh... è così bello! Sto per venire."
 
 #. Key:	FB8D2D144CB9249F47237B94F66E71F1
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(6).Lines
@@ -6353,7 +6353,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/SexScenes/MirruSnatchF.Default__MirruSnatchF_C.SessionData.Lines(2).Lines
 msgctxt ",FD467EAE4829745CF23D4BA9D511E423"
 msgid "Do you like my thick soft tentacles? Feel them penetrate your deepest corners."
-msgstr ""
+msgstr "Ti piacciono i miei tentacoli? Sentili nei tuoi punti più profondi."
 
 #. Key:	FD469A5A4E24AF221A0C9E85AFEECED7
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_Pregnancy.Default__FaleneDefault01_Pregnancy_C.SessionData.Lines(2).Lines
@@ -6409,14 +6409,14 @@ msgstr ""
 #: /Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(0).Lines
 msgctxt ",FEE6416B44C40270EC8167ADD51EA060"
 msgid "Ohhh human yes... my soft fleshy groin awaits you."
-msgstr ""
+msgstr "Ohhh sì, umano... il mio carnoso inguine ti sta aspettando."
 
 #. Key:	FEEAD6AA4B91EE463E366FBDCB397167
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(8).Lines
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(8).Lines
 msgctxt ",FEEAD6AA4B91EE463E366FBDCB397167"
 msgid "Even a drylander such as yourself can probably guess what purpose my two front tentacles serve."
-msgstr ""
+msgstr "Anche un abitante delle terre emerse come te può capire facilmente a cosa servino i miei due tentacoli frontali."
 
 #. Key:	FF0D5A0E4AD29A5B9CCF59942CB94FFA
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RaiseTraitLvl.Default__EmissaryDefault01_RaiseTraitLvl_C.SessionData.Lines(0).Lines
