@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: french\n"
 "POT-Creation-Date: 2020-01-17 17:55\n"
 "PO-Revision-Date: 2020-01-17 17:55\n"
-"Language-Team: Nothany-Hishyasun\n"
+"Language-Team: Nothany-Hishyasun; EricHedgie\n"
 "Language: fr-FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -144,7 +144,7 @@ msgstr "Miaou! C'est tellement bon! Je vais jouir et me couvrir de mon propre sp
 #: /Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(0).Lines
 msgctxt ",04205AC945DE4E603D9147AFE4BB7547"
 msgid "Ohh yes! Ahhh... penetrate my ancient vagina..."
-msgstr "Ohh oui! Ahhh... pénètre ma vieille chatte..."
+msgstr "Ohh oui! Ahhh... pénètre ma chatte ancestrale..."
 
 #. Key:	04744CA84CBAE9AB13EA1989A23A0DDC
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01.Default__FaleneDefault01_C.SessionData.Lines(0).Lines
@@ -207,7 +207,7 @@ msgstr "Heh... parfois je ne peux pas m'arrêter."
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(1).LinesToMale
 msgctxt ",0685B494422BDD14CE725297CA6A02B0"
 msgid "See, there is nowhere in @WORLD_NAME@ that I haven't slithered."
-msgstr "Vois-tu, il n'y a aucun endroit dans @WORLD_NAME@ sur lequel je n'ai pas glissé."
+msgstr "Vois-tu, il n'y a aucun endroit dans @WORLD_NAME@ sur lequel je n'ai pas ondulé."
 
 #. Key:	06DCC78B4F1DECA217645DA58B3BB2A4
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(0).Lines
@@ -228,7 +228,7 @@ msgstr "Et bien, je suis sûre que tu prends ton pied!"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",070169104C3375DAB052E18982B50AE4"
 msgid "This world is home to the @MONSTER_RACE@, an enigmatic race of human-monster hybrids."
-msgstr "Ici c'est le monde des @WORLD_RACE@, une race énigmatique d'hybrides homme-monstre."
+msgstr "Ici c'est le monde des @WORLD_RACE@, une race énigmatique d'hybrides anthropomorphes."
 
 #. Key:	07F233504BDA1232640FB1846CBFE868
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01.Default__FernDefault01_C.SessionData.Lines(0).Lines
@@ -256,7 +256,7 @@ msgstr "Tu peux avoir mon sperme!"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",0968DD0D4744523D6AFCEABE502C530F"
 msgid "I'm so horny I can't stand it anymore! Spread 'em human because here I come!"
-msgstr "Je suis si chaude, je n'en peux plus! Ecarte les cuisses humaine car j'arrive!"
+msgstr "Je suis si excitée, je n'en peux plus! Ecarte les cuisses humaine car j'arrive!"
 
 #. Key:	0A1E776A4877D11A8A4716A6FEE789C1
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(7).LinesToMale
@@ -270,7 +270,7 @@ msgstr "Les origines des @WORLD_RACE@ sont anciennes et inconnues, mais nous dé
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(0).Lines
 msgctxt ",0AA608164C47369E28D0C6BFDB27289A"
 msgid "The most noble, mighty, and feared race beneath the waves we are!"
-msgstr "La plus noble, puissante et crainte des races sous les vagues nous sommes! "
+msgstr "La plus noble, puissante et crainte des races sous les flots nous sommes!"
 
 #. Key:	0BB0A695454FD69DAA129F82F023EB23
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -305,7 +305,7 @@ msgstr "Gère tes Thriaes"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(4).Lines
 msgctxt ",0CA6EE7548B8D90D10FC67A138E7F076"
 msgid "The ones the Goddess personally mated with are said to have experienced so much pleasure, they died in Her loving embrace."
-msgstr "On dit que ceux qui se sont personnellement accouplés avec la Déesse ont ressenti tellement de plaisir qu'ils sont morts dans son étreinte amoureuse."
+msgstr "On dit que ceux qui se sont personnellement accouplés avec la Déesse ont éprouvé tellement de plaisir qu'ils sont morts dans son étreinte amoureuse."
 
 #. Key:	0CD45BB44BFDB28371B663B5B53FD368
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(5).Lines
@@ -333,7 +333,7 @@ msgstr "Où puis-je trouver les @MONSTER_RACE@?"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01.Default__NeelaDefault01_C.SessionData.Lines(1).Lines
 msgctxt ",0D1AA721421DF16BA8A3CB90943223E5"
 msgid "You sure do wander, no doubt anxious to get to your next sexual experience."
-msgstr "Tu te promènes beaucoup, sans aucun doute à l'affût de ta prochaine expérience sexuelle."
+msgstr "Tu te promènes beaucoup, sans aucun doute à l'affût de ta prochaine aventure sexuelle."
 
 #. Key:	0D3C4D8D4F6C01DE00A1B88BD745C860
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.Lines(2).Lines
@@ -459,7 +459,7 @@ msgstr "Je veux te sucer..."
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(3).Lines
 msgctxt ",115E28B04787E362B52C17AF826B86A5"
 msgid "You must understand human, our large fleshy bodies pulse with lust and are difficult to satisfy."
-msgstr "Tu dois comprendre humain, nos grands corps charnus pulsent de désir et sont difficiles à satisfaire."
+msgstr "Tu dois comprendre humain, nos grands corps charnus vibrent de désir et sont difficiles à satisfaire."
 
 #. Key:	1187860A495AEE8B52286F8DA6A1DF53
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_F.Default__FernDefault01_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
@@ -473,7 +473,7 @@ msgstr "Quelle charmante fern qui parle..."
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(6).Lines
 msgctxt ",119BE39146D97EAD68AF26B063950DFD"
 msgid "Forgive my daydreaming human, Emissary is your archangel. She will help you."
-msgstr "Humain, pardonne-moi ma rêverie. L'Emissaire est ton archange, elle t'aidera."
+msgstr "Humain, pardonne mon inattention. L'Emissaire est ton archange, elle t'aidera."
 
 #. Key:	11A588964451AB702EC48CA542D16E81
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(6).LinesToMale
@@ -501,7 +501,7 @@ msgstr "Pourquoi m'as tu appelé maître?"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(14).Lines
 msgctxt ",1240C441425085EA27ECBDBABB3C00AF"
 msgid "We really are just pleasure seekers at heart!"
-msgstr "Nous sommes tout le temps à la recherche du plaisir au fond!"
+msgstr "Nos cœurs sont constamment à la recherchent de plaisir!"
 
 #. Key:	129E92F14686D57C52A26598C5257AF6
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(12).LinesToFemale
@@ -571,7 +571,7 @@ msgstr "Vous êtes... celui qui a donné du plaisir à maman Fern."
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(10).Lines
 msgctxt ",1495FB154E5C773C51452295CAF9F467"
 msgid "We are so happy when humans love us and fill our desires, and we will reward you."
-msgstr "Nous sommes si heureux quand les humains nous aiment et remplissent nos désirs donc nous allons te récompenser."
+msgstr "Nous sommes si heureux quand les humains nous aiment et comblent nos désirs, nous te récompenserons pour cela."
 
 #. Key:	14F5C7E34772BFD4F5E7039EF72ACF9E
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaGreeting01.Default__NeelaGreeting01_C.SessionData.Lines(1).Lines
@@ -592,7 +592,7 @@ msgstr "Je m'en vais capturer cette variante."
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(3).Lines
 msgctxt ",1673BDD74EF0FBC4372DF3AD600FC03A"
 msgid "Those floating busty winged statues with all the sparkles... I will admit I get all tingly inside around them too!"
-msgstr "Ces statues ailées aux gros seins qui flottent et sont éclatantes... j'admets être émoustillée quand je suis près d'elles aussi! "
+msgstr "Ces statues ailées aux gros seins qui flottent avec tout ces scintillements... j'admets être émoustillée quand je suis près d'elles aussi! "
 
 #. Key:	16E336BD48B5FD77EAAE96BC1BAAF7D4
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(2).LinesToMale
@@ -634,7 +634,7 @@ msgstr "Précieux: Valeur augmentée de 35%."
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",193F948E4333F3741026EABB87402DD3"
 msgid "A chance to mate with a human is making my hearts pound, and my tentacles slick..."
-msgstr "La possibilité de s'accoupler avec un humain fait battre mon coeur et mes tentacules deviennent luisantes..."
+msgstr "La possibilité de s'accoupler avec un humain fait battre mes coeurs et mes tentacules deviennent luisantes..."
 
 #. Key:	19A2E9D044587CE3E0AC5B8D366B6974
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01.Default__AmberMaeDefault01_C.SessionData.Lines(0).Lines
@@ -1187,7 +1187,7 @@ msgstr "Fern!"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",3169578649A185428A32E78395F9C48E"
 msgid "This world is home to the @MONSTER_RACE@, an enigmatic race of human-monster hybrids."
-msgstr "Ici c'est le monde des @MONSTER_RACE@, une race énigmatique d'hybrides humain-monstre."
+msgstr "Ici c'est le monde des @MONSTER_RACE@, une race énigmatique d'hybrides anthropomorphes."
 
 #. Key:	31774B0844F7A12FF85DC5AE10CA3013
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(3).Lines
@@ -3469,7 +3469,7 @@ msgstr "Je le savais, tu veux ressentir ma musique."
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",89AD310E47680E241C7AEEB5C24A9E59"
 msgid "A chance to mate with a human is making my hearts pound, and my tentacles slick..."
-msgstr "La possibilité de s'accoupler avec un humain fait battre mon coeur et mes tentacules deviennent luisantes..."
+msgstr "La possibilité de s'accoupler avec un humain fait battre mes coeurs et mes tentacules deviennent luisantes..."
 
 #. Key:	89C2CF4D4CB264FC19F1259B533341FD
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm.Default__LeylannaDefault01_HowToSpiritForm_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -3574,7 +3574,7 @@ msgstr "Jus d'Hybrides."
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToMale(2).LinesToMale
 msgctxt ",8CD67FB74B2E43F406AB5B932B717B19"
 msgid "A chance to mate with a human is making my hearts pound, and my tentacles slick..."
-msgstr "La possibilité de s'accoupler avec un humain fait battre mon coeur et mes tentacules deviennent luisantes..."
+msgstr "La possibilité de s'accoupler avec un humain fait battre mes coeurs et mes tentacules deviennent luisantes..."
 
 #. Key:	8D055D5140B28DADFD055EA100CF2F32
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Vulwarg/Harvest/VulwargHarvest.Default__VulwargHarvest_C.Harvest.Description
@@ -4253,7 +4253,7 @@ msgstr "*Lèche*"
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",A6F150C044603E1020AC1BB1DA82BAF4"
 msgid "See, there is nowhere in @WORLD_NAME@ that I haven't slithered."
-msgstr "Vois-tu, il n'y a aucun endroit dans @WORLD_NAME@ sur lequel je n'ai pas glissé."
+msgstr "Vois-tu, il n'y a aucun endroit dans @WORLD_NAME@ sur lequel je n'ai pas ondulé."
 
 #. Key:	A709A6A94647E3F1218D6BB7BF74686D
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault_R03_RL.Default__BlossomDefault_R03_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -5352,7 +5352,7 @@ msgstr "Mon corps a besoin de votre délicieux lait."
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",D7CBF3A849F90F40A1E899A00B974FBA"
 msgid "See, there is nowhere in @WORLD_NAME@ that I haven't slithered."
-msgstr "Vois-tu, il n'y a aucun endroit dans @WORLD_NAME@ sur lequel je n'ai pas glissé."
+msgstr "Vois-tu, il n'y a aucun endroit dans @WORLD_NAME@ sur lequel je n'ai pas ondulé."
 
 #. Key:	D7F8B9C2431BFB6ED28ECAAF83BAE062
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFemale(1).LinesToFemale
