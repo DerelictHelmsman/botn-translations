@@ -32,14 +32,14 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_RL.Default__MirruDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",01386D9C478E6BE9974F00942E5EA1E0"
 msgid "Formuria?"
-msgstr ""
+msgstr "Formúria?"
 
 #. Key:	014BFFCA4F173DACEC2A00A8398888F4
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(3).Lines
 msgctxt ",014BFFCA4F173DACEC2A00A8398888F4"
 msgid "Aye, yer not leaving 'til you suck every last drop!"
-msgstr ""
+msgstr "Hej! Nepôjdeš preč, dokiaľ to nevylížeš do poslednej kvapky!"
 
 #. Key:	017CCB4443E3658AEA961E9EDC5B53BF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -53,14 +53,14 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(1).Lines
 msgctxt ",0180484249AE71470005A78484607A18"
 msgid "Ah I suppose you are like most @MONSTER_RACE@ then."
-msgstr ""
+msgstr "Ach... Potom si ako rovnaký ako @MONSTER_RACE@."
 
 #. Key:	01DB8D8A43F7EC40F07FB3A355D39722
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
 msgctxt ",01DB8D8A43F7EC40F07FB3A355D39722"
 msgid "Cove of Rapture"
-msgstr ""
+msgstr "Zátoka Rapture"
 
 #. Key:	01DE9F6A42AB1019681AE1B74E68632C
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaGreeting01.Default__NeelaGreeting01_C.SessionData.Lines(0).Lines
@@ -95,28 +95,28 @@ msgstr ""
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm_RL_T.Default__LeylannaDefault01_RechargeSpiritForm_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",02FDE6D44BCEE7E9CD0113AACDF9C4E2"
 msgid "This is getting weird..."
-msgstr ""
+msgstr "Začína to byť čudné..."
 
 #. Key:	034A5C0F4CB9984BC7F902A4AE65BB8A
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R05.Default__CamillaDefault01_R05_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R05.Default__CamillaDefault01_R05_C.SessionData.Lines(0).Lines
 msgctxt ",034A5C0F4CB9984BC7F902A4AE65BB8A"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. Key:	035C033E4F7C9048462B63880FD96732
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Titan/Harvest/TitanHarvest.Default__TitanHarvest_C.Harvest.Description
 #: /Game/Characters/Procedural/Variants/Titan/Harvest/TitanHarvest.Default__TitanHarvest_C.Harvest.Description
 msgctxt ",035C033E4F7C9048462B63880FD96732"
 msgid "Titan body fluids."
-msgstr ""
+msgstr "Telesné tekutiny rasy Titan"
 
 #. Key:	035F52234F8DA96ED37A5AAC5DD88039
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(4).LinesToMale
 #: /Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(4).LinesToMale
 msgctxt ",035F52234F8DA96ED37A5AAC5DD88039"
 msgid "Ahh, plant your delicious seed in my little body! Give me... ohhh... all of it!"
-msgstr ""
+msgstr "Aaah, vypusť do mňa svoje chutnučké spermie. Moje maličké telo ich chce! Daj mi... ohhh... všetko čo máš!"
 
 #. Key:	03BD054E4D9907C2DF497EA4DCC0D8C3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(6).LinesToFemale
@@ -130,21 +130,21 @@ msgstr ""
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",03C3FCAE4B8424BCF5F580BC933E08E8"
 msgid "Why did you call me master?"
-msgstr ""
+msgstr "Prečo ma voláš 'pane'?"
 
 #. Key:	03FDE484412EB5432BA89A9FF52176AD
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(3).Lines
 msgctxt ",03FDE484412EB5432BA89A9FF52176AD"
 msgid "Meow! It feels so good! I'm going to get kitty cum all over myself!"
-msgstr ""
+msgstr "Mňau! Je to dobrý pocit! Mačacie šťavy budú po mne celé polepené!"
 
 #. Key:	04205AC945DE4E603D9147AFE4BB7547
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(0).Lines
 msgctxt ",04205AC945DE4E603D9147AFE4BB7547"
 msgid "Ohh yes! Ahhh... penetrate my ancient vagina..."
-msgstr ""
+msgstr "Ohh áno! Ahhh... penetruj moju starovekú vagínu..."
 
 #. Key:	04744CA84CBAE9AB13EA1989A23A0DDC
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01.Default__FaleneDefault01_C.SessionData.Lines(0).Lines
@@ -158,7 +158,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/Default/FernGreeting01.Default__FernGreeting01_C.SessionData.Lines(4).Lines
 msgctxt ",04809803498EAC7920E3F09D8A29F0BF"
 msgid "Timeeee for the fluidsssss?"
-msgstr ""
+msgstr "Časssss na tekutinnnnny?"
 
 #. Key:	0500B4944007820F3A7BB096A4E699AB
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(6).Lines
@@ -200,7 +200,7 @@ msgstr ""
 #: /Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(6).Lines
 msgctxt ",063FE1B64CA363E1B1CB09BFE7E6043C"
 msgid "Heh... sometimes I just can't stop."
-msgstr ""
+msgstr "Heh... niekedy proste neviem prestať."
 
 #. Key:	0685B494422BDD14CE725297CA6A02B0
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(1).LinesToMale
@@ -214,7 +214,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(0).Lines
 msgctxt ",06DCC78B4F1DECA217645DA58B3BB2A4"
 msgid "Fern help mastah! Fern harvest fluidssss for you!"
-msgstr ""
+msgstr "Fern pommmôcť môjmu páánovi! Fern pre neho possbierať tekutinnny!"
 
 #. Key:	06F45D04453307E37897C89FC16861F0
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(8).Lines
@@ -319,14 +319,14 @@ msgstr ""
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy_RL_F.Default__MirruDefault01_BodySexToy_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",0CE3BF194F0AEDEFF8FD32BC70EC9A18"
 msgid "You have multiple hearts?!"
-msgstr ""
+msgstr "Máš viacero sŕdc?"
 
 #. Key:	0CF85A94478ED7F4CC8BA58C2B66D95C
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",0CF85A94478ED7F4CC8BA58C2B66D95C"
 msgid "Where can I find @MONSTER_RACE@?"
-msgstr ""
+msgstr "Kde môžem nájsť rasu @MONSTER_RACE@?"
 
 #. Key:	0D1AA721421DF16BA8A3CB90943223E5
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01.Default__NeelaDefault01_C.SessionData.Lines(1).Lines
@@ -375,7 +375,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.DisplayName
 msgctxt ",0E2A96C54ACC4571431587B73459221E"
 msgid "Nymphomaniac"
-msgstr ""
+msgstr "Nymfomaniak"
 
 #. Key:	0E6E1156457FB3513C060D979FF6B9AE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.HelpText
@@ -389,7 +389,7 @@ msgstr ""
 #: /Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_RL.Default__EmissaryRaiseTraitLvl_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",0EA2FCF24AF05A8FBEF98C9F2C767D3A"
 msgid "Decline"
-msgstr ""
+msgstr "Nesúhlas"
 
 #. Key:	0F0B2E364C42C3D6BACC018A46DB5BE4
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(5).LinesToFuta
@@ -480,7 +480,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_F.Default__FernDefault01_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",1187860A495AEE8B52286F8DA6A1DF53"
 msgid "What a lovely talking fern..."
-msgstr ""
+msgstr "Aká roztomilá rozprávajúca kvetinka..."
 
 #. Key:	119BE39146D97EAD68AF26B063950DFD
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(6).Lines
@@ -704,7 +704,7 @@ msgstr ""
 #: /Game/Dialogue/Cassie/SexScenes/CassieButterButtF.Default__CassieButterButtF_C.SessionData.Lines(2).Lines
 msgctxt ",1A7572BD4073E9E25BE3D1889A08E000"
 msgid "Experience my amazing butter stick human! Ahhhh..."
-msgstr ""
+msgstr "Vyskúšaj si môj užasný kolík, človek! Ahhhh..."
 
 #. Key:	1A7B16814705FD34BE5FF69AB7855D7B
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -1005,7 +1005,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.DisplayName
 msgctxt ",2632B36446A9D5F9E018209CB73837B8"
 msgid "Massive Size"
-msgstr ""
+msgstr "Masívna veľkosť"
 
 #. Key:	26BF34E64E91FAF8BA6ACF94AB76AB90
 #. SourceLocation:	/Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToMale(2).LinesToMale
