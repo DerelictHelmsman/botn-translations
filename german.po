@@ -1,4 +1,4 @@
-﻿# german German (Germany) translation.
+# german German (Germany) translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
