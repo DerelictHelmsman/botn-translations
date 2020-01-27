@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: chinese\n"
-"POT-Creation-Date: 2020-01-12 20:34\n"
-"PO-Revision-Date: 2020-01-12 20:34\n"
+"POT-Creation-Date: 2020-01-26 18:54\n"
+"PO-Revision-Date: 2020-01-26 18:54\n"
 "Language-Team: \n"
 "Language: zh-Hans\n"
 "MIME-Version: 1.0\n"
@@ -335,6 +335,13 @@ msgctxt ",0D1AA721421DF16BA8A3CB90943223E5"
 msgid "You sure do wander, no doubt anxious to get to your next sexual experience."
 msgstr "你在此徘徊，无疑是饥渴难耐。"
 
+#. Key:	0D1B932340DB033C3F3173ABCEAE7E01
+#. SourceLocation:	/Game/Breeding/Positions/Butterfly.Default__Butterfly_C.SessionData.PositionName
+#: /Game/Breeding/Positions/Butterfly.Default__Butterfly_C.SessionData.PositionName
+msgctxt ",0D1B932340DB033C3F3173ABCEAE7E01"
+msgid "Butterfly"
+msgstr ""
+
 #. Key:	0D3C4D8D4F6C01DE00A1B88BD745C860
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.Lines(2).Lines
@@ -355,6 +362,13 @@ msgstr ""
 msgctxt ",0DB9C395441D2A229D61EE963260C09C"
 msgid "Manage your Titans"
 msgstr "管理你的泰坦"
+
+#. Key:	0DFBAC884A0E11B073E5269E92E6DC30
+#. SourceLocation:	/Game/Breeding/Positions/Doggy.Default__Doggy_C.SessionData.PositionName
+#: /Game/Breeding/Positions/Doggy.Default__Doggy_C.SessionData.PositionName
+msgctxt ",0DFBAC884A0E11B073E5269E92E6DC30"
+msgid "Doggy"
+msgstr ""
 
 #. Key:	0E2A96C54ACC4571431587B73459221E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.DisplayName
@@ -566,6 +580,13 @@ msgctxt ",146C8ABB4CFE56E192BE198657474339"
 msgid "You are... the one that pleasured Fern mother."
 msgstr ""
 
+#. Key:	1494AA5040692D75A2E458AE890541FA
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(3).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(3).Lines
+msgctxt ",1494AA5040692D75A2E458AE890541FA"
+msgid "Allow me to show you what She shared, if I may."
+msgstr ""
+
 #. Key:	1495FB154E5C773C51452295CAF9F467
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(10).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(10).Lines
@@ -580,6 +601,13 @@ msgctxt ",14F5C7E34772BFD4F5E7039EF72ACF9E"
 msgid "Through all of my long years and endless travels, I never thought to cross paths with a human."
 msgstr "穿过漫漫岁月长河和无尽的游行，我从未想过我的命途里还会出现一个人类。"
 
+#. Key:	16049E004B001A3FEF8E25BEBE498398
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_RL.Default__ParvatiDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_RL.Default__ParvatiDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
+msgctxt ",16049E004B001A3FEF8E25BEBE498398"
+msgid "So, you just meditate and rhyme all day?"
+msgstr ""
+
 #. Key:	16099E454C927A69887E23955E893635
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm_RL_T.Default__LeylannaDefault01_HowToSpiritForm_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm_RL_T.Default__LeylannaDefault01_HowToSpiritForm_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
@@ -593,6 +621,13 @@ msgstr "那我现在就要出发去捕捉魔弗灵啦。"
 msgctxt ",1673BDD74EF0FBC4372DF3AD600FC03A"
 msgid "Those floating busty winged statues with all the sparkles... I will admit I get all tingly inside around them too!"
 msgstr "那些有着丰满胸部，闪闪发光，漂浮着的有翼雕像\t……我承认当我在雕像们身边也会强烈感觉到那种从心底被蛊惑而涌出的兽欲。"
+
+#. Key:	169058BF4DE41C3E4D03D0ABE7BC7F77
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(8).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(8).Lines
+msgctxt ",169058BF4DE41C3E4D03D0ABE7BC7F77"
+msgid "We can make love, for it is lonely at times."
+msgstr ""
 
 #. Key:	16E336BD48B5FD77EAAE96BC1BAAF7D4
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(2).LinesToMale
@@ -671,6 +706,13 @@ msgctxt ",1A7572BD4073E9E25BE3D1889A08E000"
 msgid "Experience my amazing butter stick human! Ahhhh..."
 msgstr "感受我的黄油棒吧人类！啊..."
 
+#. Key:	1A7B16814705FD34BE5FF69AB7855D7B
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFuta(3).LinesToFuta
+#: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFuta(3).LinesToFuta
+msgctxt ",1A7B16814705FD34BE5FF69AB7855D7B"
+msgid "You seek to learn a new way to use a pleasure hole."
+msgstr ""
+
 #. Key:	1AF544224BFAECD89C2CE99B8EE6EB2D
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(4).Lines
@@ -684,6 +726,13 @@ msgstr "将要继位的女王有着登上旱地朝圣的传统习俗，而且…
 msgctxt ",1B5A3D3E4B34533CC5E7E599C01B1A38"
 msgid "If you want to learn about how to catch @MONSTER_RACE@, head to the town located up the plateau ahead and speak to my assistant Camilla. You can't miss her... actually wait you might, she's so tiny and cute hehehe."
 msgstr "如果你想学习如何抓住魔弗灵，从前面那条小路往上走到高处的小镇，去问问我的助手Camilla。你可千万不能错过她……事实上她有可能也在等你，她是那么娇小可爱…嘿嘿嘿……"
+
+#. Key:	1BD44FF4429194137A0C4CAF227F2CA1
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(1).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(1).Lines
+msgctxt ",1BD44FF4429194137A0C4CAF227F2CA1"
+msgid "Contemplate for moment while I apply some lube."
+msgstr ""
 
 #. Key:	1BE1CDD644277334F98620A99521B9DC
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm_RL_F.Default__LeylannaDefault01_HowToSpiritForm_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
@@ -740,6 +789,13 @@ msgstr ""
 msgctxt ",1DA742CA40AC6A3A7EC5B6834EEA93B8"
 msgid "Mermaids are unique Formurians, we hear frequencies most others cannot."
 msgstr "美人鱼则是独特的深海族人，我们可以听到大部分魔弗灵听不到的频率"
+
+#. Key:	1E0C491A43E8C2F67FA568B20B5A6743
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(5).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(5).Lines
+msgctxt ",1E0C491A43E8C2F67FA568B20B5A6743"
+msgid "Pay close attention to my form, and learn you should."
+msgstr ""
 
 #. Key:	1E23F2524EB7DC68DC07EC92E709C65F
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -838,6 +894,13 @@ msgstr "欲壑难填：交配时性欲消耗降低35%"
 msgctxt ",21A08FF347BC7DE708B258BAD0F4BEF3"
 msgid "You will only catch wild @MONSTER_RACE@, which have roughly the intelligence of animals."
 msgstr "你只能抓野生的魔弗灵，而他们的智力几乎同等一般动物。"
+
+#. Key:	21D4E1714A491D7CAA40E99AA6D354E8
+#. SourceLocation:	/Game/Breeding/Positions/ReverseCowgirl.Default__ReverseCowgirl_C.SessionData.PositionName
+#: /Game/Breeding/Positions/ReverseCowgirl.Default__ReverseCowgirl_C.SessionData.PositionName
+msgctxt ",21D4E1714A491D7CAA40E99AA6D354E8"
+msgid "Reverse Cowgirl"
+msgstr ""
 
 #. Key:	2232F66F4BB565CC2A75538123292067
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(19).LinesToMale
@@ -1046,8 +1109,8 @@ msgstr "母亲的统治已持续了788年，人类，按照法律，在第800年
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_SellMonsters.Default__EmissaryDefault01_SellMonsters_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_SellMonsters.Default__EmissaryDefault01_SellMonsters_C.SessionData.Lines(0).Lines
 msgctxt ",2BA86FB140866995E4F323B86DA72C9A"
-msgid "The Goddess is pleased."
-msgstr "至高女神甚是欣慰。"
+msgid "The Goddess is pleased and will grant you Her favor."
+msgstr ""
 
 #. Key:	2BCA631C4BEC509E1B1DAC824001A31A
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_RL.Default__RomyDefault01_YourMusic_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -1139,6 +1202,13 @@ msgstr "哇！这怎么可能!"
 msgctxt ",2E926B8847D675F1C4CAAFAC2732930B"
 msgid "Fern need human milk to grow into big Alraune! Hissss, Fern suck nipples now!"
 msgstr "小蕨需要人类的乳汁让自己长成茁壮的曼陀罗！！嘶嘶嘶~小蕨现在就好好吸舔您的乳头嘶！"
+
+#. Key:	2EF454D94FCEA805F55F20A94627C808
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFuta(6).LinesToFuta
+#: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFuta(6).LinesToFuta
+msgctxt ",2EF454D94FCEA805F55F20A94627C808"
+msgid "Give your body to me, and in ecstasy we will work around the clock."
+msgstr ""
 
 #. Key:	2F5513164D00080A441C1292E501C786
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(4).Lines
@@ -1385,6 +1455,13 @@ msgctxt ",396BA75142AC2655B980A8AEF0F46AA5"
 msgid "*Suck* *Suck*"
 msgstr "*吮吸* *吮吸*"
 
+#. Key:	396D6F1D4A5CDF3A44406A84BB8CE6D9
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(0).LinesToFemale
+#: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(0).LinesToFemale
+msgctxt ",396D6F1D4A5CDF3A44406A84BB8CE6D9"
+msgid "A human filled with lust comes before me, this I know."
+msgstr ""
+
 #. Key:	39BB76F04901D85036C696B74CA537B3
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_Accent.Default__AmberMaeDefault01_Accent_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/AmberMae/Default/AmberMaeDefault01_Accent.Default__AmberMaeDefault01_Accent_C.SessionData.Lines(2).Lines
@@ -1446,6 +1523,13 @@ msgstr "星陨人体液"
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(4).Lines
 msgctxt ",3B447AD04300826ECFC550A03A3AA0BC"
 msgid "My lower body is filled with nectar just waiting to surround your body as you cum again... and again."
+msgstr ""
+
+#. Key:	3B686C7E477142920CF64F8119EC7E6F
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(6).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(6).Lines
+msgctxt ",3B686C7E477142920CF64F8119EC7E6F"
+msgid "Give into your desires, it will not render you weak."
 msgstr ""
 
 #. Key:	3B6C0A634B200C954436A296F4A9EFEE
@@ -1861,6 +1945,13 @@ msgctxt ",4AD3767B435A26CAE69202B605CB1776"
 msgid "What can you do?"
 msgstr ""
 
+#. Key:	4ADC18CD4A8D1152D3ABF788E0A8ECCF
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(7).LinesToFemale
+#: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(7).LinesToFemale
+msgctxt ",4ADC18CD4A8D1152D3ABF788E0A8ECCF"
+msgid "Just as water can take on any form."
+msgstr ""
+
 #. Key:	4AF6D7774E005B4FEFEFBD91CE5F5322
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(4).ResponseData.BreederPrompt
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(4).ResponseData.BreederPrompt
@@ -2110,8 +2201,8 @@ msgstr "*吮吸 吮吸*"
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",5408EE8A4C4CAFF4A2B2F9B2F1F0B779"
-msgid "I have wild @MONSTER_RACE@ to trade."
-msgstr "我有野生魔弗灵同你交易。"
+msgid "I have wild @MONSTER_RACE@ to ascend."
+msgstr ""
 
 #. Key:	544F5F944F9E5D60454A39A741792497
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(10).Lines
@@ -2253,6 +2344,13 @@ msgctxt ",5A45FE0E4DF250F62CA7DBA9E82E9782"
 msgid "*Slurp* *Lick*"
 msgstr "*啧吮 舔舐*"
 
+#. Key:	5AA0883E43DAD4AAE0EF269EA3233B0A
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_RL.Default__ParvatiDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_RL.Default__ParvatiDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
+msgctxt ",5AA0883E43DAD4AAE0EF269EA3233B0A"
+msgid "Teach me a new sex position!"
+msgstr ""
+
 #. Key:	5ACEB47B4DC474437836D1BE5DF53CC7
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_RL_F.Default__BlossomDefault01_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_RL_F.Default__BlossomDefault01_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
@@ -2302,6 +2400,13 @@ msgctxt ",5C9673D0476DF1FF65CB63B5F142C7FE"
 msgid "@MONSTER_RACE@ origins are ancient and unknown, but we desire one thing above all else..."
 msgstr "魔弗灵的起源不仅古老且未知，但是我们比其他生灵都更渴望一件事…..."
 
+#. Key:	5E27E8A74A30D389BBB939B5142249BB
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFuta(7).LinesToFuta
+#: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFuta(7).LinesToFuta
+msgctxt ",5E27E8A74A30D389BBB939B5142249BB"
+msgid "I greatly desire to experience your fat cock."
+msgstr ""
+
 #. Key:	5E335B804845931D253C9186CD06C403
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(8).LinesToFemale
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(8).LinesToFemale
@@ -2329,6 +2434,13 @@ msgstr "不像人类女性，女性魔弗灵的乳房总是在产乳……很多
 msgctxt ",5F71A084478332FD553228BF6DB08550"
 msgid "Huge Size"
 msgstr "庞大体型"
+
+#. Key:	5F895A6648E5FFD934EC86AD63AB82BC
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01.Default__ParvatiDefault01_C.SessionData.Lines(2).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01.Default__ParvatiDefault01_C.SessionData.Lines(2).Lines
+msgctxt ",5F895A6648E5FFD934EC86AD63AB82BC"
+msgid "We can learn the origins of the universe."
+msgstr ""
 
 #. Key:	5F9984824BEBBCD016F7B7BF5D1C25E3
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -2407,6 +2519,13 @@ msgctxt ",62FF5D604699246B05ECEDA19F98F1BA"
 msgid "You have no idea how much restraint I am putting forth at this moment..."
 msgstr "你不知道，有多少束缚，在这一刻被我统统抛之脑后了……"
 
+#. Key:	6340E0A045F87C6E35C3348C97609B67
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01.Default__ParvatiDefault01_C.SessionData.Lines(1).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01.Default__ParvatiDefault01_C.SessionData.Lines(1).Lines
+msgctxt ",6340E0A045F87C6E35C3348C97609B67"
+msgid "I want to make love with you, I will not lie."
+msgstr ""
+
 #. Key:	63A5E9734DC0420DD97A739128DEEF85
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(3).LinesToFuta
 #: /Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -2421,6 +2540,13 @@ msgctxt ",63B6296840BB64E725E7219F715EEAB1"
 msgid "Something mythical... something forbidden... something... human!"
 msgstr "一些神圣的……一些禁忌的……一些人类的东西！"
 
+#. Key:	63F3737B48B4C916545D1D8159EB762C
+#. SourceLocation:	/Game/Breeding/Positions/Cowgirl.Default__Cowgirl_C.SessionData.PositionName
+#: /Game/Breeding/Positions/Cowgirl.Default__Cowgirl_C.SessionData.PositionName
+msgctxt ",63F3737B48B4C916545D1D8159EB762C"
+msgid "Cowgirl"
+msgstr ""
+
 #. Key:	644065F84B0F2E772BE21695810A2F0F
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Bovaur/Harvest/BovaurHarvest.Default__BovaurHarvest_C.Harvest.Description
 #: /Game/Characters/Procedural/Variants/Bovaur/Harvest/BovaurHarvest.Default__BovaurHarvest_C.Harvest.Description
@@ -2434,6 +2560,13 @@ msgstr "奶牛人体液"
 msgctxt ",646A76464079BB23F12A50A6B8512B75"
 msgid "We just love you too much, and sometimes our desires spiral out of control!"
 msgstr "我们只是太爱你们了，而且有时候我们的欲望太上头 以至于有些失控！"
+
+#. Key:	646F99EA498DD1E54CCB8AB5413F39DB
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(2).LinesToFemale
+#: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(2).LinesToFemale
+msgctxt ",646F99EA498DD1E54CCB8AB5413F39DB"
+msgid "Different ways of seducing your mates, but all with the same goal."
+msgstr ""
 
 #. Key:	6472B92C4C77BC77E4D51599F203425B
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(5).ResponseData.BreederPrompt
@@ -2490,6 +2623,13 @@ msgstr ""
 msgctxt ",65F2B1384977D80660A4E4A91389BC9D"
 msgid "Grungy"
 msgstr "脏乱不堪"
+
+#. Key:	664C0BE948989DEEE1185793CB1EEE77
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(5).LinesToFemale
+#: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(5).LinesToFemale
+msgctxt ",664C0BE948989DEEE1185793CB1EEE77"
+msgid "My teachings are not for those who desire to keep their virginity."
+msgstr ""
 
 #. Key:	6658580C407404A28C6BD1875A2920D2
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
@@ -2939,6 +3079,13 @@ msgctxt ",7531D7CC4B4C50FC4972DB878B5DEDCA"
 msgid "How do I obtain spirit form?"
 msgstr "我如何才能获得魂灵形态？"
 
+#. Key:	7553E8614616B738728FC0BCAFAFD4D2
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(1).LinesToFemale
+#: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(1).LinesToFemale
+msgctxt ",7553E8614616B738728FC0BCAFAFD4D2"
+msgid "For knowledge of contorting the body can I bestow."
+msgstr ""
+
 #. Key:	75848F9C47DF47B57018B9BD12602720
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_GettingWeird.Default__LeylannaDefault01_GettingWeird_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_GettingWeird.Default__LeylannaDefault01_GettingWeird_C.SessionData.Lines(0).Lines
@@ -3058,6 +3205,13 @@ msgctxt ",7A60BC8D497743BB08B8F9AF812EDCC7"
 msgid "My name is Mirru."
 msgstr "我名叫米露。"
 
+#. Key:	7A6479A946793FED41931F8AF7F6B4DE
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.LinesToFuta(1).LinesToFuta
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.LinesToFuta(1).LinesToFuta
+msgctxt ",7A6479A946793FED41931F8AF7F6B4DE"
+msgid "Relax while I slather your dick with lube."
+msgstr ""
+
 #. Key:	7AE87BF645B6A4B1D35071A966CCF13E
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -3085,6 +3239,13 @@ msgstr "多汁"
 msgctxt ",7C4054234127D8843978CD80C4B540B7"
 msgid "Yes... oh yes, it feels so good! Penetrate me deeper!"
 msgstr "你的……哦，好棒，感觉好舒服! 更深点!"
+
+#. Key:	7C5853BA4383F9B61021B3A6AD59FA09
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01.Default__ParvatiDefault01_C.SessionData.Lines(3).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01.Default__ParvatiDefault01_C.SessionData.Lines(3).Lines
+msgctxt ",7C5853BA4383F9B61021B3A6AD59FA09"
+msgid "Using our bodies in ways all too perverse."
+msgstr ""
 
 #. Key:	7CBF0BC045EF15D872E4EC89A2B54116
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm_RL_F.Default__LeylannaDefault01_HowToSpiritForm_RL_F_C.ResponseData(2).ResponseData.BreederPrompt
@@ -3170,6 +3331,13 @@ msgctxt ",7FEBDCF1488DFD58CEB8F28DF96358B3"
 msgid "Your ass is so beautiful, ohhhh... let me bury my face in it!"
 msgstr "你的小屁股真漂亮，恨不得把脸埋进去，把这些淫荡的汁液舔得一滴都不剩"
 
+#. Key:	803D82954112367C37478B894372AB5A
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(5).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(5).Lines
+msgctxt ",803D82954112367C37478B894372AB5A"
+msgid "Beautiful sex positions that break all norms."
+msgstr ""
+
 #. Key:	8044648D4BB5A708D0C1658B377C01A4
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.Lines(0).Lines
@@ -3197,6 +3365,13 @@ msgstr "等你抓住一只扶她狐灵再回来找我吧。"
 msgctxt ",81BA7F3C4947D886880CA687DA5D133F"
 msgid "Homestead"
 msgstr "家园"
+
+#. Key:	827D026847F470B33C9BA5B6E24201F5
+#. SourceLocation:	/Game/Breeding/Positions/Lifted.Default__Lifted_C.SessionData.PositionName
+#: /Game/Breeding/Positions/Lifted.Default__Lifted_C.SessionData.PositionName
+msgctxt ",827D026847F470B33C9BA5B6E24201F5"
+msgid "Lifted"
+msgstr ""
 
 #. Key:	8323A0B240DA89AE9385A6970E54FC26
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_R01.Default__EmissaryBlessedInquiry01_R01_C.SessionData.Lines(3).Lines
@@ -3274,6 +3449,13 @@ msgstr "请你不要因为她的冷漠而忽视她，她从出生就被至高女
 msgctxt ",84C4480D4F8374778DDEEAA7A0195EC1"
 msgid "Unfortunately, it can only be used for travel."
 msgstr "但是很遗憾，现在它只用于传送。"
+
+#. Key:	84E329854997BD3064CA67922BD88726
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(4).LinesToFemale
+#: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(4).LinesToFemale
+msgctxt ",84E329854997BD3064CA67922BD88726"
+msgid "One with the Goddess, one with infinity."
+msgstr ""
 
 #. Key:	84ECDF64481524BC47B862968D5475BE
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToMale(7).LinesToMale
@@ -3359,6 +3541,20 @@ msgctxt ",86818D694AB04782DD1A299E28AC5BAF"
 msgid "Or... you can beat them to it and have your way."
 msgstr "或者……你可以按照自己的想法主动出击。"
 
+#. Key:	86C230E147542961EF516C854DF91DDB
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(9).LinesToFemale
+#: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(9).LinesToFemale
+msgctxt ",86C230E147542961EF516C854DF91DDB"
+msgid "Now let's make love, or you shall find the Her ire."
+msgstr ""
+
+#. Key:	86DA9E6A4C65102E4B28A3968C3DA8FC
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(4).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(4).Lines
+msgctxt ",86DA9E6A4C65102E4B28A3968C3DA8FC"
+msgid "I can assure you this will feel so good."
+msgstr ""
+
 #. Key:	86DCDE444C6876DE3F3C6D8EC7E6FC20
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(4).Lines
@@ -3442,6 +3638,13 @@ msgstr "..."
 msgctxt ",88C30C5C411F049B09320995A20AE25B"
 msgid "That's a topic deserving of an entire volume."
 msgstr "这就说来话长了。"
+
+#. Key:	88C6CA66419DF0FF12D0A4B560B847DA
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(9).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(9).Lines
+msgctxt ",88C6CA66419DF0FF12D0A4B560B847DA"
+msgid "Thus, you should stay and hear my rhymes."
+msgstr ""
 
 #. Key:	88E908134B3B56C2274F33974CFB4AE5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(0).LinesToMale
@@ -3604,6 +3807,13 @@ msgctxt ",8D3E28104D0EAE4C533EE39A8D65B6DB"
 msgid "It's going to be sad to lose the ability to move, but at least I have you Master!"
 msgstr ""
 
+#. Key:	8D4C9C144C33EE6A19B08696ABFFB5DA
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(7).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(7).Lines
+msgctxt ",8D4C9C144C33EE6A19B08696ABFFB5DA"
+msgid "I will make you feel so good, if it is pleasure that you seek."
+msgstr ""
+
 #. Key:	8DA42A584992D1AF833DDA8EA615FB7B
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(3).Lines
@@ -3758,12 +3968,26 @@ msgctxt ",93200BC643D32038D21FA9A6972CB59F"
 msgid "Amazing!"
 msgstr "鹅妹子嘤！"
 
+#. Key:	93ACD44B44EFF7C20AF15E9D718C3166
+#. SourceLocation:	/Game/Breeding/Positions/Missionary.Default__Missionary_C.SessionData.PositionName
+#: /Game/Breeding/Positions/Missionary.Default__Missionary_C.SessionData.PositionName
+msgctxt ",93ACD44B44EFF7C20AF15E9D718C3166"
+msgid "Missionary"
+msgstr ""
+
 #. Key:	93B6CD7C4E7ECCBA8FD7F38BD9A11025
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_RL.Default__CassieDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 #: /Game/Dialogue/Cassie/Default/CassieDefault01_RL.Default__CassieDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",93B6CD7C4E7ECCBA8FD7F38BD9A11025"
 msgid "Uh... meow!"
 msgstr "呃…喵呜！"
+
+#. Key:	941010544E6432D137832FA1B37E0C10
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(3).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(3).Lines
+msgctxt ",941010544E6432D137832FA1B37E0C10"
+msgid "So we can do any position that might arise."
+msgstr ""
 
 #. Key:	943C15EB4C419656532B6A8A133CD0F3
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(3).ResponseData.BreederPrompt
@@ -3883,6 +4107,13 @@ msgstr "*咕噜咕噜声*"
 msgctxt ",97244FB84D6D7CC0273CD3BB89B847D9"
 msgid "Swift"
 msgstr "敏捷的"
+
+#. Key:	975E8DE7431AB39F97281DB7BD7DE314
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(0).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(0).Lines
+msgctxt ",975E8DE7431AB39F97281DB7BD7DE314"
+msgid "Remove your garments, thou must be nude."
+msgstr ""
 
 #. Key:	97819B7A480CF2968256F1AD74021DAD
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(4).Lines
@@ -4101,6 +4332,13 @@ msgctxt ",9F83DE504D98E2D4C149568C1F8DE768"
 msgid "Massive: Roughly 15ft in height."
 msgstr "巨大体型：身高约15英尺（4.57米）"
 
+#. Key:	9F9D5BEE4F26E405A81EB09066622552
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(4).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(4).Lines
+msgctxt ",9F9D5BEE4F26E405A81EB09066622552"
+msgid "Eons in Her embrace have taught me bodily forms."
+msgstr ""
+
 #. Key:	9FAD5CA34B7A4B192E688C9C72A825B3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(1).Lines
@@ -4198,6 +4436,13 @@ msgstr "哦...柔软的人类蜜穴感觉太棒了"
 msgctxt ",A3D34227454452C74EC9BEBE9D5B4A17"
 msgid "Mastah's breast so soft! Fern like it."
 msgstr "主人的乳房好柔软！小蕨真的非常喜欢。"
+
+#. Key:	A40264BD4BB3E658212ECE987CC24B4A
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(2).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(2).Lines
+msgctxt ",A40264BD4BB3E658212ECE987CC24B4A"
+msgid "Don't worry, for I can change my size."
+msgstr ""
 
 #. Key:	A4367C3445DA16F7A5FC4584F73685FA
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01.Default__NeelaDefault01_C.SessionData.Lines(2).Lines
@@ -4584,11 +4829,25 @@ msgctxt ",B3B9D4DE46AC98F7EC5432A2F06C92D6"
 msgid "Also, you will be making more cute little @MONSTER_RACE@ for me to \"play\" with!"
 msgstr "而且，你会生出更多可爱的小魔弗灵给我\"玩\"！"
 
+#. Key:	B41CF0334A59DC837984179B995A16B2
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(0).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(0).Lines
+msgctxt ",B41CF0334A59DC837984179B995A16B2"
+msgid "Such is how I uncovered the truth of non-duality."
+msgstr ""
+
 #. Key:	B48E37AC4977FA95BA4EB3B39018F087
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFemale(3).LinesToFemale
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",B48E37AC4977FA95BA4EB3B39018F087"
 msgid "My body longs for your delicious breast milk."
+msgstr ""
+
+#. Key:	B49B5FD64432ADC45593F3B4F50455B6
+#. SourceLocation:	/Game/Breeding/Positions/Waterfall.Default__Waterfall_C.SessionData.PositionName
+#: /Game/Breeding/Positions/Waterfall.Default__Waterfall_C.SessionData.PositionName
+msgctxt ",B49B5FD64432ADC45593F3B4F50455B6"
+msgid "Waterfall"
 msgstr ""
 
 #. Key:	B4EFBB67424526E49554149C5ADDE508
@@ -4661,6 +4920,13 @@ msgctxt ",B7AB851641C9ABEE4A178B9DFFD50B0B"
 msgid "Hybrid"
 msgstr "混血儿"
 
+#. Key:	B7ABB23A457CC2E34BB616933364E7F3
+#. SourceLocation:	/Game/Breeding/Positions/Lifted.Default__Lifted_C.SessionData.Description
+#: /Game/Breeding/Positions/Lifted.Default__Lifted_C.SessionData.Description
+msgctxt ",B7ABB23A457CC2E34BB616933364E7F3"
+msgid "A larger giver uses its strength to lift the receiver while penetrating from behind."
+msgstr ""
+
 #. Key:	B7DDB984480E5280CB46B69238C0654E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.HelpText
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.HelpText
@@ -4688,6 +4954,20 @@ msgstr "我已经回答了你的问题，所以你可能想要现在离开，如
 msgctxt ",B841784842366C72B99D7BABC88D97E6"
 msgid "Pregnancy doesn't make sense!"
 msgstr "怀孕完全解释不通！"
+
+#. Key:	B85AAF9E46DEE4DCD0E942BEAB518960
+#. SourceLocation:	/Game/Breeding/Positions/Butterfly.Default__Butterfly_C.SessionData.Description
+#: /Game/Breeding/Positions/Butterfly.Default__Butterfly_C.SessionData.Description
+msgctxt ",B85AAF9E46DEE4DCD0E942BEAB518960"
+msgid "The receiver lays elevated on her back, while the giver stands and thrusts."
+msgstr ""
+
+#. Key:	B8D3474E436959F3B7C140BFE42CF3C0
+#. SourceLocation:	/Game/Breeding/Positions/Doggy.Default__Doggy_C.SessionData.Description
+#: /Game/Breeding/Positions/Doggy.Default__Doggy_C.SessionData.Description
+msgctxt ",B8D3474E436959F3B7C140BFE42CF3C0"
+msgid "On all fours, the receiver gets pounded from behind."
+msgstr ""
 
 #. Key:	B8D5DBD04A2C66CA06A044B457DC1B92
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(6).LinesToFuta
@@ -4934,6 +5214,13 @@ msgctxt ",C35F97ED47D151CAD06084864F0ED555"
 msgid "Doing this allows the spirit to experience pleasure from your deeds, and you get to experience pleasures beyond what your human body can achieve."
 msgstr "这样一来便使得魔弗灵的魂灵在你有所\"作为\"时感受到欢愉，而你则获得了远远超于你人类感官所能获得的快感。"
 
+#. Key:	C45BFAF14EABF8D1BD3502825C5C1560
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(1).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(1).Lines
+msgctxt ",C45BFAF14EABF8D1BD3502825C5C1560"
+msgid "And became one with the Goddess who indulged in beastiality."
+msgstr ""
+
 #. Key:	C462B3344F759413A7C6F28489176C99
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R03_RL.Default__CamillaDefault01_R03_RL_C.ResponseData(1).ResponseData.BreederPrompt
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R03_RL.Default__CamillaDefault01_R03_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -4961,6 +5248,13 @@ msgstr "亦或是，欲望驱使汝沉浸在吾充满神圣和金芒的怀抱中
 msgctxt ",C4F8D7B9479B1BE8B5FA0AB326EEEF3A"
 msgid "Formurian"
 msgstr "深海族"
+
+#. Key:	C52FEFD44780735A14B2A78C9F57D862
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(6).LinesToFemale
+#: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(6).LinesToFemale
+msgctxt ",C52FEFD44780735A14B2A78C9F57D862"
+msgid "Give your body to me, and in ecstasy we will make it conform."
+msgstr ""
 
 #. Key:	C5E724D9440EB6AC1E01458A6325FC39
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R02.Default__FernDefault01_R02_C.SessionData.Lines(1).Lines
@@ -5003,6 +5297,13 @@ msgstr "哦！我能感到你快要射了……都给我！呃嗯……"
 msgctxt ",C720F2B64D81061E9D1CC7A3ACD4F0BB"
 msgid "Beware, some blessed ones might succumb to their desires and surprise you if you get close!"
 msgstr "当心，某些受神佑的魔弗灵可能会屈服于他们的欲望然后在你靠近的时候扑倒你！"
+
+#. Key:	C73CE27C41A91E73C54B58B65E56049E
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(3).LinesToFemale
+#: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(3).LinesToFemale
+msgctxt ",C73CE27C41A91E73C54B58B65E56049E"
+msgid "You seek to learn a new way to use your pleasure hole."
+msgstr ""
 
 #. Key:	C77FA616486308414031F29069272188
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -5087,6 +5388,13 @@ msgstr "精灵是Sylvan的一部分，是魔弗灵中最庞大的种族！有许
 msgctxt ",CD24CE384C0548CF493A43A0F88CB7A2"
 msgid "Indulge yourself human, for I am thy servant."
 msgstr "纵享这一切吧，因为吾侍服于汝。"
+
+#. Key:	CD8C53FE4EAFB9508679088ACC31A4CD
+#. SourceLocation:	/Game/Breeding/Positions/Cowgirl.Default__Cowgirl_C.SessionData.Description
+#: /Game/Breeding/Positions/Cowgirl.Default__Cowgirl_C.SessionData.Description
+msgctxt ",CD8C53FE4EAFB9508679088ACC31A4CD"
+msgid "The receiver bounces up and down while facing the giver."
+msgstr ""
 
 #. Key:	CE27DDF94397A475B6331E9CAF6EB7C5
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToMale(3).LinesToMale
@@ -5242,6 +5550,13 @@ msgctxt ",D3EBB7904D4648D8930D5B98189AC73D"
 msgid "Hybrid"
 msgstr "混血族"
 
+#. Key:	D43D63CB4B6E7B157FD06E89C537F572
+#. SourceLocation:	/Game/Breeding/Positions/Waterfall.Default__Waterfall_C.SessionData.Description
+#: /Game/Breeding/Positions/Waterfall.Default__Waterfall_C.SessionData.Description
+msgctxt ",D43D63CB4B6E7B157FD06E89C537F572"
+msgid "The giver's lower half is elevated while the receiver balances on top."
+msgstr ""
+
 #. Key:	D456D54240773E6C7DA921A0B4BDBA16
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R04.Default__FernDefault02_R04_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R04.Default__FernDefault02_R04_C.SessionData.Lines(1).Lines
@@ -5298,6 +5613,13 @@ msgctxt ",D5A1DB2341980090F900379E1AE48051"
 msgid "If you don't, they will!"
 msgstr "如果你不主动出击，那就等着被找上门吧！"
 
+#. Key:	D5C1C3B248D402846D813ABD2800F061
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(2).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(2).Lines
+msgctxt ",D5C1C3B248D402846D813ABD2800F061"
+msgid "Mentally I have sex with Her every day."
+msgstr ""
+
 #. Key:	D5C1EFC54081F21A6C1F538839E450A2
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToFuta(3).LinesToFuta
 #: /Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -5353,6 +5675,13 @@ msgstr ""
 msgctxt ",D7CBF3A849F90F40A1E899A00B974FBA"
 msgid "See, there is nowhere in @WORLD_NAME@ that I haven't slithered."
 msgstr "你知道的，@WORLD_NAME@处处遍布我的脚印……滑痕，如果你非要咬文嚼字的话。"
+
+#. Key:	D7CD27D2485A136014BAEDA62F225167
+#. SourceLocation:	/Game/Breeding/Positions/Missionary.Default__Missionary_C.SessionData.Description
+#: /Game/Breeding/Positions/Missionary.Default__Missionary_C.SessionData.Description
+msgctxt ",D7CD27D2485A136014BAEDA62F225167"
+msgid "The giver lays on top of the receiver and thrusts."
+msgstr ""
 
 #. Key:	D7F8B9C2431BFB6ED28ECAAF83BAE062
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -5562,6 +5891,13 @@ msgstr "就在几天前，这位美艳的金色天使来到了这里。"
 #: /Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",DD7ECB9E437DDF8975868AA3934E909D"
 msgid "Look at my beautiful flower, it bloomed! Oh my did it feel weird..."
+msgstr ""
+
+#. Key:	DD90913F4C544CDB2D79CDAE67287C68
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01.Default__ParvatiDefault01_C.SessionData.Lines(0).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01.Default__ParvatiDefault01_C.SessionData.Lines(0).Lines
+msgctxt ",DD90913F4C544CDB2D79CDAE67287C68"
+msgid "Returning to me with that familiar glint in your eye."
 msgstr ""
 
 #. Key:	DDC7B99042CEA89C790895990EB876BE
@@ -5823,6 +6159,13 @@ msgctxt ",E6AE999D442B37DD898ED3B14ADA261A"
 msgid "Wild elves aren't as common as other @MONSTER_RACE@, Painted Elves even less so."
 msgstr "野生精灵不像其他魔弗灵那样常见，彩绘精灵就更加稀少。"
 
+#. Key:	E771BFFB4897C621A00726862D211233
+#. SourceLocation:	/Game/Breeding/Positions/ReverseCowgirl.Default__ReverseCowgirl_C.SessionData.Description
+#: /Game/Breeding/Positions/ReverseCowgirl.Default__ReverseCowgirl_C.SessionData.Description
+msgctxt ",E771BFFB4897C621A00726862D211233"
+msgid "The receiver bounces up and down while facing away from the giver."
+msgstr ""
+
 #. Key:	E8789C0E4CCC57BB8A98178902DA8110
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.HelpText
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.HelpText
@@ -5955,6 +6298,13 @@ msgstr ""
 msgctxt ",ED550A2148D3A000A85A3888AF7B31B1"
 msgid "..."
 msgstr "..."
+
+#. Key:	EDA3DF9D4C1774AA8DDFC69C0EFD0035
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(8).LinesToFemale
+#: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(8).LinesToFemale
+msgctxt ",EDA3DF9D4C1774AA8DDFC69C0EFD0035"
+msgid "Favor from the Goddess will you require."
+msgstr ""
 
 #. Key:	EDFEC0864067F06F1A5A1C9F3501DE00
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(2).Lines
