@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: portuguese\n"
 "POT-Creation-Date: 2020-01-26 18:55\n"
-"PO-Revision-Date: 2020-01-29 18:25-0300\n"
+"PO-Revision-Date: 2020-01-29 18:43-0300\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -3511,14 +3511,14 @@ msgstr "*Chupa* *Chupa*"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(6).Lines
 msgctxt ",852A10F045E59BFFF8DD789EE5504277"
 msgid "By breeding them, you will be constantly filling their desires and making them happy."
-msgstr "Ao cuidar delas, você estará constantemente preenchendo seus desejos e fazendo-os felizes"
+msgstr "Ao cuidar delas, você estará constantemente preenchendo seus desejos e fazendo elas felizes."
 
 #. Key:	8545E75D449A74E403CC9990E08D65FD
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(28).LinesToMale
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(28).LinesToMale
 msgctxt ",8545E75D449A74E403CC9990E08D65FD"
 msgid "Well I must be off, good luck breeder!"
-msgstr "Bem, tenho que ir, boa sorte cowboy! "
+msgstr "Bem, tenho que ir, boa sorte cowboy!"
 
 #. Key:	854AE3F2484BF88BB14875815FEE38B4
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.DisplayName
@@ -3597,35 +3597,35 @@ msgstr "Agora, vamos fazer amor, ou você há de descobrir sua ira."
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(4).Lines
 msgctxt ",86DA9E6A4C65102E4B28A3968C3DA8FC"
 msgid "I can assure you this will feel so good."
-msgstr ""
+msgstr "Eu lhe asseguro que se sentirá tão bem."
 
 #. Key:	86DCDE444C6876DE3F3C6D8EC7E6FC20
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(4).Lines
 msgctxt ",86DCDE444C6876DE3F3C6D8EC7E6FC20"
 msgid "Do you wanna see all of mine?"
-msgstr ""
+msgstr "Quer ver todas?"
 
 #. Key:	86DE4E4645DF60181C48AD85C95C97BA
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.DemonPool.ManageActionMessage
 #: /Game/World/Overworld.Overworld:PersistentLevel.DemonPool.ManageActionMessage
 msgctxt ",86DE4E4645DF60181C48AD85C95C97BA"
 msgid "Manage your Demons"
-msgstr ""
+msgstr "Gerencie as suas Demons"
 
 #. Key:	86F7401346D43F3587BFEFAB87819829
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(8).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(8).Lines
 msgctxt ",86F7401346D43F3587BFEFAB87819829"
 msgid "Go wander around an Avatar, you will find wild @MONSTER_RACE@ roaming about aimlessly."
-msgstr ""
+msgstr "Passeie perto de um avatar, você vai achar @MONSTER_RACE@ andando sem rumo."
 
 #. Key:	8702885F4AD8627AC254029214EED99B
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R02_R01.Default__FernDefault02_R02_R01_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R02_R01.Default__FernDefault02_R02_R01_C.SessionData.Lines(1).Lines
 msgctxt ",8702885F4AD8627AC254029214EED99B"
 msgid "Sure, it can be tempting to drink all of the fluids, but I love you Master and know you need them."
-msgstr ""
+msgstr "Claro, pode ser tentador beber todos os fluídos, mas eu te amo Mestra e eu sei que você precisa deles."
 
 #. Key:	870E3E9A4756B06E4D8C9FB1967261E9
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_BatheAllDay.Default__RomyDefault01_BatheAllDay_C.SessionData.Lines(0).Lines
