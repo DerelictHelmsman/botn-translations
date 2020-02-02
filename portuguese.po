@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: portuguese\n"
 "POT-Creation-Date: 2020-01-26 18:55\n"
-"PO-Revision-Date: 2020-02-01 20:16-0300\n"
+"PO-Revision-Date: 2020-02-01 22:27-0300\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -5008,161 +5008,161 @@ msgstr "Mas que bela e falante fern..."
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(9).Lines
 msgctxt ",B832AA994DBADAA17A15049B206652C5"
 msgid "Well I've answered your question so you probably want to leave now. If you have any more questions you should feel free to ask me. Although I'm sure Falene could answer your questions too."
-msgstr ""
+msgstr "Bem, eu respondi a sua pergunta então você provavelmente quer ir embora agora. Se você tiver qualquer outra duvida sinta-se à vontade para me perguntar. Embora eu tenho certeza que a Falene pode te responder também."
 
 #. Key:	B841784842366C72B99D7BABC88D97E6
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
 msgctxt ",B841784842366C72B99D7BABC88D97E6"
 msgid "Pregnancy doesn't make sense!"
-msgstr ""
+msgstr "A gravidez não faz sentido!"
 
 #. Key:	B85AAF9E46DEE4DCD0E942BEAB518960
 #. SourceLocation:	/Game/Breeding/Positions/Butterfly.Default__Butterfly_C.SessionData.Description
 #: /Game/Breeding/Positions/Butterfly.Default__Butterfly_C.SessionData.Description
 msgctxt ",B85AAF9E46DEE4DCD0E942BEAB518960"
 msgid "The receiver lays elevated on her back, while the giver stands and thrusts."
-msgstr ""
+msgstr "A recipiente se deita, enquanto o doador fica de pé e mete."
 
 #. Key:	B8D3474E436959F3B7C140BFE42CF3C0
 #. SourceLocation:	/Game/Breeding/Positions/Doggy.Default__Doggy_C.SessionData.Description
 #: /Game/Breeding/Positions/Doggy.Default__Doggy_C.SessionData.Description
 msgctxt ",B8D3474E436959F3B7C140BFE42CF3C0"
 msgid "On all fours, the receiver gets pounded from behind."
-msgstr ""
+msgstr "De quatro, a recipiente é fodida por trás."
 
 #. Key:	B8D5DBD04A2C66CA06A044B457DC1B92
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(6).LinesToFuta
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(6).LinesToFuta
 msgctxt ",B8D5DBD04A2C66CA06A044B457DC1B92"
 msgid "Stick that lovely human dick deep into my Lamia body... yes..."
-msgstr ""
+msgstr "Meta vosso belo pau humano fundo no meu corpo de Lâmia... isso..."
 
 #. Key:	B98DBFC944D984D0B00D708EE1B9AB94
 #. SourceLocation:	/Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToFuta(0).LinesToFuta
 #: /Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",B98DBFC944D984D0B00D708EE1B9AB94"
 msgid "Indulge yourself human, for I am thy servant."
-msgstr ""
+msgstr "Satisfaça-se humana, pois eu sou vossa servente."
 
 #. Key:	B9F630DD484439D0C2B6EFBC3D01D2C5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_FutaBalls.Default__FaleneDefault01_FutaBalls_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_FutaBalls.Default__FaleneDefault01_FutaBalls_C.SessionData.Lines(1).Lines
 msgctxt ",B9F630DD484439D0C2B6EFBC3D01D2C5"
 msgid "Semen is stored internally to reduce the potential for damage and make more room for the vagina to expand."
-msgstr ""
+msgstr "O sêmen é armazenado internamente para reduzir o risco de danos e dar mais espaço para a vagina expandir."
 
 #. Key:	BA4F5C334B416E6C99C047BD1AF731C9
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(7).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(7).Lines
 msgctxt ",BA4F5C334B416E6C99C047BD1AF731C9"
 msgid "Feel free to try though... I will consider it foreplay,  rip your clothes off, and then mate with you for hours!"
-msgstr ""
+msgstr "Sinta-se a vontade para tentar... eu vou considerar como as preliminares, rasgar as suas roupas e trepar com você por horas!"
 
 #. Key:	BABE7B1340FA36AADAE0E596C6FC1721
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToFemale(1).LinesToFemale
 #: /Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",BABE7B1340FA36AADAE0E596C6FC1721"
 msgid "How I envy this tall sexy body of yours, but ohhhhh it feels so good!"
-msgstr ""
+msgstr "Eu tenho inveja desse seu corpão, mas ohhhhh, é tão bom!"
 
 #. Key:	BB0E7B2D4F49CAAB00A884BE87ED9F44
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(7).Lines
 #: /Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(7).Lines
 msgctxt ",BB0E7B2D4F49CAAB00A884BE87ED9F44"
 msgid "Or if ya wanna really butter my butt and let me see your \"property\"."
-msgstr ""
+msgstr "Ou se cê realmente quiser passar manteiga na minha bundinha e me deixar ver a sua \"propriedade\"."
 
 #. Key:	BB8EC0EA497B20CC5A726AA919605178
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R04.Default__CamillaDefault01_R04_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R04.Default__CamillaDefault01_R04_C.SessionData.Lines(0).Lines
 msgctxt ",BB8EC0EA497B20CC5A726AA919605178"
 msgid "Very funny!"
-msgstr ""
+msgstr "Muito engraçado!"
 
 #. Key:	BBBCA38B49D367A566E07BA607FA7359
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFuta(0).LinesToFuta
 #: /Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",BBBCA38B49D367A566E07BA607FA7359"
 msgid "Oh Master, you have fed me well."
-msgstr ""
+msgstr "Oh Mestra, você me alimentou bem."
 
 #. Key:	BC25BCBE4F9535F47E145F8384E62BA5
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R05.Default__FernDefault03_R05_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R05.Default__FernDefault03_R05_C.SessionData.Lines(2).Lines
 msgctxt ",BC25BCBE4F9535F47E145F8384E62BA5"
 msgid "You should name our daughter!"
-msgstr ""
+msgstr "Você deveria dar um nome pra nossa filha!"
 
 #. Key:	BC50064D4E4A670A496FFAB77DB95208
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFemale(4).LinesToFemale
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFemale(4).LinesToFemale
 msgctxt ",BC50064D4E4A670A496FFAB77DB95208"
 msgid "Something mythical... something forbidden... something... human!"
-msgstr ""
+msgstr "Algo mítico... algo proibido... algo... humano!"
 
 #. Key:	BC8D18A04D5B0C96E407F884999310E6
 #. SourceLocation:	/Game/Dialogue/AmberMae/SexScenes/AmberMilkyF.Default__AmberMilkyF_C.SessionData.Lines(5).Lines
 #: /Game/Dialogue/AmberMae/SexScenes/AmberMilkyF.Default__AmberMilkyF_C.SessionData.Lines(5).Lines
 msgctxt ",BC8D18A04D5B0C96E407F884999310E6"
 msgid "Eeek I'm a sensitve gal! Yer gonna make me pop... ohhh."
-msgstr ""
+msgstr "Ahhh, eu sou uma garota sensível! Cê vai me fazer go... ohhh."
 
 #. Key:	BCB1A0F54609C871293D96B90F2E8B8E
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_UpHere.Default__RomyDefault01_UpHere_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Romy/Default/RomyDefault01_UpHere.Default__RomyDefault01_UpHere_C.SessionData.Lines(2).Lines
 msgctxt ",BCB1A0F54609C871293D96B90F2E8B8E"
 msgid "Ponder this, you just manifested on a ranch in front of a purple elf."
-msgstr ""
+msgstr "Pondere sobre isto: você acabou de se manisfestar em um rancho na frente de uma elfa roxa."
 
 #. Key:	BCCE27C44B7552836451CAB377E5AE75
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(2).Lines
 msgctxt ",BCCE27C44B7552836451CAB377E5AE75"
 msgid "You also need to have something to... entice @MONSTER_RACE@ before you can bind them."
-msgstr ""
+msgstr "Você também precisa ter algo para... atrair @ MONSTER_RACE @ antes de poder captura-las."
 
 #. Key:	BD2871634CBCB94F889B2FA98F0BF8DA
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(4).Lines
 msgctxt ",BD2871634CBCB94F889B2FA98F0BF8DA"
 msgid "Lost are these souls, and you alone can help them. As we speak, they wander aimlessly, enslaved by their desires."
-msgstr ""
+msgstr "Perdidas estão estas almas, e somente tu pode ajuda-las. Enquanto conversamos, elas vagam sem rumo, escravizadas por seus desejos."
 
 #. Key:	BD61F6BE4278688EEA2B878F6E8C6994
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(14).LinesToFemale
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(14).LinesToFemale
 msgctxt ",BD61F6BE4278688EEA2B878F6E8C6994"
 msgid "My vagina is pulsing..."
-msgstr ""
+msgstr "Minha vagina está latejando..."
 
 #. Key:	BDF9214F4D266A69032FE9921524969C
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(2).LinesToFuta
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",BDF9214F4D266A69032FE9921524969C"
 msgid "You have just become @WORLD_NAME@'s newest resident!"
-msgstr ""
+msgstr "Você acabou de se tornar a mais nova residente de @WORLD_NAME@!"
 
 #. Key:	BE3E92FA4D0B5FE720EA038B6A6FF27C
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry02_RL.Default__EmissaryBlessedInquiry02_RL_C.ResponseData(1).ResponseData.BreederPrompt
 #: /Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry02_RL.Default__EmissaryBlessedInquiry02_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",BE3E92FA4D0B5FE720EA038B6A6FF27C"
 msgid "Good to know."
-msgstr ""
+msgstr "Bom saber."
 
 #. Key:	BE946F0645DD9D40528D2A9DB1FB48B4
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01.Default__CamillaDefault01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01.Default__CamillaDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",BE946F0645DD9D40528D2A9DB1FB48B4"
 msgid "Sometimes Falene makes me ride on her back around town."
-msgstr ""
+msgstr "As vezes a Falene me faz andar nas costas dela pela cidade."
 
 #. Key:	BE9F677046DE7F9AE5246FB18D7F8FFB
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01.Default__CamillaDefault01_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01.Default__CamillaDefault01_C.SessionData.Lines(1).Lines
 msgctxt ",BE9F677046DE7F9AE5246FB18D7F8FFB"
 msgid "Once she threw me into that pussy portal when Neela wasn't looking!"
-msgstr ""
+msgstr "Uma vez ela me jogou dentro daquele portal buceta quando a Neela não tava olhando!"
 
 #. Key:	BEDA7D94498AC1A3091C29BABE2C94F7
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -5176,21 +5176,21 @@ msgstr ""
 #: /Game/Characters/Procedural/Variants/Demon/Harvest/DemonHarvest.Default__DemonHarvest_C.Harvest.RaceName
 msgctxt ",BF4DCF6B4CBF1E3FAE0D139E494C7673"
 msgid "Demon"
-msgstr ""
+msgstr "Demônio"
 
 #. Key:	BF7F7E1041AD5B8267C70694F83985F6
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R03.Default__CamillaDefault01_R03_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R03.Default__CamillaDefault01_R03_C.SessionData.Lines(0).Lines
 msgctxt ",BF7F7E1041AD5B8267C70694F83985F6"
 msgid "Meh... you're just another one of those who thinks I'm cute because I'm small!"
-msgstr ""
+msgstr "Meh... você é só mais uma que me acha fofa porque eu sou pequena!"
 
 #. Key:	BFA3EA894BDCD8476E3C3E83125BF435
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(3).Lines
 msgctxt ",BFA3EA894BDCD8476E3C3E83125BF435"
 msgid "Now that I have a human to play with, I look forward to testing these theories!"
-msgstr ""
+msgstr "Agora que eu tenho uma humana para \"brincar\" comigo, eu espero testar essas teorias!"
 
 #. Key:	BFCA3659420358C2CFA5B5B426282E9A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.HelpText
@@ -5198,28 +5198,28 @@ msgstr ""
 #: Value).TraitIcons.HelpText
 msgctxt ",BFCA3659420358C2CFA5B5B426282E9A"
 msgid "Debauched: Offspring have a 20% chance to ignore the negative impacts of inbreeding."
-msgstr ""
+msgstr "Pervertida: Descendentes tem 20% de chance de ignorar impactos negativos de incesto."
 
 #. Key:	BFE1041943E9B477E3A7848FC8505D3E
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_BatheMe.Default__RomyDefault01_BatheMe_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Romy/Default/RomyDefault01_BatheMe.Default__RomyDefault01_BatheMe_C.SessionData.Lines(0).Lines
 msgctxt ",BFE1041943E9B477E3A7848FC8505D3E"
 msgid "Who shall I cleanse of their grungy trait?"
-msgstr ""
+msgstr "A quem devo limpar de seu traço lambusado?"
 
 #. Key:	BFE419FB4198F6466864C0A660018BA3
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Thriae/Harvest/ThriaeHarvest.Default__ThriaeHarvest_C.Harvest.Description
 #: /Game/Characters/Procedural/Variants/Thriae/Harvest/ThriaeHarvest.Default__ThriaeHarvest_C.Harvest.Description
 msgctxt ",BFE419FB4198F6466864C0A660018BA3"
 msgid "Thriae body fluids."
-msgstr ""
+msgstr "Fluídos corporais de Thriae."
 
 #. Key:	C03BBCDD4AACD3CC387AAAB2A4FD00E9
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(1).Lines
 msgctxt ",C03BBCDD4AACD3CC387AAAB2A4FD00E9"
 msgid "Anyway, once you've built an enclosure you can catch @MONSTER_RACE@ of that type."
-msgstr ""
+msgstr "Enfim, depois que você construir um cercado você pode capturar @MONSTER_RACE@ daquele tipo."
 
 #. Key:	C0C2274D435835E82C7558B7D7771463
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(7).Lines
