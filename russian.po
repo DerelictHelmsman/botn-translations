@@ -599,7 +599,7 @@ msgstr "Мы так счастливы, что люди любят нас и в�
 #: /Game/Dialogue/Neela/Default/NeelaGreeting01.Default__NeelaGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",14F5C7E34772BFD4F5E7039EF72ACF9E"
 msgid "Through all of my long years and endless travels, I never thought to cross paths with a human."
-msgstr "После всех тех долгих лет странствий, никогда бы не подумала что мои пути пересекутся с человеком."
+msgstr "После всех тех долгих лет странствий, никогда бы не подумала, что мои пути пересекутся с человеком."
 
 #. Key:	16049E004B001A3FEF8E25BEBE498398
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_RL.Default__ParvatiDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -690,7 +690,7 @@ msgstr "*Сладостное постанывание*"
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(0).Lines
 msgctxt ",1A04D48D493996FF8EDD59A9DDB7C1A6"
 msgid "You are the lord of this soil--or owner of Homestead in the common tongue."
-msgstr "Ты лорд этих земель--или, проще говоря, владелец этой усадьбы"
+msgstr "Ты лорд этих земель--или, проще говоря, владелец этой усадьбы."
 
 #. Key:	1A66A5974B5893066D25B7A93AD8BA38
 #. SourceLocation:	/Game/Dialogue/AmberMae/SexScenes/AmberMilkyF.Default__AmberMilkyF_C.SessionData.Lines(4).Lines
@@ -732,14 +732,14 @@ msgstr "Если ты хочешь узнать, как отлавливать @
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(1).Lines
 msgctxt ",1BD44FF4429194137A0C4CAF227F2CA1"
 msgid "Contemplate for moment while I apply some lube."
-msgstr "Обождика чуть-чуть, пока я не нанесу смазку."
+msgstr "Обожди-ка чуть-чуть, пока я не нанесу смазку."
 
 #. Key:	1BE1CDD644277334F98620A99521B9DC
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm_RL_F.Default__LeylannaDefault01_HowToSpiritForm_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm_RL_F.Default__LeylannaDefault01_HowToSpiritForm_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",1BE1CDD644277334F98620A99521B9DC"
 msgid "I am off to catch that variant."
-msgstr "Я приведу того кого ты хочешь."
+msgstr "Я приведу того, кого ты хочешь."
 
 #. Key:	1C97795346C0DCFF24FCF7965DB04AFF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(2).Lines
@@ -753,7 +753,7 @@ msgstr "И тогда они спаривались со многими обит
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm.Default__LeylannaDefault01_RechargeSpiritForm_C.SessionData.Lines(2).Lines
 msgctxt ",1C9CDC1147105A3D3F0A43BB6C94695C"
 msgid "Alternatively, you can recharge your spirit form partially by engaging in sex with blessed ones."
-msgstr "Так же, ты можешь восполнить энергию для спиритической формы просто занявшись сексом с Благословлёнными."
+msgstr "Также, ты можешь восполнить энергию для спиритической формы просто занявшись сексом с Благословлёнными."
 
 #. Key:	1CF80140486F2A7F4E727D8E50B64B37
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFemale(7).LinesToFemale
@@ -781,7 +781,7 @@ msgstr "Мой обожаемый маленький ассистент Ками
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R02_R01.Default__FernDefault03_R02_R01_C.SessionData.Lines(0).Lines
 msgctxt ",1D81ECE4468C6B5A5BE467964A7CFE43"
 msgid "Sadly I can no longer help you harvest fluids from wild @MONSTER_RACE@."
-msgstr "К ссожалению, я больше не могу помочь вам в дойке @MONSTER_RACE@."
+msgstr "К ссожалению, я больше не могу помочь тебе в дойке @MONSTER_RACE@."
 
 #. Key:	1DA742CA40AC6A3A7EC5B6834EEA93B8
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(2).Lines
@@ -816,7 +816,7 @@ msgstr "Столько удовольствия! Ааах..."
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(5).Lines
 msgctxt ",1E80A3A048E90BE3C26622BC4F2230F7"
 msgid "Bring them to me so that the Goddess can be reunited with her children. You shall be rewarded with the crystalized cum of the Goddess Herself."
-msgstr "Приведи их ко мне, чтобы Богиня могла вновь воссоединится со своими детьми. Тебя будет ждать вознаграждение из кристаллизованного нектара Самой Богини."
+msgstr "Приведи их ко мне, чтобы Богиня могла вновь воссоединиться со своими детьми. Тебя будет ждать вознаграждение из кристаллизованного нектара Самой Богини."
 
 #. Key:	1E9E8C004AF398F32ECD97B66BFC3438
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(2).ResponseData.BreederPrompt
@@ -1187,7 +1187,7 @@ msgstr "*Чмок* *Чмок*"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(2).Lines
 msgctxt ",2E354C3547A22A28F21C20ABC438099D"
 msgid "Blessed @MONSTER_RACE@ are like you humans--we are self aware and intelligent."
-msgstr "Благословлённые @MONSTER_RACE@ совсем как вы, люди--мы так же имеем разум и самосознание"
+msgstr "Благословлённые @MONSTER_RACE@ совсем как вы, люди--мы тоже имеем разум и самосознание"
 
 #. Key:	2E7BB9B84F5D0CB4DA2DF986BEFCB857
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -1201,7 +1201,7 @@ msgstr "Ух ты! Этого не может быть!"
 #: /Game/Dialogue/Fern/Default/FernDefault01_R04.Default__FernDefault01_R04_C.SessionData.Lines(1).Lines
 msgctxt ",2E926B8847D675F1C4CAAFAC2732930B"
 msgid "Fern need human milk to grow into big Alraune! Hissss, Fern suck nipples now!"
-msgstr "Ферн хочет выпить вссе молоко масстера! Ссс! Ферн будет большим Альрауном."
+msgstr "Ферн хочет выпить вссе молоко масстера! Ссс! Ферн будет большой Альрауной."
 
 #. Key:	2EF454D94FCEA805F55F20A94627C808
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFuta(6).LinesToFuta
