@@ -1,17 +1,18 @@
-﻿# german German (Germany) translation.
 # Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: german\n"
 "POT-Creation-Date: 2020-03-12 18:14\n"
-"PO-Revision-Date: 2020-03-12 18:14\n"
+"PO-Revision-Date: 2020-03-12 22:10+0100\n"
 "Language-Team: \n"
-"Language: de-DE\n"
+"Language: de_DE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
 
 #. Key:	0009BEE346934010A7F79C8CF23B20D5
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(1).Lines
@@ -71,7 +72,8 @@ msgstr "Ah, dann nehme ich an, du bist wie die anderen @MONSTER_RACE@."
 
 #. Key:	01DB8D8A43F7EC40F07FB3A355D39722
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",01DB8D8A43F7EC40F07FB3A355D39722"
 msgid "Cove of Rapture"
 msgstr "Bucht der Verzückung"
@@ -386,14 +388,16 @@ msgstr "Doggy"
 
 #. Key:	0E2A96C54ACC4571431587B73459221E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",0E2A96C54ACC4571431587B73459221E"
 msgid "Nymphomaniac"
 msgstr "Nymphoman"
 
 #. Key:	0E6E1156457FB3513C060D979FF6B9AE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 -
+#: Value).TraitIcons.HelpText
 msgctxt ",0E6E1156457FB3513C060D979FF6B9AE"
 msgid "Sterile: Cannot produce offspring."
 msgstr "Unfruchtbar: Kann keine Nachkommen zeugen."
@@ -708,7 +712,8 @@ msgstr "Es ist Fakt, dass @MONSTER_RACE@ Sperma eine mächtige Substanz ist--all
 
 #. Key:	193B4CF045056BF6C0B7E0AF2A4A65FF
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 -
+#: Value).TraitIcons.HelpText
 msgctxt ",193B4CF045056BF6C0B7E0AF2A4A65FF"
 msgid "Valuable: Value is increased by 35%."
 msgstr "Wertvoll: Wert ist um 35% erhöht."
@@ -890,7 +895,8 @@ msgstr "Würdest du... miau... der armen Cassie bei diesem Problem helfen?"
 
 #. Key:	1FC53FEF4A2414ADEC40FA84C1B8848D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 -
+#: Value).TraitIcons.HelpText
 msgctxt ",1FC53FEF4A2414ADEC40FA84C1B8848D"
 msgid "Kindhearted: Grants twice as much XP to mates but only receives half as much."
 msgstr "Gutherzig: Gibt dem Partner doppelt soviel EP, erhält selbst allerdings nur halb soviel."
@@ -946,7 +952,8 @@ msgstr "*Saug* *Saug*"
 
 #. Key:	217058F6486D81B1085B329585491A13
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 -
+#: Value).TraitIcons.HelpText
 msgctxt ",217058F6486D81B1085B329585491A13"
 msgid "Hornball: Loses 35% less lust during breeding."
 msgstr "Lüstling: Verliert 35% weniger Lust während der Fortpflanzung."
@@ -1065,7 +1072,8 @@ msgstr ""
 
 #. Key:	249E987842C35A9986491A967E86BEC3
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 -
+#: Value).TraitIcons.HelpText
 msgctxt ",249E987842C35A9986491A967E86BEC3"
 msgid "Stoic: Increases maximum lust by 20%."
 msgstr "Stoisch: Erhöht die maximale Lust um 20%."
@@ -1086,7 +1094,8 @@ msgstr "Es muss dir komisch erscheinen, dass du der einzige deiner Art bist, nie
 
 #. Key:	2632B36446A9D5F9E018209CB73837B8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",2632B36446A9D5F9E018209CB73837B8"
 msgid "Massive Size"
 msgstr "Mächtige Statur"
@@ -1149,7 +1158,8 @@ msgstr "Oh meine Güte, ich habe zu viel gesagt!"
 
 #. Key:	29A421FC41D83A2B9DCC669ECA1F708D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 -
+#: Value).TraitIcons.HelpText
 msgctxt ",29A421FC41D83A2B9DCC669ECA1F708D"
 msgid "Buxom: Inherited a very large ass."
 msgstr "Drall: Hat einen sehr großen Arsch geerbt."
@@ -1170,7 +1180,8 @@ msgstr "Butterstock? Ist das dein Ernst?"
 
 #. Key:	2ABC84814DE5DC3039A61BBA0723AF73
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 -
+#: Value).TraitIcons.HelpText
 msgctxt ",2ABC84814DE5DC3039A61BBA0723AF73"
 msgid "Tiny: Roughly 4ft in height."
 msgstr "Winzig: Ungefähr 1,20 Meter groß."
@@ -1646,14 +1657,16 @@ msgstr "Weil von Ihr und durch Sie und zu Ihr alle Dinge sind. Möge der Ruhm f�
 
 #. Key:	3CA687014A0A2E686C1525BCF1F25CAE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 -
+#: Value).TraitIcons.HelpText
 msgctxt ",3CA687014A0A2E686C1525BCF1F25CAE"
 msgid "Gaudy: Inherited an unusual vivid color scheme."
 msgstr "Farbenprächtig: Hat eine ungewöhnlich lebendige Farbgebung geerbt."
 
 #. Key:	3D4441784AF4D03AE277679928164F4E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",3D4441784AF4D03AE277679928164F4E"
 msgid "Stoic"
 msgstr "Stoisch"
@@ -1688,7 +1701,8 @@ msgstr "Dämonen bevorzugen die Lavaflüsse der Stöhnenden Klippe."
 
 #. Key:	3EF6E0F646189B89DDE495A5A01F7FC3
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",3EF6E0F646189B89DDE495A5A01F7FC3"
 msgid "Abomination"
 msgstr "Abscheulichkeit"
@@ -1842,7 +1856,8 @@ msgstr "Verschwende deine köstlichen Körperflüssigkeiten nicht an mich. Warte
 
 #. Key:	44BC09AE4BDFA439FBFD8BAABD7A96D0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",44BC09AE4BDFA439FBFD8BAABD7A96D0"
 msgid "Chubby"
 msgstr "Mollig"
@@ -1940,7 +1955,8 @@ msgstr "Du darfst meine Muttermilch haben!"
 
 #. Key:	47D73C824ADC81BC6CCF3D92213FA9A5
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",47D73C824ADC81BC6CCF3D92213FA9A5"
 msgid "Sterile"
 msgstr "Unfruchtbar"
@@ -1954,7 +1970,8 @@ msgstr "Erzähle mir von Gemalten Elfen."
 
 #. Key:	48107A45419D9511DA312F919A7866E8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(6 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(6 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(6 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",48107A45419D9511DA312F919A7866E8"
 msgid "Hedon Township"
 msgstr "Gemeinde Hedon"
@@ -2003,7 +2020,8 @@ msgstr "Und ich bin eine von ihnen! Eine gesegnete Gemalte Elfin um genau zu sei
 
 #. Key:	49C9E46943998C63648E12A033938266
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",49C9E46943998C63648E12A033938266"
 msgid "Debauched"
 msgstr "Verkommen"
@@ -2220,21 +2238,24 @@ msgstr "Ah! Mirru, Prinzessin der Meere wird solche Dinge nicht preisgeben!"
 
 #. Key:	50B849704DFA728D7330279E30E472A8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 -
+#: Value).TraitIcons.HelpText
 msgctxt ",50B849704DFA728D7330279E30E472A8"
 msgid "Large: Roughly 8ft in height."
 msgstr "Groß: Ungefähr 2,40 Meter groß."
 
 #. Key:	50BBFEDE44CEF2DA10124AAE7DBF17B9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",50BBFEDE44CEF2DA10124AAE7DBF17B9"
 msgid "Slick"
 msgstr "Glatt"
 
 #. Key:	51444A264763D03D8B5051AEDAB55B5F
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 -
+#: Value).TraitIcons.HelpText
 msgctxt ",51444A264763D03D8B5051AEDAB55B5F"
 msgid "Abomination: This one was the product of incest."
 msgstr "Abscheulichkeit: Diese Kreatur ist das Resultat von Inzucht."
@@ -2262,7 +2283,8 @@ msgstr "Ambers Titten sind größer als ich! Warum ist diese Welt so grausam..."
 
 #. Key:	5243F67240932D62D7FDFABA63222594
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",5243F67240932D62D7FDFABA63222594"
 msgid "Hung"
 msgstr "Gut bestückt"
@@ -2353,7 +2375,8 @@ msgstr "Vulwarg"
 
 #. Key:	55894A674E5C647D1DC14EB1951CE50D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 -
+#: Value).TraitIcons.HelpText
 msgctxt ",55894A674E5C647D1DC14EB1951CE50D"
 msgid "Sadistic: Reduces the loyalty of breeding partners, but gains twice as much XP."
 msgstr "Sadistisch: Verringert die Loyalität der Zuchtpartner, erlangt dafür aber doppelt so viele EP."
@@ -2367,7 +2390,8 @@ msgstr "Entferne deine Kleidung, und lass mich dich waschen."
 
 #. Key:	560FCF68432946FE1C6D7BA2F8088AB6
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(0 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(0 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(0 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",560FCF68432946FE1C6D7BA2F8088AB6"
 msgid "Virgin Breaks"
 msgstr "Jungfern-Spalte"
@@ -2444,7 +2468,8 @@ msgstr "Ahh... meine Lamiazunge wird dich so gut fühlen lassen..."
 
 #. Key:	5A3E7C5348B9CE872B1AC68AF9AEF76B
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 -
+#: Value).TraitIcons.HelpText
 msgctxt ",5A3E7C5348B9CE872B1AC68AF9AEF76B"
 msgid "Slender: This one has less body fat."
 msgstr "Schlank: Diese Kreatur hat weniger Körperfett."
@@ -2542,7 +2567,8 @@ msgstr "Im Gegensatz zu weiblichen Menschen, produzieren weibliche @MONSTER_RACE
 
 #. Key:	5F71A084478332FD553228BF6DB08550
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",5F71A084478332FD553228BF6DB08550"
 msgid "Huge Size"
 msgstr "Enorme Statur"
@@ -2738,7 +2764,8 @@ msgstr "Oh Meister... du bist so gut zu mir."
 
 #. Key:	65F2B1384977D80660A4E4A91389BC9D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",65F2B1384977D80660A4E4A91389BC9D"
 msgid "Grungy"
 msgstr "Schmutzig"
@@ -2822,7 +2849,8 @@ msgstr "Ohhh ja... miau... ahhh..."
 
 #. Key:	6928C04F4EBC681B1BF676BB56435E32
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",6928C04F4EBC681B1BF676BB56435E32"
 msgid "Charmer"
 msgstr "Schwerenöter"
@@ -2906,7 +2934,8 @@ msgstr "Fuchse und Vulwargs mögen den Schatten und die Bäume des Lustwaldes."
 
 #. Key:	6D1431474F1C713E9D755F93772C653C
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 -
+#: Value).TraitIcons.HelpText
 msgctxt ",6D1431474F1C713E9D755F93772C653C"
 msgid "Juicy: Produces 50% extra body fluid when harvested."
 msgstr "Saftig: Gibt 50% zusätzliche Körperflüssigkeit bei der Ernte ab."
@@ -3032,7 +3061,8 @@ msgstr "Schau meine wunderschöne Blume an, sie ist erblüht! Meine Güte, hat s
 
 #. Key:	6FED048C4BF38E565F2ADC90DC3F4390
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",6FED048C4BF38E565F2ADC90DC3F4390"
 msgid "Kindhearted"
 msgstr "Gutherzig"
@@ -3137,7 +3167,8 @@ msgstr "Ahhh ja! Fülle es auf mit deinem Menschensamen... ohhh."
 
 #. Key:	73986546438B9C190B8B769537B05047
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(12 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(12 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(12 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",73986546438B9C190B8B769537B05047"
 msgid "Climax Peak"
 msgstr "Höhepunktgipfel"
@@ -3193,7 +3224,8 @@ msgstr "Du hast dich verändert!"
 
 #. Key:	752BA5D9498A3D0A3B274BA6E3AFDDAE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",752BA5D9498A3D0A3B274BA6E3AFDDAE"
 msgid "Sensual Sands"
 msgstr "Sinnliche Sande"
@@ -3242,7 +3274,8 @@ msgstr "Um ehrlich zu sein wissen wir nicht genau wie es funktioniert, aber ich 
 
 #. Key:	76C3B8B24ADB1D21C1F205A4E3B35D2A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 -
+#: Value).TraitIcons.HelpText
 msgctxt ",76C3B8B24ADB1D21C1F205A4E3B35D2A"
 msgid "Atypical: Inherited an unusual size for its variant."
 msgstr "Untypisch: Hat eine ungewöhnliche Größe für diese Variante geerbt."
@@ -3284,14 +3317,16 @@ msgstr "Ich bade sie natürlich, wenn sie schmutzig sind. Glücklicherweise sind
 
 #. Key:	786684AF43E49B03AB1575A2054AC196
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",786684AF43E49B03AB1575A2054AC196"
 msgid "Large Size"
 msgstr "Große Statur"
 
 #. Key:	78B7319E49FA8E32267F09898482F929
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",78B7319E49FA8E32267F09898482F929"
 msgid "Slender"
 msgstr "Schlank"
@@ -3354,7 +3389,8 @@ msgstr "Ich möchte in deine Muschi...passage eintreten."
 
 #. Key:	7B5F72194EE494B66BEC5CAD05253722
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",7B5F72194EE494B66BEC5CAD05253722"
 msgid "Juicy"
 msgstr "Saftig"
@@ -3410,7 +3446,8 @@ msgstr "Fühle meine seidene Zunge über deinen Schaft streichen, während dein 
 
 #. Key:	7E871257404E27C20903A3877220C69A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(10 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(10 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(10 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",7E871257404E27C20903A3877220C69A"
 msgid "Pleasure Pastures"
 msgstr "Wollust Weiden"
@@ -3438,7 +3475,8 @@ msgstr "Verwalte deine Sylvaner"
 
 #. Key:	7EF6E26243EE042D016B90AFA2F62AE7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",7EF6E26243EE042D016B90AFA2F62AE7"
 msgid "Divergent"
 msgstr "Abweichend"
@@ -3487,7 +3525,8 @@ msgstr "Kehre zu mir zurück, wenn du eine Futa-Fuchse gefangen hast."
 
 #. Key:	81BA7F3C4947D886880CA687DA5D133F
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(7 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(7 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(7 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",81BA7F3C4947D886880CA687DA5D133F"
 msgid "Homestead"
 msgstr "Heimstatt"
@@ -3522,7 +3561,8 @@ msgstr "Ja, ohh... füttere meinen üppigen Körper mit all deiner Saat. Ahhhhh.
 
 #. Key:	840B179B496FE7BBE7487EAE11227191
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(9 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(9 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(9 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",840B179B496FE7BBE7487EAE11227191"
 msgid "Lustwood"
 msgstr "Lustwald"
@@ -3613,14 +3653,16 @@ msgstr "So, ich muss gehen, viel Glück, Züchter!"
 
 #. Key:	854AE3F2484BF88BB14875815FEE38B4
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",854AE3F2484BF88BB14875815FEE38B4"
 msgid "Sadistic"
 msgstr "Sadistisch"
 
 #. Key:	855B7EB248E6DF97FE4486BAE527851B
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",855B7EB248E6DF97FE4486BAE527851B"
 msgid "Small Size"
 msgstr "Kleine Statur"
@@ -3851,7 +3893,8 @@ msgstr "Ich bin jetzt eine voll ausgewachsene Alraune!"
 
 #. Key:	8B26942A46ED0C778AE5E1BC7C39336A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 -
+#: Value).TraitIcons.HelpText
 msgctxt ",8B26942A46ED0C778AE5E1BC7C39336A"
 msgid "Fertile: Fertility doubles pregnancy chance from repeated breeding."
 msgstr "Fruchtbar: Verdoppelt die Wahrscheinlichkeit einer Schwangerschaft bei wiederholtem Züchten."
@@ -3865,7 +3908,8 @@ msgstr "Sie bleiben daheim um Mutter zu dienen und zufriedenzustellen... Oh wie 
 
 #. Key:	8B77D0FA4239D5EB678BAE8CDE396838
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",8B77D0FA4239D5EB678BAE8CDE396838"
 msgid "Hedonist"
 msgstr "Hedonist"
@@ -4019,7 +4063,8 @@ msgstr "Sogar aus der Leere heraus vergöttern sie dich, Züchter. Du hast es di
 
 #. Key:	8FFFE80A49114390AEF4A190D3F0A48F
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",8FFFE80A49114390AEF4A190D3F0A48F"
 msgid "Fertile"
 msgstr "Fruchtbar"
@@ -4054,7 +4099,8 @@ msgstr "*Saug* *Saug*"
 
 #. Key:	90BF47A74AF19E981D455BAB280C9D02
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 -
+#: Value).TraitIcons.HelpText
 msgctxt ",90BF47A74AF19E981D455BAB280C9D02"
 msgid "Hedonist: Gains the XP that would have been granted to the other mate."
 msgstr "Hedonist: Erhält die EP die dem anderen Partner zugestanden hätten."
@@ -4082,7 +4128,8 @@ msgstr "Ich brauche Menschensperma um zu meiner endgültigen Form heranzuwachsen
 
 #. Key:	926325814BBC6464CA76E097764B7F27
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 -
+#: Value).TraitIcons.HelpText
 msgctxt ",926325814BBC6464CA76E097764B7F27"
 msgid "Hominal: Inherited more human traits."
 msgstr "Menschlich: Hat mehr menschliche Merkmale geerbt."
@@ -4152,7 +4199,8 @@ msgstr "Du darfst meine Wichse haben!"
 
 #. Key:	94451EBE42500C5CEC2E988DDD887046
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 -
+#: Value).TraitIcons.HelpText
 msgctxt ",94451EBE42500C5CEC2E988DDD887046"
 msgid "Nymphomaniac: Loyalty is increased twice as fast from having sex."
 msgstr "Nymphomane: Loyalität wird durch Sex doppelt so schnell gesteigert."
@@ -4201,7 +4249,8 @@ msgstr "Harpiyen-Körperflüssigkeiten."
 
 #. Key:	95781B414AAF336B071430A39FC2F698
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(5 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(5 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(5 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",95781B414AAF336B071430A39FC2F698"
 msgid "Esoteric Glade"
 msgstr "Esoterische Lichtung"
@@ -4264,7 +4313,8 @@ msgstr ""
 
 #. Key:	97244FB84D6D7CC0273CD3BB89B847D9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",97244FB84D6D7CC0273CD3BB89B847D9"
 msgid "Swift"
 msgstr "Schnell"
@@ -4467,7 +4517,8 @@ msgstr "Ohhh wie habe ich darauf gewartet meine weichen Lippen um einen Menschen
 
 #. Key:	9ECA418E4EC2E9617CD48B82C43CB5FA
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 -
+#: Value).TraitIcons.HelpText
 msgctxt ",9ECA418E4EC2E9617CD48B82C43CB5FA"
 msgid "Huge: Roughly 10ft in height."
 msgstr "Enorm: Ungefähr 3 Meter groß."
@@ -4488,14 +4539,16 @@ msgstr "Verwalte deine Formurianer"
 
 #. Key:	9F25BEB847378BA942933C8A503B4F1A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 -
+#: Value).TraitIcons.HelpText
 msgctxt ",9F25BEB847378BA942933C8A503B4F1A"
 msgid "Swift: Dexterity reduces lust cost of actions as a percentage."
 msgstr "Schnell: Geschicklichkeit verringert prozentual den Lustverbrauch durch Aktionen."
 
 #. Key:	9F83DE504D98E2D4C149568C1F8DE768
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 -
+#: Value).TraitIcons.HelpText
 msgctxt ",9F83DE504D98E2D4C149568C1F8DE768"
 msgid "Massive: Roughly 15ft in height."
 msgstr "Mächtig: Ungefähr 4,50 Meter groß."
@@ -4642,7 +4695,8 @@ msgstr "Jetz' ist das auch egal, diese Farm ist schon seit Ewigkeiten in dem Zus
 
 #. Key:	A4C22B3045E8159B66E47CB636E23172
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",A4C22B3045E8159B66E47CB636E23172"
 msgid "Nurturing"
 msgstr "Fürsorglich"
@@ -4894,7 +4948,8 @@ msgstr "Du bist der Herr dieses Bodens--oder Besitzer von Heimstatt, in der geme
 
 #. Key:	AFBF754C422E5E00DF8BB7A37B956DFB
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 -
+#: Value).TraitIcons.HelpText
 msgctxt ",AFBF754C422E5E00DF8BB7A37B956DFB"
 msgid "Divergent: Offspring have a chance to generate a random trait upon being summoned."
 msgstr "Abweichend: Nachkommen habe die Chance bei Beschwörung ein zufälliges Merkmal zu erhalten."
@@ -4908,7 +4963,8 @@ msgstr "Wilde @MONSTER_RACE@ sind das was du fangen und züchten wirst."
 
 #. Key:	B088E0624E17857FAE8AE4B893251DA2
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",B088E0624E17857FAE8AE4B893251DA2"
 msgid "Hominal"
 msgstr "Menschlich"
@@ -4950,7 +5006,8 @@ msgstr "Ahhh! Ich könnt' dich einfach zwischen meinen Möpsen einquetschen bis 
 
 #. Key:	B20F5D9040267E77436A9B94B5F68150
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",B20F5D9040267E77436A9B94B5F68150"
 msgid "Gaudy"
 msgstr "Farbenprächtig"
@@ -4999,7 +5056,8 @@ msgstr "Farn brauchen Menschensaft um zzzu großer Alraune zu wachsssen! Fauch, 
 
 #. Key:	B3953BA1451F630DE2CF019EB4CB6A69
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",B3953BA1451F630DE2CF019EB4CB6A69"
 msgid "Valuable"
 msgstr "Wertvoll"
@@ -5111,7 +5169,8 @@ msgstr "Meine... \"Experimente\" legen nahe, dass unsere menschliche Hälfte von
 
 #. Key:	B7AB851641C9ABEE4A178B9DFFD50B0B
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",B7AB851641C9ABEE4A178B9DFFD50B0B"
 msgid "Hybrid"
 msgstr "Mischling"
@@ -5125,7 +5184,8 @@ msgstr "Ein größerer Gebender benutzt seine Kraft um den Empfänger in die Luf
 
 #. Key:	B7DDB984480E5280CB46B69238C0654E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 -
+#: Value).TraitIcons.HelpText
 msgctxt ",B7DDB984480E5280CB46B69238C0654E"
 msgid "Chubby: This one has more body fat."
 msgstr "Mollig: Diese Kreatur hat mehr Körperfett."
@@ -5328,7 +5388,8 @@ msgstr "Jetzt wo ich einen Menschen zum spielen habe, freue ich mich drauf diese
 
 #. Key:	BFCA3659420358C2CFA5B5B426282E9A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 -
+#: Value).TraitIcons.HelpText
 msgctxt ",BFCA3659420358C2CFA5B5B426282E9A"
 msgid "Debauched: Offspring have a 20% chance to ignore the negative impacts of inbreeding."
 msgstr "Verkommen: Nachkommen haben eine 20% Chance die negativen Effekte von Inzucht zu ignorieren."
@@ -5517,7 +5578,8 @@ msgstr "Lass uns meine Seelengestalt wiederaufladen."
 
 #. Key:	C7BA93A840AB5FA97F357E802955A851
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",C7BA93A840AB5FA97F357E802955A851"
 msgid "Exotic"
 msgstr "Exotisch"
@@ -5538,7 +5600,8 @@ msgstr "Ich weiß, dass du dich an nichts vor diesem Moment erinnern kannst, als
 
 #. Key:	C9DFA1EB40C3BF78D4B015AC82833310
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",C9DFA1EB40C3BF78D4B015AC82833310"
 msgid "Normal Size"
 msgstr "Normale Statur"
@@ -5636,7 +5699,8 @@ msgstr "Ich kann alles bauen was eure Genitalität wünscht!"
 
 #. Key:	CE50C843466352316F4461BC2722C00E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 -
+#: Value).TraitIcons.HelpText
 msgctxt ",CE50C843466352316F4461BC2722C00E"
 msgid "Nurturing: Offspring inherit 20% higher stats."
 msgstr "Fürsorglich: Nachkommen erben 20% höhere Werte."
@@ -5685,21 +5749,24 @@ msgstr ""
 
 #. Key:	D066439244AFE855B06F90AB1A4A0829
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(8 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(8 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(8 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",D066439244AFE855B06F90AB1A4A0829"
 msgid "Sultry Plateau"
 msgstr "Heißblütiges Plateau"
 
 #. Key:	D0FA90CC4E9378DF7150FB881B18DC60
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 -
+#: Value).TraitIcons.HelpText
 msgctxt ",D0FA90CC4E9378DF7150FB881B18DC60"
 msgid "Normal: Roughly 6ft in height."
 msgstr "Normal: Ungefähr 1,80 Meter groß."
 
 #. Key:	D15AF6D44FBD9FB7572622AE572A21D7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 -
+#: Value).TraitIcons.HelpText
 msgctxt ",D15AF6D44FBD9FB7572622AE572A21D7"
 msgid "Hybrid: This one is a mix of two races."
 msgstr "Mischling: Diese Kreatur ist eine Mischung aus zwei Rassen."
@@ -5818,7 +5885,8 @@ msgstr "Lass uns Liebe machen!"
 
 #. Key:	D535E0D84F73A7E07CA72DA2ED4F1B11
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 -
+#: Value).TraitIcons.HelpText
 msgctxt ",D535E0D84F73A7E07CA72DA2ED4F1B11"
 msgid "Meaty: Strength raises the XP granted to mates when breeding as a percentage."
 msgstr "Fleischig: Die Stärke erhöht prozentual die EP die Partner während der Paarung bekommen."
@@ -5937,7 +6005,8 @@ msgstr "*Schnurr*"
 
 #. Key:	D913C6254D30AA08E8B01787AE3D1B68
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",D913C6254D30AA08E8B01787AE3D1B68"
 msgid "Hivelands"
 msgstr "Schwarmländer"
@@ -6084,7 +6153,8 @@ msgstr "Unterwerfe dich, Mensch... Ich kann mein Verlangen nicht kontrollieren!"
 
 #. Key:	DC956C0949E5CA05486F1583CEACA3ED
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",DC956C0949E5CA05486F1583CEACA3ED"
 msgid "Busty"
 msgstr "Vollbusig"
@@ -6266,7 +6336,8 @@ msgstr "Ahh... ohhhh... ja! Befriedige meine beiden Tentakelspitzen..."
 
 #. Key:	E20511A746C7BFEF4C46D5A2F2586CD0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 -
+#: Value).TraitIcons.HelpText
 msgctxt ",E20511A746C7BFEF4C46D5A2F2586CD0"
 msgid "Slick: Inherited slick oily skin."
 msgstr "Glatt: Hat glatte ölige Haut geerbt."
@@ -6378,7 +6449,8 @@ msgstr "Eine weise Wahl, Mensch, die Göttin hat die wilden @MONSTER_RACE@ weite
 
 #. Key:	E663A2A8494081C671EA74A317740FAD
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",E663A2A8494081C671EA74A317740FAD"
 msgid "Atypical"
 msgstr "Untypisch"
@@ -6406,14 +6478,16 @@ msgstr "Der Empfänger bewegt sich vertikal und ist vom Gebenden abgewandt."
 
 #. Key:	E8789C0E4CCC57BB8A98178902DA8110
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 -
+#: Value).TraitIcons.HelpText
 msgctxt ",E8789C0E4CCC57BB8A98178902DA8110"
 msgid "Exotic: Inherited more monster traits."
 msgstr "Exotisch: Hat mehr Monstermerkmale geerbt."
 
 #. Key:	E89A6BB74D15111C98632A99F45745CC
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",E89A6BB74D15111C98632A99F45745CC"
 msgid "Meaty"
 msgstr "Fleischig"
@@ -6441,7 +6515,8 @@ msgstr "Wir lieben es uns mit allen anderen @MONSTER_RACE@ zu paaren."
 
 #. Key:	E95C5DA945F5D8A92099E9892F4615A7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(1 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(1 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(1 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",E95C5DA945F5D8A92099E9892F4615A7"
 msgid "Amorous Hallows"
 msgstr "Amouröse Heiligtümer"
@@ -6504,7 +6579,8 @@ msgstr "Ah, natürlich könnte ich dir Zugang gewähren, aber... Da ist etwas, d
 
 #. Key:	EC01A5624439E2DDB75614A1656451DD
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 -
+#: Value).TraitIcons.HelpText
 msgctxt ",EC01A5624439E2DDB75614A1656451DD"
 msgid "Hung: Inherited a larger dick."
 msgstr "Gut bestückt: Hat einen größeren Schwanz geerbt."
@@ -6574,7 +6650,8 @@ msgstr "Oh Meister, du hast mich gut genährt."
 
 #. Key:	EEBA2B7C475E9710DEB122887C14BEE9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 -
+#: Value).TraitIcons.HelpText
 msgctxt ",EEBA2B7C475E9710DEB122887C14BEE9"
 msgid "Charmer: Allure raises XP from breeding as a percentage."
 msgstr "Schwerenöter: Verlockung erhöht prozentual EP durch Paarung."
@@ -6637,7 +6714,8 @@ msgstr "Ja, ohh... gib mir all deine Saat. Ahhhhh..."
 
 #. Key:	F1D3A2E044E22D62A15FD2A3C291C751
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 -
+#: Value).TraitIcons.HelpText
 msgctxt ",F1D3A2E044E22D62A15FD2A3C291C751"
 msgid "Small: Roughly 5ft in height."
 msgstr "Klein: Ungefähr 1,50 Meter groß."
@@ -6826,14 +6904,16 @@ msgstr "MIAU!!! Cassie wird dich mit Kätzchensamen auffüllen!"
 
 #. Key:	FA099D00490628CE02692F98F8341539
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",FA099D00490628CE02692F98F8341539"
 msgid "Buxom"
 msgstr "Drall"
 
 #. Key:	FA16663A4C4765BC8F4CBC80FF774B75
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 -
+#: Value).TraitIcons.HelpText
 msgctxt ",FA16663A4C4765BC8F4CBC80FF774B75"
 msgid "Grungy: Mates have a 20% of getting dirty, reducing allure by 50%."
 msgstr "Schmutzig: Partner haben eine 20% Chance schmutzig zu werden, was Verlockung um 50% reduziert."
@@ -6945,7 +7025,8 @@ msgstr "Ja, es klingt so lieblich, es ist das Geräusch menschlicher Lust. Ahhh.
 
 #. Key:	FD257CB04C6B3AB420244298D2C33047
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",FD257CB04C6B3AB420244298D2C33047"
 msgid "Hornball"
 msgstr "Lüstling"
@@ -6966,7 +7047,8 @@ msgstr "Das Anschwellen des Bauches repräsentiert den Fortschritt in der Entwic
 
 #. Key:	FD8011CC4C321FCEC4C41F88F97FDCD1
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(3 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(3 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(3 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",FD8011CC4C321FCEC4C41F88F97FDCD1"
 msgid "Moaning Crag"
 msgstr "Stöhnende Klippe"
@@ -6987,7 +7069,8 @@ msgstr "Ich bin eine wachsende Alraune, hast du vielleicht Flüssigkeiten übrig
 
 #. Key:	FDBDE7714A97FE255B38A0BACEC479DB
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",FDBDE7714A97FE255B38A0BACEC479DB"
 msgid "Tiny Size"
 msgstr "Winzige Statur"
@@ -7050,7 +7133,8 @@ msgstr "Ach ich Dummerchen, ich vergesse immer mich vorzustellen."
 
 #. Key:	FFEB9256402DB5ADDFEED38770F40285
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 -
+#: Value).TraitIcons.HelpText
 msgctxt ",FFEB9256402DB5ADDFEED38770F40285"
 msgid "Busty: Inherited very large breasts."
 msgstr "Vollbusig: Hat sehr große Brüste geerbt."
@@ -7745,7 +7829,9 @@ msgstr ""
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:57
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:57
 msgctxt "CharacterDetails,PregnancyTooltip"
-msgid "Progress toward summoning offspring.\nMilk production is doubled during pregnancy."
+msgid ""
+"Progress toward summoning offspring.\n"
+"Milk production is doubled during pregnancy."
 msgstr ""
 
 #. Key:	Procreators
@@ -7976,7 +8062,9 @@ msgstr ""
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:263
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:263
 msgctxt "CharacterEditor,ChangeSexTooltip"
-msgid "Change this character's sex.\nWARNING: This will overwrite the current appearance."
+msgid ""
+"Change this character's sex.\n"
+"WARNING: This will overwrite the current appearance."
 msgstr ""
 
 #. Key:	ChooseAnimationTooltip
@@ -8011,7 +8099,9 @@ msgstr ""
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:158
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:158
 msgctxt "CharacterEditor,ExoticTooltip"
-msgid "Give this character its exotic trait if one exists.\nWARNING: This will overwrite the current appearance."
+msgid ""
+"Give this character its exotic trait if one exists.\n"
+"WARNING: This will overwrite the current appearance."
 msgstr ""
 
 #. Key:	EyebrowMaterial
@@ -8095,7 +8185,9 @@ msgstr ""
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:151
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:151
 msgctxt "CharacterEditor,HominalTooltip"
-msgid "Give this character its hominal trait if one exists.\nWARNING: This will overwrite the current appearance."
+msgid ""
+"Give this character its hominal trait if one exists.\n"
+"WARNING: This will overwrite the current appearance."
 msgstr ""
 
 #. Key:	LeaveButton
@@ -8116,7 +8208,9 @@ msgstr ""
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:128
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:128
 msgctxt "CharacterEditor,LoadUsrPresetTooltip"
-msgid "Load a saved preset.\nWARNING: This will overwrite the current appearance."
+msgid ""
+"Load a saved preset.\n"
+"WARNING: This will overwrite the current appearance."
 msgstr ""
 
 #. Key:	LowerBodyShape
@@ -8172,7 +8266,9 @@ msgstr ""
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:223
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:223
 msgctxt "CharacterEditor,PasteTooltip"
-msgid "Paste from clipboard.\nWARNING: This will overwrite the current appearance, and might look terrible on different variants."
+msgid ""
+"Paste from clipboard.\n"
+"WARNING: This will overwrite the current appearance, and might look terrible on different variants."
 msgstr ""
 
 #. Key:	PresetNameTitle
@@ -8277,7 +8373,9 @@ msgstr ""
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:144
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:144
 msgctxt "CharacterEditor,VariantTooltip"
-msgid "Change this character's variant.\nWARNING: This will overwrite the current appearance."
+msgid ""
+"Change this character's variant.\n"
+"WARNING: This will overwrite the current appearance."
 msgstr ""
 
 #. Key:	ErrorSavingPreset
@@ -9005,7 +9103,10 @@ msgstr ""
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:91
 #: Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:91
 msgctxt "MainMenu,Message"
-msgid "This game is built and maintained by one guy: DerelictHelmsman.\nNo censorship nor DRM will ever be implemented; respect this if you enjoy the game.\nSpecial thanks to all of my patrons, your support is sincerely appreciated."
+msgid ""
+"This game is built and maintained by one guy: DerelictHelmsman.\n"
+"No censorship nor DRM will ever be implemented; respect this if you enjoy the game.\n"
+"Special thanks to all of my patrons, your support is sincerely appreciated."
 msgstr ""
 
 #. Key:	NewGameButton
@@ -9635,7 +9736,9 @@ msgstr ""
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:101
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:101
 msgctxt "SettingsMenu,PregnancyHelp"
-msgid "Female Nephelym will take 4 days to summon their offspring, and the belly will morph to reflect this.\nWARNING: Toggling this off during gameplay will cause existing pregnancies to be lost."
+msgid ""
+"Female Nephelym will take 4 days to summon their offspring, and the belly will morph to reflect this.\n"
+"WARNING: Toggling this off during gameplay will cause existing pregnancies to be lost."
 msgstr ""
 
 #. Key:	Quality
@@ -10337,4 +10440,3 @@ msgstr ""
 msgctxt "WorldAction,TraverseAction"
 msgid "Traverse Portal"
 msgstr ""
-
