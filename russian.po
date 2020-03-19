@@ -5940,7 +5940,7 @@ msgstr "*Мурр*"
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 - Value).TravelShrines.ShrineName
 msgctxt ",D913C6254D30AA08E8B01787AE3D1B68"
 msgid "Hivelands"
-msgstr "Гудящая поляна"
+msgstr "Земли Роя"
 
 #. Key:	D942BF8C4B6164B1D4F7569E55FC349E
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R03.Default__FernDefault03_R03_C.SessionData.Lines(0).Lines
@@ -7375,7 +7375,7 @@ msgstr "Член"
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:308
 msgctxt "BreedingSession,IKDickSpline"
 msgid "P,L,S C,T,V"
-msgstr ""
+msgstr "P,L,S C,T,V"
 
 #. Key:	IKGiver
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:209
@@ -7445,7 +7445,7 @@ msgstr "Правая нога"
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:222
 msgctxt "BreedingSession,IKRoot"
 msgid "Root"
-msgstr "Root"
+msgstr "{Root}"
 
 #. Key:	IKSpine
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:331
@@ -7466,7 +7466,7 @@ msgstr "Хвост"
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:438
 msgctxt "BreedingSession,Prop"
 msgid "Prop"
-msgstr ""
+msgstr "{Prop}"
 
 #. Key:	SaveGiverTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:179
@@ -7921,7 +7921,7 @@ msgstr "Дополнения"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:449
 msgctxt "CharacterEditor,BodyAttachmentsMaterial"
 msgid "Body Attachments"
-msgstr ""
+msgstr "Дополения фигуры"
 
 #. Key:	BodyMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:424
@@ -7956,7 +7956,7 @@ msgstr "Грудь"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:497
 msgctxt "CharacterEditor,BreedingTags"
 msgid "Breeding Tags"
-msgstr ""
+msgstr "{Селекционные Метки}"
 
 #. Key:	ButtShape
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:376
@@ -8355,7 +8355,7 @@ msgstr "Выполнить запрос?"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:83
 msgctxt "ConfirmationBox,NewGameConfirm"
 msgid "Begin a new adventure with a clean slate."
-msgstr "{Начать новое приклбчение с чистого листа.}"
+msgstr "{Начать новое приключение с чистого листа.}"
 
 #. Key:	NewGameConfirmTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:82
@@ -8439,7 +8439,7 @@ msgstr "Ванная удалит характеристику "Грязный""
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:890
 msgctxt "ConfirmTradeBox,BuyUpgradeMessage"
 msgid "This upgrade will permanently be added to your ranch."
-msgstr "{Данное обновление пермаментно добьавится к вашему ранчо.}"
+msgstr "{Данное обновление пермаментно добавится к вашему ранчо.}"
 
 #. Key:	CancelButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:454
@@ -8516,7 +8516,7 @@ msgstr "Сохранение"
 #: Source/Radiant/Public/UI/Components/SexyGridItem.cpp:58
 msgctxt "GridItem,Null"
 msgid "Null"
-msgstr "{Ничего}"
+msgstr "{Пусто}"
 
 #. Key:	NotInterested
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestContainerGrid.cpp:25
@@ -8621,35 +8621,35 @@ msgstr "Использовать 5 мл выбранного семени что
 #: Source/Radiant/Public/UI/Components/SexyIKModifier.cpp:138
 msgctxt "IKModifier,P"
 msgid "P"
-msgstr ""
+msgstr "P"
 
 #. Key:	R
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyIKModifier.cpp:120
 #: Source/Radiant/Public/UI/Components/SexyIKModifier.cpp:120
 msgctxt "IKModifier,R"
 msgid "R"
-msgstr ""
+msgstr "R"
 
 #. Key:	X
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyIKModifier.cpp:56
 #: Source/Radiant/Public/UI/Components/SexyIKModifier.cpp:56
 msgctxt "IKModifier,X"
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #. Key:	Y
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyIKModifier.cpp:74
 #: Source/Radiant/Public/UI/Components/SexyIKModifier.cpp:74
 msgctxt "IKModifier,Y"
 msgid "Y"
-msgstr ""
+msgstr "Y"
 
 #. Key:	Z
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyIKModifier.cpp:92
 #: Source/Radiant/Public/UI/Components/SexyIKModifier.cpp:92
 msgctxt "IKModifier,Z"
 msgid "Z"
-msgstr ""
+msgstr "Z"
 
 #. Key:	Allure
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:77
@@ -8873,7 +8873,7 @@ msgstr "Двигаться направо"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:168
 msgctxt "Keybinds,Pan"
 msgid "Pan"
-msgstr ""
+msgstr "{Pan}"
 
 #. Key:	Rotate
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:171
@@ -8887,7 +8887,7 @@ msgstr "Повернуть"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:147
 msgctxt "Keybinds,SingleTapDodge"
 msgid "One Tap Dodge"
-msgstr ""
+msgstr "{One Tap Dodge}"
 
 #. Key:	Slide
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:144
@@ -8957,7 +8957,7 @@ msgstr "Повернуть камеру"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:193
 msgctxt "Keybinds,UtilityMenu"
 msgid "Toggle Utility Menu"
-msgstr ""
+msgstr "{Toggle Utility Menu}"
 
 #. Key:	Walk
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:153
@@ -9552,7 +9552,7 @@ msgstr "Уникальные виды могут быть получены пр�
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:252
 msgctxt "SettingsMenu,KeyBinds"
 msgid "Action Bindings"
-msgstr "{Действие со строениями}"
+msgstr "{Привязки действий}"
 
 #. Key:	LangMode
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:495
@@ -9608,7 +9608,7 @@ msgstr "Настройки"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:111
 msgctxt "SettingsMenu,PhysHelp"
 msgid "Simulate Breeder's jiggly bits, disable for performance gain. Restart required for full effect."
-msgstr ""
+msgstr "Имитация реалистичной физики тела. Сильно влияет на производительность. Для применения изменений требуется перезапуск."
 
 #. Key:	PhysicsTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:355
@@ -10168,7 +10168,7 @@ msgstr "Энтер"
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:841
 msgctxt "SSexySettingsMenu,FemG"
 msgid "Futas use SS FemG."
-msgstr ""
+msgstr "{Футанари используют SS FemG.}"
 
 #. Key:	FetishTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:125
@@ -10182,21 +10182,21 @@ msgstr "Фетиш"
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:845
 msgctxt "SSexySettingsMenu,NFemG"
 msgid "Futas use SS TG."
-msgstr ""
+msgstr "{Футанари используют SS TG.}"
 
 #. Key:	SizePairs
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexySexPositionDetails.cpp:25
 #: Source/Radiant/Public/UI/Components/SexySexPositionDetails.cpp:25
 msgctxt "SSexySexPositionDetails,SizePairs"
 msgid "Pairs with Scene"
-msgstr ""
+msgstr "{Pairs with Scene}"
 
 #. Key:	Null
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyTaskGridItem.cpp:194
 #: Source/Radiant/Public/UI/Components/SexyTaskGridItem.cpp:194
 msgctxt "SSexyTaskGridItem,Null"
 msgid "Null"
-msgstr "{Ничего}"
+msgstr "{Пусто}"
 
 #. Key:	FavorTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1024
