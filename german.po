@@ -1,11 +1,10 @@
-﻿# german German (Germany) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: german\n"
 "POT-Creation-Date: 2020-04-16 16:20\n"
-"PO-Revision-Date: 2020-04-16 16:20\n"
+"PO-Revision-Date: 2020-04-20 23:12+0200\n"
 "Language-Team: \n"
 "Language: de_DE\n"
 "MIME-Version: 1.0\n"
@@ -576,7 +575,7 @@ msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Thrianern zu fangen."
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(3).ResponseData.BreederPrompt
 msgctxt ",12D176A644633E97EDB77BAB882297E2"
 msgid "Reverse Cowgirl!"
-msgstr ""
+msgstr "Reverse Cowgirl!"
 
 #. Key:	12D3C80246AEABBC7C78CD8D7A2FD415
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(2).Lines
@@ -906,7 +905,7 @@ msgstr "Ich habe alles Verlangen und jede Emotion überwunden. Dies ist eine der
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",1EDF51EB413B2D360FB8C6B5AD2E62ED"
 msgid "Butterfly!"
-msgstr ""
+msgstr "Butterfly!"
 
 #. Key:	1FA8B3E8448F66CB1045EAB3F54ADE2B
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(5).LinesToFemale
@@ -956,7 +955,7 @@ msgstr "Du bist gerade @WORLD_NAME@s neuster Einwohner geworden!"
 #: /Game/Breeding/Positions/Test5.Default__Test5_C.SessionData.PositionName
 msgctxt ",20BEB0FA47066DBAB732F68642C6BAC3"
 msgid "Test5"
-msgstr ""
+msgstr "Test5"
 
 #. Key:	20FEDBA24B5C623E162B85A3D6ACF514
 #. SourceLocation:	/Game/Ranch/Upgrades/StarfallenMonolith.Default__StarfallenMonolith_C.Upgrade.DisplayName
@@ -1234,7 +1233,7 @@ msgstr "Mutter hat für 788 Jahre regiert, Mensch, und es ist Gesetz, dass Hersc
 #: /Game/Breeding/Positions/Surprise.Default__Surprise_C.SessionData.PositionName
 msgctxt ",2B7282574EF4D841A9B0AD9EB06296D5"
 msgid "Surprise"
-msgstr ""
+msgstr "Überraschung"
 
 #. Key:	2BA86FB140866995E4F323B86DA72C9A
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_SellMonsters.Default__EmissaryDefault01_SellMonsters_C.SessionData.Lines(0).Lines
@@ -1689,7 +1688,7 @@ msgstr "Fange einen männlichen Vulwarg, falls du es nocht nicht getan hast, dan
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_StartMIssionary.Default__ParvatiDefault01_StartMIssionary_C.SessionData.Lines(0).Lines
 msgctxt ",3B79840D47C6CCB278E40AB26C3546E7"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. Key:	3C197E81483FDB92C0B7DE83C29374D3
 #. SourceLocation:	/Game/Ranch/Upgrades/ThriaeHive.Default__ThriaeHive_C.Upgrade.DisplayName
@@ -1733,7 +1732,7 @@ msgstr "Ich klettere in deine Blüte."
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",3EAFC53348C0B793D4BF32A6B78F4E3F"
 msgid "Lifted!"
-msgstr ""
+msgstr "In der Luft!"
 
 #. Key:	3EDC6D7644348135F915AD8CFA2438CE
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_F.Default__FernDefault02_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
@@ -1916,7 +1915,7 @@ msgstr "Verschwende deine köstlichen Körperflüssigkeiten nicht an mir. Warte 
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_StartLifted.Default__ParvatiDefault01_StartLifted_C.SessionData.Lines(0).Lines
 msgctxt ",442AA41044275C5F5330F99CF2ECE542"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. Key:	44BC09AE4BDFA439FBFD8BAABD7A96D0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.DisplayName
@@ -2357,7 +2356,7 @@ msgstr "Ambers Titten sind größer als ich! Warum ist diese Welt so grausam..."
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_StartRCowgirl.Default__ParvatiDefault01_StartRCowgirl_C.SessionData.Lines(0).Lines
 msgctxt ",51FAB478484E006C8F04E28F37E5D4D3"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. Key:	5243F67240932D62D7FDFABA63222594
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.DisplayName
@@ -2909,7 +2908,7 @@ msgstr "Wie schade... wir könnten solch schöne Klänge erzeugen."
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_StartCowgirl.Default__ParvatiDefault01_StartCowgirl_C.SessionData.Lines(0).Lines
 msgctxt ",67E8752E482B4F96EC745D8BB55B5F68"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. Key:	67EB3E22466BD62D9BC182899350E3AF
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -2945,7 +2944,7 @@ msgstr "Schwerenöter"
 #: /Game/Breeding/Positions/Test3.Default__Test3_C.SessionData.PositionName
 msgctxt ",693F4313487D2153C164CFBF808F1814"
 msgid "Test3"
-msgstr ""
+msgstr "Test3"
 
 #. Key:	695409264F52725B30031E8F0FB4052C
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_F.Default__FernDefault02_RL_F_C.ResponseData(2).ResponseData.BreederPrompt
@@ -2959,7 +2958,7 @@ msgstr "Was kannst du tun?"
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_StartForgotten.Default__ParvatiDefault01_StartForgotten_C.SessionData.Lines(1).Lines
 msgctxt ",697AC02A4A47BBBD70150ABE216F79E9"
 msgid "Contemplate for moment while I apply some lube."
-msgstr ""
+msgstr "Denk noch mal drüber nach, ich trag schonmal das Gleitgel auf."
 
 #. Key:	6993DD7B4964C190B75F98AABA008FAA
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(0).Lines
@@ -3044,7 +3043,7 @@ msgstr "Saftig: Gibt 50% zusätzliche Körperflüssigkeit bei der Ernte ab."
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(6).ResponseData.BreederPrompt
 msgctxt ",6D1721A840C5FB9C772FA0B710043ADC"
 msgid "Waterfall!"
-msgstr ""
+msgstr "Wasserfall!"
 
 #. Key:	6D4E481742B09428791263B3A820281E
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(4).Lines
@@ -3463,7 +3462,7 @@ msgstr "Ich bin seit unzähligen Jahren ein Aufseher der Leere und habe mich wei
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_Pregnancy.Default__FaleneDefault01_Pregnancy_C.SessionData.Lines(4).Lines
 msgctxt ",7921ED37459363625C14BEAA60B51F49"
 msgid "Isn't that just fantastic and adorable?!!!"
-msgstr ""
+msgstr "Ist das nicht hinreisend fantastisch?!!"
 
 #. Key:	7A37639548189268575986A48C480863
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_TheVoid.Default__NeelaDefault01_TheVoid_C.SessionData.Lines(2).Lines
@@ -3649,7 +3648,7 @@ msgstr "Heimstatt"
 #: /Game/Breeding/Positions/Test2.Default__Test2_C.SessionData.PositionName
 msgctxt ",821ABD64418D426631CB80AA3EE0629D"
 msgid "Test2"
-msgstr ""
+msgstr "Test2"
 
 #. Key:	827D026847F470B33C9BA5B6E24201F5
 #. SourceLocation:	/Game/Breeding/Positions/Lifted.Default__Lifted_C.SessionData.PositionName
@@ -4401,7 +4400,7 @@ msgstr "Stell dir all die Orte vor in die du deinen Schwanz gleiten lassen kanns
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",96151D60454DB0FB521DD6A507DA6C07"
 msgid "Cowgirl!"
-msgstr ""
+msgstr "Cowgirl!"
 
 #. Key:	96824C894B9B4241DBDFEEB68C760057
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(30).LinesToMale
@@ -4563,7 +4562,7 @@ msgstr "Ohhh Meistah! Endlich Farn kriegen Flüsssigkeiten?!"
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot.Default__ParvatiDefault01_Forgot_C.SessionData.Lines(0).Lines
 msgctxt ",9A173A0445AB01F578033CA42A8E9C8F"
 msgid "Oh! Ahem..."
-msgstr ""
+msgstr "Oh! Ähem..."
 
 #. Key:	9A9EDF3448107C0855BB35BBD9D849F5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(23).LinesToFemale
@@ -4931,7 +4930,7 @@ msgstr "Ja, ich bin eine Bemalte Elfe!"
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(5).ResponseData.BreederPrompt
 msgctxt ",A91A80914B126F3C3F262D93E88AEA71"
 msgid "Missionary!"
-msgstr ""
+msgstr "Missionarsstellung!"
 
 #. Key:	A97AEF8E47499B2AEB627CAE711C36BC
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow_StartSplinters.Default__CassieDefault01_Meow_StartSplinters_C.SessionData.Lines(0).Lines
@@ -5179,7 +5178,7 @@ msgstr "Du kanns' mich als Kenner von @MONSTER_RACE@ Milch betracht'n. Die Milch
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_StartForgotten.Default__ParvatiDefault01_StartForgotten_C.SessionData.Lines(2).Lines
 msgctxt ",B235542C44D65B1D62C721A3C4CD289F"
 msgid "Pay close attention to my form, and learn you should."
-msgstr ""
+msgstr "Also achte auf meine Bewegungen und lern daran."
 
 #. Key:	B27218744AEBAD507E1037B620EC16DA
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R03_R01.Default__BlossomDefault01_R03_R01_C.SessionData.Lines(0).Lines
@@ -5392,7 +5391,7 @@ msgstr "Der Empfänger liegt erhört auf dem Rücken, während der Gebende steht
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_StartButterfly.Default__ParvatiDefault01_StartButterfly_C.SessionData.Lines(0).Lines
 msgctxt ",B87B8D5E4C3F16D731F4EA884051A1FD"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. Key:	B8D3474E436959F3B7C140BFE42CF3C0
 #. SourceLocation:	/Game/Breeding/Positions/Doggy.Default__Doggy_C.SessionData.Description
@@ -5886,7 +5885,7 @@ msgstr "Fürsorglich: Nachkommen erben 20% höhere Werte."
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_RL.Default__ParvatiDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",CE6754D34D354921713D50B1F67C0F01"
 msgid "I... uh... \"forgot\" a teaching."
-msgstr ""
+msgstr "Ich... ähm... hab da was \"vergessen\"."
 
 #. Key:	CEC4092D45D0DBE6546A729EE34F0267
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(3).Lines
@@ -6142,7 +6141,7 @@ msgstr "Sie alle waren befriedigend und köstlich... doch oh, ich wollte so viel
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_StartWaterfall.Default__ParvatiDefault01_StartWaterfall_C.SessionData.Lines(0).Lines
 msgctxt ",D6BF802E4E5B43F72E7B4F90BD61A387"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. Key:	D7B87B2D4E7F9B733C981C804A0914C8
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -6621,7 +6620,7 @@ msgstr "Aber was wir wirklich wollen, ist uns mit dir zu paaren."
 #: /Game/Breeding/Positions/Test4.Default__Test4_C.SessionData.PositionName
 msgctxt ",E594716B40413B6747D21BA87B26EE43"
 msgid "Test4"
-msgstr ""
+msgstr "Test4"
 
 #. Key:	E5B7F2E2469864C41253FC892250ED92
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_Start.Default__RomyDefault01_YourMusic_Start_C.SessionData.Lines(0).Lines
@@ -6758,7 +6757,7 @@ msgstr "Miau! Hehehe lass mich gar nicht erst damit anfangen!"
 #: /Game/Breeding/Positions/Test1.Default__Test1_C.SessionData.PositionName
 msgctxt ",EB54AD484FADC0D1DA6A95B5B6780E36"
 msgid "Surprise"
-msgstr ""
+msgstr "Überraschung"
 
 #. Key:	EB717BA44A439427B1DE6CA60FA650A2
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(2).Lines
@@ -7355,7 +7354,7 @@ msgstr "Vollbusig: Hat sehr große Brüste geerbt."
 #: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:196
 msgctxt "ASexyBreederCharacter,SpiritFormActivate"
 msgid "A Nephelym spirit has merged with {0}."
-msgstr ""
+msgstr "Eine Nephelymseele hat sich mit {0} verbunden."
 
 #. Key:	SpiritFormDeactivate
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:202
@@ -7432,21 +7431,21 @@ msgstr "Du benötigst mehr Lust."
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:991
 msgctxt "ASexyMonsterSystem,FernThanks"
 msgid "Fern gave {0} 150 shiny."
-msgstr ""
+msgstr "Fern hat {0} 150 Glänzendes gegeben."
 
 #. Key:	LearnedPosition
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1024
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1024
 msgctxt "ASexyMonsterSystem,LearnedPosition"
 msgid "{0}'s consciousness has expanded."
-msgstr ""
+msgstr "{0}s Bewusstsein wurde erweitert."
 
 #. Key:	NoBathForYou
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1140
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1140
 msgctxt "ASexyMonsterSystem,NoBathForYou"
 msgid "Not enough orgasium."
-msgstr ""
+msgstr "Nicht genug Orgasium."
 
 #. Key:	NoFutaScene
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1127
@@ -7558,21 +7557,21 @@ msgstr "Sie wollte mehr..."
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:682
 msgctxt "ASexyRoamingSystem,BreederBoringCum"
 msgid "The wild one wanted more..."
-msgstr ""
+msgstr "Das wilde Nephylem wollte mehr..."
 
 #. Key:	BreederClimaxedFirst
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:687
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:687
 msgctxt "ASexyRoamingSystem,BreederClimaxedFirst"
 msgid "{0} has climaxed first..."
-msgstr ""
+msgstr "{0} ist zuerst gekommen..."
 
 #. Key:	BreederLikedCum
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:676
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:676
 msgctxt "ASexyRoamingSystem,BreederLikedCum"
 msgid "The wild one is pleased!"
-msgstr ""
+msgstr "Das wilde Nephelym ist befriedigt!"
 
 #. Key:	CatchSuccess
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:856
@@ -7586,7 +7585,7 @@ msgstr "Wildes Nephelym wurde gefangen."
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:677
 msgctxt "ASexyRoamingSystem,LikedCum"
 msgid "She loves how {0} tastes!"
-msgstr ""
+msgstr "Sie liebt es wie {0} schmeckt!"
 
 #. Key:	RBJStart
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:618
@@ -7649,7 +7648,7 @@ msgstr "Wähle eine Aktion und drücke Start."
 #: Source/Radiant/Public/Characters/Breeder/SexyBreederController.cpp:134
 msgctxt "BreederController,NewOffspring"
 msgid "Congratulations, {0} has summoned new offspring!"
-msgstr ""
+msgstr "Glückwünsche, {0} hat Nachkommen in die Welt gesetzt!"
 
 #. Key:	AdvanceButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:108
@@ -8068,8 +8067,12 @@ msgstr "Schwanger"
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:57
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:57
 msgctxt "CharacterDetails,PregnancyTooltip"
-msgid "Progress toward summoning offspring.\nMilk production is doubled during pregnancy."
-msgstr "Fortschritt bis zur Zeugung eines Nachkommen.\nDie Milchproduktion ist während der Schwangerschaft verdoppelt."
+msgid ""
+"Progress toward summoning offspring.\n"
+"Milk production is doubled during pregnancy."
+msgstr ""
+"Fortschritt bis zur Zeugung eines Nachkommen.\n"
+"Die Milchproduktion ist während der Schwangerschaft verdoppelt."
 
 #. Key:	Procreators
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:94
@@ -8299,8 +8302,12 @@ msgstr "Abbrechen"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:263
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:263
 msgctxt "CharacterEditor,ChangeSexTooltip"
-msgid "Change this character's sex.\nWARNING: This will overwrite the current appearance."
-msgstr "Ändere das Geschlecht des Charakters.\nWARNUNG: Dies setzt das Aussehen des Charakters zurück."
+msgid ""
+"Change this character's sex.\n"
+"WARNING: This will overwrite the current appearance."
+msgstr ""
+"Ändere das Geschlecht des Charakters.\n"
+"WARNUNG: Dies setzt das Aussehen des Charakters zurück."
 
 #. Key:	ChooseAnimationTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:179
@@ -8334,8 +8341,12 @@ msgstr "Details"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:158
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:158
 msgctxt "CharacterEditor,ExoticTooltip"
-msgid "Give this character its exotic trait if one exists.\nWARNING: This will overwrite the current appearance."
-msgstr "Gib dem Charakter ein exotisches Aussehen, falls es eins gibt.\nWARNUNG: Dies setzt das Aussehen des Charakters zurück."
+msgid ""
+"Give this character its exotic trait if one exists.\n"
+"WARNING: This will overwrite the current appearance."
+msgstr ""
+"Gib dem Charakter ein exotisches Aussehen, falls es eins gibt.\n"
+"WARNUNG: Dies setzt das Aussehen des Charakters zurück."
 
 #. Key:	EyebrowMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:404
@@ -8418,8 +8429,12 @@ msgstr "Haare"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:151
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:151
 msgctxt "CharacterEditor,HominalTooltip"
-msgid "Give this character its hominal trait if one exists.\nWARNING: This will overwrite the current appearance."
-msgstr "Gib dem Charakter ein humanoides Aussehen, falls es eins gibt.\nWARNUNG: Dies setzt das Aussehen des Charakters zurück."
+msgid ""
+"Give this character its hominal trait if one exists.\n"
+"WARNING: This will overwrite the current appearance."
+msgstr ""
+"Gib dem Charakter ein humanoides Aussehen, falls es eins gibt.\n"
+"WARNUNG: Dies setzt das Aussehen des Charakters zurück."
 
 #. Key:	LeaveButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:98
@@ -8439,8 +8454,12 @@ msgstr "Beende das Editieren der Seelengestalt."
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:128
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:128
 msgctxt "CharacterEditor,LoadUsrPresetTooltip"
-msgid "Load a saved preset.\nWARNING: This will overwrite the current appearance."
-msgstr "Lade ein gespeichertes Preset.\nWARNUNG: Dies setzt das Aussehen des Charakters zurück."
+msgid ""
+"Load a saved preset.\n"
+"WARNING: This will overwrite the current appearance."
+msgstr ""
+"Lade ein gespeichertes Preset.\n"
+"WARNUNG: Dies setzt das Aussehen des Charakters zurück."
 
 #. Key:	LowerBodyShape
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:366
@@ -8495,8 +8514,12 @@ msgstr "Nippel"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:223
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:223
 msgctxt "CharacterEditor,PasteTooltip"
-msgid "Paste from clipboard.\nWARNING: This will overwrite the current appearance, and might look terrible on different variants."
-msgstr "Füge aus der Zwischenablage ein.\nWARNUNG: Dies setzt das Aussehen des Charakters zurück. Und es könnte schrecklich aussehen, falls auf eine andere Art übertragen."
+msgid ""
+"Paste from clipboard.\n"
+"WARNING: This will overwrite the current appearance, and might look terrible on different variants."
+msgstr ""
+"Füge aus der Zwischenablage ein.\n"
+"WARNUNG: Dies setzt das Aussehen des Charakters zurück. Und es könnte schrecklich aussehen, falls auf eine andere Art übertragen."
 
 #. Key:	PresetNameTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:505
@@ -8600,7 +8623,9 @@ msgstr "Klamotten Oberteil"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:144
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:144
 msgctxt "CharacterEditor,VariantTooltip"
-msgid "Change this character's variant.\nWARNING: This will overwrite the current appearance."
+msgid ""
+"Change this character's variant.\n"
+"WARNING: This will overwrite the current appearance."
 msgstr "Ändere die Art des Characters. WARNUNG: Dies setzt das Aussehen des Charakters zurück."
 
 #. Key:	ErrorSavingPreset
@@ -9328,8 +9353,14 @@ msgstr "Spiel laden"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:91
 #: Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:91
 msgctxt "MainMenu,Message"
-msgid "This game is built and maintained by one guy: DerelictHelmsman.\nNo censorship nor DRM will ever be implemented; respect this if you enjoy the game.\nSpecial thanks to all of my patrons, your support is sincerely appreciated."
-msgstr "Dieses Spiel wird von einer Person entwickelt und gepflegt: DerelictHelmsman.\nEs wird niemals irgendeine Art von Zensierung oder DRM geben; bitte respektiere dies wenn dir das Spiel gefällt.\nBesonderer Dank gilt all meinen Patrons, euer support wird aufrichtig geschätzt."
+msgid ""
+"This game is built and maintained by one guy: DerelictHelmsman.\n"
+"No censorship nor DRM will ever be implemented; respect this if you enjoy the game.\n"
+"Special thanks to all of my patrons, your support is sincerely appreciated."
+msgstr ""
+"Dieses Spiel wird von einer Person entwickelt und gepflegt: DerelictHelmsman.\n"
+"Es wird niemals irgendeine Art von Zensierung oder DRM geben; bitte respektiere dies wenn dir das Spiel gefällt.\n"
+"Besonderer Dank gilt all meinen Patrons, euer support wird aufrichtig geschätzt."
 
 #. Key:	NewGameButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:36
@@ -9958,8 +9989,12 @@ msgstr "Schwangerschaft"
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:101
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:101
 msgctxt "SettingsMenu,PregnancyHelp"
-msgid "Female Nephelym will take 4 days to summon their offspring, and the belly will morph to reflect this.\nWARNING: Toggling this off during gameplay will cause existing pregnancies to be lost."
-msgstr "Weibliche Nephelym brauchen 4 Tage um ein Nachkommen zu zeugen und ihr Bauch wird sich verändern um dies zu zeigen.\nWARNUNG: Sollte dies während des Spielens geändert werden, gehen alle vorhanden Schwangerschaften verloren."
+msgid ""
+"Female Nephelym will take 4 days to summon their offspring, and the belly will morph to reflect this.\n"
+"WARNING: Toggling this off during gameplay will cause existing pregnancies to be lost."
+msgstr ""
+"Weibliche Nephelym brauchen 4 Tage um ein Nachkommen zu zeugen und ihr Bauch wird sich verändern um dies zu zeigen.\n"
+"WARNUNG: Sollte dies während des Spielens geändert werden, gehen alle vorhanden Schwangerschaften verloren."
 
 #. Key:	Quality
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:326
