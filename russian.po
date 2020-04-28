@@ -25,7 +25,7 @@ msgstr "Это моя финальная форма, и в ней я чувст�
 #: /Game/Ranch/Upgrades/BovaurShed.Default__BovaurShed_C.Upgrade.DisplayName
 msgctxt ",002DAFE7433D240D0A5822A932016D65"
 msgid "Bovaur Shed"
-msgstr "Хлев"
+msgstr "Хлев Быкавров"
 
 #. Key:	0061A5124B098F61DE991D81AB884112
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -207,7 +207,7 @@ msgstr "Карамельные губки превыше шаров"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(8).Lines
 msgctxt ",0629816F428092E0C5B0169DD3E8F968"
 msgid "Blessed ones can be found everywhere in @WORLD_NAME@, and for reasons I'm trying to solve, the vast majority are female."
-msgstr "Благословлённых можно найти повсюду в @WORLD_NAME@, и по пока неизвестным мне причинам, подавляющее большинство из них - женщины."
+msgstr "Благословлённых можно найти повсюду в @WORLD_NAME@, и, по пока неизвестным мне причинам, подавляющее большинство из них женщины."
 
 #. Key:	063FE1B64CA363E1B1CB09BFE7E6043C
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(6).Lines
@@ -641,7 +641,7 @@ msgstr "Ты... тот, кто делал приятно Маме-Ферн."
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(3).Lines
 msgctxt ",1494AA5040692D75A2E458AE890541FA"
 msgid "Allow me to show you what She shared, if I may."
-msgstr "Позволь мне показать чем она поделилась, я пологаю."
+msgstr "Позволь мне показать чем она поделилась, если позволишь."
 
 #. Key:	1495FB154E5C773C51452295CAF9F467
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(10).Lines
@@ -816,7 +816,7 @@ msgstr "И тогда они спаривались со многими обит
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm.Default__LeylannaDefault01_RechargeSpiritForm_C.SessionData.Lines(2).Lines
 msgctxt ",1C9CDC1147105A3D3F0A43BB6C94695C"
 msgid "Alternatively, you can recharge your spirit form partially by engaging in sex with blessed ones."
-msgstr "Также, ты можешь восполнить энергию для спиритической формы просто занявшись сексом с Благословлёнными."
+msgstr "Также, ты можешь восполнить энергию для духовной формы просто занявшись сексом с Благословлёнными."
 
 #. Key:	1CF80140486F2A7F4E727D8E50B64B37
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFemale(7).LinesToFemale
@@ -1425,7 +1425,7 @@ msgstr "Ты такой приятный человек... ааах."
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot.Default__ParvatiDefault01_Forgot_C.SessionData.Lines(4).Lines
 msgctxt ",325B057D42B7367B320C54941EEE0BA6"
 msgid "I will show again how to move your body beyond all measure."
-msgstr "Я снова покажу, как двигать {ваше тело сверх всякой меры}."
+msgstr "Я снова покажу, как владеть своим телом без всяких границ."
 
 #. Key:	32E74CA64F7C6339A9D526A19496DD86
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -1782,7 +1782,7 @@ msgstr "Пред тобой посланник Богини - твой Арха�
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(12).Lines
 msgctxt ",4021F6674834D5C495A7E59231DB4FA4"
 msgid "If you aren't in the mood, you can also catch them by rubbing @MONSTER_RACE@ semen on their skin, or feeding them @MONSTER_RACE@ milk."
-msgstr "Если ты не в настроении, ты также можете поймать их, нанеся сперму @MONSTER_RACE@ на их кожу или покормив их молоком @MONSTER_RACE@."
+msgstr "Если ты не в настроении, ты также можете поймать их, нанеся сперму @MONSTER_RACE@ на их кожу или покормив молоком @MONSTER_RACE@."
 
 #. Key:	4052D6DF434789A177EAA1A32665DC40
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_T.Default__FernDefault02_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
@@ -5121,7 +5121,7 @@ msgstr "Я знаток увсих видов молока @MONSTER_RACE@. У к
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_StartForgotten.Default__ParvatiDefault01_StartForgotten_C.SessionData.Lines(2).Lines
 msgctxt ",B235542C44D65B1D62C721A3C4CD289F"
 msgid "Pay close attention to my form, and learn you should."
-msgstr "Обратите пристальное внимание на {мою форму}, и вы узнаете, что вы должны."
+msgstr "Пристально следи за движениями моими, так научишься и ты."
 
 #. Key:	B27218744AEBAD507E1037B620EC16DA
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R03_R01.Default__BlossomDefault01_R03_R01_C.SessionData.Lines(0).Lines
@@ -5597,7 +5597,7 @@ msgstr "Сделай так, и дух сможет почувствовать �
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(1).Lines
 msgctxt ",C45BFAF14EABF8D1BD3502825C5C1560"
 msgid "And became one with the Goddess who indulged in beastiality."
-msgstr "И стала одним целым с Богиней, {что предаётся зверю.}"
+msgstr "И стала одним целым с Богиней, что предаётся зверю."
 
 #. Key:	C462B3344F759413A7C6F28489176C99
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R03_RL.Default__CamillaDefault01_R03_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -5821,7 +5821,7 @@ msgstr "Заботливый: Все показатели потомства у�
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_RL.Default__ParvatiDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",CE6754D34D354921713D50B1F67C0F01"
 msgid "I... uh... \"forgot\" a teaching."
-msgstr "Я... \"не помню\" этого."
+msgstr "Я... э-э-э... \"не помню\" учения."
 
 #. Key:	CEC4092D45D0DBE6546A729EE34F0267
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(3).Lines
@@ -5856,7 +5856,7 @@ msgstr "А, так это правда. Действительно, челове
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToMale(1).LinesToMale
 msgctxt ",CFDBD54945D68B87A04B7B9DDE06F521"
 msgid "Amber's tits are bigger than me! Why is this world so cruel..."
-msgstr "У Эмбер сиськи больше, чем у меня! Как же этот мир жесток.."
+msgstr "У Эмбер сиськи больше, чем я сама! Как же этот мир жесток.."
 
 #. Key:	D03FE11A4B475C76629C24AF0C738457
 #. SourceLocation:	/Game/Ranch/Upgrades/FormurianPond.Default__FormurianPond_C.Upgrade.DisplayName
@@ -5933,7 +5933,7 @@ msgstr "Когда масстер не захочит доить... Ферн э�
 #: /Game/Dialogue/Camilla/Default/CamillaGreeting01.Default__CamillaGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",D2DF40244F8B96F91F4101A5AD5F08AA"
 msgid "I'm Camilla! Falene's little goblin assistant! You probably won't need to talk to me much because she's the smart one around here."
-msgstr "Я Камилла! Маленький гоблин - помощник Фалин! Тебе, наверное, не стоит говорить со мной, Фалин здесь самая умная."
+msgstr "Я Камилла! Маленький гоблин-помощник Фалин! Тебе, наверное, не стоит говорить со мной, Фалин здесь самая умная."
 
 #. Key:	D395A99C4C2FAC4029FBE0A0AACFDE16
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(3).Lines
@@ -7473,7 +7473,7 @@ msgstr "Она хочет большего..."
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:682
 msgctxt "ASexyRoamingSystem,BreederBoringCum"
 msgid "The wild one wanted more..."
-msgstr "{Дикий нефилим хочет большего...}"
+msgstr "Дикий нефилим хочет большего..."
 
 #. Key:	BreederClimaxedFirst
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:687
