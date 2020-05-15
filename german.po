@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: german\n"
 "POT-Creation-Date: 2020-05-13 22:37\n"
-"PO-Revision-Date: 2020-05-14 14:28+0200\n"
+"PO-Revision-Date: 2020-05-15 23:40+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de_DE\n"
@@ -20,8 +20,8 @@ msgstr ""
 msgctxt ",0009BEE346934010A7F79C8CF23B20D5"
 msgid "This is my final form, and it feels so amazing. I smell beautiful too!"
 msgstr ""
-"Dies ist meine endgültige Form und es fühlt sich so gut an! Ich rieche auch "
-"ganz wunderbar!"
+"Dies ist meine endgültige Form und es fühlt sich so gut an! Und gut riechen "
+"tue ich auch!"
 
 #. Key:	002DAFE7433D240D0A5822A932016D65
 #. SourceLocation:	/Game/Ranch/Upgrades/BovaurShed.Default__BovaurShed_C.Upgrade.DisplayName
@@ -52,15 +52,15 @@ msgstr "Formuria?"
 msgctxt ",014BFFCA4F173DACEC2A00A8398888F4"
 msgid "Aye, yer not leaving 'til you suck every last drop!"
 msgstr ""
-"Aye, du kommst hier nimmer weg bevor du jeden einzelnen Tropfen aufg'saugt "
-"hast!"
+"Aye, du kommst hier nimmer weg bevor du net jeden einzelnen Tropfen "
+"aufg'saugt hast!"
 
 #. Key:	017B23B341D5CE5BB9CC0293262CBD91
 #. SourceLocation:	/Game/Ranch/Upgrades/HarpyAviary.Default__HarpyAviary_C.Upgrade.Description
 #: /Game/Ranch/Upgrades/HarpyAviary.Default__HarpyAviary_C.Upgrade.Description
 msgctxt ",017B23B341D5CE5BB9CC0293262CBD91"
 msgid "This allows you to catch and store all variants of Harpies."
-msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Harpyien zu fangen."
+msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Harpyien unterzubringen."
 
 #. Key:	017CCB4443E3658AEA961E9EDC5B53BF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -75,7 +75,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(1).Lines
 msgctxt ",0180484249AE71470005A78484607A18"
 msgid "Ah I suppose you are like most @MONSTER_RACE@ then."
-msgstr "Ah, dann nehme ich an, du bist wie die anderen @MONSTER_RACE@."
+msgstr "Ah, dann nehme ich an, du bist wie die meisten @MONSTER_RACE@."
 
 #. Key:	01DB8D8A43F7EC40F07FB3A355D39722
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
@@ -90,7 +90,7 @@ msgstr "Bucht der Verzückung"
 #: /Game/Dialogue/Neela/Default/NeelaGreeting01.Default__NeelaGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",01DE9F6A42AB1019681AE1B74E68632C"
 msgid "Well now, this is a rare sight."
-msgstr "Nun, das ist ein seltener Anblick."
+msgstr "Nun, das ist aber ein seltener Anblick."
 
 #. Key:	028C9ACB45CFD05DB106DBA06B056886
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.StarfallenMonolith.ManageActionMessage
@@ -177,8 +177,8 @@ msgstr "Warum hast du mich Meister genannt?"
 msgctxt ",03FDE484412EB5432BA89A9FF52176AD"
 msgid "Meow! It feels so good! I'm going to get kitty cum all over myself!"
 msgstr ""
-"Miau! Es fühlt sich so gut an! Ich werde mich total einsauen mit Kätzchen-"
-"Wichse!"
+"Miau! Es fühlt sich so gut an! Ich werde mich total mit Kätzchen-Wichse "
+"einsauen!"
 
 #. Key:	04205AC945DE4E603D9147AFE4BB7547
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(0).Lines
@@ -222,7 +222,7 @@ msgid ""
 "come back, or go suck on Amber's tits."
 msgstr ""
 "Verschwende deinen wundervollen großen Körper nicht an mir, Mensch. Warte "
-"einfach auf Falenes Rückkehr, oder geh an Ambers Titten lutschen."
+"einfach bis Falene zurückkommt, oder geh an Ambers Titten lutschen."
 
 #. Key:	052657834F6DBDBBC49BDAADA6E5E88A
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_RL.Default__NeelaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -254,7 +254,7 @@ msgstr ""
 #: /Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(6).Lines
 msgctxt ",063FE1B64CA363E1B1CB09BFE7E6043C"
 msgid "Heh... sometimes I just can't stop."
-msgstr "Heh... manchmal kann ich das einfach nicht lassen."
+msgstr "Heh... manchmal kann ich einfach nicht aufhören."
 
 #. Key:	0685B494422BDD14CE725297CA6A02B0
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(1).LinesToMale
@@ -274,9 +274,10 @@ msgstr "Farn helfen Meistah! Farn sammeln Flüsssigkeiten für dich!"
 #. Key:	06F45D04453307E37897C89FC16861F0
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(8).Lines
 #: /Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(8).Lines
+#, fuzzy
 msgctxt ",06F45D04453307E37897C89FC16861F0"
 msgid "Well, I'm sure you best be get'n off!"
-msgstr "Na, ich bin sicher du bist am besten dran wenne absteigst!"
+msgstr "Na, du solltest besser mal absteigen!"
 
 #. Key:	070169104C3375DAB052E18982B50AE4
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(3).LinesToMale
@@ -381,8 +382,8 @@ msgid ""
 "The ones the Goddess personally mated with are said to have experienced so "
 "much pleasure, they died in Her loving embrace."
 msgstr ""
-"Man sagt, dass jene mit denen sich die Göttin persönlich vereinigte, so viel "
-"Lust erfuhren, dass sie in ihrer liebenden Umarmung starben."
+"Man sagt, dass jene mit denen sich die Göttin selbst paarte, so viel Lust "
+"erfuhren, dass sie in ihrer liebenden Umarmung starben."
 
 #. Key:	0CD45BB44BFDB28371B663B5B53FD368
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(5).Lines
@@ -412,8 +413,8 @@ msgctxt ",0D1AA721421DF16BA8A3CB90943223E5"
 msgid ""
 "You sure do wander, no doubt anxious to get to your next sexual experience."
 msgstr ""
-"Du wanderst wirklich, zweifellos bestrebt, deine nächste sexuelle Erfahrung "
-"zu machen."
+"Du streifst wirklich umher, zweifellos bestrebt, deine nächste sexuelle "
+"Erfahrung zu machen."
 
 #. Key:	0D1B932340DB033C3F3173ABCEAE7E01
 #. SourceLocation:	/Game/Breeding/Positions/Butterfly.Default__Butterfly_C.SessionData.PositionName
@@ -460,7 +461,7 @@ msgstr "Doggy"
 #: Value).TraitIcons.DisplayName
 msgctxt ",0E2A96C54ACC4571431587B73459221E"
 msgid "Nymphomaniac"
-msgstr "Nymphoman"
+msgstr "Nymphoman/Nymphomanin?"
 
 #. Key:	0E6E1156457FB3513C060D979FF6B9AE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.HelpText
@@ -506,8 +507,8 @@ msgid ""
 "However, she must learn to restrain herself from inhaling so much of that "
 "blue smoke."
 msgstr ""
-"Jedoch muss sie endlich lernen nicht mehr soviel von diesem blauen Rauch "
-"einzuatmen."
+"Jedoch muss sie lernen sich zu zügeln, damit sie nicht so viel von diesem "
+"blauen Rauch einatmet."
 
 #. Key:	0F3DB30048A1D95AFB32AEBCA67D8C96
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.LinesGrungy(1).LinesGrungy
@@ -517,8 +518,8 @@ msgid ""
 "You need a bath. Come now, place your body between my breasts and let's get "
 "you clean."
 msgstr ""
-"Du brauchst ein Bad. Komm jetzt, platziere deinen Körper zwischen meinen "
-"Brüsten und dann machen wir dich sauber."
+"Du brauchst ein Bad. Komm jetzt, nimm mit deinem Körper zwischen meinen "
+"Brüsten Platz und dann machen wir dich sauber."
 
 #. Key:	0F5F4BBA4C14BF84662CB09F0D97B147
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(2).Lines
@@ -529,7 +530,7 @@ msgid ""
 "only love and pleasure as other @MONSTER_RACE@."
 msgstr ""
 "Obwohl wir eine zerstörerische Vergangenheit haben, sind die meisten Kraken "
-"heutzutage friedlich und suchen nur Liebe und Befriedigung, so wie andere "
+"heute friedlich und suchen nur Liebe und Vergnügen, so wie andere "
 "@MONSTER_RACE@."
 
 #. Key:	0FC69F2441505B7DAACAC7807627892D
@@ -558,8 +559,8 @@ msgid ""
 "miss her... actually wait you might, she's so tiny and cute hehehe."
 msgstr ""
 "Wenn du lernen willst wie man @MONSTER_RACE@ fängt, geh in die Stadt auf dem "
-"Plateu und sprich mit meiner Assistentin Camilla. Du kannst sie nicht "
-"übersehen... obwohl, vielleicht schon, sie ist so klein und süß hehehe."
+"Plateau und sprich mit meiner Assistentin Camilla. Du kannst sie nicht "
+"übersehen... obwohl, vielleicht doch. Sie ist so winzig und süß hehehe."
 
 #. Key:	106EA6A747A0901892BD12A925DA79A5
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy_RL_F.Default__MirruDefault01_BodySexToy_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
@@ -574,7 +575,7 @@ msgstr "Nimm mich wie du willst!"
 msgctxt ",107C6B8448B1F139A90AFDBD17AE1AA9"
 msgid "However, some might be more playful about it and surprise you!"
 msgstr ""
-"Wie auch immer, manche sind dabei eher verspielt und werden dich überraschen!"
+"Wie auch immer, manche sind dabei etwas verspielter und überraschen dich!"
 
 #. Key:	10B218DC466D7C9E5D99159D3C8C2B49
 #. SourceLocation:	/Game/Ranch/Upgrades/SylvanTreehouse.Default__SylvanTreehouse_C.Upgrade.DisplayName
@@ -596,8 +597,8 @@ msgstr "Kehre zu mir zurück wenn du eine weibliche Fuchse gefangen hast."
 msgctxt ",1101687D48DB923571BCF99F288D40BC"
 msgid "Won't you stay in my loving embrace and feel my music?"
 msgstr ""
-"Willst du nicht in meiner liebevollen Umarmung bleiben und meine Melodie "
-"spüren?"
+"Wirst du etwa nicht in meiner liebevollen Umarmung bleiben und meine Melodie "
+"vernehmen?"
 
 #. Key:	11020A854E2D02F780F8BEA52E1E313C
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry02_R01.Default__EmissaryBlessedInquiry02_R01_C.SessionData.Lines(0).Lines
@@ -629,7 +630,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_F.Default__FernDefault01_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",1187860A495AEE8B52286F8DA6A1DF53"
 msgid "What a lovely talking fern..."
-msgstr "Was für ein liebenswerter sprechender Farn..."
+msgstr "Was für ein reizender sprechender Farn..."
 
 #. Key:	119BE39146D97EAD68AF26B063950DFD
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(6).Lines
@@ -690,7 +691,8 @@ msgstr ""
 #: /Game/Ranch/Upgrades/ThriaeHive.Default__ThriaeHive_C.Upgrade.Description
 msgctxt ",12AF2DD443EFD1CDF7E19291D7E49384"
 msgid "This allows you to catch and store all variants of Thriae."
-msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Thrianern zu fangen."
+msgstr ""
+"Dieses Gebäude erlaubt dir jegliche Arten von Thrianern unterzubringen."
 
 #. Key:	12D176A644633E97EDB77BAB882297E2
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(3).ResponseData.BreederPrompt
@@ -1313,7 +1315,8 @@ msgstr ""
 #: /Game/Ranch/Upgrades/SylvanTreehouse.Default__SylvanTreehouse_C.Upgrade.Description
 msgctxt ",235E743740D1DB78A77472BFB5D5C1A8"
 msgid "This allows you to catch and store all variants of Sylvan."
-msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Sylvaneren zu fangen."
+msgstr ""
+"Dieses Gebäude erlaubt dir jegliche Arten von Sylvaneren unterzubringen."
 
 #. Key:	236BBFF14A62BA287C86179E8ACDDCA9
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(0).Lines
@@ -2066,7 +2069,7 @@ msgstr ""
 msgctxt ",3AB82ACD4DE402E534B94C83E44F5A2C"
 msgid "Neela, warden of the Void, keybearer of pussy portals, at your service."
 msgstr ""
-"Neela, Wächter der Leere, Schlüsselmeister der Muschipassagen, zu deinen "
+"Neela, Wächter der Leere, Schlüsselwärter der Muschiportale, zu deinen "
 "Diensten."
 
 #. Key:	3AD149F249D46CC8CCB146B464F0C53D
@@ -2469,16 +2472,16 @@ msgid ""
 "You have a beautiful set of fertile hips and breasts... and... ohhhh, a nice "
 "thick dick! You, my lovely futa, will make a great mate!"
 msgstr ""
-"Du hast wundervoll fruchtbare Hüften und Brüste... und... ohhhh, einen "
-"schönen dicken Schwanz! Du, mein liebreizender Futa, wirst einen großartigen "
-"Partner abgeben!"
+"Du hast aber einen wundervollen Satz Brüste und gebärfreudige Hüften... "
+"und... ohhhh, einen schönen dicken Schwanz! Du, mein liebreizender Futa, "
+"wirst einen großartigen Partner abgeben!"
 
 #. Key:	45B1E6E34C7DA1B37BDE04B204DC4C4B
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_RL.Default__MirruDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_RL.Default__MirruDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",45B1E6E34C7DA1B37BDE04B204DC4C4B"
 msgid "So you're a princess..."
-msgstr "Also, du bist eine Prinzessin..."
+msgstr "Du bist also eine Prinzessin..."
 
 #. Key:	45DEB2444826198BC72D2197A3F25B05
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.NekoCondo_1.ManageActionMessage
@@ -2927,7 +2930,7 @@ msgstr "Abscheulichkeit: Diese Kreatur ist das Resultat von Inzucht."
 #: /Game/Ranch/Upgrades/BovaurShed.Default__BovaurShed_C.Upgrade.Description
 msgctxt ",51B5762D4545FEE2F7E8D895B66B031B"
 msgid "This allows you to catch and store all variants of Bovaur."
-msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Bovauren zu fangen."
+msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Bovauren unterzubringen."
 
 #. Key:	51CEBDA94681ACB09279C2A598681796
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_ToneDeaf.Default__RomyDefault01_YourMusic_ToneDeaf_C.SessionData.Lines(1).Lines
@@ -3415,7 +3418,7 @@ msgstr "Was ist die Große Konzeption?"
 #: /Game/Ranch/Upgrades/NekoCondo.Default__NekoCondo_C.Upgrade.Description
 msgctxt ",61DD0F8342D2EFAE9232248215EADFB4"
 msgid "This allows you to catch and store all variants of Nekos."
-msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Nekos zu fangen."
+msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Nekos unterzubringen."
 
 #. Key:	61DEC1574FD90C69A68E04B4E3BD4DDB
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -3617,7 +3620,7 @@ msgstr ""
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",6658580C407404A28C6BD1875A2920D2"
 msgid "What a lovely talking fern..."
-msgstr "Was für ein liebenswerter sprechender Farn..."
+msgstr "Was für ein reizender sprechender Farn..."
 
 #. Key:	668D13F146AB0A33AF196F814E2CAA98
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_RL.Default__RomyDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -3836,7 +3839,7 @@ msgstr ""
 #: /Game/Breeding/Positions/LapDance.Default__LapDance_C.SessionData.PositionName
 msgctxt ",6D839EC343F5CB6DF39F048E74C3A3F6"
 msgid "Lap Dance"
-msgstr "Schoßtanz"
+msgstr "Lap Dance"
 
 #. Key:	6DCC52994B8322D169A47299585B1FFA
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_SpiritForm.Default__LeylannaDefault01_SpiritForm_C.SessionData.Lines(3).Lines
@@ -4012,7 +4015,7 @@ msgstr ""
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_BlueSmoke.Default__LeylannaDefault01_BlueSmoke_C.SessionData.Lines(0).Lines
 msgctxt ",70A96E9D4322ED35C13DF78AF12A5931"
 msgid "It allows me to commune with the spirits."
-msgstr "Es erlaubt mir mit den Seelen zu Kommunizieren."
+msgstr "Er erlaubt mir mit den Seelen zu Kommunizieren."
 
 #. Key:	70B4299E404BAC657357D7AD12E3DF68
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(16).LinesToFuta
@@ -4188,7 +4191,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(5).Lines
 msgctxt ",7413D71A4AAA4CA135368D8D6BD67DC1"
 msgid "I am going to cum... ahhh... it will be messy."
-msgstr "Ich werde kommen... ahhh... Es wird eine Sauerei geben."
+msgstr "Ich werde kommen... ahhh... Das wird eine Sauerei geben."
 
 #. Key:	744F4E844CF281ADE05939B86FCE678E
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy_RL_T.Default__MirruDefault01_BodySexToy_RL_T_C.ResponseData(2).ResponseData.BreederPrompt
@@ -4240,7 +4243,7 @@ msgstr "Kehre zu mir zurück, wenn du deine Meinung änderst."
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_RL.Default__NeelaDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",758A181D4F348EDE373A33ADB8F3CB08"
 msgid "Pussy portals... really?"
-msgstr "Muschipassagen... echt jetzt?"
+msgstr "Muschiportale... echt jetzt?"
 
 #. Key:	7618202D4A38C8CACBFF19A33C3F1E02
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.Lines(1).Lines
@@ -4406,7 +4409,7 @@ msgstr "Erhöhe das Merkmal-Level."
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_RL.Default__NeelaDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",7B46D37346081D01CB0C9B8C6CAEE2DF"
 msgid "I want to traverse your pussy... portal."
-msgstr "Ich möchte in deine Muschi...passage eintreten."
+msgstr "Ich möchte dein Muschi...Portal durchschreiten."
 
 #. Key:	7B5F72194EE494B66BEC5CAD05253722
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.DisplayName
@@ -4548,8 +4551,8 @@ msgstr ""
 msgctxt ",8103840A43F7351F6B263C98CC5A6335"
 msgid "Me jugs are get'n full, are ye sure that 'lil body can handle it all?"
 msgstr ""
-"Meine Möpse sin' langsam voll, biste sicher, dass dein kleener Körper das "
-"alles aufnehmen kann?"
+"Meine Möpse sin' langsam voll, biste sicher, dass dein kleener Körper mit "
+"dem ganzen klarkommt?"
 
 #. Key:	81AE34CA41E9CDDCF3756EBC867EF3A5
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_NoSpiritVariant.Default__LeylannaDefault01_NoSpiritVariant_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -4699,7 +4702,7 @@ msgstr "*Saug* *Saug*"
 #: /Game/Ranch/Upgrades/SeraphimLoft.Default__SeraphimLoft_C.Upgrade.Description
 msgctxt ",850118264E28125C1BEFE4B4C33B1F6D"
 msgid "This allows you to catch and store all variants of Seraphim."
-msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Seraphim zu fangen."
+msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Seraphim unterzubringen."
 
 #. Key:	852A10F045E59BFFF8DD789EE5504277
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(6).Lines
@@ -5414,7 +5417,7 @@ msgstr "Äh... miau!"
 #: /Game/Ranch/Upgrades/DragonHoard.Default__DragonHoard_C.Upgrade.Description
 msgctxt ",93BFA77B4203C927F888AA9756403DB1"
 msgid "This allows you to catch and store all variants of Dragon."
-msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Drachen zu fangen."
+msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Drachen unterzubringen."
 
 #. Key:	941010544E6432D137832FA1B37E0C10
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(3).Lines
@@ -5569,7 +5572,7 @@ msgstr "*Schnurr*"
 #: /Game/Ranch/Upgrades/FoxenHouse.Default__FoxenHouse_C.Upgrade.Description
 msgctxt ",9717FEC243A7CD17EDAAD89765F8E2A8"
 msgid "This allows you to catch and store all variants of Foxen."
-msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Fuchsen zu fangen."
+msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Fuchsen unterzubringen."
 
 #. Key:	97244FB84D6D7CC0273CD3BB89B847D9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.DisplayName
@@ -6184,7 +6187,7 @@ msgctxt ",AA08081E4A0AF7A81D4B99B1527E6970"
 msgid ""
 "The demons took advantage of this and started using them as breeding toys."
 msgstr ""
-"Die Dämonen nutzten dies und begannen sie als Zuchtspielzeug zu verwenden."
+"Die Dämonen nutzten das aus und begannen sie als Zuchtspielzeug zu verwenden."
 
 #. Key:	AA16BE3B4732F407329ED6B450557C71
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.Lines(0).Lines
@@ -6337,7 +6340,7 @@ msgstr "Befriedige dich in meiner Muschi!"
 #: /Game/Ranch/Upgrades/TitanCave.Default__TitanCave_C.Upgrade.Description
 msgctxt ",AF04F5A4417DBB7D20BC64B4B66C34DD"
 msgid "This allows you to catch and store all variants of Titan."
-msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Titanen zu fangen."
+msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Titanen unterzubringen."
 
 #. Key:	AF4962AA4EF7962370DC5D869BFFA992
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(8).Lines
@@ -6447,7 +6450,7 @@ msgid ""
 "has a distinct and delicious flavor, so it is."
 msgstr ""
 "Du kanns' mich als Kenner von @MONSTER_RACE@ Milch betracht'n. Die Milch "
-"jeder Rasse hat 'n verschiedenen und leckeren Geschmack, so is' das."
+"jeder Rasse hat 'n eigenen und leckeren Geschmack, so is' das."
 
 #. Key:	B235542C44D65B1D62C721A3C4CD289F
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_StartForgotten.Default__ParvatiDefault01_StartForgotten_C.SessionData.Lines(2).Lines
@@ -6592,7 +6595,7 @@ msgid ""
 "I meant what I said about ye between 'mai jugs. Mayhaps we can have a li'l "
 "fun in the future?"
 msgstr ""
-"Ich meinte das übrign's so was ich über dich zwischen mein' Möpse gesagt "
+"Ich meinte das übrign's ernst was ich über dich zwischen mein' Möpse gesagt "
 "hab'. Vielleicht könn' wa n' bisschen Spaß in der Zukunft ham' ?"
 
 #. Key:	B601DE914360E4E4962B9BAE17334C67
@@ -6701,7 +6704,7 @@ msgstr "Mach dir keine sorgen, Menschen sind vergesslich."
 #: /Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",B82A33C04616825E1FC07F99415D421D"
 msgid "What a lovely talking fern..."
-msgstr "Was für ein liebenswerter sprechender Farn..."
+msgstr "Was für ein reizender sprechender Farn..."
 
 #. Key:	B832AA994DBADAA17A15049B206652C5
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(9).Lines
@@ -6712,10 +6715,9 @@ msgid ""
 "have any more questions you should feel free to ask me. Although I'm sure "
 "Falene could answer your questions too."
 msgstr ""
-"Wie auch immer, ich habe deine Fragen beantwortet, also willst du jetzt "
-"wahrscheinlich gehen. Wenn du noch mehr Fragen hast, kannst du jederzeit zu "
-"mir kommen. Obwohl ich sicher bin, dass Falene diese Fragen auch beantworten "
-"kann."
+"Ich habe deine Fragen nun beantwortet, also willst du jetzt wahrscheinlich "
+"gehen. Falls du weitere Fragen haben solltest, kannst du mich ruhig fragen. "
+"Obwohl ich sicher bin, dass Falene diese Fragen auch beantworten könnte."
 
 #. Key:	B841784842366C72B99D7BABC88D97E6
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
@@ -6928,7 +6930,7 @@ msgstr ""
 msgctxt ",BE9F677046DE7F9AE5246FB18D7F8FFB"
 msgid "Once she threw me into that pussy portal when Neela wasn't looking!"
 msgstr ""
-"Sie hat mich einmal durch die Muschipassage geworfen, als Neela nicht "
+"Sie hat mich einmal durch das Muschiportal geworfen, als Neela nicht "
 "hingesehen hat!"
 
 #. Key:	BEDA7D94498AC1A3091C29BABE2C94F7
@@ -6955,8 +6957,8 @@ msgid ""
 "Meh... you're just another one of those who thinks I'm cute because I'm "
 "small!"
 msgstr ""
-"Pah... du bist noch einer von denen die mich nur niedlich finden, weil ich "
-"klein bin!"
+"Pah... du bist doch nur noch einer von denen die mich nur niedlich finden, "
+"weil ich klein bin!"
 
 #. Key:	BFA3EA894BDCD8476E3C3E83125BF435
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(3).Lines
@@ -7056,7 +7058,8 @@ msgstr ""
 #: /Game/Ranch/Upgrades/FormurianPond.Default__FormurianPond_C.Upgrade.Description
 msgctxt ",C2409B0E43C4FECF37A9A4AEC03EA9E7"
 msgid "This allows you to catch and store all Formurian variants."
-msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Formurianern zu fangen."
+msgstr ""
+"Dieses Gebäude erlaubt dir jegliche Arten von Formurianern unterzubringen."
 
 #. Key:	C29993C74D67F8AE960E44826013B47C
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(1).Lines
@@ -7105,7 +7108,7 @@ msgstr ""
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(7).ResponseData.BreederPrompt
 msgctxt ",C36C759941B23E33ABE38E9C98E4A1E3"
 msgid "Lap Dance!"
-msgstr "Schoßtanz!"
+msgstr "Lap Dance!"
 
 #. Key:	C45BFAF14EABF8D1BD3502825C5C1560
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(1).Lines
@@ -7119,7 +7122,7 @@ msgstr "Und wurde Eins mit der Göttin, die sich ergab, der Bestialität."
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R03_RL.Default__CamillaDefault01_R03_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",C462B3344F759413A7C6F28489176C99"
 msgid "Sounds like a personal problem."
-msgstr "Klingt nach einem persönlichen Problem."
+msgstr "Klingt nach einer persönlichen Angelegenheit."
 
 #. Key:	C481F9C149A5312156D0E78C43255CE9
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToMale(0).LinesToMale
@@ -7299,7 +7302,7 @@ msgstr ""
 #: /Game/Ranch/Upgrades/VulwargKennel.Default__VulwargKennel_C.Upgrade.Description
 msgctxt ",CB4B328646049F44CA1AF5B3E7454C29"
 msgid "This allows you to catch and store all variants of Vulwarg."
-msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Vulwargs zu fangen."
+msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Vulwargs unterzubringen."
 
 #. Key:	CB6197724E6737AA23A5DD991AD65537
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -8446,7 +8449,7 @@ msgstr ""
 #: /Game/Ranch/Upgrades/DemonPool.Default__DemonPool_C.Upgrade.Description
 msgctxt ",EAE306A64EE7F2719CB1719962D3F107"
 msgid "This allows you to catch and store all variants of Demon."
-msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Dämonen zu fangen."
+msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Dämonen unterzubringen."
 
 #. Key:	EB2D583D443FA7DB15278C95780CBC37
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -8656,7 +8659,7 @@ msgid ""
 "back, or go suck on Amber's tits."
 msgstr ""
 "Verschwende deine köstlichen Körperflüssigkeiten nicht an mir. Warte einfach "
-"auf Falenes Rückkehr, oder geh an Ambers Titten lutschen."
+"bis Falene zurückkommt, oder geh an Ambers Titten lutschen."
 
 #. Key:	F15CA5AC442824FB00747A8771A80403
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(4).Lines
@@ -8757,7 +8760,7 @@ msgstr "Also macht es dich high?"
 msgctxt ",F5276F72433DAADC3348C9937061AB06"
 msgid "This allows you to catch and store all variants of Starfallen."
 msgstr ""
-"Dieses Gebäude erlaubt dir jegliche Arten von Sterngefallenen zu fangen."
+"Dieses Gebäude erlaubt dir jegliche Arten von Sterngefallenen unterzubringen."
 
 #. Key:	F5D89EF24DD4E97F5789B4AF367D8E47
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(4).Lines
@@ -10082,7 +10085,7 @@ msgstr "Anus"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:73
 msgctxt "CharacterEditor,BackButton"
 msgid "Back"
-msgstr "Rücken"
+msgstr "Zurück"
 
 #. Key:	BackButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:74
@@ -10726,7 +10729,7 @@ msgstr "Einstellungen"
 #: Source/Radiant/Public/UI/SexyGameOverlay.cpp:88
 msgctxt "GameOverlay,SaveButton"
 msgid "Save Game"
-msgstr "Speicherstand"
+msgstr "Spiel speichern"
 
 #. Key:	Null
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyGridItem.cpp:58
@@ -11197,7 +11200,7 @@ msgstr "Utility Menü an/aus"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:153
 msgctxt "Keybinds,Walk"
 msgid "Walk"
-msgstr "Laufen"
+msgstr "Gehen"
 
 #. Key:	Zoom
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:165
@@ -11599,7 +11602,7 @@ msgctxt "SettingsMenu,AutoplayDialogueHelp"
 msgid ""
 "Automatically cycle through lines of dialogue without having to press next."
 msgstr ""
-"Es wird automatisch durch die Dialoge gezappt ohne das Weiter gedrückt "
+"Dialoge werde automatisch weitergeschalten, ohne das auf Weiter gedrückt "
 "werden muss."
 
 #. Key:	AutoskipDialogue
@@ -11791,8 +11794,8 @@ msgstr "Hybriden"
 msgctxt "SettingsMenu,HybridHelp"
 msgid "Unique variants can be produced that are a mix of each parent's race."
 msgstr ""
-"Einzigartige Arten die entstehen können wenn das Paar aus "
-"verschiedenrassigen Partnern besteht."
+"Einzigartige Rassen, welche ein Mischung aus den Rassen der Eltern sind, "
+"können entstehen."
 
 #. Key:	KeyBinds
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:252
@@ -11838,7 +11841,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:389
 msgctxt "SettingsMenu,MasterVolume"
 msgid "Master"
-msgstr "Meister"
+msgstr "Gesamt"
 
 #. Key:	MusicVolume
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:452
@@ -11896,7 +11899,7 @@ msgid ""
 "WARNING: Toggling this off during gameplay will cause existing pregnancies "
 "to be lost."
 msgstr ""
-"Weibliche Nephelym brauchen 4 Tage um ein Nachkommen zu zeugen und ihr Bauch "
+"Weibliche Nephelym brauchen 4 Tage um Nachkommen zu zeugen und ihr Bauch "
 "wird sich verändern um dies zu zeigen.\n"
 "WARNUNG: Sollte dies während des Spielens geändert werden, gehen alle "
 "vorhanden Schwangerschaften verloren."
@@ -12358,7 +12361,7 @@ msgstr "1.000.000 Orgasium hinzugefügt."
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:811
 msgctxt "SSexySettingsMenu,CheatPortals"
 msgid "All pussy portals activated."
-msgstr "Alle Muschipassagen aktiviert."
+msgstr "Alle Muschiportale aktiviert."
 
 #. Key:	CheatRanch
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:794
@@ -12610,7 +12613,7 @@ msgstr "Reden"
 #: Source/Radiant/Public/UI/SexyInterface.cpp:330
 msgctxt "WorldAction,TraverseAction"
 msgid "Traverse Portal"
-msgstr "Portal benutzen"
+msgstr "Portal durchschreiten"
 
 #~ msgctxt ",9DE705ED4BD5D59C986C0DA2BDD7CFF5"
 #~ msgid ""
