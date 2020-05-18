@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: german\n"
 "POT-Creation-Date: 2020-05-13 22:37\n"
-"PO-Revision-Date: 2020-05-15 23:40+0200\n"
+"PO-Revision-Date: 2020-05-19 00:06+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: de_DE\n"
@@ -211,7 +211,7 @@ msgctxt ",0500B4944007820F3A7BB096A4E699AB"
 msgid "Lemme know if y'all want new buildings for your wild @MONSTER_RACE@..."
 msgstr ""
 "Lass' es mich wissen, wenn du neue Gebäude für deine wilden @MONSTER_RACE@ "
-"braucht..."
+"brauchst..."
 
 #. Key:	0522652344116C917836F4A1A78C8815
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -461,7 +461,7 @@ msgstr "Doggy"
 #: Value).TraitIcons.DisplayName
 msgctxt ",0E2A96C54ACC4571431587B73459221E"
 msgid "Nymphomaniac"
-msgstr "Nymphoman/Nymphomanin?"
+msgstr "Nymphoman/Nymphomanin"
 
 #. Key:	0E6E1156457FB3513C060D979FF6B9AE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.HelpText
@@ -589,7 +589,7 @@ msgstr "Sylvaner-Baumhaus"
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_NoSpiritVariant.Default__LeylannaDefault01_NoSpiritVariant_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",10B6D2544B53FFD4CF0A1DA4375DF5B5"
 msgid "Return to me when you have caught a female Foxen."
-msgstr "Kehre zu mir zurück wenn du eine weibliche Fuchse gefangen hast."
+msgstr "Kehre zu mir zurück wenn du eine weibliche Foxin gefangen hast."
 
 #. Key:	1101687D48DB923571BCF99F288D40BC
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.Lines(3).Lines
@@ -934,8 +934,8 @@ msgctxt ",1A04D48D493996FF8EDD59A9DDB7C1A6"
 msgid ""
 "You are the lord of this soil--or owner of Homestead in the common tongue."
 msgstr ""
-"Du bist der Herr dieses Bodens--oder Besitzer von Heimstatt, in der gemeinen "
-"Zunge."
+"Du bist der Herr dieses Bodens--oder Besitzer dieser Heimstätte, wie man "
+"geläufiger Weise sagt."
 
 #. Key:	1A66A5974B5893066D25B7A93AD8BA38
 #. SourceLocation:	/Game/Dialogue/AmberMae/SexScenes/AmberMilkyF.Default__AmberMilkyF_C.SessionData.Lines(4).Lines
@@ -1164,7 +1164,7 @@ msgid ""
 "Catch a female Foxen if you have not done so, and then return to me. We will "
 "then make love and form a covenant."
 msgstr ""
-"Fange eine weibliche Fuchse, wenn du es noch nicht getan hast, dann kehre zu "
+"Fange eine weibliche Foxin, wenn du es noch nicht getan hast, dann kehre zu "
 "mir zurück. Wir werden dann Liebe machen und einen Bund formen."
 
 #. Key:	201B358D4CE5E4D894910C97F98AA433
@@ -1576,7 +1576,7 @@ msgstr "Drachen-Körperflüssigkeiten."
 #: /Game/Ranch/Upgrades/FoxenHouse.Default__FoxenHouse_C.Upgrade.DisplayName
 msgctxt ",2C6E28494FB2D15A239584A77B01FA67"
 msgid "Foxen House"
-msgstr "Fuchsen-Haus"
+msgstr "Foxen-Haus"
 
 #. Key:	2CCE0ADD406CF961196E5BAEDA387652
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(0).Lines
@@ -2606,7 +2606,7 @@ msgstr ""
 #: /Game/Characters/Procedural/Variants/Foxen/Harvest/FoxenHarvest.Default__FoxenHarvest_C.Harvest.RaceName
 msgctxt ",48CC4FFE4554B0228CDDB7A68DA380FB"
 msgid "Foxen"
-msgstr "Fuchse"
+msgstr "Foxe"
 
 #. Key:	48ECD1FC4E34FAB69B41249F46A1CAB8
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(0).Lines
@@ -3038,10 +3038,9 @@ msgid ""
 "It's frustrating, I can't even remember how I got here, nor can any of the "
 "others I've spoken to. We share common dreams about humans... that's it."
 msgstr ""
-"Es ist frustrierend, ich kann mich nicht einmal daran erinnern wie ich "
-"hergekommen bin, noch kann es einer der anderen, mit denen ich darüber "
-"gesprochen habe. Wir teilen nur die gleichen Träume von Menschen... das ist "
-"alles."
+"Es ist frustrierend, weder kann ich mich daran erinnern wie ich hergekommen "
+"bin, noch können es die Anderen, mit denen ich darüber gesprochen habe. Wir "
+"teilen nur die gleichen Träume von Menschen... das ist alles."
 
 #. Key:	554D996445578E57126935A57AEBB8F3
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R03.Default__FernDefault02_R03_C.SessionData.Lines(0).Lines
@@ -3809,7 +3808,7 @@ msgstr ""
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(1).Lines
 msgctxt ",6D0C594D4C4F236FB6A4E28627184737"
 msgid "Foxen and Vulwargs like the shade and trees of the Lustwood."
-msgstr "Fuchse und Vulwargs mögen den Schatten und die Bäume des Lustwaldes."
+msgstr "Foxe und Vulwargs mögen den Schatten und die Bäume des Lustwaldes."
 
 #. Key:	6D1431474F1C713E9D755F93772C653C
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.HelpText
@@ -4269,7 +4268,8 @@ msgstr ""
 #: Value).TraitIcons.HelpText
 msgctxt ",76C3B8B24ADB1D21C1F205A4E3B35D2A"
 msgid "Atypical: Inherited an unusual size for its variant."
-msgstr "Untypisch: Hat eine ungewöhnliche Größe für diese Variante geerbt."
+msgstr ""
+"Untypisch: Hat eine ungewöhnliche Körperröße für diese Variante geerbt."
 
 #. Key:	76DD724248BA7178346EC59171F3BDF4
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.LinesGrungy(5).LinesGrungy
@@ -4559,7 +4559,7 @@ msgstr ""
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_NoSpiritVariant.Default__LeylannaDefault01_NoSpiritVariant_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",81AE34CA41E9CDDCF3756EBC867EF3A5"
 msgid "Return to me when you have caught a futa Foxen."
-msgstr "Kehre zu mir zurück, wenn du eine Futa-Fuchse gefangen hast."
+msgstr "Kehre zu mir zurück, wenn du eine Futa-Foxin gefangen hast."
 
 #. Key:	81BA7F3C4947D886880CA687DA5D133F
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(7 - Value).TravelShrines.ShrineName
@@ -4567,7 +4567,7 @@ msgstr "Kehre zu mir zurück, wenn du eine Futa-Fuchse gefangen hast."
 #: Value).TravelShrines.ShrineName
 msgctxt ",81BA7F3C4947D886880CA687DA5D133F"
 msgid "Homestead"
-msgstr "Heimstatt"
+msgstr "Heimstätte"
 
 #. Key:	821ABD64418D426631CB80AA3EE0629D
 #. SourceLocation:	/Game/Breeding/Positions/Test2.Default__Test2_C.SessionData.PositionName
@@ -4681,7 +4681,7 @@ msgstr ""
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_TheVoid.Default__NeelaDefault01_TheVoid_C.SessionData.Lines(4).Lines
 msgctxt ",84C4480D4F8374778DDEEAA7A0195EC1"
 msgid "Unfortunately, it can only be used for travel."
-msgstr "Unglücklicherweise kann sie nur fürs Reisen benutzt werden."
+msgstr "Leider kann sie nur fürs Reisen benutzt werden."
 
 #. Key:	84E329854997BD3064CA67922BD88726
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(4).LinesToFemale
@@ -4720,7 +4720,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(28).LinesToMale
 msgctxt ",8545E75D449A74E403CC9990E08D65FD"
 msgid "Well I must be off, good luck breeder!"
-msgstr "So, ich muss gehen, viel Glück, Züchter!"
+msgstr "So, ich muss gehen, viel Glück Züchter!"
 
 #. Key:	854AE3F2484BF88BB14875815FEE38B4
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.DisplayName
@@ -4790,7 +4790,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToMale(8).LinesToMale
 msgctxt ",863580FA480DA6167885D1A2BBF22B9C"
 msgid "Sweet delicious human seed, let it all go! Ahhh..."
-msgstr "Süßer köstlicher Menschensamen, lass es alles raus! Ahhh..."
+msgstr "Süße köstliche menschliche Samen, lass es alles raus! Ahhh..."
 
 #. Key:	863C3850414A8A0B8C0C45907E4898EA
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToFemale(4).LinesToFemale
@@ -4807,9 +4807,8 @@ msgid ""
 "Be sure to look out for needy blessed @MONSTER_RACE@, just be vigilant as "
 "you venture around the world, you can't miss them!"
 msgstr ""
-"Gehe sicher, dass du auf bedürftige Gesegnete @MONSTER_RACE@ achtest. Sei "
-"einfach wachsam wenn du in die Welt vorstößt und du kannst sie nicht "
-"verpassen!"
+"Pass auf, dass du auf bedürftige Gesegnete @MONSTER_RACE@ achtest. Sei "
+"einfach wachsam wenn du die Welt bereist und du kannst sie nicht verpassen!"
 
 #. Key:	86818D694AB04782DD1A299E28AC5BAF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(11).Lines
@@ -4837,7 +4836,7 @@ msgstr "Ich versichere dir, es fühlt sich gut an."
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(4).Lines
 msgctxt ",86DCDE444C6876DE3F3C6D8EC7E6FC20"
 msgid "Do you wanna see all of mine?"
-msgstr "Möchtest du alle von meinen sehen?"
+msgstr "Möchtest du alles von mir sehen?"
 
 #. Key:	86DE4E4645DF60181C48AD85C95C97BA
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.DemonPool.ManageActionMessage
@@ -4866,7 +4865,7 @@ msgid ""
 "and know you need them."
 msgstr ""
 "Sicher, es kann verlockend sein alle Flüssigkeiten zu trinken, aber ich "
-"liebe dich, Meister, und weiß, dass du sie brauchst."
+"liebe dich Meister, und weiß dass du sie brauchst."
 
 #. Key:	870E3E9A4756B06E4D8C9FB1967261E9
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_BatheAllDay.Default__RomyDefault01_BatheAllDay_C.SessionData.Lines(0).Lines
@@ -4891,9 +4890,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_Pregnancy.Default__FaleneDefault01_Pregnancy_C.SessionData.Lines(1).Lines
 msgctxt ",8800985D4901B4EF2FE2FD9B6D818E41"
 msgid "There is no birthing, no embryo, and no pain involved whatsoever."
-msgstr ""
-"Es gibt keine Geburt, keinen Embryo und keine Schmerzen welcher Art auch "
-"immer."
+msgstr "Es gibt keine Geburt, keinen Embryo und keinerlei Schmerzen."
 
 #. Key:	887E11C1414E35B9B9420BA80FD5A411
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(13).Lines
@@ -5180,8 +5177,8 @@ msgid ""
 "It's going to be sad to lose the ability to move, but at least I have you "
 "Master!"
 msgstr ""
-"Es wird mich trauig stimmen die Fähigkeit zu verlieren mich zu bewegen, aber "
-"wenigstens habe ich dich, Meister!"
+"Es wird traurig sein sich nicht mehr bewegen zu können, aber wenigstens habe "
+"ich dich, Meister!"
 
 #. Key:	8D4C9C144C33EE6A19B08696ABFFB5DA
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(7).Lines
@@ -5215,7 +5212,7 @@ msgstr ""
 #: /Game/Characters/Procedural/Variants/Foxen/Harvest/FoxenHarvest.Default__FoxenHarvest_C.Harvest.Description
 msgctxt ",8E241E394ECAACAC71637784506ACEA1"
 msgid "Foxen body fluids."
-msgstr "Fuchse-Körperflüssigkeiten."
+msgstr "Foxen-Körperflüssigkeiten."
 
 #. Key:	8E5478244452BC05131C69AB8D675563
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeSuckJugs_RL.Default__AmberMaeSuckJugs_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -5572,7 +5569,7 @@ msgstr "*Schnurr*"
 #: /Game/Ranch/Upgrades/FoxenHouse.Default__FoxenHouse_C.Upgrade.Description
 msgctxt ",9717FEC243A7CD17EDAAD89765F8E2A8"
 msgid "This allows you to catch and store all variants of Foxen."
-msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Fuchsen unterzubringen."
+msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Foxen unterzubringen."
 
 #. Key:	97244FB84D6D7CC0273CD3BB89B847D9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.DisplayName
@@ -5675,7 +5672,7 @@ msgstr ""
 #: /Game/World/Overworld.Overworld:PersistentLevel.FoxenHouse.ManageActionMessage
 msgctxt ",9884BCFB41767F163392F78AC097E388"
 msgid "Manage your Foxen"
-msgstr "Verwalte deine Fuchse"
+msgstr "Verwalte deine Foxe"
 
 #. Key:	9935EBCD498F8B600AAED699613B52E9
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(3).Lines
@@ -6356,8 +6353,8 @@ msgctxt ",AF56D3A1427EFDD2D086F09E5534EC68"
 msgid ""
 "You are the lord of this soil--or owner of Homestead in the common tongue."
 msgstr ""
-"Du bist der Herr dieses Bodens--oder Besitzer von Heimstatt, in der gemeinen "
-"Zunge."
+"Du bist der Herr dieses Bodens--oder Besitzer dieser Heimstätte, wie man "
+"geläufiger Weise sagt."
 
 #. Key:	AFBF754C422E5E00DF8BB7A37B956DFB
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.HelpText
@@ -6626,8 +6623,8 @@ msgid ""
 "Catch a futa Foxen if you have not done so, and then return to me. We will "
 "then make love and form a covenant."
 msgstr ""
-"Fange einen Futa Fuchsen, wenn du es noch nicht getan hast, dann kehre zu "
-"mir zurück. Wir werden dann Liebe machen und einen Bund formen."
+"Fange einen Futa Foxin, wenn du es noch nicht getan hast, dann kehre zu mir "
+"zurück. Wir werden dann Liebe machen und einen Bund formen."
 
 #. Key:	B69F20F0421426CBBF0D7FBE2E7C76D6
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_BatheAllDay.Default__RomyDefault01_BatheAllDay_C.SessionData.Lines(1).Lines
@@ -6782,9 +6779,8 @@ msgid ""
 "Feel free to try though... I will consider it foreplay,  rip your clothes "
 "off, and then mate with you for hours!"
 msgstr ""
-"Du bist herzlich willkommen es auszuprobieren... Ich werde das als Vorspiel "
-"werten, dann deine Kleider herunter reißen, und mich stundenlang mit dir "
-"paaren!"
+"Aber versuch es ruhig... Ich werde es als Vorspiel betrachten, dir dann die "
+"Kleider vom Leib reißen, und mich stundenlang mit dir paaren!"
 
 #. Key:	BABE7B1340FA36AADAE0E596C6FC1721
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -6930,7 +6926,7 @@ msgstr ""
 msgctxt ",BE9F677046DE7F9AE5246FB18D7F8FFB"
 msgid "Once she threw me into that pussy portal when Neela wasn't looking!"
 msgstr ""
-"Sie hat mich einmal durch das Muschiportal geworfen, als Neela nicht "
+"Einmal hat sie mich durch das Muschiportal geworfen, als Neela nicht "
 "hingesehen hat!"
 
 #. Key:	BEDA7D94498AC1A3091C29BABE2C94F7
@@ -6969,7 +6965,7 @@ msgid ""
 "theories!"
 msgstr ""
 "Jetzt wo ich einen Menschen zum spielen habe, freue ich mich drauf diese "
-"Theorien zu testen!"
+"Theorien zu überprüfen!"
 
 #. Key:	BFCA3659420358C2CFA5B5B426282E9A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.HelpText
@@ -7022,7 +7018,7 @@ msgstr ""
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_EnlightenedOne.Default__NeelaDefault01_EnlightenedOne_C.SessionData.Lines(2).Lines
 msgctxt ",C1169E76415C88B42A1C1EAA53F38266"
 msgid "We have... uh... met before. Many times."
-msgstr "Wir haben... uns... schonmal getroffen. Vielemals sogar."
+msgstr "Wir haben... uns... schonmal getroffen. Viele Male sogar."
 
 #. Key:	C156402F4738F87B9C9392A5443BE29F
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(2).Lines
@@ -8779,8 +8775,8 @@ msgstr ""
 msgctxt ",F5ED58D749F2CCE9DC0F23BD22E35C2D"
 msgid "The spirits have revealed our future contains many sexual encounters!"
 msgstr ""
-"Die Seelen haben offenbart, dass in deiner Zukunft viele sexuelle "
-"Begegnungen liegen!"
+"Die Seelen haben offenbart, dass unsere Zukunft viele sexuelle Begegnungen "
+"bereithält!"
 
 #. Key:	F685E190400D71BAA030AE8630162626
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -9175,7 +9171,7 @@ msgstr "Seraphim-Körperflüssigkeiten."
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(5).LinesToMale
 msgctxt ",FFA17F124A05F93244CA07860B63DEA2"
 msgid "Oh silly me, I never introduced myself."
-msgstr "Ach ich Dummerchen, ich vergesse immer mich vorzustellen."
+msgstr "Ach ich Dummerchen, ich hab mich ja noch gar nicht vorgestellt."
 
 #. Key:	FFEB9256402DB5ADDFEED38770F40285
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.HelpText
@@ -9368,7 +9364,7 @@ msgstr "Gemeinde Hedon"
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:170
 msgctxt "ASexyOverworldInterface,Homestead"
 msgid "Homestead"
-msgstr "Heimstatt"
+msgstr "Heimstätte"
 
 #. Key:	Jungle
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:188
@@ -9501,14 +9497,15 @@ msgstr "Wähle eine Aktion und drücke Start."
 #: Source/Radiant/Public/Characters/Breeder/SexyBreederController.cpp:136
 msgctxt "BreederController,NewOffspring"
 msgid "Congratulations, {0} has summoned new offspring!"
-msgstr "Glückwünsche, {0} hat Nachkommen in die Welt gesetzt!"
+msgstr "Glückwünsch, {0} hat Nachkommen in die Welt gesetzt!"
 
 #. Key:	AdvanceButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:108
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:108
+#, fuzzy
 msgctxt "BreedingSession,AdvanceButtonTitle"
 msgid "Advance"
-msgstr "Stärker"
+msgstr "verbessern/erweitern"
 
 #. Key:	BreedButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:100
@@ -9691,7 +9688,7 @@ msgstr "Start"
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:64
 msgctxt "BreedingSetup,BreedButtonTooltip"
 msgid "Start a breeding scene with the currently selected mates and options."
-msgstr "Beginne eine Paarungsszene mit den momentan ausgewählten Akteuren."
+msgstr "Beginne eine Paarungsszene mit den momentan ausgewählten Optionen."
 
 #. Key:	GiverWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:72
@@ -9712,7 +9709,7 @@ msgstr "Schnell"
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:56
 msgctxt "BreedingSetup,QuickButtonTooltip"
 msgid "Breed this pair without starting a scene."
-msgstr "Paare dieses Paar ohne eine Szene zu starten."
+msgstr "Paarung ohne eine Szene zu starten."
 
 #. Key:	ReceiverWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:128
@@ -9769,7 +9766,7 @@ msgstr "Empfänger muss ausgewählt sein."
 msgctxt "BreedingSystem,NoRoomOffspring"
 msgid "Not enough space for offspring, it was released into the wild."
 msgstr ""
-"Nicht genug Platz für den Nachkommen, er wurde in die Wildnis entlassen."
+"Nicht genug Platz für weitere Nachkommen, er wurde in die Wildnis entlassen."
 
 #. Key:	NoSexPosition
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:155
@@ -9790,7 +9787,7 @@ msgstr "Verlockung"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:150
 msgctxt "CharacterDetails,AllureTooltip"
 msgid "Allure is a measure of the pheromones given off by this one."
-msgstr "Verlockung misst die Menge der ausgesonderten Pheromone."
+msgstr "Verlockung misst die Menge der abgesonderten Pheromone."
 
 #. Key:	Attributes
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:63
@@ -9872,7 +9869,7 @@ msgstr "Seelenenergie"
 msgctxt "CharacterDetails,LifeforceTooltip"
 msgid "Spirit energy. Used to transform into your spirit form."
 msgstr ""
-"Seelenengerie. Wird benutzt um dich in die Seelengestalt zu verwandeln."
+"Seelenenergie. Wird benutzt um dich in die Seelengestalt zu verwandeln."
 
 #. Key:	Loyalty
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:44
@@ -9993,7 +9990,7 @@ msgstr "Stärke"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:136
 msgctxt "CharacterDetails,StrengthTooltip"
 msgid "The physical strength of this one."
-msgstr "Die physikalische Stärke dieses Wesens."
+msgstr "Die physische Stärke dieses Wesens."
 
 #. Key:	Traits
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:177
@@ -10504,7 +10501,7 @@ msgstr ""
 #: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2441
 msgctxt "CharacterSystem,ErrorSavingPreset"
 msgid "Error while trying to save preset."
-msgstr "Fehler bei der Speicherung des Presets."
+msgstr "Fehler beim Speichern des Presets."
 
 #. Key:	SavedPreset
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2438
