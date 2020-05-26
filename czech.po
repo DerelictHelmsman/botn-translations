@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: czech\n"
 "POT-Creation-Date: 2020-05-13 22:42\n"
-"PO-Revision-Date: 2020-05-26 18:42+0200\n"
+"PO-Revision-Date: 2020-05-26 21:30+0200\n"
 "Language-Team: \n"
 "Language: cs_CZ\n"
 "MIME-Version: 1.0\n"
@@ -97,7 +97,7 @@ msgstr "Správa svých Starfallenů"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(26).LinesToMale
 msgctxt ",02A5F6F34ADE67C0A32ECE8E542DCC88"
 msgid "Gently of course, to date there has never been an instance where a @MONSTER_RACE@ has intentionally harmed a human."
-msgstr ""
+msgstr "Jemně, samozřejmě, dosud nedošlo k žádnému případu, kdy by @ MONSTER_RACE @ úmyslně poškodil člověka."
 
 #. Key:	02FA062A4ABF915F50D8B38C08105557
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(2).Lines
@@ -130,7 +130,6 @@ msgstr "Tělesné tekutiny Titánů."
 #. Key:	035F52234F8DA96ED37A5AAC5DD88039
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(4).LinesToMale
 #: /Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(4).LinesToMale
-#, fuzzy
 msgctxt ",035F52234F8DA96ED37A5AAC5DD88039"
 msgid "Ahh, plant your delicious seed in my little body! Give me... ohhh... all of it!"
 msgstr "Ahh, dej své lahodné semeno do mého malého těla! Dej mi ... ohhh ... to všechno!"
@@ -140,7 +139,7 @@ msgstr "Ahh, dej své lahodné semeno do mého malého těla! Dej mi ... ohhh ..
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(6).LinesToFemale
 msgctxt ",03BD054E4D9907C2DF497EA4DCC0D8C3"
 msgid "My name is Falene, the leading @MONSTER_RACE@ specialist in all of @WORLD_NAME@."
-msgstr ""
+msgstr "Jmenuji se Falene, vedoucí @ MONSTER_RACE @ specialista ve všech @ WORLD_NAME @."
 
 #. Key:	03C3FCAE4B8424BCF5F580BC933E08E8
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_T.Default__FernDefault01_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
@@ -152,24 +151,23 @@ msgstr "Proč jsi mě nazýval pánem?"
 #. Key:	03FDE484412EB5432BA89A9FF52176AD
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(3).Lines
-#, fuzzy
 msgctxt ",03FDE484412EB5432BA89A9FF52176AD"
 msgid "Meow! It feels so good! I'm going to get kitty cum all over myself!"
-msgstr "Mňou! Je to dobrý pocit! Budu mít mě celém!"
+msgstr "Mňou! Je to dobrý pocit! Budu tě mít po celém těle!"
 
 #. Key:	04205AC945DE4E603D9147AFE4BB7547
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(0).Lines
 msgctxt ",04205AC945DE4E603D9147AFE4BB7547"
 msgid "Ohh yes! Ahhh... penetrate my ancient vagina..."
-msgstr ""
+msgstr "Ach ano! Ahhh ... pronikni mojí starobylou vaginou ..."
 
 #. Key:	04744CA84CBAE9AB13EA1989A23A0DDC
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01.Default__FaleneDefault01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01.Default__FaleneDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",04744CA84CBAE9AB13EA1989A23A0DDC"
 msgid "I will leave your ranch soon! But don't worry, you can find me in Hedon."
-msgstr ""
+msgstr "Brzy opustím váš ranč! Ale nebojte se, najdete mě v Hedonu."
 
 #. Key:	04809803498EAC7920E3F09D8A29F0BF
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernGreeting01.Default__FernGreeting01_C.SessionData.Lines(4).Lines
@@ -183,14 +181,14 @@ msgstr "Čassss na tekutinyyyy?"
 #: /Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(6).Lines
 msgctxt ",0500B4944007820F3A7BB096A4E699AB"
 msgid "Lemme know if y'all want new buildings for your wild @MONSTER_RACE@..."
-msgstr ""
+msgstr "Lemme ví, jestli budete chtít nové budovy pro vaše divoký @MONSTER_RACE @ ..."
 
 #. Key:	0522652344116C917836F4A1A78C8815
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFemale(0).LinesToFemale
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",0522652344116C917836F4A1A78C8815"
 msgid "Don't waste your beautiful tall body on me human. Just wait for Falene to come back, or go suck on Amber's tits."
-msgstr ""
+msgstr "Neztrácej své krásné vysoké tělo na mě člověče. Jen počkejte, až se Falene vrátí, nebo sajte Ambeřiny prsa."
 
 #. Key:	052657834F6DBDBBC49BDAADA6E5E88A
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_RL.Default__NeelaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -211,28 +209,28 @@ msgstr "Cukřenky před míčky!"
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(8).Lines
 msgctxt ",0629816F428092E0C5B0169DD3E8F968"
 msgid "Blessed ones can be found everywhere in @WORLD_NAME@, and for reasons I'm trying to solve, the vast majority are female."
-msgstr ""
+msgstr "Požehnání najdete všude v @ WORLD_NAME @, a z důvodů, které se snažím vyřešit, je drtivá většina žen."
 
 #. Key:	063FE1B64CA363E1B1CB09BFE7E6043C
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(6).Lines
 #: /Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(6).Lines
 msgctxt ",063FE1B64CA363E1B1CB09BFE7E6043C"
 msgid "Heh... sometimes I just can't stop."
-msgstr ""
+msgstr "Heh ... někdy nemůžu přestat."
 
 #. Key:	0685B494422BDD14CE725297CA6A02B0
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(1).LinesToMale
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(1).LinesToMale
 msgctxt ",0685B494422BDD14CE725297CA6A02B0"
 msgid "See, there is nowhere in @WORLD_NAME@ that I haven't slithered."
-msgstr ""
+msgstr "Podívejte, v @ WORLD_NAME @ není nikam, kam bych nevklouzl."
 
 #. Key:	06DCC78B4F1DECA217645DA58B3BB2A4
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(0).Lines
 msgctxt ",06DCC78B4F1DECA217645DA58B3BB2A4"
 msgid "Fern help mastah! Fern harvest fluidssss for you!"
-msgstr ""
+msgstr "Fern pomůže mastah! Fern sklidí tekutiny pro vás!"
 
 #. Key:	06F45D04453307E37897C89FC16861F0
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(8).Lines
@@ -386,7 +384,7 @@ msgstr "Správa svých Titánů"
 #: /Game/Breeding/Positions/Doggy.Default__Doggy_C.SessionData.PositionName
 msgctxt ",0DFBAC884A0E11B073E5269E92E6DC30"
 msgid "Doggy"
-msgstr ""
+msgstr "Pes"
 
 #. Key:	0E2A96C54ACC4571431587B73459221E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.DisplayName
@@ -10753,7 +10751,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:189
 msgctxt "SSexyRoamerMenu,Breeder"
 msgid "Breeder:"
-msgstr ""
+msgstr "Chovatel:"
 
 #. Key:	CatchButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:98
@@ -10767,294 +10765,294 @@ msgstr "Chytit"
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:99
 msgctxt "SSexyRoamerMenu,CatchButtonTooltip"
 msgid "Add this wild Nephelym to your collection."
-msgstr ""
+msgstr "Přidejte tohoto divokého Nephelyma do své sbírky."
 
 #. Key:	CollapseStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:142
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:142
 msgctxt "SSexyRoamerMenu,CollapseStats"
 msgid "Hide detailed stats for this wild Nephelym."
-msgstr ""
+msgstr "Schovat podrobné statistiky toho divokého Nephelyma."
 
 #. Key:	ExpandStats
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:123
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:123
 msgctxt "SSexyRoamerMenu,ExpandStats"
 msgid "View detailed stats for this wild Nephelym."
-msgstr ""
+msgstr "Zobrazit podrobné statistiky toho divokého Nephelyma."
 
 #. Key:	ItemWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:220
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:220
 msgctxt "SSexyRoamerMenu,ItemWindowTitle"
 msgid "Give Fluid"
-msgstr ""
+msgstr "Dát tekutinu"
 
 #. Key:	LeaveButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:60
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:60
 msgctxt "SSexyRoamerMenu,LeaveButton"
 msgid "Leave"
-msgstr ""
+msgstr "Odejít"
 
 #. Key:	LeaveButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:61
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:61
 msgctxt "SSexyRoamerMenu,LeaveButtonTooltip"
 msgid "Leave this wild Nephelym alone."
-msgstr ""
+msgstr "Nechte tohoto divokého Nephelyma jít."
 
 #. Key:	Nephelym
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:172
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:172
 msgctxt "SSexyRoamerMenu,Nephelym"
 msgid "Nephelym:"
-msgstr ""
+msgstr "Nephelym:"
 
 #. Key:	RBJ
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:292
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:292
 msgctxt "SSexyRoamerMenu,RBJ"
 msgid "Spontaneous Blow Job!"
-msgstr ""
+msgstr "Spontánní kouření!"
 
 #. Key:	ResistMessage
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:299
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:299
 msgctxt "SSexyRoamerMenu,ResistMessage"
 msgid "Rapidly click to resist climax."
-msgstr ""
+msgstr "Rychle klikejte pro oddálení vyvrcholení."
 
 #. Key:	RoamerWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:202
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:202
 msgctxt "SSexyRoamerMenu,RoamerWindowTitle"
 msgid "Actions"
-msgstr ""
+msgstr "Akce"
 
 #. Key:	SurpriseSex
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:292
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:292
 msgctxt "SSexyRoamerMenu,SurpriseSex"
 msgid "Surprise Sex!"
-msgstr ""
+msgstr "Překvapivý Sex!"
 
 #. Key:	TaskRBJ
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:299
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:299
 msgctxt "SSexyRoamerMenu,TaskRBJ"
 msgid "Let her work her wonder."
-msgstr ""
+msgstr "Nechte ji dělat její zázrak."
 
 #. Key:	CheatFavor
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:764
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:764
 msgctxt "SSexySettingsMenu,CheatFavor"
 msgid "Added 1,000 favor."
-msgstr ""
+msgstr "Přidáno 1 000 laskavostí."
 
 #. Key:	CheatFluids
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:801
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:801
 msgctxt "SSexySettingsMenu,CheatFluids"
 msgid "All fluids maxed."
-msgstr ""
+msgstr "Všechny tekutiny na maximum."
 
 #. Key:	CheatLust
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:768
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:768
 msgctxt "SSexySettingsMenu,CheatLust"
 msgid "Everyone has infinite lust."
-msgstr ""
+msgstr "Každý má nekonečnou touhu."
 
 #. Key:	CheatMoney
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:760
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:760
 msgctxt "SSexySettingsMenu,CheatMoney"
 msgid "Added 1,000,000 orgasium."
-msgstr ""
+msgstr "Přidáno 1,000,000 orgasia."
 
 #. Key:	CheatPortals
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:811
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:811
 msgctxt "SSexySettingsMenu,CheatPortals"
 msgid "All pussy portals activated."
-msgstr ""
+msgstr "Všechny vagína portály jsou aktivovány"
 
 #. Key:	CheatRanch
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:794
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:794
 msgctxt "SSexySettingsMenu,CheatRanch"
 msgid "All barns added to ranch."
-msgstr ""
+msgstr "Všechny stodoly přidány na ranč."
 
 #. Key:	CheatRemove
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:756
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:756
 msgctxt "SSexySettingsMenu,CheatRemove"
 msgid "All cheats removed."
-msgstr ""
+msgstr "Všechny cheaty odstraněny"
 
 #. Key:	CheatSpirit
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:777
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:777
 msgctxt "SSexySettingsMenu,CheatSpirit"
 msgid "You now have infinite spirit."
-msgstr ""
+msgstr "Nyní máte nekonečného ducha."
 
 #. Key:	CheatSurprise
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:805
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:805
 msgctxt "SSexySettingsMenu,CheatSurprise"
 msgid "You will always win surprise sex."
-msgstr ""
+msgstr "Vždy vyhrajete nečekaný sex."
 
 #. Key:	CheatTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:142
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:142
 msgctxt "SSexySettingsMenu,CheatTitle"
 msgid "Cheats"
-msgstr ""
+msgstr "Cheaty"
 
 #. Key:	CheatTraitLvl
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:781
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:781
 msgctxt "SSexySettingsMenu,CheatTraitLvl"
 msgid "Trait level is maxed."
-msgstr ""
+msgstr "Úroveň vlastností je maximální."
 
 #. Key:	CreatorMode
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:828
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:828
 msgctxt "SSexySettingsMenu,CreatorMode"
 msgid "Creator mode activated."
-msgstr ""
+msgstr "Režim tvůrce aktivován"
 
 #. Key:	DefaultKeyBinds
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:714
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:714
 msgctxt "SSexySettingsMenu,DefaultKeyBinds"
 msgid "Reset Defaults"
-msgstr ""
+msgstr "Výchozí nastavení"
 
 #. Key:	DialogueTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:134
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:134
 msgctxt "SSexySettingsMenu,DialogueTitle"
 msgid "Dialogue"
-msgstr ""
+msgstr "Dialog"
 
 #. Key:	EnterButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:160
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:160
 msgctxt "SSexySettingsMenu,EnterButton"
 msgid "Enter"
-msgstr ""
+msgstr "Vstoupit"
 
 #. Key:	FemG
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:844
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:844
 msgctxt "SSexySettingsMenu,FemG"
 msgid "Futas use SS FemG."
-msgstr ""
+msgstr "Futas používá SS FemG."
 
 #. Key:	FetishTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:125
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:125
 msgctxt "SSexySettingsMenu,FetishTitle"
 msgid "Fetish"
-msgstr ""
+msgstr "Fetiš"
 
 #. Key:	NFemG
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:848
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:848
 msgctxt "SSexySettingsMenu,NFemG"
 msgid "Futas use SS TG."
-msgstr ""
+msgstr "Futas používá SS TG."
 
 #. Key:	SizePairs
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexySexPositionDetails.cpp:25
 #: Source/Radiant/Public/UI/Components/SexySexPositionDetails.cpp:25
 msgctxt "SSexySexPositionDetails,SizePairs"
 msgid "Pairs with Scene"
-msgstr ""
+msgstr "Dvojce s dějištěm"
 
 #. Key:	Null
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyTaskGridItem.cpp:194
 #: Source/Radiant/Public/UI/Components/SexyTaskGridItem.cpp:194
 msgctxt "SSexyTaskGridItem,Null"
 msgid "Null"
-msgstr ""
+msgstr "nula"
 
 #. Key:	FavorTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1024
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1024
 msgctxt "SSexyTradeMenu,FavorTitle"
 msgid "Confirm Exchange"
-msgstr ""
+msgstr "Potvrďte výměnu"
 
 #. Key:	FinalFavor
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:488
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:488
 msgctxt "SSexyTradeMenu,FinalFavor"
 msgid "Favor gained:"
-msgstr ""
+msgstr "Získaná oblíbenost:"
 
 #. Key:	PositionDescription
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:403
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:403
 msgctxt "SSexyTradeMenu,PositionDescription"
 msgid "Description"
-msgstr ""
+msgstr "Popis"
 
 #. Key:	PurchaseTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1026
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1026
 msgctxt "SSexyTradeMenu,PurchaseTitle"
 msgid "Confirm Purchase"
-msgstr ""
+msgstr "Potvrďte nákup"
 
 #. Key:	SaleTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1026
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:1026
 msgctxt "SSexyTradeMenu,SaleTitle"
 msgid "Confirm Sale"
-msgstr ""
+msgstr "Potvrďte prodej"
 
 #. Key:	SellMonsterMessage
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:854
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:854
 msgctxt "SSexyTradeMenu,SellMonsterMessage"
 msgid "Ascend this one and gain favor?"
-msgstr ""
+msgstr "Vystoupejte a získejte laskavost?"
 
 #. Key:	Activate
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:175
 #: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:175
 msgctxt "TaskBoard,Activate"
 msgid "Check Breeding Tasks"
-msgstr ""
+msgstr "Kontrola šlechtitelských úkolů"
 
 #. Key:	BuyFunds
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:247
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:247
 msgctxt "TradeMenu,BuyFunds"
 msgid "Her funds:"
-msgstr ""
+msgstr "Její prostředky"
 
 #. Key:	HarvestButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:143
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:143
 msgctxt "TradeMenu,HarvestButton"
 msgid "Harvest"
-msgstr ""
+msgstr "Sklizeň"
 
 #. Key:	ItemsButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:134
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:134
 msgctxt "TradeMenu,ItemsButton"
 msgid "Items"
-msgstr ""
+msgstr "Položky"
 
 #. Key:	SellFunds
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:102
@@ -11068,49 +11066,50 @@ msgstr "Tvé prostředky:"
 #: Source/Radiant/Public/UI/Menus/SexyTradeMenu.cpp:315
 msgctxt "TradeMenu,UpgradeDescription"
 msgid "Description"
-msgstr ""
+msgstr "Popis"
 
 #. Key:	HarvestButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:54
 #: Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:54
 msgctxt "UtilityMenu,HarvestButton"
 msgid "Harvest"
-msgstr ""
+msgstr "Sklizeň"
 
 #. Key:	InventoryWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:37
 #: Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:37
 msgctxt "UtilityMenu,InventoryWindowTitle"
 msgid "Ranch Inventory"
-msgstr ""
+msgstr "Inventář ranče"
 
 #. Key:	ActivateAction
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:327
 #: Source/Radiant/Public/UI/SexyInterface.cpp:327
 msgctxt "WorldAction,ActivateAction"
 msgid "Activate"
-msgstr ""
+msgstr "Aktivovat"
 
 #. Key:	ActivateDazeShrine
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:333
 #: Source/Radiant/Public/UI/SexyInterface.cpp:333
 msgctxt "WorldAction,ActivateDazeShrine"
 msgid "Commune with the Reaper"
-msgstr ""
+msgstr "Komuna s Reaperem"
 
 #. Key:	BreedingSetupAction
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:321
 #: Source/Radiant/Public/UI/SexyInterface.cpp:321
+#, fuzzy
 msgctxt "WorldAction,BreedingSetupAction"
 msgid "Setup Breeding Session"
-msgstr ""
+msgstr "Nastavení chovu"
 
 #. Key:	InteractAction
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:336
 #: Source/Radiant/Public/UI/SexyInterface.cpp:336
 msgctxt "WorldAction,InteractAction"
 msgid "Interact"
-msgstr ""
+msgstr "Interakce"
 
 #. Key:	ManageRanch
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:318
@@ -11124,11 +11123,11 @@ msgstr "Spravovat ranč"
 #: Source/Radiant/Public/UI/SexyInterface.cpp:324
 msgctxt "WorldAction,TalkAction"
 msgid "Talk"
-msgstr ""
+msgstr "Mluv"
 
 #. Key:	TraverseAction
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:330
 #: Source/Radiant/Public/UI/SexyInterface.cpp:330
 msgctxt "WorldAction,TraverseAction"
 msgid "Traverse Portal"
-msgstr ""
+msgstr "Cestovní portál"
