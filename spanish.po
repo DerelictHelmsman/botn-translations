@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spanish\n"
 "POT-Creation-Date: 2020-04-28 21:29\n"
-"PO-Revision-Date: 2020-05-13 22:28+0200\n"
+"PO-Revision-Date: 2020-05-27 02:11+0200\n"
 "Language-Team: \n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -5224,7 +5224,7 @@ msgstr "Mira mi hermosa flor, ¡floreció! Oh, se sintió raro..."
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(14).Lines
 msgctxt ",AA08081E4A0AF7A81D4B99B1527E6970"
 msgid "The demons took advantage of this and started using them as breeding toys."
-msgstr "Los demonios se aprovecharon de esto y comenzaron a usarlos como juguetes de cría."
+msgstr "Los demonios se aprovecharon de esto y comenzaron a usarlas como juguetes de cría."
 
 #. Key:	AA16BE3B4732F407329ED6B450557C71
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.Lines(0).Lines
