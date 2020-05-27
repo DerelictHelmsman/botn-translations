@@ -2632,7 +2632,7 @@ msgstr "Se compadeció de sus creaciones e hizo el amor con ellas, un evento que
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Daze.Default__EmissaryDefault01_Daze_C.SessionData.Lines(2).Lines
 msgctxt ",566D4E2B458FC3277E49CB91D5CAB649"
 msgid "Then, the dark reaper of the daze will bring back to that body your awareness."
-msgstr "Entonces, la segador oscura del aturdimiento traerá de vuelta a ese cuerpo su conciencia."
+msgstr "Entonces, la segadora oscura del aturdimiento traerá de vuelta a ese cuerpo su conciencia."
 
 #. Key:	567F4EF7487947546DDFE3B0195DFDEB
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(0).Lines
