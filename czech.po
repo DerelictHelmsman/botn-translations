@@ -11164,6 +11164,7 @@ msgstr "Komuna s Reaperem"
 #. Key:	BreedingSetupAction
 #. SourceLocation:	Source/Radiant/Public/UI/SexyInterface.cpp:321
 #: Source/Radiant/Public/UI/SexyInterface.cpp:321
+#, fuzzy
 msgctxt "WorldAction,BreedingSetupAction"
 msgid "Setup Breeding Session"
 msgstr "Nastavení chovu"
