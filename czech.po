@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: czech\n"
 "POT-Creation-Date: 2020-05-13 22:42\n"
-"PO-Revision-Date: 2020-05-28 11:04+0200\n"
+"PO-Revision-Date: 2020-05-28 12:40+0200\n"
 "Language-Team: \n"
 "Language: cs_CZ\n"
 "MIME-Version: 1.0\n"
@@ -393,7 +393,7 @@ msgstr "Pes"
 #: Value).TraitIcons.DisplayName
 msgctxt ",0E2A96C54ACC4571431587B73459221E"
 msgid "Nymphomaniac"
-msgstr ""
+msgstr "Nymfomaniak"
 
 #. Key:	0E6E1156457FB3513C060D979FF6B9AE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.HelpText
@@ -429,7 +429,7 @@ msgstr "Nephelym Barn"
 #: /Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(5).LinesToFuta
 msgctxt ",0F0B2E364C42C3D6BACC018A46DB5BE4"
 msgid "*Suck* *Lick*"
-msgstr ""
+msgstr "* Sát * * Lízat *"
 
 #. Key:	0F2C916F409983084088D7B8C734556F
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(4).Lines
@@ -8291,10 +8291,9 @@ msgstr ""
 #. Key:	BreedButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:64
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:64
-#, fuzzy
 msgctxt "BreedingSetup,BreedButtonTooltip"
 msgid "Start a breeding scene with the currently selected mates and options."
-msgstr "Zobrazit sexuální scénu pro aktuálně vybrané páření a možnosti."
+msgstr "Zahajte chovnou scénu s aktuálně vybraným párem a možnostmi."
 
 #. Key:	GiverWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:72
@@ -8327,10 +8326,9 @@ msgstr "Výběr příjemce"
 #. Key:	ImpossibleCombo
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:175
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:175
-#, fuzzy
 msgctxt "BreedingSystem,ImpossibleCombo"
 msgid "Impossible breeding combination."
-msgstr "Kontrola šlechtitelských úkolů"
+msgstr "Nemožná kombinace chovu."
 
 #. Key:	NoFemaleGiver
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:171
@@ -8342,10 +8340,9 @@ msgstr ""
 #. Key:	NoGiver
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:159
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:159
-#, fuzzy
 msgctxt "BreedingSystem,NoGiver"
 msgid "Giver must be selected."
-msgstr "Skrýt  podrobné statistiky vybraného dárce."
+msgstr "Musí být vybrán dárce."
 
 #. Key:	NoMaleReceiver
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:167
@@ -8357,18 +8354,16 @@ msgstr ""
 #. Key:	NoOffspring
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:597
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:597
-#, fuzzy
 msgctxt "BreedingSystem,NoOffspring"
 msgid "No offspring this time..."
-msgstr "Sterilní: Nelze produkovat potomstvo."
+msgstr "Tentokrát žádné potomstvo ..."
 
 #. Key:	NoReceiver
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:163
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:163
-#, fuzzy
 msgctxt "BreedingSystem,NoReceiver"
 msgid "Receiver must be selected."
-msgstr "Skrýt podrobné statistiky pro vybraného příjemce."
+msgstr "Musí být vybrán příjemce."
 
 #. Key:	NoRoomOffspring
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:591
@@ -8380,153 +8375,149 @@ msgstr ""
 #. Key:	NoSexPosition
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:155
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:155
-#, fuzzy
 msgctxt "BreedingSystem,NoSexPosition"
 msgid "Sex position must be selected."
-msgstr "Naučíte se tuto sexuální pozici."
+msgstr "Musí být vybrána sexuální pozice."
 
 #. Key:	Allure
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:149
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:149
 msgctxt "CharacterDetails,Allure"
 msgid "Allure"
-msgstr ""
+msgstr "Vábit"
 
 #. Key:	AllureTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:150
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:150
 msgctxt "CharacterDetails,AllureTooltip"
 msgid "Allure is a measure of the pheromones given off by this one."
-msgstr ""
+msgstr "Vábení je míra vydávaných feromonů."
 
 #. Key:	Attributes
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:63
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:63
 msgctxt "CharacterDetails,Attributes"
 msgid "Attributes"
-msgstr ""
+msgstr "Atributy"
 
 #. Key:	Dexterity
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:163
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:163
 msgctxt "CharacterDetails,Dexterity"
 msgid "Dexterity"
-msgstr ""
+msgstr "Šikovnost"
 
 #. Key:	DexterityTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:164
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:164
 msgctxt "CharacterDetails,DexterityTooltip"
 msgid "Measures how quick and agile this one can be."
-msgstr ""
+msgstr "Měří, jak rychlý a obratný může tento být ."
 
 #. Key:	Father
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:111
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:111
 msgctxt "CharacterDetails,Father"
 msgid "Father"
-msgstr ""
+msgstr "Otec"
 
 #. Key:	FatherTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:112
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:112
 msgctxt "CharacterDetails,FatherTooltip"
 msgid "The provider of the semen."
-msgstr ""
+msgstr "Poskytovatel spermatu."
 
 #. Key:	Fertility
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:142
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:142
 msgctxt "CharacterDetails,Fertility"
 msgid "Fertility"
-msgstr ""
+msgstr "Plodnost"
 
 #. Key:	FertiliyTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:143
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:143
 msgctxt "CharacterDetails,FertiliyTooltip"
 msgid "How likely it would be for this one to produce offspring."
-msgstr ""
+msgstr "Jaká je pravděpodobnost, že bude mít potomstvo."
 
 #. Key:	Level
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:128
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:128
-#, fuzzy
 msgctxt "CharacterDetails,Level"
 msgid "Level"
-msgstr "Úroveň vlastností je maximální."
+msgstr "Úroveň"
 
 #. Key:	LevelTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:129
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:129
 msgctxt "CharacterDetails,LevelTooltip"
 msgid "Level represents how much power this one has absorbed through sexual activity."
-msgstr ""
+msgstr "Představuje úroveň , kolik energie absorboval sexuální aktivitou."
 
 #. Key:	Lifeforce
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:38
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:38
-#, fuzzy
 msgctxt "CharacterDetails,Lifeforce"
 msgid "Spirit"
-msgstr "Forma Ducha"
+msgstr "Duch"
 
 #. Key:	LifeforceTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:39
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:39
 msgctxt "CharacterDetails,LifeforceTooltip"
 msgid "Spirit energy. Used to transform into your spirit form."
-msgstr ""
+msgstr "Duchovní energie. Používá se k přeměně na duchovní formu."
 
 #. Key:	Loyalty
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:44
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:44
 msgctxt "CharacterDetails,Loyalty"
 msgid "Loyalty"
-msgstr ""
+msgstr "Věrnost"
 
 #. Key:	LoyaltyTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:45
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:45
 msgctxt "CharacterDetails,LoyaltyTooltip"
 msgid "How happy this one is to stay on your ranch."
-msgstr ""
+msgstr "Jak šťastný je na ranči."
 
 #. Key:	Lust
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:31
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:31
-#, fuzzy
 msgctxt "CharacterDetails,Lust"
 msgid "Lust"
-msgstr "Každý má nekonečnou touhu."
+msgstr "Touha"
 
 #. Key:	LustTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:32
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:32
 msgctxt "CharacterDetails,LustTooltip"
 msgid "Represents how horny this one has become. When lust reaches zero, sexual activity and most actions cannot be performed."
-msgstr ""
+msgstr "Představuje, jak je postava nadržená. Když chtíč dosáhne nuly, nelze mít sexuální aktivitu a většinu akcí nelze provést."
 
 #. Key:	Mother
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:104
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:104
 msgctxt "CharacterDetails,Mother"
 msgid "Mother"
-msgstr ""
+msgstr "Matka"
 
 #. Key:	MotherTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:105
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:105
 msgctxt "CharacterDetails,MotherTooltip"
 msgid "The female who summoned this one into the world."
-msgstr ""
+msgstr "Samice, která ho přivedla na svět."
 
 #. Key:	Pregnancy
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:56
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:56
 msgctxt "CharacterDetails,Pregnancy"
 msgid "Pregnant"
-msgstr ""
+msgstr "Těhotná"
 
 #. Key:	PregnancyTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:57
@@ -8536,13 +8527,15 @@ msgid ""
 "Progress toward summoning offspring.\n"
 "Milk production is doubled during pregnancy."
 msgstr ""
+"Pokrok k porodu potomků.\n"
+"Produkce mléka se během těhotenství zdvojnásobí."
 
 #. Key:	Procreators
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:94
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:94
 msgctxt "CharacterDetails,Procreators"
 msgid "Procreators"
-msgstr ""
+msgstr "Ploditelé"
 
 #. Key:	Race
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:73
@@ -8554,132 +8547,128 @@ msgstr "Závod"
 #. Key:	RaceTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:74
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:74
-#, fuzzy
 msgctxt "CharacterDetails,RaceTooltip"
 msgid "The race this one belongs to."
-msgstr "Závod"
+msgstr "Závod, do kterého tento patří."
 
 #. Key:	Sex
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:87
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:87
-#, fuzzy
 msgctxt "CharacterDetails,Sex"
 msgid "Sex"
-msgstr "Povolit podvolit se nečekanému sexu."
+msgstr "Pohlaví"
 
 #. Key:	SexTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:88
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:88
 msgctxt "CharacterDetails,SexTooltip"
 msgid "What genetalia this one was born with."
-msgstr ""
+msgstr "S jakými genitáliemi se narodil."
 
 #. Key:	Stats
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:118
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:118
-#, fuzzy
 msgctxt "CharacterDetails,Stats"
 msgid "Stats"
-msgstr "Skrýt  podrobné statistiky vybraného dárce."
+msgstr "Statistika"
 
 #. Key:	Strength
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:135
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:135
 msgctxt "CharacterDetails,Strength"
 msgid "Strength"
-msgstr ""
+msgstr "Síla"
 
 #. Key:	StrengthTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:136
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:136
-#, fuzzy
 msgctxt "CharacterDetails,StrengthTooltip"
 msgid "The physical strength of this one."
-msgstr "Vystoupejte a získejte laskavost?"
+msgstr "Fyzická síla jedince."
 
 #. Key:	Traits
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:177
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:177
 msgctxt "CharacterDetails,Traits"
 msgid "Traits"
-msgstr ""
+msgstr "Rysy"
 
 #. Key:	Value
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:170
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:170
 msgctxt "CharacterDetails,Value"
 msgid "Value"
-msgstr ""
+msgstr "Hodnota"
 
 #. Key:	ValueTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:171
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:171
 msgctxt "CharacterDetails,ValueTooltip"
 msgid "The net worth of this one, a result of stats and the rarity of its variant."
-msgstr ""
+msgstr "Čistá hodnota jedince, výsledek statistiky a vzácnosti jeho varianty."
 
 #. Key:	Variant
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:80
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:80
 msgctxt "CharacterDetails,Variant"
 msgid "Variant"
-msgstr ""
+msgstr "Varianta"
 
 #. Key:	VariantTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:81
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:81
 msgctxt "CharacterDetails,VariantTooltip"
 msgid "The morphology within this one's race."
-msgstr ""
+msgstr "Morfologie této rasy."
 
 #. Key:	Willpower
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:156
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:156
 msgctxt "CharacterDetails,Willpower"
 msgid "Willpower"
-msgstr ""
+msgstr "Síla vůle"
 
 #. Key:	WillpowerTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:157
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:157
 msgctxt "CharacterDetails,WillpowerTooltip"
 msgid "Willpower measures the ability of this one to control their lust."
-msgstr ""
+msgstr "Síla vůle měří schopnost jedince ovládat svou touhu."
 
 #. Key:	XP
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:50
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:50
 msgctxt "CharacterDetails,XP"
 msgid "XP"
-msgstr ""
+msgstr "XP"
 
 #. Key:	XPTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:51
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:51
 msgctxt "CharacterDetails,XPTooltip"
 msgid "Progress toward the next level."
-msgstr ""
+msgstr "Pokrok směrem k další úrovni."
 
 #. Key:	AdditionalMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:444
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:444
 msgctxt "CharacterEditor,AdditionalMaterial"
 msgid "Additional Material"
-msgstr ""
+msgstr "Další materiál"
 
 #. Key:	AmbientEffects
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:487
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:487
 msgctxt "CharacterEditor,AmbientEffects"
 msgid "Ambient Effects"
-msgstr ""
+msgstr "Okolní efekty"
 
 #. Key:	AnusMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:419
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:419
 msgctxt "CharacterEditor,AnusMaterial"
 msgid "Anus"
-msgstr ""
+msgstr "Anus"
 
 #. Key:	BackButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:73
@@ -8691,35 +8680,30 @@ msgstr "Zpět"
 #. Key:	BackButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:74
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:74
-#, fuzzy
 msgctxt "CharacterEditor,BackButtonTooltip"
 msgid "Return to the previous screen."
-msgstr "Obrazovka"
+msgstr "Návrat na předchozí obrazovku."
 
 #. Key:	BellyShape
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:361
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:361
-#, fuzzy
 msgctxt "CharacterEditor,BellyShape"
 msgid "Belly"
-msgstr ""
-"Samicím Nefelymů bude trvat 4 dny, než porodí své potomky, a břicho se zvětší.\n"
-"VAROVÁNÍ: Přepnutím této možnosti během hraní hry dojde ke ztrátě stávajících těhotenství."
+msgstr "Břicho"
 
 #. Key:	BodyAttachments
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:482
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:482
 msgctxt "CharacterEditor,BodyAttachments"
 msgid "Attachments"
-msgstr ""
+msgstr "Doplňky"
 
 #. Key:	BodyAttachmentsMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:449
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:449
-#, fuzzy
 msgctxt "CharacterEditor,BodyAttachmentsMaterial"
 msgid "Body Attachments"
-msgstr "Tělo"
+msgstr "Tělesné doplňky"
 
 #. Key:	BodyMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:424
@@ -8731,46 +8715,44 @@ msgstr "Tělo"
 #. Key:	BodyPhysics
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:492
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:492
-#, fuzzy
 msgctxt "CharacterEditor,BodyPhysics"
 msgid "Bounce Physics"
-msgstr "Fyzika"
+msgstr "Fyzika houpání"
 
 #. Key:	BootsGroup
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:469
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:469
 msgctxt "CharacterEditor,BootsGroup"
 msgid "Footwear"
-msgstr ""
+msgstr "Obuv"
 
 #. Key:	BreastsShape
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:356
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:356
 msgctxt "CharacterEditor,BreastsShape"
 msgid "Breasts"
-msgstr ""
+msgstr "Prsa"
 
 #. Key:	BreedingTags
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:497
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:497
-#, fuzzy
 msgctxt "CharacterEditor,BreedingTags"
 msgid "Breeding Tags"
-msgstr "Chovatelské úkoly"
+msgstr "Chovatelské značky"
 
 #. Key:	ButtShape
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:376
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:376
 msgctxt "CharacterEditor,ButtShape"
 msgid "Butt"
-msgstr ""
+msgstr "Zadek"
 
 #. Key:	CancelButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:535
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:535
 msgctxt "CharacterEditor,CancelButton"
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 #. Key:	ChangeSexTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:263
@@ -8780,14 +8762,15 @@ msgid ""
 "Change this character's sex.\n"
 "WARNING: This will overwrite the current appearance."
 msgstr ""
+"Změní pohlaví této postavy.\n"
+"VAROVÁNÍ: Tím se přepíše aktuální vzhled."
 
 #. Key:	ChooseAnimationTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:179
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:179
-#, fuzzy
 msgctxt "CharacterEditor,ChooseAnimationTooltip"
 msgid "Change the current animation."
-msgstr "Smazat aktuální filtry."
+msgstr "Změňte aktuální animaci."
 
 #. Key:	ChooseTraitTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:311
