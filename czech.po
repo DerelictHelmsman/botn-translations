@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: czech\n"
 "POT-Creation-Date: 2020-05-13 22:42\n"
-"PO-Revision-Date: 2020-05-28 17:33+0200\n"
+"PO-Revision-Date: 2020-05-28 21:56+0200\n"
 "Language-Team: \n"
 "Language: cs_CZ\n"
 "MIME-Version: 1.0\n"
@@ -592,7 +592,7 @@ msgstr "Toto vám umožní chytit a skladovat všechny varianty Thriae."
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(3).ResponseData.BreederPrompt
 msgctxt ",12D176A644633E97EDB77BAB882297E2"
 msgid "Reverse Cowgirl!"
-msgstr ""
+msgstr "Otočený kovbojka!"
 
 #. Key:	12D3C80246AEABBC7C78CD8D7A2FD415
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(2).Lines
@@ -6684,7 +6684,7 @@ msgstr ""
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",DB4129DC426B367CD877BE889495E940"
 msgid "Let's exchange semen!"
-msgstr "Pojďme si vyměnit sperma!"
+msgstr "Pojďme si vyměnit semeno!"
 
 #. Key:	DB49BD62447CAE7EAA40869818522E59
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R03_RL.Default__CamillaDefault01_R03_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -7741,7 +7741,7 @@ msgstr ""
 #: /Game/Dialogue/Cassie/SexScenes/CassieButterButtF.Default__CassieButterButtF_C.SessionData.Lines(1).Lines
 msgctxt ",FE908E8B4214DDCF1709D284DCA9D0E1"
 msgid "*Purr*"
-msgstr "*Purr*"
+msgstr "*Mňau*"
 
 #. Key:	FEE6416B44C40270EC8167ADD51EA060
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(0).Lines
@@ -7769,7 +7769,7 @@ msgstr ""
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R06.Default__CamillaDefault01_R06_C.SessionData.Lines(0).Lines
 msgctxt ",FF56CAFF482C5F43FF4C419DCB359C8A"
 msgid "Mean human! Girthy little lumps have feelings too!"
-msgstr ""
+msgstr "Průměrný člověče! Obtloustlé malé hrudky mají také pocity!"
 
 #. Key:	FF5A245B4A28E802C1A30CAC4B4DE4E5
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Seraphim/Harvest/SeraphimHarvest.Default__SeraphimHarvest_C.Harvest.Description
@@ -7783,7 +7783,7 @@ msgstr "Tělesné tekutiny Serafimů."
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(5).LinesToMale
 msgctxt ",FFA17F124A05F93244CA07860B63DEA2"
 msgid "Oh silly me, I never introduced myself."
-msgstr ""
+msgstr "Ach jak jsou hloupý, nikdy jsem se nepředstavil."
 
 #. Key:	FFEB9256402DB5ADDFEED38770F40285
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.HelpText
@@ -7791,14 +7791,14 @@ msgstr ""
 #: Value).TraitIcons.HelpText
 msgctxt ",FFEB9256402DB5ADDFEED38770F40285"
 msgid "Busty: Inherited very large breasts."
-msgstr ""
+msgstr "Prsatá: Zdědila velmi velká prsa."
 
 #. Key:	SpiritFormActivate
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:217
 #: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:217
 msgctxt "ASexyBreederCharacter,SpiritFormActivate"
 msgid "A Nephelym spirit has merged with {0}."
-msgstr ""
+msgstr "Duch Nephelymu se spojil s {0}."
 
 #. Key:	SpiritFormDeactivate
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:223
@@ -7819,7 +7819,7 @@ msgstr "Nedostatek ducha."
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:328
 msgctxt "ASexyBreedingSystem,IncestMessage"
 msgid "This might not turn out well..."
-msgstr ""
+msgstr "To nemusí dopadnout dobře ..."
 
 #. Key:	ReleasedOffspring
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:447
@@ -7833,49 +7833,49 @@ msgstr "Potomek propuštěn do divočiny."
 #: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:1233
 msgctxt "ASexyCharacterSystem,BadSettingsMessage"
 msgid "Both female hominal and exotic variants are disabled, default will be used."
-msgstr ""
+msgstr "Jak samičí lidské, tak exotické varianty jsou deaktivovány, použije se výchozí."
 
 #. Key:	SpiritForm
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2055
 #: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2055
 msgctxt "ASexyCharacterSystem,SpiritForm"
 msgid "Spirit form has been saved."
-msgstr ""
+msgstr "Duchovní forma byla uložena."
 
 #. Key:	EndlessDaze
 #. SourceLocation:	Source/Radiant/Public/World/SexyDazeSystem.cpp:103
 #: Source/Radiant/Public/World/SexyDazeSystem.cpp:103
 msgctxt "ASexyDazeSystem,EndlessDaze"
 msgid "{0} has lost conciousness..."
-msgstr ""
+msgstr "{0} ztratil vědomí ..."
 
 #. Key:	ReaperToll
 #. SourceLocation:	Source/Radiant/Public/World/SexyDazeSystem.cpp:132
 #: Source/Radiant/Public/World/SexyDazeSystem.cpp:132
 msgctxt "ASexyDazeSystem,ReaperToll"
 msgid "The Reaper will have her toll..."
-msgstr ""
+msgstr "Žací stroj bude mít svou daň ..."
 
 #. Key:	NoFuta
 #. SourceLocation:	Source/Radiant/Public/Characters/Dialogue/SexyDialogueSystem.cpp:296
 #: Source/Radiant/Public/Characters/Dialogue/SexyDialogueSystem.cpp:296
 msgctxt "ASexyDialogueSystem,NoFuta"
 msgid "Futa is disabled."
-msgstr ""
+msgstr "Futy jsou zakázány."
 
 #. Key:	SpiritForm
 #. SourceLocation:	Source/Radiant/Public/Game/SexyGameMode.cpp:344
 #: Source/Radiant/Public/Game/SexyGameMode.cpp:344
 msgctxt "ASexyGameMode,SpiritForm"
 msgid "Spirit form has been unlocked."
-msgstr ""
+msgstr "Duchová forma byla odemčena."
 
 #. Key:	MoreFavor
 #. SourceLocation:	Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:415
 #: Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:415
 msgctxt "ASexyMerchantSystem,MoreFavor"
 msgid "Favor from the Goddess is required."
-msgstr ""
+msgstr "Je vyžadována laskavost od bohyně."
 
 #. Key:	MoreLust
 #. SourceLocation:	Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:406
@@ -7889,14 +7889,14 @@ msgstr "Nedostatek chtíče."
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1003
 msgctxt "ASexyMonsterSystem,FernThanks"
 msgid "Fern gave {0} 150 shiny."
-msgstr ""
+msgstr "Fern dala {0} 150 Lesku."
 
 #. Key:	LearnedPosition
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1042
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1042
 msgctxt "ASexyMonsterSystem,LearnedPosition"
 msgid "{0}'s consciousness has expanded."
-msgstr ""
+msgstr "Vědomí {0} se rozšířilo."
 
 #. Key:	NoBathForYou
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1158
@@ -7910,21 +7910,21 @@ msgstr "Nedostatek orgasia."
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:1145
 msgctxt "ASexyMonsterSystem,NoFutaScene"
 msgid "Futa scene skipped, sex postion learned."
-msgstr ""
+msgstr "Futa scéna přeskočena, naučena sexuální pozice."
 
 #. Key:	Breaks
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:212
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:212
 msgctxt "ASexyOverworldInterface,Breaks"
 msgid "Virgin Breaks"
-msgstr ""
+msgstr "Virgin Breaks"
 
 #. Key:	Cavern
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:224
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:224
 msgctxt "ASexyOverworldInterface,Cavern"
 msgid "Amorous Hallows"
-msgstr ""
+msgstr "Amorous Hallows"
 
 #. Key:	ClimaxPeak
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:218
@@ -7945,21 +7945,21 @@ msgstr "Zátoka Rapture"
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:230
 msgctxt "ASexyOverworldInterface,Crag"
 msgid "Moaning Crag"
-msgstr ""
+msgstr "Moaning Crag"
 
 #. Key:	Garden
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:182
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:182
 msgctxt "ASexyOverworldInterface,Garden"
 msgid "Hivelands"
-msgstr ""
+msgstr "Hivelands"
 
 #. Key:	Glade
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:206
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:206
 msgctxt "ASexyOverworldInterface,Glade"
 msgid "Esoteric Glade"
-msgstr ""
+msgstr "Esoteric Glade"
 
 #. Key:	HedonTownship
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:158
@@ -7987,28 +7987,28 @@ msgstr "Sultry Plateau"
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:164
 msgctxt "ASexyOverworldInterface,Lustwood"
 msgid "Lustwood"
-msgstr ""
+msgstr "Lustwood"
 
 #. Key:	Pastures
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:176
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:176
 msgctxt "ASexyOverworldInterface,Pastures"
 msgid "Pleasure Pastures"
-msgstr ""
+msgstr "Pleasure Pastures"
 
 #. Key:	Sands
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:194
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:194
 msgctxt "ASexyOverworldInterface,Sands"
 msgid "Sensual Sands"
-msgstr "Smyslné písky"
+msgstr "Sensual Sands"
 
 #. Key:	BoringCum
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:685
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:685
 msgctxt "ASexyRoamingSystem,BoringCum"
 msgid "She wanted more..."
-msgstr ""
+msgstr "Chtěla víc ..."
 
 #. Key:	BreederBoringCum
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:685
@@ -8022,7 +8022,7 @@ msgstr "Tento divoch chce víc..."
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:690
 msgctxt "ASexyRoamingSystem,BreederClimaxedFirst"
 msgid "{0} has climaxed first..."
-msgstr ""
+msgstr "{0} vyvrcholil první ..."
 
 #. Key:	BreederLikedCum
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:679
@@ -8043,7 +8043,7 @@ msgstr "Divoch byl chycen."
 #: Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:680
 msgctxt "ASexyRoamingSystem,LikedCum"
 msgid "She loves how {0} tastes!"
-msgstr ""
+msgstr "Miluje, jak {0} chutná!"
 
 #. Key:	RBJStart
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:621
@@ -8078,7 +8078,7 @@ msgstr "Už tady jsi."
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:207
 msgctxt "ASexyWorldSystem,TaskRefresh"
 msgid "New breeding requests have arrived."
-msgstr ""
+msgstr "Dorazily nové žádosti o chov."
 
 #. Key:	Activate
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:180
@@ -8099,26 +8099,25 @@ msgstr "Popis"
 #: Source/Radiant/Public/UI/Components/SexyBarnActionDetails.cpp:33
 msgctxt "BarnActionDetails,HarvestDesc"
 msgid "Select an action and then press Start."
-msgstr ""
+msgstr "Vyberte akci a stiskněte Start."
 
 #. Key:	NewOffspring
 #. SourceLocation:	Source/Radiant/Public/Characters/Breeder/SexyBreederController.cpp:136
 #: Source/Radiant/Public/Characters/Breeder/SexyBreederController.cpp:136
 msgctxt "BreederController,NewOffspring"
 msgid "Congratulations, {0} has summoned new offspring!"
-msgstr ""
+msgstr "Gratulujeme, {0} porodil nového potomka!"
 
 #. Key:	AdvanceButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:108
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:108
 msgctxt "BreedingSession,AdvanceButtonTitle"
 msgid "Advance"
-msgstr ""
+msgstr "Posun vpřed"
 
 #. Key:	BreedButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:100
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:100
-#, fuzzy
 msgctxt "BreedingSession,BreedButtonTitle"
 msgid "Skip"
 msgstr "Přeskočit"
@@ -8128,14 +8127,14 @@ msgstr "Přeskočit"
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:101
 msgctxt "BreedingSession,BreedButtonTooltip"
 msgid "Skip the rest of the scene, offspring may still be produced."
-msgstr ""
+msgstr "Přeskoční zbytku scény, potomstvo může být stále produkováno."
 
 #. Key:	DebugTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:186
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:186
 msgctxt "BreedingSession,DebugTitle"
 msgid "Debug"
-msgstr ""
+msgstr "Debug"
 
 #. Key:	IKBelly
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:369
@@ -8177,21 +8176,21 @@ msgstr "Boky"
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:265
 msgctxt "BreedingSession,IKLHand"
 msgid "Hand L"
-msgstr ""
+msgstr "Ruka L"
 
 #. Key:	IKLHandTarget
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:277
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:277
 msgctxt "BreedingSession,IKLHandTarget"
 msgid "Arm PV L"
-msgstr ""
+msgstr "Rameno L"
 
 #. Key:	IKLLeg
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:419
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:419
 msgctxt "BreedingSession,IKLLeg"
 msgid "Leg L"
-msgstr ""
+msgstr "Noha L"
 
 #. Key:	IKReceiver
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:209
@@ -8205,49 +8204,49 @@ msgstr "Příjemce"
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:241
 msgctxt "BreedingSession,IKRHand"
 msgid "Hand R"
-msgstr ""
+msgstr "Ruka P"
 
 #. Key:	IKRHandTarget
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:253
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:253
 msgctxt "BreedingSession,IKRHandTarget"
 msgid "Arm PV R"
-msgstr ""
+msgstr "Rameno P"
 
 #. Key:	IKRLeg
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:407
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:407
 msgctxt "BreedingSession,IKRLeg"
 msgid "Leg R"
-msgstr ""
+msgstr "Noha P"
 
 #. Key:	IKRoot
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:222
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:222
 msgctxt "BreedingSession,IKRoot"
 msgid "Root"
-msgstr ""
+msgstr "Kořen"
 
 #. Key:	IKSpine
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:331
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:331
 msgctxt "BreedingSession,IKSpine"
 msgid "Spine"
-msgstr ""
+msgstr "Páteř"
 
 #. Key:	IKTail
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:388
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:388
 msgctxt "BreedingSession,IKTail"
 msgid "Tail"
-msgstr ""
+msgstr "Ocas"
 
 #. Key:	Prop
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:438
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:438
 msgctxt "BreedingSession,Prop"
 msgid "Prop"
-msgstr ""
+msgstr "Opora"
 
 #. Key:	SaveGiverTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:179
@@ -8268,28 +8267,28 @@ msgstr "Uschovat příjemce"
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:450
 msgctxt "BreedingSession,SemenPool"
 msgid "Semen Pool"
-msgstr ""
+msgstr "Rezerva semene"
 
 #. Key:	SkipButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:109
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:109
 msgctxt "BreedingSession,SkipButtonTooltip"
 msgid "Proceed to the next phase of this scene."
-msgstr ""
+msgstr "Pokračujte do další fáze této scény."
 
 #. Key:	SpeedTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:31
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:31
 msgctxt "BreedingSession,SpeedTitle"
 msgid "Speed"
-msgstr ""
+msgstr "Rychlost"
 
 #. Key:	BreedButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:63
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:63
 msgctxt "BreedingSetup,BreedButtonTitle"
 msgid "Start"
-msgstr ""
+msgstr "Začít"
 
 #. Key:	BreedButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:64
@@ -8310,14 +8309,14 @@ msgstr "Výběr dárce"
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:55
 msgctxt "BreedingSetup,QuickButtonTitle"
 msgid "Quick"
-msgstr ""
+msgstr "Rychle"
 
 #. Key:	QuickButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:56
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:56
 msgctxt "BreedingSetup,QuickButtonTooltip"
 msgid "Breed this pair without starting a scene."
-msgstr ""
+msgstr "Páření tohoto páru bez zahájení scény."
 
 #. Key:	ReceiverWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:128
@@ -8338,7 +8337,7 @@ msgstr "Nemožná kombinace chovu."
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:171
 msgctxt "BreedingSystem,NoFemaleGiver"
 msgid "Giver must be futa or male."
-msgstr ""
+msgstr "Dárce musí být samec nebo futa."
 
 #. Key:	NoGiver
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:159
@@ -8352,7 +8351,7 @@ msgstr "Musí být vybrán dárce."
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:167
 msgctxt "BreedingSystem,NoMaleReceiver"
 msgid "Receiver must be female or futa."
-msgstr ""
+msgstr "Příjemce musí být samice nebo futa."
 
 #. Key:	NoOffspring
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:597
@@ -8373,7 +8372,7 @@ msgstr "Musí být vybrán příjemce."
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:591
 msgctxt "BreedingSystem,NoRoomOffspring"
 msgid "Not enough space for offspring, it was released into the wild."
-msgstr ""
+msgstr "Není dost místa pro potomstvo, potomek byl propuštěn do volné přírody."
 
 #. Key:	NoSexPosition
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:155
@@ -8429,7 +8428,7 @@ msgstr "Otec"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:112
 msgctxt "CharacterDetails,FatherTooltip"
 msgid "The provider of the semen."
-msgstr "Poskytovatel spermatu."
+msgstr "Poskytovatel semene."
 
 #. Key:	Fertility
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:142
@@ -8804,6 +8803,8 @@ msgid ""
 "Give this character its exotic trait if one exists.\n"
 "WARNING: This will overwrite the current appearance."
 msgstr ""
+"Dát této postavě její exotický rys, pokud existuje.\n"
+"VAROVÁNÍ: Tím se přepíše aktuální vzhled."
 
 #. Key:	EyebrowMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:404
@@ -9197,7 +9198,7 @@ msgstr "Bude trvale propuštěn z všeho ranče a bude znovu skotačit."
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:102
 msgctxt "ConfirmationBox,ReleaseConfirmTitle"
 msgid "Release this Nephelym?"
-msgstr "Propustit tohoto Nephelyma:"
+msgstr "Propustit tohoto Nephelyma?"
 
 #. Key:	ReturnMainConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:95
@@ -9330,133 +9331,133 @@ msgstr "Nula"
 #: Source/Radiant/Public/UI/Components/SexyHarvestContainerGrid.cpp:25
 msgctxt "HarvestGrid,NotInterested"
 msgid "This merchant does not deal in petty fluids."
-msgstr ""
+msgstr "Tento obchodník se neobchoduje s zanedbatelným množstvím tekutin."
 
 #. Key:	BuyMilkTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:421
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:421
 msgctxt "HarvestWidget,BuyMilkTooltip"
 msgid "Buy milk."
-msgstr ""
+msgstr "Koupit mléko."
 
 #. Key:	BuySemenTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:406
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:406
 msgctxt "HarvestWidget,BuySemenTooltip"
 msgid "Buy semen."
-msgstr ""
+msgstr "Koupit semeno."
 
 #. Key:	MaxMilk
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:247
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:247
 msgctxt "HarvestWidget,MaxMilk"
 msgid "4000 ml"
-msgstr ""
+msgstr "4000 ml"
 
 #. Key:	MaxSemen
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:152
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:152
 msgctxt "HarvestWidget,MaxSemen"
 msgid "1500 ml"
-msgstr ""
+msgstr "1500 ml"
 
 #. Key:	Milk
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:217
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:217
 msgctxt "HarvestWidget,Milk"
 msgid "Milk"
-msgstr ""
+msgstr "Mléko"
 
 #. Key:	MilkML
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:235
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:235
 msgctxt "HarvestWidget,MilkML"
 msgid "355 ml"
-msgstr ""
+msgstr "355 ml"
 
 #. Key:	PriceML
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:167
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:167
 msgctxt "HarvestWidget,PriceML"
 msgid "Unit Price:"
-msgstr ""
+msgstr "Jednotková cena:"
 
 #. Key:	SellMilkTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:419
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:419
 msgctxt "HarvestWidget,SellMilkTooltip"
 msgid "Sell milk."
-msgstr ""
+msgstr "Prodat mléko."
 
 #. Key:	SellSemenTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:404
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:404
 msgctxt "HarvestWidget,SellSemenTooltip"
 msgid "Sell semen."
-msgstr ""
+msgstr "Prodat semeno."
 
 #. Key:	Semen
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:122
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:122
 msgctxt "HarvestWidget,Semen"
 msgid "Semen"
-msgstr ""
+msgstr "Semeno"
 
 #. Key:	SemenML
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:140
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:140
 msgctxt "HarvestWidget,SemenML"
 msgid "118 ml"
-msgstr ""
+msgstr "118 ml"
 
 #. Key:	UseMilkTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:417
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:417
 msgctxt "HarvestWidget,UseMilkTooltip"
 msgid "Use 15 ml of milk in attempt to stimulate this wild Nephelym."
-msgstr ""
+msgstr "Použijte 15 ml mléka k pokusu o stimulaci tohoto divokého Nephelyma."
 
 #. Key:	UseSemenTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:402
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:402
 msgctxt "HarvestWidget,UseSemenTooltip"
 msgid "Use 5 ml of semen in attempt to stimulate this wild Nephelym."
-msgstr ""
+msgstr "Použijte 5 ml semene k pokusu o stimulaci tohoto divokého Nephelyma."
 
 #. Key:	P
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyIKModifier.cpp:138
 #: Source/Radiant/Public/UI/Components/SexyIKModifier.cpp:138
 msgctxt "IKModifier,P"
 msgid "P"
-msgstr ""
+msgstr "P"
 
 #. Key:	R
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyIKModifier.cpp:120
 #: Source/Radiant/Public/UI/Components/SexyIKModifier.cpp:120
 msgctxt "IKModifier,R"
 msgid "R"
-msgstr ""
+msgstr "R"
 
 #. Key:	X
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyIKModifier.cpp:56
 #: Source/Radiant/Public/UI/Components/SexyIKModifier.cpp:56
 msgctxt "IKModifier,X"
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #. Key:	Y
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyIKModifier.cpp:74
 #: Source/Radiant/Public/UI/Components/SexyIKModifier.cpp:74
 msgctxt "IKModifier,Y"
 msgid "Y"
-msgstr ""
+msgstr "Y"
 
 #. Key:	Z
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyIKModifier.cpp:92
 #: Source/Radiant/Public/UI/Components/SexyIKModifier.cpp:92
 msgctxt "IKModifier,Z"
 msgid "Z"
-msgstr ""
+msgstr "Z"
 
 #. Key:	Allure
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:77
@@ -9470,7 +9471,7 @@ msgstr "Vábit"
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:78
 msgctxt "ItemDetails,AllureTooltip"
 msgid "Allure will change by this modifier when this item is used."
-msgstr ""
+msgstr "Když bude tato položka použita, změní se vábení o tento modifikátor."
 
 #. Key:	Description
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:105
@@ -9491,7 +9492,7 @@ msgstr "Šikovnost"
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:92
 msgctxt "ItemDetails,DexterityTooltip"
 msgid "Dexterity will change by this modifier when this item is used."
-msgstr ""
+msgstr "Když bude tato položka použita, změní se obratnost o tento modifikátor."
 
 #. Key:	Fertility
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:70
@@ -9505,7 +9506,7 @@ msgstr "Plodnost"
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:71
 msgctxt "ItemDetails,FertilityTooltip"
 msgid "Fertility will change by this modifier when this item is used."
-msgstr ""
+msgstr "Když bude tato položka použita, změní se plodnost o tento modifikátor."
 
 #. Key:	Level
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:49
@@ -9519,7 +9520,7 @@ msgstr "Úroveň"
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:50
 msgctxt "ItemDetails,LevelTooltip"
 msgid "Level will change by this modifier when this item is used."
-msgstr ""
+msgstr "Když bude tato položka použita, změní se úroveň o tento modifikátor."
 
 #. Key:	Loyalty
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:56
@@ -9533,21 +9534,21 @@ msgstr "Věrnost"
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:57
 msgctxt "ItemDetails,LoyaltyTooltip"
 msgid "Loyalty will change by this modifier when this item is used."
-msgstr ""
+msgstr "Když bude tato položka použita, změní se věrnost o tento modifikátor."
 
 #. Key:	Modifiers
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:39
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:39
 msgctxt "ItemDetails,Modifiers"
 msgid "Modifiers"
-msgstr ""
+msgstr "Modifikátory"
 
 #. Key:	Name
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:27
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:27
 msgctxt "ItemDetails,Name"
 msgid "Item"
-msgstr ""
+msgstr "Položka"
 
 #. Key:	Strength
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:63
@@ -9561,14 +9562,14 @@ msgstr "Síla"
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:64
 msgctxt "ItemDetails,StrengthTooltip"
 msgid "Strength will change by this modifier when this item is used."
-msgstr ""
+msgstr "Když bude tato položka použita, změní se síla o tento modifikátor."
 
 #. Key:	Type
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:33
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:33
 msgctxt "ItemDetails,Type"
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 #. Key:	Value
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:98
@@ -9582,7 +9583,7 @@ msgstr "Hodnota"
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:99
 msgctxt "ItemDetails,ValueTooltip"
 msgid "Value will change by this modifier when this item is used."
-msgstr ""
+msgstr "Když bude tato položka použita, změní se cena tímto modifikátorem."
 
 #. Key:	Willpower
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:84
@@ -9596,23 +9597,21 @@ msgstr "Síla vůle"
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:85
 msgctxt "ItemDetails,WillpowerTooltip"
 msgid "Willpower will change by this modifier when this item is used."
-msgstr ""
+msgstr "Když bude tato položka použita, změní se síla vůle o tento modifikátor."
 
 #. Key:	NotEnoughFluid
 #. SourceLocation:	Source/Radiant/Public/Items/SexyItemSystem.cpp:161
 #: Source/Radiant/Public/Items/SexyItemSystem.cpp:161
-#, fuzzy
 msgctxt "ItemSystem,NotEnoughFluid"
 msgid "Not enough fluid."
-msgstr "Dát tekutinu"
+msgstr "Nedostatek tekutin"
 
 #. Key:	Action
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:175
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:175
-#, fuzzy
 msgctxt "Keybinds,Action"
 msgid "Action"
-msgstr "Akční vazba"
+msgstr "Akce"
 
 #. Key:	Back
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:180
@@ -9626,85 +9625,84 @@ msgstr "Zpět"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:140
 msgctxt "Keybinds,Crouch"
 msgid "Crouch"
-msgstr ""
+msgstr "Dřepnout si"
 
 #. Key:	GalleryMenu
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:196
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:196
 msgctxt "Keybinds,GalleryMenu"
 msgid "Toggle Gallery"
-msgstr ""
+msgstr "Přepnout galerii"
 
 #. Key:	Jump
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:136
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:136
 msgctxt "Keybinds,Jump"
 msgid "Jump"
-msgstr ""
+msgstr "Skok"
 
 #. Key:	Look
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:161
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:161
 msgctxt "Keybinds,Look"
 msgid "Camera Look"
-msgstr ""
+msgstr "Pohled kamery"
 
 #. Key:	MoveBackward
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:124
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:124
 msgctxt "Keybinds,MoveBackward"
 msgid "Move Backwards"
-msgstr ""
+msgstr "Pohyb zpět"
 
 #. Key:	MoveForward
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:120
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:120
 msgctxt "Keybinds,MoveForward"
 msgid "Move Forward"
-msgstr ""
+msgstr "Pohyb vpřed"
 
 #. Key:	MoveLeft
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:132
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:132
 msgctxt "Keybinds,MoveLeft"
 msgid "Move Left"
-msgstr ""
+msgstr "Pohyb doleva"
 
 #. Key:	MoveRight
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:128
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:128
 msgctxt "Keybinds,MoveRight"
 msgid "Move Right"
-msgstr ""
+msgstr "Pohyb vpravo"
 
 #. Key:	Pan
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:168
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:168
 msgctxt "Keybinds,Pan"
 msgid "Pan"
-msgstr ""
+msgstr "Pánev"
 
 #. Key:	Rotate
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:171
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:171
 msgctxt "Keybinds,Rotate"
 msgid "Rotate"
-msgstr ""
+msgstr "Rotovat"
 
 #. Key:	SingleTapDodge
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:147
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:147
-#, fuzzy
 msgctxt "Keybinds,SingleTapDodge"
 msgid "One Tap Dodge"
-msgstr "Vystoupejte a získejte laskavost?"
+msgstr "Vyknutí na jeden klik"
 
 #. Key:	Slide
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:144
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:144
 msgctxt "Keybinds,Slide"
 msgid "Slide"
-msgstr ""
+msgstr "Klouzat"
 
 #. Key:	SpiritForm
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:189
@@ -9718,42 +9716,42 @@ msgstr "Forma Ducha"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:150
 msgctxt "Keybinds,Sprint"
 msgid "Sprint"
-msgstr ""
+msgstr "Sprint"
 
 #. Key:	ToggleBoots
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:212
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:212
 msgctxt "Keybinds,ToggleBoots"
 msgid "Toggle Boots"
-msgstr ""
+msgstr "Přepnout boty"
 
 #. Key:	ToggleClothing
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:200
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:200
 msgctxt "Keybinds,ToggleClothing"
 msgid "Toggle Clothing"
-msgstr ""
+msgstr "Přepnout oblečení"
 
 #. Key:	TogglePants
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:206
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:206
 msgctxt "Keybinds,TogglePants"
 msgid "Toggle Pants"
-msgstr ""
+msgstr "Přepnout kalhoty"
 
 #. Key:	ToggleShirt
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:203
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:203
 msgctxt "Keybinds,ToggleShirt"
 msgid "Toggle Shirt"
-msgstr ""
+msgstr "Přepnout košili"
 
 #. Key:	ToggleUnderwear
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:209
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:209
 msgctxt "Keybinds,ToggleUnderwear"
 msgid "Toggle Underwear"
-msgstr ""
+msgstr "Přepnout spodní prádlo"
 
 #. Key:	Turn
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:157
@@ -9767,7 +9765,7 @@ msgstr "Otočení kamery"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:193
 msgctxt "Keybinds,UtilityMenu"
 msgid "Toggle Utility Menu"
-msgstr ""
+msgstr "Přepnout nabídku nástrojů"
 
 #. Key:	Walk
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:153
@@ -9788,19 +9786,18 @@ msgstr "Přiblížení kamery"
 #: Source/Radiant/Public/UI/Components/SexyListedResource.cpp:171
 msgctxt "ListedResources,EmptySave"
 msgid "Empty Save Slot"
-msgstr ""
+msgstr "Prázdný slot pro uložení"
 
 #. Key:	DiscordButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:57
 #: Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:57
 msgctxt "MainMenu,DiscordButton"
 msgid "Discord"
-msgstr ""
+msgstr "Discord"
 
 #. Key:	ExitGameButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:64
 #: Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:64
-#, fuzzy
 msgctxt "MainMenu,ExitGameButton"
 msgid "Exit"
 msgstr "Odchod"
@@ -9808,7 +9805,6 @@ msgstr "Odchod"
 #. Key:	LoadGameButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:43
 #: Source/Radiant/Public/UI/Menus/SexyMainMenu.cpp:43
-#, fuzzy
 msgctxt "MainMenu,LoadGameButton"
 msgid "Load Game"
 msgstr "Načíst hru"
@@ -9839,23 +9835,21 @@ msgstr "Start"
 #: Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:52
 msgctxt "ManageMonster,ActionTooltip"
 msgid "Perform the selected action, starting a scene if one exists."
-msgstr ""
+msgstr "Provede vybranou akci a odstartujte scénu, pokud existuje."
 
 #. Key:	HarvestDev
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:584
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:584
-#, fuzzy
 msgctxt "ManageMonster,HarvestDev"
 msgid "Harvest scene in development."
-msgstr "Dvojce s dějištěm"
+msgstr "Sklízecí scéna ve vývoji."
 
 #. Key:	InvalidAction
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:386
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:386
-#, fuzzy
 msgctxt "ManageMonster,InvalidAction"
 msgid "Select a harvest action."
-msgstr "Sklizeň"
+msgstr "Vyber akci pro sklízení."
 
 #. Key:	ManageWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:133
@@ -9876,7 +9870,7 @@ msgstr "Rychle"
 #: Source/Radiant/Public/UI/Menus/SexyMonsterMenu.cpp:45
 msgctxt "ManageMonster,QuickActionTooltip"
 msgid "Perform the selected action without starting a scene."
-msgstr ""
+msgstr "Provede vybranou akci bez spuštění scény."
 
 #. Key:	Giver
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyMateSizeChart.cpp:33
@@ -9897,35 +9891,35 @@ msgstr "Příjemce"
 #: Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:271
 msgctxt "MerchantSystem,MerchantNoRoomMilk"
 msgid "This merchant cannot carry more of this race's milk."
-msgstr ""
+msgstr "Tento obchodník nemůže mít více mléka této rasy."
 
 #. Key:	MerchantNoRoomSemen
 #. SourceLocation:	Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:243
 #: Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:243
 msgctxt "MerchantSystem,MerchantNoRoomSemen"
 msgid "This merchant cannot carry more of this race's semen."
-msgstr ""
+msgstr "Tento obchodník nemůže mít více semene této rasy."
 
 #. Key:	NoRoomMilk
 #. SourceLocation:	Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:366
 #: Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:366
 msgctxt "MerchantSystem,NoRoomMilk"
 msgid "You cannot carry more of this race's milk."
-msgstr ""
+msgstr "Nemůžete mít více mléka z této rasy."
 
 #. Key:	NoRoomSemen
 #. SourceLocation:	Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:334
 #: Source/Radiant/Public/Economy/SexyMerchantSystem.cpp:334
 msgctxt "MerchantSystem,NoRoomSemen"
 msgid "You cannot carry more of this race's semen."
-msgstr ""
+msgstr "Nemůžete mít více semene této rasy."
 
 #. Key:	NewOffspringMessage
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:325
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:325
 msgctxt "MonsterSystem,NewOffspringMessage"
 msgid "New offspring were produced, check your barns."
-msgstr ""
+msgstr "Narodili se noví potomci, zkontrolujte stodoly."
 
 #. Key:	AcceptButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:41
@@ -9939,7 +9933,7 @@ msgstr "Přijmout"
 #: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:42
 msgctxt "Offspring,AcceptButtonTitleTooltip"
 msgid "Keep this offspring and add it to your ranch."
-msgstr ""
+msgstr "Nechat si tohoto potomka a přidat si ho na svůj ranč."
 
 #. Key:	ReceiverWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:50
@@ -10044,42 +10038,42 @@ msgstr "Sklidit mléko (Blossom)"
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:870
 msgctxt "ResourceList,ActionHarvestSemen"
 msgid "Harvest Semen"
-msgstr "Sklidit sperma"
+msgstr "Sklidit semeno"
 
 #. Key:	ActionHarvestSemen2
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:871
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:871
 msgctxt "ResourceList,ActionHarvestSemen2"
 msgid "Capture Semen"
-msgstr "Zachytit sperma"
+msgstr "Zachytit semeno"
 
 #. Key:	ActionHarvestSemenAssist
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:875
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:875
 msgctxt "ResourceList,ActionHarvestSemenAssist"
 msgid "Harvest Semen (Fern)"
-msgstr "Sklidit sperma (Fern)"
+msgstr "Sklidit semeno (Fern)"
 
 #. Key:	ActionHarvestSemenAssist2
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:876
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:876
 msgctxt "ResourceList,ActionHarvestSemenAssist2"
 msgid "Capture Semen (Fern)"
-msgstr "Zachytit sperma (Fern)"
+msgstr "Zachytit semeno (Fern)"
 
 #. Key:	ActionHarvestSemenAssist3
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:880
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:880
 msgctxt "ResourceList,ActionHarvestSemenAssist3"
 msgid "Harvest Semen (Blossom)"
-msgstr "Sklidit sperma (Blossom)"
+msgstr "Sklidit semeno (Blossom)"
 
 #. Key:	ActionHarvestSemenAssist4
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:881
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:881
 msgctxt "ResourceList,ActionHarvestSemenAssist4"
 msgid "Capture Semen (Blossom)"
-msgstr "Zachytit sperma (Blossom)"
+msgstr "Zachytit semeno (Blossom)"
 
 #. Key:	ActionRelease
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:884
