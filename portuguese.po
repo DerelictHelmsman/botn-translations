@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: portuguese\n"
 "POT-Creation-Date: 2020-05-13 22:39\n"
-"PO-Revision-Date: 2020-06-06 00:46-0300\n"
+"PO-Revision-Date: 2020-06-06 14:14-0300\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -6787,7 +6787,7 @@ msgstr "Você volta a mim com esse olhar familiar."
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(1).Lines
 msgctxt ",DDC7B99042CEA89C790895990EB876BE"
 msgid "Most @MONSTER_RACE@ are wild, that is they roam by instict and are as animals."
-msgstr "A maioria das @MONSTER_RACA@ são selvagens, ou seja, eles vagam por instinto, são como animais."
+msgstr "A maioria das @MONSTER_RACE@ são selvagens, ou seja, eles vagam por instinto, são como animais."
 
 #. Key:	DDC88AD7412D1B9E7696ED8213C21E27
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(3).Lines
