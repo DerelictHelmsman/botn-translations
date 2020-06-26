@@ -4,8 +4,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: german\n"
 "POT-Creation-Date: 2020-05-13 22:37\n"
+
 "PO-Revision-Date: 2020-05-19 00:06+0200\n"
 "Last-Translator: \n"
+
 "Language-Team: \n"
 "Language: de_DE\n"
 "MIME-Version: 1.0\n"
@@ -510,6 +512,7 @@ msgstr ""
 "Jedoch muss sie lernen sich zu zügeln, damit sie nicht so viel von diesem "
 "blauen Rauch einatmet."
 
+
 #. Key:	0F3DB30048A1D95AFB32AEBCA67D8C96
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.LinesGrungy(1).LinesGrungy
 #: /Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.LinesGrungy(1).LinesGrungy
@@ -548,6 +551,13 @@ msgstr ""
 msgctxt ",0FDE723F46BC47FD23DB75A6EDA9C79C"
 msgid "Ahhhh..."
 msgstr "Ahhhh..."
+
+#. Key:	0FDE723F46BC47FD23DB75A6EDA9C79C
+#. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_BlueSmoke.Default__LeylannaDefault01_BlueSmoke_C.SessionData.Lines(2).Lines
+#: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_BlueSmoke.Default__LeylannaDefault01_BlueSmoke_C.SessionData.Lines(2).Lines
+msgctxt ",0FDE723F46BC47FD23DB75A6EDA9C79C"
+msgid "Ahhhh..."
+msgstr ""
 
 #. Key:	1019EEE14B67704DE6DE0B9FD7D0D596
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(30).LinesToFuta
@@ -799,6 +809,13 @@ msgctxt ",14E2045C4451D2597C51F4AAF56AE3B7"
 msgid "Remove your garments, for you must be nude."
 msgstr "Zieh dich aus, nackt musst du sein, nimm's schon in kauf."
 
+#. Key:	14E2045C4451D2597C51F4AAF56AE3B7
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.LinesToFuta(0).LinesToFuta
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.LinesToFuta(0).LinesToFuta
+msgctxt ",14E2045C4451D2597C51F4AAF56AE3B7"
+msgid "Remove your garments, for you must be nude."
+msgstr ""
+
 #. Key:	14F5C7E34772BFD4F5E7039EF72ACF9E
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaGreeting01.Default__NeelaGreeting01_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Neela/Default/NeelaGreeting01.Default__NeelaGreeting01_C.SessionData.Lines(1).Lines
@@ -820,6 +837,13 @@ msgid ""
 msgstr ""
 "Behaupten \"Die Seelen haben mir aufgetragen mit dem goldenen Engel liebe zu "
 "machen\" oder so ähnlich."
+
+#. Key:	158D44FA46C00C7898EF1C99A9A99EA7
+#. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(7).Lines
+#: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(7).Lines
+msgctxt ",158D44FA46C00C7898EF1C99A9A99EA7"
+msgid "Claiming \"the spirits told me to make love with the golden angel\" or something similar."
+msgstr ""
 
 #. Key:	16049E004B001A3FEF8E25BEBE498398
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_RL.Default__ParvatiDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -989,6 +1013,13 @@ msgctxt ",1B9EA938413881EEDE041F85884A4BC3"
 msgid "How do I learn sex positions?"
 msgstr "Wie lerne ich neue Sex Stellungen?"
 
+#. Key:	1B9EA938413881EEDE041F85884A4BC3
+#. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(8).ResponseData.BreederPrompt
+#: /Game/Dialogue/Falene/Default/FaleneDefault01_RL.Default__FaleneDefault01_RL_C.ResponseData(8).ResponseData.BreederPrompt
+msgctxt ",1B9EA938413881EEDE041F85884A4BC3"
+msgid "How do I learn sex positions?"
+msgstr ""
+
 #. Key:	1BD44FF4429194137A0C4CAF227F2CA1
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(1).Lines
@@ -1035,6 +1066,13 @@ msgid ""
 msgstr ""
 "Damit zufriedengestellt, hat die Göttin Welten für ihre Kreationen "
 "erschaffen."
+
+#. Key:	1CCC14A74CE9A9AC038704B5BCC41068
+#. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(7).Lines
+#: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(7).Lines
+msgctxt ",1CCC14A74CE9A9AC038704B5BCC41068"
+msgid "Pleased with this, the Goddess created worlds for Her creations to reside in."
+msgstr ""
 
 #. Key:	1CF80140486F2A7F4E727D8E50B64B37
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFemale(7).LinesToFemale
@@ -1177,6 +1215,13 @@ msgid ""
 msgstr ""
 "Behalte das zwischen uns, aber ich denke, sie ist so alt wie die Große "
 "Konzeption selbst."
+
+#. Key:	201B358D4CE5E4D894910C97F98AA433
+#. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_EnlightenedOne.Default__NeelaDefault01_EnlightenedOne_C.SessionData.Lines(5).Lines
+#: /Game/Dialogue/Neela/Default/NeelaDefault01_EnlightenedOne.Default__NeelaDefault01_EnlightenedOne_C.SessionData.Lines(5).Lines
+msgctxt ",201B358D4CE5E4D894910C97F98AA433"
+msgid "Keep this between us, but I think she is as old as the Great Conception itself."
+msgstr ""
 
 #. Key:	202CB97A40D83492E9EFE18430F24A11
 #. SourceLocation:	/Game/Ranch/Upgrades/VulwargKennel.Default__VulwargKennel_C.Upgrade.DisplayName
@@ -1705,6 +1750,13 @@ msgstr ""
 "Zunächst machte sie Liebe mit sich selbst um Licht zu erzeugen und die "
 "Seraphim, meine Art, waren geboren."
 
+#. Key:	2F988E7B4E35BA65FB81488EC3339C51
+#. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(2).Lines
+#: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(2).Lines
+msgctxt ",2F988E7B4E35BA65FB81488EC3339C51"
+msgid "First, She made love with Herself to bring forth light and the Seraphim, my kin, were born."
+msgstr ""
+
 #. Key:	3002153B48BD52898AEAE78030617CF7
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(2).Lines
@@ -1912,6 +1964,13 @@ msgid ""
 msgstr ""
 "Jedoch wollten sich die Dämonen bald nicht mehr von Erzengeln regieren "
 "lassen und entschieden sich zu rebellieren."
+
+#. Key:	35BF63974E330C75B3359E8E1E99F0CB
+#. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(11).Lines
+#: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(11).Lines
+msgctxt ",35BF63974E330C75B3359E8E1E99F0CB"
+msgid "However the demons grew weary of being governed by archangels, and decided to revolt."
+msgstr ""
 
 #. Key:	35CF617940B0723BA4795CA4E3D0FA22
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_StartLoveMakingT.Default__LeylannaDefault01_StartLoveMakingT_C.SessionData.Lines(0).Lines
@@ -2369,6 +2428,13 @@ msgstr ""
 "Eine gewaltige Kraft war nötig um das Licht zu spalten, und so gab die "
 "Göttin ihrer lustvollsten Wünschen nach und gebar die Finsternis."
 
+#. Key:	431393014FD2AE0F14B10994F1A6E951
+#. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(5).Lines
+#: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(5).Lines
+msgctxt ",431393014FD2AE0F14B10994F1A6E951"
+msgid "A force was needed to contrast the light, and so the Goddess gave into Her most lustful desires and birthed the darkness."
+msgstr ""
+
 #. Key:	437DBE7940749A6838FDA39FD90FF637
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_RL.Default__EmissaryRaiseTraitLvl_RL_C.ResponseData(0).ResponseData.BreederPrompt
 #: /Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_RL.Default__EmissaryRaiseTraitLvl_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -2429,6 +2495,13 @@ msgid ""
 msgstr ""
 "Sie wies jeder Welt einen speziellen Seraphim, einen Erzengel, zu, um die "
 "Entwicklung des Lebens zu leiten."
+
+#. Key:	44ABED7740DE9FD12170D8B548E87A78
+#. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(8).Lines
+#: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(8).Lines
+msgctxt ",44ABED7740DE9FD12170D8B548E87A78"
+msgid "She assigned each world a special Seraphim, an archangel, to guide the evolution of life."
+msgstr ""
 
 #. Key:	44BC09AE4BDFA439FBFD8BAABD7A96D0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.DisplayName
@@ -2636,6 +2709,13 @@ msgstr ""
 msgctxt ",4954D9E748572866289FA785934950B8"
 msgid "Remove your garments, for you must be nude."
 msgstr "Zieh dich aus, nackt musst du sein, nimm's schon in kauf."
+
+#. Key:	4954D9E748572866289FA785934950B8
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(0).Lines
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(0).Lines
+msgctxt ",4954D9E748572866289FA785934950B8"
+msgid "Remove your garments, for you must be nude."
+msgstr ""
 
 #. Key:	49C9E46943998C63648E12A033938266
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.DisplayName
@@ -3121,6 +3201,20 @@ msgstr ""
 "Dann wird der dunkle Sensenmann der Benommenheit dein Bewusstsein zu diesem "
 "Körper zurückbringen."
 
+#. Key:	5629D6AE4A1B8ABE39599596DC46FC1C
+#. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(16).Lines
+#: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(16).Lines
+msgctxt ",5629D6AE4A1B8ABE39599596DC46FC1C"
+msgid "She took pity on their creations and made love with them, an event that would come to be known as the Great Conception."
+msgstr ""
+
+#. Key:	566D4E2B458FC3277E49CB91D5CAB649
+#. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_Daze.Default__EmissaryDefault01_Daze_C.SessionData.Lines(2).Lines
+#: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Daze.Default__EmissaryDefault01_Daze_C.SessionData.Lines(2).Lines
+msgctxt ",566D4E2B458FC3277E49CB91D5CAB649"
+msgid "Then, the dark reaper of the daze will bring back to that body your awareness."
+msgstr ""
+
 #. Key:	567F4EF7487947546DDFE3B0195DFDEB
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(0).Lines
@@ -3305,6 +3399,20 @@ msgid ""
 "Swearing to return again one day, the Goddess departed and faded from sight."
 msgstr "Schwörend, eines Tages zurück zu kommen, verschwand die Göttin."
 
+#. Key:	5D1189D248873A7E95BA20AA8EADCF1C
+#. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_Daze.Default__EmissaryDefault01_Daze_C.SessionData.Lines(0).Lines
+#: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Daze.Default__EmissaryDefault01_Daze_C.SessionData.Lines(0).Lines
+msgctxt ",5D1189D248873A7E95BA20AA8EADCF1C"
+msgid "When the Goddess saw that Her creations indulged heavily in the pleasures of breeding that they neglected life, She devised a solution."
+msgstr ""
+
+#. Key:	5D244F6542342816F374B582D37B9B98
+#. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(18).Lines
+#: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(18).Lines
+msgctxt ",5D244F6542342816F374B582D37B9B98"
+msgid "Swearing to return again one day, the Goddess departed and faded from sight."
+msgstr ""
+
 #. Key:	5E27E8A74A30D389BBB939B5142249BB
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFuta(7).LinesToFuta
 #: /Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFuta(7).LinesToFuta
@@ -3412,6 +3520,13 @@ msgctxt ",61341EBA4A04883698FF08BF81A229FB"
 msgid "What is the Great Conception?"
 msgstr "Was ist die Große Konzeption?"
 
+#. Key:	61341EBA4A04883698FF08BF81A229FB
+#. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(5).ResponseData.BreederPrompt
+#: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(5).ResponseData.BreederPrompt
+msgctxt ",61341EBA4A04883698FF08BF81A229FB"
+msgid "What is the Great Conception?"
+msgstr ""
+
 #. Key:	61DD0F8342D2EFAE9232248215EADFB4
 #. SourceLocation:	/Game/Ranch/Upgrades/NekoCondo.Default__NekoCondo_C.Upgrade.Description
 #: /Game/Ranch/Upgrades/NekoCondo.Default__NekoCondo_C.Upgrade.Description
@@ -3480,9 +3595,7 @@ msgstr "Du hast keine Ahnung wie stark ich mich gerade zurückhalten muss..."
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_SexPositions.Default__FaleneDefault01_SexPositions_C.SessionData.Lines(4).Lines
 msgctxt ",63185F8D44DB00B8514792BA4971889F"
 msgid "She will probably know more, she sleeps... I mean gets... around."
-msgstr ""
-"She weis wahrscheinlich mehr, sie schläft... Ich meine sie... kommt viel "
-"herum."
+msgstr "She weis wahrscheinlich mehr, sie schläft... Ich meine sie... kommt viel herum."
 
 #. Key:	6340E0A045F87C6E35C3348C97609B67
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01.Default__ParvatiDefault01_C.SessionData.Lines(1).Lines
@@ -3840,6 +3953,13 @@ msgctxt ",6D839EC343F5CB6DF39F048E74C3A3F6"
 msgid "Lap Dance"
 msgstr "Lap Dance"
 
+#. Key:	6D839EC343F5CB6DF39F048E74C3A3F6
+#. SourceLocation:	/Game/Breeding/Positions/LapDance.Default__LapDance_C.SessionData.PositionName
+#: /Game/Breeding/Positions/LapDance.Default__LapDance_C.SessionData.PositionName
+msgctxt ",6D839EC343F5CB6DF39F048E74C3A3F6"
+msgid "Lap Dance"
+msgstr ""
+
 #. Key:	6DCC52994B8322D169A47299585B1FFA
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_SpiritForm.Default__LeylannaDefault01_SpiritForm_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_SpiritForm.Default__LeylannaDefault01_SpiritForm_C.SessionData.Lines(3).Lines
@@ -3960,6 +4080,13 @@ msgctxt ",6F314EC947FA4FB92B59FFB3E0E4AC10"
 msgid "Talk to that super cute snake lady with the funny hat."
 msgstr "Sprich mit dieser super süßen Schlangenfrau mit dem lustigen Hut."
 
+#. Key:	6F314EC947FA4FB92B59FFB3E0E4AC10
+#. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_SexPositions.Default__FaleneDefault01_SexPositions_C.SessionData.Lines(3).Lines
+#: /Game/Dialogue/Falene/Default/FaleneDefault01_SexPositions.Default__FaleneDefault01_SexPositions_C.SessionData.Lines(3).Lines
+msgctxt ",6F314EC947FA4FB92B59FFB3E0E4AC10"
+msgid "Talk to that super cute snake lady with the funny hat."
+msgstr ""
+
 #. Key:	6F4E36894BE6D32AB2BF92B2FB1F5697
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RaiseTraitLvl.Default__EmissaryDefault01_RaiseTraitLvl_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RaiseTraitLvl.Default__EmissaryDefault01_RaiseTraitLvl_C.SessionData.Lines(1).Lines
@@ -4015,6 +4142,13 @@ msgstr ""
 msgctxt ",70A96E9D4322ED35C13DF78AF12A5931"
 msgid "It allows me to commune with the spirits."
 msgstr "Er erlaubt mir mit den Seelen zu Kommunizieren."
+
+#. Key:	70A96E9D4322ED35C13DF78AF12A5931
+#. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_BlueSmoke.Default__LeylannaDefault01_BlueSmoke_C.SessionData.Lines(0).Lines
+#: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_BlueSmoke.Default__LeylannaDefault01_BlueSmoke_C.SessionData.Lines(0).Lines
+msgctxt ",70A96E9D4322ED35C13DF78AF12A5931"
+msgid "It allows me to commune with the spirits."
+msgstr ""
 
 #. Key:	70B4299E404BAC657357D7AD12E3DF68
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(16).LinesToFuta
@@ -5025,6 +5159,13 @@ msgstr ""
 msgctxt ",8A7AA1664D50A6AD3F66CE8B9B57C01F"
 msgid "But beware, a toll will she require."
 msgstr "Aber sie Gewarnt, sie wird etwas verlangen."
+
+#. Key:	8A7AA1664D50A6AD3F66CE8B9B57C01F
+#. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_Daze.Default__EmissaryDefault01_Daze_C.SessionData.Lines(3).Lines
+#: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Daze.Default__EmissaryDefault01_Daze_C.SessionData.Lines(3).Lines
+msgctxt ",8A7AA1664D50A6AD3F66CE8B9B57C01F"
+msgid "But beware, a toll will she require."
+msgstr ""
 
 #. Key:	8AF6FC6641A12C2B4A5B90B25313D5E2
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -6186,6 +6327,13 @@ msgid ""
 msgstr ""
 "Die Dämonen nutzten das aus und begannen sie als Zuchtspielzeug zu verwenden."
 
+#. Key:	AA08081E4A0AF7A81D4B99B1527E6970
+#. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(14).Lines
+#: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(14).Lines
+msgctxt ",AA08081E4A0AF7A81D4B99B1527E6970"
+msgid "The demons took advantage of this and started using them as breeding toys."
+msgstr ""
+
 #. Key:	AA16BE3B4732F407329ED6B450557C71
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.Lines(0).Lines
@@ -6801,6 +6949,13 @@ msgstr ""
 "Aus der Leere schuf sie dieses Universum und begann, sich der Schöpfung "
 "hinzugeben."
 
+#. Key:	BAEE9CCB4074E077BFF0FBAE275D41CD
+#. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(1).Lines
+#: /Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(1).Lines
+msgctxt ",BAEE9CCB4074E077BFF0FBAE275D41CD"
+msgid "From the Void, she created this universe and began to indulge in creation."
+msgstr ""
+
 #. Key:	BB0E7B2D4F49CAAB00A884BE87ED9F44
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(7).Lines
 #: /Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(7).Lines
@@ -6883,6 +7038,13 @@ msgstr ""
 msgctxt ",BD299A114393AB7ECF48C8A20700F593"
 msgid "What is the endless daze?"
 msgstr "Was ist die unendliche Benommenheit?"
+
+#. Key:	BD299A114393AB7ECF48C8A20700F593
+#. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(6).ResponseData.BreederPrompt
+#: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(6).ResponseData.BreederPrompt
+msgctxt ",BD299A114393AB7ECF48C8A20700F593"
+msgid "What is the endless daze?"
+msgstr ""
 
 #. Key:	BD61F6BE4278688EEA2B878F6E8C6994
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(14).LinesToFemale
@@ -7020,6 +7182,13 @@ msgctxt ",C1169E76415C88B42A1C1EAA53F38266"
 msgid "We have... uh... met before. Many times."
 msgstr "Wir haben... uns... schonmal getroffen. Viele Male sogar."
 
+#. Key:	C1169E76415C88B42A1C1EAA53F38266
+#. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_EnlightenedOne.Default__NeelaDefault01_EnlightenedOne_C.SessionData.Lines(2).Lines
+#: /Game/Dialogue/Neela/Default/NeelaDefault01_EnlightenedOne.Default__NeelaDefault01_EnlightenedOne_C.SessionData.Lines(2).Lines
+msgctxt ",C1169E76415C88B42A1C1EAA53F38266"
+msgid "We have... uh... met before. Many times."
+msgstr ""
+
 #. Key:	C156402F4738F87B9C9392A5443BE29F
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(2).Lines
@@ -7105,6 +7274,13 @@ msgstr ""
 msgctxt ",C36C759941B23E33ABE38E9C98E4A1E3"
 msgid "Lap Dance!"
 msgstr "Lap Dance!"
+
+#. Key:	C36C759941B23E33ABE38E9C98E4A1E3
+#. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(7).ResponseData.BreederPrompt
+#: /Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(7).ResponseData.BreederPrompt
+msgctxt ",C36C759941B23E33ABE38E9C98E4A1E3"
+msgid "Lap Dance!"
+msgstr ""
 
 #. Key:	C45BFAF14EABF8D1BD3502825C5C1560
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(1).Lines
@@ -8569,6 +8745,13 @@ msgctxt ",EE4B752847129E59EA2F61BC21D14B8D"
 msgid "Who is the Enlightened One?"
 msgstr "Wer ist die Erleuchtete?"
 
+#. Key:	EE4B752847129E59EA2F61BC21D14B8D
+#. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_RL.Default__NeelaDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
+#: /Game/Dialogue/Neela/Default/NeelaDefault01_RL.Default__NeelaDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
+msgctxt ",EE4B752847129E59EA2F61BC21D14B8D"
+msgid "Who is the Enlightened One?"
+msgstr ""
+
 #. Key:	EE8FDFD64822DC7BFDD6C9A70419163D
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFemale(0).LinesToFemale
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -8721,6 +8904,13 @@ msgstr ""
 msgctxt ",F3CA61414720C714BBD4FB98C38684ED"
 msgid "How do I learn sex positions?"
 msgstr "Wie lerne ich neue Sex Stellungen?"
+
+#. Key:	F3CA61414720C714BBD4FB98C38684ED
+#. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
+#: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
+msgctxt ",F3CA61414720C714BBD4FB98C38684ED"
+msgid "How do I learn sex positions?"
+msgstr ""
 
 #. Key:	F3F4124041D97034B836478BD7FE0BF9
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Demon/Harvest/DemonHarvest.Default__DemonHarvest_C.Harvest.Description

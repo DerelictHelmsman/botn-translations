@@ -1,17 +1,17 @@
-﻿# finnish Finnish (Finland) translation.
+﻿# czech Czech (Czechia) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: finnish\n"
-"POT-Creation-Date: 2020-05-13 22:37\n"
-"PO-Revision-Date: 2020-05-13 22:37\n"
+"Project-Id-Version: czech\n"
+"POT-Creation-Date: 2020-05-13 22:42\n"
+"PO-Revision-Date: 2020-05-13 22:42\n"
 "Language-Team: \n"
-"Language: fi-FI\n"
+"Language: cs-CZ\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 #. Key:	0009BEE346934010A7F79C8CF23B20D5
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(1).Lines
