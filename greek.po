@@ -17,14 +17,14 @@ msgstr ""
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(1).Lines
 msgctxt ",0009BEE346934010A7F79C8CF23B20D5"
-msgid "This is my final form, and it feels so amazing. I smell beautiful too!"
+msgid "Αυτή είναι η τελική μου μορφή και είναι τόσο υπέροχη. Επίσης μυρίζω υπέροχα!"
 msgstr ""
 
 #. Key:	00164C5345E544D784CC289035CEF701
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePlay_RL.Default__MegaSlimePlay_RL_C.ResponseData(0).ResponseData.BreederPrompt
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay_RL.Default__MegaSlimePlay_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",00164C5345E544D784CC289035CEF701"
-msgid "About that orb..."
+msgid "Σχετικά με αυτό τη σφαίρα..."
 msgstr ""
 
 #. Key:	002DAFE7433D240D0A5822A932016D65
@@ -38,14 +38,14 @@ msgstr ""
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaHadSex01.Default__LeylannaHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 #: /Game/Dialogue/Leylanna/Default/LeylannaHadSex01.Default__LeylannaHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",002F7FED4D68AF160CEAFFB092D0F2E2"
-msgid "Bring that hard cock over here... I want to feel it inside me."
+msgid "Φέρε αυτό το σκληρό πόες εδώ ... Θέλω να το νιώσω μέσα μου."
 msgstr ""
 
 #. Key:	0061A5124B098F61DE991D81AB884112
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(3).LinesToFemale
 #: /Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",0061A5124B098F61DE991D81AB884112"
-msgid "This little leather tool belt can barely contain my butter stick!"
+msgid "Αυτή η μικρή δερμάτινη ζώνη εργαλείων μπορεί  μετα βίας να συγκρατήσει το φλογερό μου πόες!"
 msgstr ""
 
 #. Key:	01386D9C478E6BE9974F00942E5EA1E0
@@ -59,49 +59,49 @@ msgstr ""
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(3).Lines
 msgctxt ",014BFFCA4F173DACEC2A00A8398888F4"
-msgid "Aye, yer not leaving 'til you suck every last drop!"
+msgid "Επ, δεν φεύγεις μέχρι να γλυψεις κάθε τελευταία σταγόνα!"
 msgstr ""
 
 #. Key:	0169F2A34BA4C1104CDDEE99B3A3B50E
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchStartShySex.Default__MonarchStartShySex_C.SessionData.LinesToMale(3).LinesToMale
 #: /Game/Dialogue/Monarch/Default/MonarchStartShySex.Default__MonarchStartShySex_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",0169F2A34BA4C1104CDDEE99B3A3B50E"
-msgid "So I can, y-y-you know... feel your cock deep inside me."
+msgid "Λοιπών εγώ μπορώ, ξ-ξ-ξέρεις...να νιώσω το πουλί σου βαθιά μέσα μου."
 msgstr ""
 
 #. Key:	017B23B341D5CE5BB9CC0293262CBD91
 #. SourceLocation:	/Game/Ranch/Upgrades/HarpyAviary.Default__HarpyAviary_C.Upgrade.Description
 #: /Game/Ranch/Upgrades/HarpyAviary.Default__HarpyAviary_C.Upgrade.Description
 msgctxt ",017B23B341D5CE5BB9CC0293262CBD91"
-msgid "This allows you to catch and store all variants of Harpies."
+msgid "Αυτό σου επιτρέπει να πιάσεις και να κρατήσεις όλες τις παραλλαγές των Harpies ."
 msgstr ""
 
 #. Key:	017CCB4443E3658AEA961E9EDC5B53BF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(4).LinesToFuta
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(4).LinesToFuta
 msgctxt ",017CCB4443E3658AEA961E9EDC5B53BF"
-msgid "And I'm one of them! A blessed female Painted Elf to be exact!"
+msgid "Και είμαι μια από αυτούς! Ένα ευλογημένο θηλυκό Painted Elf για να είμαστε ακριβείς!"
 msgstr ""
 
 #. Key:	0180484249AE71470005A78484607A18
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(1).Lines
 msgctxt ",0180484249AE71470005A78484607A18"
-msgid "Ah I suppose you are like most @MONSTER_RACE@ then."
+msgid "Α, υποθέτω ότι είσαι σαν τους περισσότερους @MONSTER_RACE@ λοιπόν."
 msgstr ""
 
 #. Key:	01DB8D8A43F7EC40F07FB3A355D39722
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
 msgctxt ",01DB8D8A43F7EC40F07FB3A355D39722"
-msgid "Cove of Rapture"
+msgid "Cove of Rapture" αναζιτισι 
 msgstr ""
 
 #. Key:	01DE9F6A42AB1019681AE1B74E68632C
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaGreeting01.Default__NeelaGreeting01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Neela/Default/NeelaGreeting01.Default__NeelaGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",01DE9F6A42AB1019681AE1B74E68632C"
-msgid "Well now, this is a rare sight."
+msgid "Λοιπόν, αυτό είναι ένα σπάνιο θέαμα."
 msgstr ""
 
 #. Key:	022313C047D185193F98C48BE5852E62
