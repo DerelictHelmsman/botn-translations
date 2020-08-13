@@ -1,17 +1,18 @@
-﻿# thai Thai (Thailand) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: thai\n"
 "POT-Creation-Date: 2020-07-27 20:51\n"
-"PO-Revision-Date: 2020-07-27 20:51\n"
+"PO-Revision-Date: 2020-07-28 22:16+0700\n"
 "Language-Team: \n"
-"Language: th-TH\n"
+"Language: th_TH\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.4\n"
 
 #. Key:	0009BEE346934010A7F79C8CF23B20D5
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(1).Lines
@@ -25,7 +26,7 @@ msgstr "นี่คือร่างโตเต็มวัยข้ายั
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay_RL.Default__MegaSlimePlay_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",00164C5345E544D784CC289035CEF701"
 msgid "About that orb..."
-msgstr ""
+msgstr "ถามเรื่องลูกบอล..."
 
 #. Key:	002DAFE7433D240D0A5822A932016D65
 #. SourceLocation:	/Game/Ranch/Upgrades/BovaurShed.Default__BovaurShed_C.Upgrade.DisplayName
@@ -39,7 +40,7 @@ msgstr "โรงวัว"
 #: /Game/Dialogue/Leylanna/Default/LeylannaHadSex01.Default__LeylannaHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",002F7FED4D68AF160CEAFFB092D0F2E2"
 msgid "Bring that hard cock over here... I want to feel it inside me."
-msgstr ""
+msgstr "เอาดุ้นแข็งๆของเจ้า... เสียบเข้ามาในนี้สิ"
 
 #. Key:	0061A5124B098F61DE991D81AB884112
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -92,7 +93,8 @@ msgstr "ข้าคิดว่าเจ้าก็เกือบจะเห
 
 #. Key:	01DB8D8A43F7EC40F07FB3A355D39722
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",01DB8D8A43F7EC40F07FB3A355D39722"
 msgid "Cove of Rapture"
 msgstr "อ่าวแห่งความปลาบปลื้ม"
@@ -109,7 +111,7 @@ msgstr "นี่มันหาได้ยากนะเนี่ย"
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToMale(4).LinesToMale
 msgctxt ",022313C047D185193F98C48BE5852E62"
 msgid "It's not often one so small has the courage to dick a kraken. I hope my fleshy body pleased you."
-msgstr ""
+msgstr "มันมีไม่บ่อยหรอกนะ ที่จะมีดุ้นเล็กๆที่กล้าพอจะเสียบเข้ามาในร่องของข้า ข้าหวังว่าจะทำให้เจ้าเสียวได้นะ"
 
 #. Key:	028C9ACB45CFD05DB106DBA06B056886
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.StarfallenMonolith.ManageActionMessage
@@ -249,7 +251,7 @@ msgstr "มีรู ดีกว่ามีบอล2ลูกนะ!"
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",06271AC24974DE1182364AAD430A9574"
 msgid "If you... uh... ever get desperate again, you know where to find me!"
-msgstr ""
+msgstr "ถ้าเจ้า... เอ่อ... รู้สึกหมดหวัง รู้ใช่ไหมว่าหาข้าได้ที่ไหน!"
 
 #. Key:	0629816F428092E0C5B0169DD3E8F968
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(8).Lines
@@ -340,7 +342,7 @@ msgstr ""
 #: /Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(4).Lines
 msgctxt ",08DE001E4420BE30688798BF6B70729D"
 msgid "You will need to satisfy their desires before they will give them up."
-msgstr ""
+msgstr "เจ้าจำเป็นที่จะต้องเติมเต็มความกระหายของพวกนั้นก่อน ถึงจะได้กุญแจมา"
 
 #. Key:	093760FD4181D0AA284C4D96884A3801
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(1).Lines
@@ -375,7 +377,7 @@ msgstr ""
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",09C95B9C48668D0B269B88826710F912"
 msgid "Is that a comforting feeling?"
-msgstr ""
+msgstr "นี่สินะคือความสุขน่ะ?"
 
 #. Key:	0A1E776A4877D11A8A4716A6FEE789C1
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(7).LinesToMale
@@ -452,7 +454,7 @@ msgstr ""
 #: /Game/Dialogue/Monarch/Default/MonarchShySexF_RL.Default__MonarchShySexF_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",0CBE9A9A40E9ADB708F7C28FA2F1B657"
 msgid "My body is ready"
-msgstr ""
+msgstr "ข้าพร้อมแล้ว"
 
 #. Key:	0CD45BB44BFDB28371B663B5B53FD368
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(5).Lines
@@ -513,9 +515,10 @@ msgstr "จัดการกับยักษ์ ของคุณ"
 #. Key:	0DF191BF45A432F3BF190CAA63DF44DA
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeVerySad2.Default__MegaSlimeVerySad2_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeVerySad2.Default__MegaSlimeVerySad2_C.SessionData.Lines(0).Lines
+#, fuzzy
 msgctxt ",0DF191BF45A432F3BF190CAA63DF44DA"
 msgid "*Continued sobbing*"
-msgstr ""
+msgstr "*ร้องไห้*"
 
 #. Key:	0DFBAC884A0E11B073E5269E92E6DC30
 #. SourceLocation:	/Game/Breeding/Positions/Doggy.Default__Doggy_C.SessionData.PositionName
@@ -526,7 +529,8 @@ msgstr "ท่าหมา"
 
 #. Key:	0E2A96C54ACC4571431587B73459221E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",0E2A96C54ACC4571431587B73459221E"
 msgid "Nymphomaniac"
 msgstr "Nymphomaniac"
@@ -534,20 +538,22 @@ msgstr "Nymphomaniac"
 #. Key:	0E3AF3704D88CDB26D17458852A1792E
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiHadSex01.Default__ParvatiHadSex01_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Parvati/Default/ParvatiHadSex01.Default__ParvatiHadSex01_C.SessionData.Lines(3).Lines
+#, fuzzy
 msgctxt ",0E3AF3704D88CDB26D17458852A1792E"
 msgid "Using our bodies in ways all too perverse."
-msgstr ""
+msgstr "การใช้ร่างกายของพวกเราที่ผิดวิธี"
 
 #. Key:	0E4B3CBA440B587A805453A5FAC01859
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDungeon2.Default__CassieDungeon2_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Cassie/Default/CassieDungeon2.Default__CassieDungeon2_C.SessionData.Lines(1).Lines
 msgctxt ",0E4B3CBA440B587A805453A5FAC01859"
 msgid "Meow... no one has been down there for as long as I remember."
-msgstr ""
+msgstr "เมี๊ยว... ไม่มีใครลงไปที่นั่นหลายปีแล้วนะ เท่าที่ข้าจำได้"
 
 #. Key:	0E6E1156457FB3513C060D979FF6B9AE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 -
+#: Value).TraitIcons.HelpText
 msgctxt ",0E6E1156457FB3513C060D979FF6B9AE"
 msgid "Sterile: Cannot produce offspring."
 msgstr "เป็นหมัน: ไม่สามารถที่จะมีลูกด้"
@@ -569,9 +575,10 @@ msgstr "ปฏิเสธ"
 #. Key:	0EC0E30B4EEFEC910A9F1D90DC5AB286
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToMale(3).LinesToMale
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToMale(3).LinesToMale
+#, fuzzy
 msgctxt ",0EC0E30B4EEFEC910A9F1D90DC5AB286"
 msgid "Judging by the mess on the temple floor, quite good."
-msgstr ""
+msgstr "การตัดสินโดยความยุ่งเหยิงของพื้นวิหารแห่งนี้ ไม่เลวนี่"
 
 #. Key:	0EEEC9A34AD6162338FCA699384590D4
 #. SourceLocation:	/Game/Ranch/Upgrades/NekoCondo.Default__NekoCondo_C.Upgrade.TypeDisplay
@@ -648,7 +655,7 @@ msgstr "มามีอะไรด้วยกันเถอะ!"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(2).Lines
 msgctxt ",1074EFCF47610848DA1E09AED2EF9B29"
 msgid "That disgusting creature will not see the light of day so long as this emissary remains."
-msgstr ""
+msgstr "สิ่งมีชีวิตน่ารังเกียจนั่น จะไม่ได้เห็นเดือนเห็นตะวันแน่นอน ตราบใดที่ทูตสวรรค์คนนี้ยังอยู่"
 
 #. Key:	107C6B8448B1F139A90AFDBD17AE1AA9
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(25).LinesToFemale
@@ -676,7 +683,7 @@ msgstr "ค่อยกลับมาหาข้า ตอนที่เจ�
 #: /Game/Dialogue/Kybele/Default/KybeleHaveKeystone.Default__KybeleHaveKeystone_C.SessionData.Lines(4).Lines
 msgctxt ",10E4A32B499DC549B6EE719D6FEAFD45"
 msgid "I want a strong mate large enough to please me, a Vulwarg fleshy in the right areas will do."
-msgstr ""
+msgstr "ข้าอยากได้คู่ที่ตัวใหญ่พอที่จะทำให้ข้าเสียวได้ หมาป่าแน่นๆแถวๆนี้คงช่วยได้"
 
 #. Key:	1101687D48DB923571BCF99F288D40BC
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.Lines(3).Lines
@@ -732,14 +739,14 @@ msgstr "ยัดแท่งนั่นเข้ามาในร่างข
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Jungle.PlaceMessage
 msgctxt ",11A9B90644E91677CD9DEFB4CC831C2C"
 msgid "Sultry Plateau is now accessible."
-msgstr ""
+msgstr "สามารถไปยังที่ราบสูง เขตร้อนได้แล้ว"
 
 #. Key:	11BBEDC74B6704427E32B6A7F9FB5D77
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchStartShySex.Default__MonarchStartShySex_C.SessionData.LinesToFuta(2).LinesToFuta
 #: /Game/Dialogue/Monarch/Default/MonarchStartShySex.Default__MonarchStartShySex_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",11BBEDC74B6704427E32B6A7F9FB5D77"
 msgid "May I... ride you?"
-msgstr ""
+msgstr "ข้าขอขี่เจ้าหน่อยได้มั้ย?"
 
 #. Key:	11C0FBB845185DFCD5E67DA5B758B432
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(2).Lines
@@ -771,7 +778,8 @@ msgstr "พวกข้าก็เป็นแค่ความสุขทา
 
 #. Key:	1276E5EB4781A0238A9705AC9FEE680E
 #. SourceLocation:	/Game/World/Events/EM_Keystone.EM_Keystone_C:ExecuteUbergraph_EM_Keystone [Script Bytecode]
-#: /Game/World/Events/EM_Keystone.EM_Keystone_C:ExecuteUbergraph_EM_Keystone [Script Bytecode]
+#: /Game/World/Events/EM_Keystone.EM_Keystone_C:ExecuteUbergraph_EM_Keystone
+#: [Script Bytecode]
 msgctxt ",1276E5EB4781A0238A9705AC9FEE680E"
 msgid "Keystone acquired."
 msgstr ""
@@ -781,7 +789,7 @@ msgstr ""
 #: /Game/Dialogue/Cassie/Default/CassieHadSex01.Default__CassieHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",129A33314E1BA60BA7698394A0DEDCD7"
 msgid "So many splinters in my back, but it was worth it!"
-msgstr ""
+msgstr "เสี้ยนตำหลังพรุนไปหมด แต่มันก็คุ้มค่าแฮะ"
 
 #. Key:	129E92F14686D57C52A26598C5257AF6
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(12).LinesToFemale
@@ -830,7 +838,7 @@ msgstr "ถ้ำยักษ์"
 #: /Game/Dialogue/Monarch/Default/MonarchShySexT_RL.Default__MonarchShySexT_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",1313BBB44A4D1E05E98E26A226B6226B"
 msgid "No!"
-msgstr ""
+msgstr "ไม่!"
 
 #. Key:	1314F6404A2F1B2C9E0F9F856E1D18C6
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToFuta(1).LinesToFuta
@@ -912,9 +920,10 @@ msgstr "ตลอดหลายปีที่ผ่านมาและกา
 #. Key:	158D44FA46C00C7898EF1C99A9A99EA7
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(7).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(7).Lines
+#, fuzzy
 msgctxt ",158D44FA46C00C7898EF1C99A9A99EA7"
 msgid "Claiming \"the spirits told me to make love with the golden angel\" or something similar."
-msgstr ""
+msgstr "แล้วนางก็พูดว่า \"ดวงวิญญาณบอกข้าว่าให้มีอะไรกับนางฟ้าคนนี้\" หรืออะไรทำนองนั้นแหละ"
 
 #. Key:	16049E004B001A3FEF8E25BEBE498398
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_RL.Default__ParvatiDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -988,7 +997,8 @@ msgstr "มันเป็นเรื่องจริงที่ว่าน
 
 #. Key:	193B4CF045056BF6C0B7E0AF2A4A65FF
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 -
+#: Value).TraitIcons.HelpText
 msgctxt ",193B4CF045056BF6C0B7E0AF2A4A65FF"
 msgid "Valuable: Value is increased by 35%."
 msgstr "มีค่า: มูลค่าเพิ่มขึ้น 35%"
@@ -1005,7 +1015,7 @@ msgstr "โอกาสที่จะได้มีอะไรกับมน
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeSad_RL2.Default__MegaSlimeSad_RL2_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",195D4E38448666E82EA5BEA6A446E98A"
 msgid "What have I done..."
-msgstr ""
+msgstr "นี่ข้าทำอะไรลงไป..."
 
 #. Key:	19A2E9D044587CE3E0AC5B8D366B6974
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01.Default__AmberMaeDefault01_C.SessionData.Lines(0).Lines
@@ -1178,9 +1188,10 @@ msgstr "นางเงือกนั้นเป็นสัตว์น้ำ
 #. Key:	1DB7FBDD4A80D06FCF9019965B0E0008
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.Lines(0).Lines
+#, fuzzy
 msgctxt ",1DB7FBDD4A80D06FCF9019965B0E0008"
 msgid "Ye drank so much for a wee lass!"
-msgstr ""
+msgstr "ครั้งที่แล้ว ตั๋วดูดไปเยอะเลยนะเจ้า"
 
 #. Key:	1E0C491A43E8C2F67FA568B20B5A6743
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(5).Lines
@@ -1236,7 +1247,7 @@ msgstr ""
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(6).ResponseData.BreederPrompt
 msgctxt ",1EB7986D40F6A7B90EB5ADB781104A11"
 msgid "How do I access the area under the temple?"
-msgstr ""
+msgstr "ข้าจะเข้าไปใต้วิหารได้ยังไงเหรอ?"
 
 #. Key:	1EBEB6D94E78F0B72A365EAD5BD52461
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(5).LinesToFuta
@@ -1255,9 +1266,10 @@ msgstr "ข้านั้นเอาชนะความหื่นกระ
 #. Key:	1EC6ED68400A0EEDE25F8BA9CAB37F8E
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchHaveKeystone2.Default__MonarchHaveKeystone2_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Monarch/Default/MonarchHaveKeystone2.Default__MonarchHaveKeystone2_C.SessionData.Lines(2).Lines
+#, fuzzy
 msgctxt ",1EC6ED68400A0EEDE25F8BA9CAB37F8E"
 msgid "T-t-thank you human!"
-msgstr ""
+msgstr "ข ข ขอบคุณนะ เจ้ามนุษย์!"
 
 #. Key:	1EDF51EB413B2D360FB8C6B5AD2E62ED
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -1278,7 +1290,7 @@ msgstr ""
 #: /Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",1F2830D14059782BF943B5BD1F8A5942"
 msgid "Ah such a glorious mate you have given me!"
-msgstr ""
+msgstr "ช่างเป็นตัวที่ยอดเยี่ยมมาก ตัวที่เจ้ามอบให้ข้าน่ะ!"
 
 #. Key:	1FA8B3E8448F66CB1045EAB3F54ADE2B
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(5).LinesToFemale
@@ -1289,7 +1301,8 @@ msgstr "เจ้าพอจะ... เมี๊ยววว... ช่วย แ
 
 #. Key:	1FC53FEF4A2414ADEC40FA84C1B8848D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 -
+#: Value).TraitIcons.HelpText
 msgctxt ",1FC53FEF4A2414ADEC40FA84C1B8848D"
 msgid "Kindhearted: Grants twice as much XP to mates but only receives half as much."
 msgstr "โอบอ้อมอารี: คู่ร่วมรักได้รับ XP สองเท่า แต่ฝ่ายรุกจะได้รับแค่ครึ่งเดียว"
@@ -1373,7 +1386,8 @@ msgstr ""
 
 #. Key:	217058F6486D81B1085B329585491A13
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 -
+#: Value).TraitIcons.HelpText
 msgctxt ",217058F6486D81B1085B329585491A13"
 msgid "Hornball: Loses 35% less lust during breeding."
 msgstr "ขี้เงี่ยน: สูญเสียค่าความหื่นกระหายน้อยลง 35% ระหว่างทำการร่วมรัก"
@@ -1395,16 +1409,18 @@ msgstr "ท่าคาวเกิร์ลแบบหันหน้าออ
 #. Key:	21F3FE504159303A7B601594A76A9D1D
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaOldTempleDungeon1.Default__LeylannaOldTempleDungeon1_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Leylanna/Default/LeylannaOldTempleDungeon1.Default__LeylannaOldTempleDungeon1_C.SessionData.Lines(2).Lines
+#, fuzzy
 msgctxt ",21F3FE504159303A7B601594A76A9D1D"
 msgid "Have you come here to make love with me?"
-msgstr ""
+msgstr "เจ้ามาที่นี่ เพื่อมีเซ็กส์กับข้ารึป่าว?"
 
 #. Key:	221EB3E64F8474A44715CA969A344204
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchHaveKeystone.Default__MonarchHaveKeystone_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Monarch/Default/MonarchHaveKeystone.Default__MonarchHaveKeystone_C.SessionData.Lines(3).Lines
+#, fuzzy
 msgctxt ",221EB3E64F8474A44715CA969A344204"
 msgid "The wild @MONSTER_RACE@ around here are so big and s-s-strong."
-msgstr ""
+msgstr "พวก@MONSTER_RACE@ที่อยู่ที่นี่ มีแต่ใหญ่ๆ แน่นๆทั้งนั้นเลย"
 
 #. Key:	2232F66F4BB565CC2A75538123292067
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(19).LinesToMale
@@ -1418,7 +1434,7 @@ msgstr "นั่นทำให้งานของเจ้าง่ายข
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",2262A6F64B6CB59E0A4D93A13609ED6A"
 msgid "Human cum tastes just like I dreamt it would!"
-msgstr ""
+msgstr "น้ำของมนุษย์มันช่างรสชาติเหมือนกับที่ข้าฝันไว้เลย!"
 
 #. Key:	226CAB5E40652DCF455036A02B7F0BEF
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.LinesGrungy(3).LinesGrungy
@@ -1451,9 +1467,10 @@ msgstr "จัดการกับวัว ของคุณ"
 #. Key:	233ACAAA4B9A80E38B57579ACF78F5DF
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaOldTempleDungeon1.Default__LeylannaOldTempleDungeon1_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Leylanna/Default/LeylannaOldTempleDungeon1.Default__LeylannaOldTempleDungeon1_C.SessionData.Lines(0).Lines
+#, fuzzy
 msgctxt ",233ACAAA4B9A80E38B57579ACF78F5DF"
 msgid "Sooooo very high human."
-msgstr ""
+msgstr "แล้วไงล่ะ เจ้ามนุษย์"
 
 #. Key:	2341F9304FDFA81B77486F840A0E749C
 #. SourceLocation:	/Game/Ranch/Upgrades/MuttHut.Default__MuttHut_C.Upgrade.Description
@@ -1527,7 +1544,8 @@ msgstr "บ้านแมว"
 
 #. Key:	249E987842C35A9986491A967E86BEC3
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 -
+#: Value).TraitIcons.HelpText
 msgctxt ",249E987842C35A9986491A967E86BEC3"
 msgid "Stoic: Increases maximum lust by 20%."
 msgstr "ถึก: เพิ่มค่าความหื่นกระหายสูงสุด 20%"
@@ -1569,7 +1587,8 @@ msgstr "เจ้าต้องคิดว่ามันแปลกมาก
 
 #. Key:	2632B36446A9D5F9E018209CB73837B8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",2632B36446A9D5F9E018209CB73837B8"
 msgid "Massive Size"
 msgstr "ขนาดใหญ่ที่สุด"
@@ -1579,7 +1598,7 @@ msgstr "ขนาดใหญ่ที่สุด"
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",268AD0D344A4D1238CEC5798F2ED5EF0"
 msgid "If you... uh... ever get desperate again, you know where to find me!"
-msgstr ""
+msgstr "ถ้าเจ้า... เอ่อ... รู้สึกหมดหวัง รู้ใช่ไหมว่าหาข้าได้ที่ไหน!"
 
 #. Key:	26BF34E64E91FAF8BA6ACF94AB76AB90
 #. SourceLocation:	/Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToMale(2).LinesToMale
@@ -1614,7 +1633,7 @@ msgstr ""
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Pastures.PlaceMessage
 msgctxt ",27565BD64B41A94885451F8607E68D2F"
 msgid "Pleasure Pastures is now accessible."
-msgstr ""
+msgstr "สามารถไปยังทุ่งหญ้าพิสมัยได้แล้ว"
 
 #. Key:	276B525843A991FAE2D5FAAE9243EFC9
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01.Default__BlossomDefault01_C.SessionData.Lines(0).Lines
@@ -1628,7 +1647,7 @@ msgstr "บลอสซัมรักท่านนะคะ"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(29).LinesToMale
 msgctxt ",2792356C47CF43619493DA8F71F0D9A0"
 msgid "A world of sex and adventures awaits!"
-msgstr "โลกแห่งเซ็กส์ และการผจญภัย รอคุณอยู่!"
+msgstr "โลกแห่งเซ็กส์ และการผจญภัย รอเจ้าอยู่นะ!"
 
 #. Key:	27AA07F64D837ABACCDEF6902D0199A2
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(1).Lines
@@ -1667,7 +1686,8 @@ msgstr "ให้ตายสิ! ข้าพูดมากเกินไป�
 
 #. Key:	29A421FC41D83A2B9DCC669ECA1F708D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 -
+#: Value).TraitIcons.HelpText
 msgctxt ",29A421FC41D83A2B9DCC669ECA1F708D"
 msgid "Buxom: Inherited a very large ass."
 msgstr "อวบ: มียีนส์ที่ทำให้ก้นใหญ่"
@@ -1677,7 +1697,7 @@ msgstr "อวบ: มียีนส์ที่ทำให้ก้นให�
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(8).ResponseData.BreederPrompt
 msgctxt ",29D016C340DC8B3F658D1A81BD0D7C54"
 msgid "Are you a Blessed @MONSTER_RACE@?"
-msgstr "เจ้าเป็นผู้ประทานพรแก่พวก@MONSTER_RACE@ อย่างงั้นเหรอ?"
+msgstr "เจ้าเป็นพวก@MONSTER_RACE@ประเสริฐ อย่างงั้นเหรอ?w"
 
 #. Key:	2A2C90CA4F62D70955E3F3A98524FEAA
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(5).Lines
@@ -1691,7 +1711,7 @@ msgstr ""
 #: /Game/Dialogue/Cassie/Default/CassieDefault01_Meow_RL_T.Default__CassieDefault01_Meow_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",2AA4EC89483BB63996FEBE9BC4E4055A"
 msgid "Butter stick? Are you serious?"
-msgstr "ลำดุ้น เหรอ? นี่จริงจังรึป่าวเนี่ย?"
+msgstr "เจ้ามีดุ้นเหรอ? พูดจริงรึป่าวเนี่ย?"
 
 #. Key:	2AAA21F34762CDB90A4C749B986B1874
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_SexPositions.Default__FaleneDefault01_SexPositions_C.SessionData.Lines(1).Lines
@@ -1702,7 +1722,8 @@ msgstr "ที่จริงแล้ว ข้าทำเองก็ได�
 
 #. Key:	2ABC84814DE5DC3039A61BBA0723AF73
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 -
+#: Value).TraitIcons.HelpText
 msgctxt ",2ABC84814DE5DC3039A61BBA0723AF73"
 msgid "Tiny: Roughly 4ft in height."
 msgstr "เล็ก: สูงราว 4ฟุต"
@@ -1810,7 +1831,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(5).Lines
 msgctxt ",2DBE58DB4B0AEBCB9FDD04BC94C039BD"
 msgid "I frequently must change my lower garments since my vagina is always very wet--it's a common problem for blessed @MONSTER_RACE@ that wear clothes."
-msgstr "ข้าต้องเปลี่ยนกางเกงในอยู่บ่อยครั้ง เพราะร่องของข้ามันแฉะตลอดเลย--มันเป็นเรื่องปกติของพวก@MONSTER_RACE@ที่ใส่เสื้อผ้าน่ะ"
+msgstr "ข้าต้องเปลี่ยนกางเกงในอยู่บ่อยครั้ง เพราะร่องของข้ามันแฉะตลอดเลย--มันเป็นเรื่องปกติของพวก@MONSTER_RACE@ประเสริฐที่ใส่เสื้อผ้าน่ะ"
 
 #. Key:	2DC7EABB434FE7136DE3498D19A6B8B9
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(4).Lines
@@ -1859,7 +1880,7 @@ msgstr "พวก@MONSTER_RACE@ ก็เหมือนกับพวกมน
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Hivelands.PlaceMessage
 msgctxt ",2E3E08D0489FB126A2E91CAA491280F4"
 msgid "Hivelands is now accessible."
-msgstr ""
+msgstr "สามารถไปยังดินแดนวิหคได้แล้ว"
 
 #. Key:	2E7BB9B84F5D0CB4DA2DF986BEFCB857
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -1871,9 +1892,10 @@ msgstr "ว้าว! ป ป เป็นไปไม่ได้!"
 #. Key:	2E8395B6412987FEE6DC3E8FE37DC549
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyLockedDungeon.Default__RomyLockedDungeon_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Romy/Default/RomyLockedDungeon.Default__RomyLockedDungeon_C.SessionData.Lines(2).Lines
+#, fuzzy
 msgctxt ",2E8395B6412987FEE6DC3E8FE37DC549"
 msgid "One of extraordinary loneliness and self-loathing."
-msgstr ""
+msgstr "คงจะเป็นอะไรที่ทั้งเศร้าและเปล่าเปลี่ยวมากเลยล่ะ"
 
 #. Key:	2E8D7983446334A29BB4E0BCEFBBC092
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(4).Lines
@@ -1976,9 +1998,10 @@ msgstr ""
 #. Key:	308B8DB245EC118210674A84BB3AFDC3
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleRideYou_RL_T.Default__KybeleRideYou_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
 #: /Game/Dialogue/Kybele/Default/KybeleRideYou_RL_T.Default__KybeleRideYou_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
+#, fuzzy
 msgctxt ",308B8DB245EC118210674A84BB3AFDC3"
 msgid "Aww what an adorable titty pony."
-msgstr ""
+msgstr "งื้ออ ช่างเป็นม้าน้อยที่น่ารักซะจริง"
 
 #. Key:	3092F47E411D4A54A80D53BAF9BCBC3F
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeSlimesMade.Default__MegaSlimeSlimesMade_C.SessionData.LinesToFuta(5).LinesToFuta
@@ -1990,9 +2013,10 @@ msgstr ""
 #. Key:	30940E7C46EDA0BA71E783B92668ECFD
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernHadSex01.Default__FernHadSex01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Fern/Default/FernHadSex01.Default__FernHadSex01_C.SessionData.Lines(0).Lines
+#, fuzzy
 msgctxt ",30940E7C46EDA0BA71E783B92668ECFD"
 msgid "Mmmm... mastah tasty!"
-msgstr ""
+msgstr "อืมม... อร่อยจังเลย"
 
 #. Key:	309ABB3C4016F9879A6955B2D2BD5AE8
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleAnyMeans.Default__KybeleAnyMeans_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -2062,7 +2086,7 @@ msgstr "โอ้ย มีเสี้ยนตำหลังข้า!"
 #: /Game/Dialogue/Monarch/Default/MonarchGreeting01.Default__MonarchGreeting01_C.SessionData.Lines(4).Lines
 msgctxt ",323DCA0444372E8B59354A9FC665147D"
 msgid "Uh, m-m-my name is Monarch."
-msgstr ""
+msgstr "เอ่อ ข ข ข้าชื่อว่าโมนาช นะ"
 
 #. Key:	324ED3C844A0E2724766EB9155484064
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(1).Lines
@@ -2293,14 +2317,14 @@ msgstr "ข้ารู้สึกได้ว่าเจ้าใกล้จ
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToMale(1).LinesToMale
 msgctxt ",38365E644649BD12B20E879BB823AAC7"
 msgid "Your cock was so big, I didn't think I could take all of it."
-msgstr ""
+msgstr "ดุ้นของเจ้ามันช่างใหญ่เหลือเกิน ข้าไม่คิดว่าจะรับมันไหวนะ"
 
 #. Key:	383F99384A9AA2EB709D22BFAE55B72F
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleGreeting01.Default__KybeleGreeting01_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Kybele/Default/KybeleGreeting01.Default__KybeleGreeting01_C.SessionData.Lines(3).Lines
 msgctxt ",383F99384A9AA2EB709D22BFAE55B72F"
 msgid "You will have to go through me!"
-msgstr ""
+msgstr "เจ้าต้องข้ามศพข้าไปก่อน!"
 
 #. Key:	38A804064868E5E8FF3BE5A81144D82A
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01.Default__FernDefault01_C.SessionData.Lines(1).Lines
@@ -2342,7 +2366,7 @@ msgstr "เจ้ามนุษย์ผู้เปี่ยมไปด้ว
 #: /Game/Dialogue/AmberMae/Default/AmberMaeDefault01_RL.Default__AmberMaeDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",397B4EDC415499258BF65B825D968230"
 msgid "What do you know about the old temple?"
-msgstr ""
+msgstr "เจ้ามนุษย์ผู้เปี่ยมไปด้วยความหื่นกระหาย มาอยู่ตรงหน้าของข้า"
 
 #. Key:	39BB76F04901D85036C696B74CA537B3
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_Accent.Default__AmberMaeDefault01_Accent_C.SessionData.Lines(2).Lines
@@ -2377,7 +2401,7 @@ msgstr "ทำการผสมพันธุ์!"
 #: /Game/Dialogue/Cassie/Default/CassieHadSex01.Default__CassieHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",3A445E064F00F058EEF964928975B1F0"
 msgid "Meow! That felt so good..."
-msgstr ""
+msgstr "เมี๊ยว! นั่นมันสุดยอดไปเลย..."
 
 #. Key:	3A5C7D5342118BA87B8C6595C9B5D200
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(7).Lines
@@ -2472,7 +2496,8 @@ msgstr ""
 
 #. Key:	3CA687014A0A2E686C1525BCF1F25CAE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 -
+#: Value).TraitIcons.HelpText
 msgctxt ",3CA687014A0A2E686C1525BCF1F25CAE"
 msgid "Gaudy: Inherited an unusual vivid color scheme."
 msgstr "ฉูดฉาด: มียีนส์ที่ทำให้มีสีที่ผิดปกติ"
@@ -2486,7 +2511,8 @@ msgstr ""
 
 #. Key:	3D4441784AF4D03AE277679928164F4E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",3D4441784AF4D03AE277679928164F4E"
 msgid "Stoic"
 msgstr "ความอดทน"
@@ -2510,7 +2536,7 @@ msgstr ""
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(6).Lines
 msgctxt ",3DB538F149AC7F6C7364009E1811D1CF"
 msgid "Or, hath desire brought you abreast my holy golden bosom?"
-msgstr ""
+msgstr "หรือว่า อยากที่จะเอาตัวมาซุกหน้าอกของข้า?"
 
 #. Key:	3DDC87214109BEB2D2A970A966C08449
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchStartShySex.Default__MonarchStartShySex_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -2524,7 +2550,7 @@ msgstr ""
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeLikesPresent.Default__MegaSlimeLikesPresent_C.SessionData.Lines(1).Lines
 msgctxt ",3DE7C5E5483FE8321224F9A0BE1EE1E2"
 msgid "It was so beautiful..."
-msgstr ""
+msgstr "มันช่างสวยงาม..."
 
 #. Key:	3E483C5F491D4BAE82E56082A61D1FA0
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFemale(5).LinesToFemale
@@ -2543,9 +2569,10 @@ msgstr ""
 #. Key:	3E5B1CA94E6EB9CC180AE3A6F9EC5439
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(2).Lines
+#, fuzzy
 msgctxt ",3E5B1CA94E6EB9CC180AE3A6F9EC5439"
 msgid "Seek the keystones hidden throughout the world, for one is required per gate."
-msgstr ""
+msgstr "ตามหากุญแจที่ซ่อนอยู่ในโลกนี้ให้เจอ โดยกุญแจหนึ่งดอกไขได้หนึ่งประตู"
 
 #. Key:	3EAFC53348C0B793D4BF32A6B78F4E3F
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(4).ResponseData.BreederPrompt
@@ -2566,7 +2593,7 @@ msgstr "ทำไมเจ้าถึงเรียกข้าว่า ท�
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay.Default__MegaSlimePlay_C.SessionData.LinesToMale(0).LinesToMale
 msgctxt ",3EDC810646DEEE7CC8706393F4141D13"
 msgid "Really?! These truly are the best days of my life!"
-msgstr ""
+msgstr "จริงเหรอ?! นี่เป็นวันที่ดีที่สุดในชีวิตของข้าเลย!"
 
 #. Key:	3EEDCB0B41A901791EE10990EB7EBF6A
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(6).Lines
@@ -2584,7 +2611,8 @@ msgstr "พวกปีศาจชอบที่จะอยู่แถวๆ
 
 #. Key:	3EF6E0F646189B89DDE495A5A01F7FC3
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",3EF6E0F646189B89DDE495A5A01F7FC3"
 msgid "Abomination"
 msgstr "น่ารังเกียจ"
@@ -2594,7 +2622,7 @@ msgstr "น่ารังเกียจ"
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",3EFC55C841DE04F93E1162B03860B502"
 msgid "Ohhh @BREEDER_NAME@... you were amazing."
-msgstr ""
+msgstr "โอ้ว @BREEDER_NAME@... เจ้าช่างสุดยอดไปเลย"
 
 #. Key:	3F053255484259108C0E28AFBD627175
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy.Default__MirruDefault01_BodySexToy_C.SessionData.LinesToMale(1).LinesToMale
@@ -2608,14 +2636,14 @@ msgstr "เจ้าไม่รู้หรอกว่า ข้าต้อ�
 #: /Game/Dialogue/Leylanna/Default/LeylannaOldTempleDungeon.Default__LeylannaOldTempleDungeon_C.SessionData.Lines(2).Lines
 msgctxt ",3F42819C4BE489F79C959596626E0A60"
 msgid "Oh..."
-msgstr ""
+msgstr "โอ้ว..."
 
 #. Key:	3FF7BD1544456D7735C2D2AA0DCBAA1A
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaHadSex01.Default__CamillaHadSex01_C.SessionData.LinesToFuta(1).LinesToFuta
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex01.Default__CamillaHadSex01_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",3FF7BD1544456D7735C2D2AA0DCBAA1A"
 msgid "Your cock was so big, I didn't think I could take all of it."
-msgstr ""
+msgstr "ดุ้นของเจ้ามันช่างใหญ่เหลือเกิน ข้าไม่คิดว่าจะรับมันไหวนะ"
 
 #. Key:	40100E704D14DC5D1B113F84C1BCE936
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(10).LinesToMale
@@ -2634,6 +2662,7 @@ msgstr ""
 #. Key:	4019AADD47513B243D987E8810645FAD
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(1).Lines
+#, fuzzy
 msgctxt ",4019AADD47513B243D987E8810645FAD"
 msgid "Before you is an emissary of the Goddess, and your archangel servant. Let these words pierce your heart, for I speak on Her behalf."
 msgstr "ก่อนที่เจ้าจะมาเป็นทูตสวรรค์ของเทพธิดา และเหล่าเทวทูต จงให้คำพูดเหล่านี้ฝังเข้าไปในใจของเจ้า"
@@ -2648,9 +2677,10 @@ msgstr "หากว่าเจ้าไม่มีอารมณ์ที่
 #. Key:	402496A44933EE13233F8E8A45D06E47
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchDefault01_RL.Default__MonarchDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 #: /Game/Dialogue/Monarch/Default/MonarchDefault01_RL.Default__MonarchDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
+#, fuzzy
 msgctxt ",402496A44933EE13233F8E8A45D06E47"
 msgid "The queen?"
-msgstr ""
+msgstr "ราชินีเหรอ?"
 
 #. Key:	4052D6DF434789A177EAA1A32665DC40
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_T.Default__FernDefault02_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
@@ -2664,7 +2694,7 @@ msgstr "ทำไมเจ้าถึงเรียกข้าว่า ท�
 #: /Game/Dialogue/Kybele/Default/KybeleAnyMeans.Default__KybeleAnyMeans_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",408D0D424145C7FC8A4A419C5F15FC5E"
 msgid "Yes. By any means necessary!"
-msgstr ""
+msgstr "ใช่แล้ว ทุกวิถีทางเลย!"
 
 #. Key:	40FFE44B48699F620EAC16A81249A058
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -2790,7 +2820,7 @@ msgstr "ตกลง"
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex01.Default__CamillaHadSex01_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",43B91A4A43D78CA88ED80E9B8E857EB2"
 msgid "If you... uh... ever get desperate again, you know where to find me!"
-msgstr ""
+msgstr "ถ้าเจ้า... เอ่อ... รู้สึกหมดหวัง รู้ใช่ไหมว่าหาข้าได้ที่ไหน!"
 
 #. Key:	43D16A4C487E8E717D3AF2A72A1F2C56
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_MultipleHearts.Default__MirruDefault01_MultipleHearts_C.SessionData.Lines(1).Lines
@@ -2843,7 +2873,8 @@ msgstr "นางได้ให้คำสอนแก่เหล่าเท
 
 #. Key:	44BC09AE4BDFA439FBFD8BAABD7A96D0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",44BC09AE4BDFA439FBFD8BAABD7A96D0"
 msgid "Chubby"
 msgstr "จ้ำม่ำ"
@@ -2851,9 +2882,10 @@ msgstr "จ้ำม่ำ"
 #. Key:	44F952984F6E2F20583500AA72B0067A
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_WhatGoddessDoes.Default__EmissaryDefault01_WhatGoddessDoes_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_WhatGoddessDoes.Default__EmissaryDefault01_WhatGoddessDoes_C.SessionData.Lines(0).Lines
+#, fuzzy
 msgctxt ",44F952984F6E2F20583500AA72B0067A"
 msgid "Such is for Her to decide. Rest, for She is all-powerful and all-loving. Their care and wellness could not be in better hands."
-msgstr ""
+msgstr "ขึ้นอยู่กับการตัดใจของนางน่ะ นางทั้งทรงพลังและใจดี ไม่มีอะไรจะดีไปกว่านี้อีกแล้วล่ะ"
 
 #. Key:	44FB7A2943203A7912B1F5B22C5B6DCA
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(19).LinesToFemale
@@ -2969,7 +3001,8 @@ msgstr "เจ้าดูดนมข้าได้นะ!"
 
 #. Key:	47D73C824ADC81BC6CCF3D92213FA9A5
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",47D73C824ADC81BC6CCF3D92213FA9A5"
 msgid "Sterile"
 msgstr "เป็นหมัน"
@@ -2997,7 +3030,8 @@ msgstr ""
 
 #. Key:	48107A45419D9511DA312F919A7866E8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(6 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(6 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(6 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",48107A45419D9511DA312F919A7866E8"
 msgid "Hedon Township"
 msgstr "เมืองเฮดอน"
@@ -3014,7 +3048,7 @@ msgstr ""
 #: /Game/World/Overworld.Overworld:PersistentLevel.EM_HedonDungeonSwitch.BlockMessage
 msgctxt ",486FA5BE4745240DE60186BE36444829"
 msgid "The switch does not move."
-msgstr ""
+msgstr "คันโยกไม่ขยับ"
 
 #. Key:	48A773D34A077935AE7A2FAD14F4A978
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(6).Lines
@@ -3067,7 +3101,8 @@ msgstr "ถอดเสื้อเจ้าซะ เจ้าต้องเ�
 
 #. Key:	49C9E46943998C63648E12A033938266
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",49C9E46943998C63648E12A033938266"
 msgid "Debauched"
 msgstr "สำส่อน"
@@ -3084,7 +3119,7 @@ msgstr "..."
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",4A37F933461F6E0CC65A6D82757FB764"
 msgid "Wow that felt so good!"
-msgstr ""
+msgstr "ว้าว รู้สึกดีเป็นบ้า!"
 
 #. Key:	4A730CFD4FE7937D823362B706A236A2
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_EnlightenedOne.Default__NeelaDefault01_EnlightenedOne_C.SessionData.Lines(1).Lines
@@ -3306,6 +3341,7 @@ msgstr "ข้าเคยลิ้มลองทั้งดุ้นและ
 #. Key:	4F926E9345E810F3C912438E56312AC9
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaGreeting01.Default__LeylannaGreeting01_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Leylanna/Default/LeylannaGreeting01.Default__LeylannaGreeting01_C.SessionData.Lines(2).Lines
+#, fuzzy
 msgctxt ",4F926E9345E810F3C912438E56312AC9"
 msgid "Yes... your name is @BREEDER_NAME@. The spirits have revealed this to me!"
 msgstr "อ้อใช่ๆ เจ้าชื่อ@BREEDER_NAME@ สินะ ดวงวิญญาณบอกข้ามาหน่ะ!"
@@ -3347,14 +3383,16 @@ msgstr "เจ้าหญิงเมอรุ แห่งท้องทะ�
 
 #. Key:	50B849704DFA728D7330279E30E472A8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 -
+#: Value).TraitIcons.HelpText
 msgctxt ",50B849704DFA728D7330279E30E472A8"
 msgid "Large: Roughly 8ft in height."
 msgstr "ขนาดใหญ่: สูงราว 8ฟุต"
 
 #. Key:	50BBFEDE44CEF2DA10124AAE7DBF17B9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",50BBFEDE44CEF2DA10124AAE7DBF17B9"
 msgid "Slick"
 msgstr "มันวาว"
@@ -3368,7 +3406,8 @@ msgstr ""
 
 #. Key:	51444A264763D03D8B5051AEDAB55B5F
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 -
+#: Value).TraitIcons.HelpText
 msgctxt ",51444A264763D03D8B5051AEDAB55B5F"
 msgid "Abomination: This one was the product of incest."
 msgstr "น่ารังเกียจ: เป็นลูกที่มาจากการสืบสายเลือดเดียวกัน"
@@ -3410,7 +3449,8 @@ msgstr "..."
 
 #. Key:	5243F67240932D62D7FDFABA63222594
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",5243F67240932D62D7FDFABA63222594"
 msgid "Hung"
 msgstr "ดุ้นใหญ่"
@@ -3536,7 +3576,8 @@ msgstr "หมาป่า"
 
 #. Key:	55894A674E5C647D1DC14EB1951CE50D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 -
+#: Value).TraitIcons.HelpText
 msgctxt ",55894A674E5C647D1DC14EB1951CE50D"
 msgid "Sadistic: Reduces the loyalty of breeding partners, but gains twice as much XP."
 msgstr "ซาดิสต์: ลดความซื่อสัตย์ที่มีต่อคู่ร่วมรัก แต่จะได้รับค่าประสบการณ์เพิ่มขึ้น"
@@ -3560,11 +3601,12 @@ msgstr "ถอดเสื้อเจ้าออกสิ แล้วให�
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFemale(5).LinesToFemale
 msgctxt ",560A29014AB558719DDBF6ABAA67FA3F"
 msgid "*Yawn*"
-msgstr ""
+msgstr "*หาว*"
 
 #. Key:	560FCF68432946FE1C6D7BA2F8088AB6
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(0 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(0 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(0 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",560FCF68432946FE1C6D7BA2F8088AB6"
 msgid "Virgin Breaks"
 msgstr "หุบเขาเปิดบริสุทธิ์"
@@ -3593,16 +3635,17 @@ msgstr ""
 #. Key:	567F4EF7487947546DDFE3B0195DFDEB
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(0).Lines
+#, fuzzy
 msgctxt ",567F4EF7487947546DDFE3B0195DFDEB"
 msgid "Sweet delicious human pussy, ohhh..."
-msgstr "จิ๋มอันหอมหวานของมนุษย์, โอ้ววว... ฮอมจริมๆ"
+msgstr "ร่องอันหอมหวานของมนุษย์, โอ้ววว... ฮอมจริมๆ"
 
 #. Key:	569794004A0E468573BC3689623AE387
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(3).Lines
 msgctxt ",569794004A0E468573BC3689623AE387"
 msgid "Why the Goddess felt the need to create such worthless lifeforms puzzles me."
-msgstr ""
+msgstr "ทำไมท่านเทพธิดาถึงได้สร้างสิ่งมีชีวิตแบบนี้ขึ้นมาให้มาเจอกับข้ากันนะ"
 
 #. Key:	57759F684D98A4E1D01E469878BF79D9
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(2).Lines
@@ -3697,7 +3740,8 @@ msgstr "อ่าาห์... ลิ้นข้าจะเลียให้�
 
 #. Key:	5A3E7C5348B9CE872B1AC68AF9AEF76B
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 -
+#: Value).TraitIcons.HelpText
 msgctxt ",5A3E7C5348B9CE872B1AC68AF9AEF76B"
 msgid "Slender: This one has less body fat."
 msgstr "ผอม: ตัวนี้ไม่ค่อยมีไขมัน"
@@ -3763,7 +3807,7 @@ msgstr "ทำไมพวกสองเพศ ถึงไม่มี ลู�
 #: /Game/Dialogue/Romy/Default/RomyDefault01_RL.Default__RomyDefault01_RL_C.ResponseData(5).ResponseData.BreederPrompt
 msgctxt ",5B8BBC574B6A3FC58C5769B04B8923FE"
 msgid "What is with the locked dungeon?"
-msgstr ""
+msgstr "มีอะไรอยู่ในห้องใต้ดินที่โดนล็อคไว้เหรอ?"
 
 #. Key:	5BCD2C4F491787616684ECAD40FE34C6
 #. SourceLocation:	/Game/Dialogue/Reaper/Default/ReaperDefault01_RL.Default__ReaperDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -3789,9 +3833,10 @@ msgstr "เจ้าทำอะไรได้บ้าง?"
 #. Key:	5C38779E4968CAF3F455C68BDBEDADF9
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(7).Lines
 #: /Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(7).Lines
+#, fuzzy
 msgctxt ",5C38779E4968CAF3F455C68BDBEDADF9"
 msgid "There! Promise me if you open it... we will have kinky sex in the old temple! Meow!"
-msgstr ""
+msgstr "นี่! สัญญากับข้าสิ ว่าถ้าเจ้าเปิดเข้าไปได้... เราจะมีเซ็กส์กันในนั้นน่ะ เมี๊ยว!"
 
 #. Key:	5C55705949989D3944ACDD8DE6CAEB1E
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(2).Lines
@@ -3833,7 +3878,7 @@ msgstr ""
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Sands.PlaceMessage
 msgctxt ",5D28B49D4DE445D9A31C4FA2B4501737"
 msgid "Lewd Desert is now accessible."
-msgstr ""
+msgstr "สามารถไปยังทะเลทรายลามกได้แล้ว"
 
 #. Key:	5E27E8A74A30D389BBB939B5142249BB
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFuta(7).LinesToFuta
@@ -3872,7 +3917,8 @@ msgstr "ไม่เหมือนกับมนุษย์เพศเมี
 
 #. Key:	5F71A084478332FD553228BF6DB08550
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",5F71A084478332FD553228BF6DB08550"
 msgid "Huge Size"
 msgstr "ขนาดใหญ่มาก"
@@ -3959,7 +4005,7 @@ msgstr ""
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Glade.PlaceMessage
 msgctxt ",61C3C47B425E2ACFE03921A38EDBD93D"
 msgid "Esoteric Glade is now accessible."
-msgstr ""
+msgstr "สามารถไปยังบึงลึกลับได้แล้ว"
 
 #. Key:	61DD0F8342D2EFAE9232248215EADFB4
 #. SourceLocation:	/Game/Ranch/Upgrades/NekoCondo.Default__NekoCondo_C.Upgrade.Description
@@ -4001,7 +4047,7 @@ msgstr "พวกที่เดินไปทั่วตามสัญชา
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(4).Lines
 msgctxt ",62B5CF3C40893752840CAEBF4C8159C3"
 msgid "It did not deserve the pleasures you granted it, and I would advise never speaking with it again."
-msgstr ""
+msgstr "มันไม่สมควรที่จะได้รับความสุขที่เจ้ามอบให้ด้วยซ้ำ และข้าขอแนะว่าอย่าได้ไปคุยกับมันอีก"
 
 #. Key:	62DABAA04453893D6FCD5390D28CB19A
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R02.Default__FernDefault02_R02_C.SessionData.Lines(2).Lines
@@ -4069,9 +4115,10 @@ msgstr "ท่าคาวเกิร์ล"
 #. Key:	642A06E64C62D0AA35E17FB7181BDBD8
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_BlueSmoke.Default__LeylannaDefault01_BlueSmoke_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_BlueSmoke.Default__LeylannaDefault01_BlueSmoke_C.SessionData.Lines(1).Lines
+#, fuzzy
 msgctxt ",642A06E64C62D0AA35E17FB7181BDBD8"
 msgid "By inhaling it all day it grants me visions into worlds beyond."
-msgstr ""
+msgstr "สู่ความเวิ้งว้างอันไกลโพ้น!!!"
 
 #. Key:	644065F84B0F2E772BE21695810A2F0F
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Bovaur/Harvest/BovaurHarvest.Default__BovaurHarvest_C.Harvest.Description
@@ -4127,7 +4174,7 @@ msgstr "ทำไมเจ้าถึงเรียกข้าว่า ท�
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
 msgctxt ",64E952FE4B46D2DBE99FAD9370462318"
 msgid "Do you always stand on that barrel?"
-msgstr "นี่เจ้ายืนอยู๋บนถังนั่นตลอดเลยเหรอ?"
+msgstr "นี่เจ้ายืนอยู่บนถังนั่นตลอดเลยเหรอ?"
 
 #. Key:	650E3F124AAD112733D65B9F0D095FA8
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01.Default__CamillaDefault01_C.SessionData.Lines(2).Lines
@@ -4141,7 +4188,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFuta(6).LinesToFuta
 msgctxt ",653BCE96424AE552DCA4D7853B50BC39"
 msgid "Actually, fat ass reminds me of something!"
-msgstr ""
+msgstr "จะว่าไปแล้ว พอเห็นก้นแน่นๆ ก็ทำให้ข้านึกถึงอะไรบางอย่าง!"
 
 #. Key:	657B8CAA4F7FC96AAD9188A418E914E3
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchPrettyButterfly.Default__MonarchPrettyButterfly_C.SessionData.Lines(6).Lines
@@ -4159,7 +4206,8 @@ msgstr "โอ้ ท่านคะ... ท่านช่างดีกับ�
 
 #. Key:	65F2B1384977D80660A4E4A91389BC9D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",65F2B1384977D80660A4E4A91389BC9D"
 msgid "Grungy"
 msgstr "สกปรก"
@@ -4209,9 +4257,10 @@ msgstr ""
 #. Key:	6704B8A54849F885661105A85287867D
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaFaleneWeek.Default__CamillaFaleneWeek_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Camilla/Default/CamillaFaleneWeek.Default__CamillaFaleneWeek_C.SessionData.Lines(3).Lines
+#, fuzzy
 msgctxt ",6704B8A54849F885661105A85287867D"
 msgid "First, I have to be naked."
-msgstr ""
+msgstr "อย่างแรกเลย ข้าต้องเปลือยกายก่อน"
 
 #. Key:	6779B6F54EA9811CDA01BB899D8E10A4
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(2).Lines
@@ -4285,7 +4334,8 @@ msgstr "โอ้ว... อย่างงั้นแหละ... เมี๊�
 
 #. Key:	6928C04F4EBC681B1BF676BB56435E32
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",6928C04F4EBC681B1BF676BB56435E32"
 msgid "Charmer"
 msgstr "เจ้าเสน่ห์"
@@ -4432,7 +4482,8 @@ msgstr "พวกจิ้งจอกกับพวกหมาป่า ช�
 
 #. Key:	6D1431474F1C713E9D755F93772C653C
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 -
+#: Value).TraitIcons.HelpText
 msgctxt ",6D1431474F1C713E9D755F93772C653C"
 msgid "Juicy: Produces 50% extra body fluid when harvested."
 msgstr "ฉ่ำ: ผลิตของเหลวได้เพิ่มขึ้น 50% เมื่อถูกเก็บเกี่ยว"
@@ -4489,9 +4540,10 @@ msgstr ""
 #. Key:	6DFA50D843F564F540771EAD2DCC848B
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleHaveKeystone.Default__KybeleHaveKeystone_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Kybele/Default/KybeleHaveKeystone.Default__KybeleHaveKeystone_C.SessionData.Lines(3).Lines
+#, fuzzy
 msgctxt ",6DFA50D843F564F540771EAD2DCC848B"
 msgid "Just don't tell her if you see her! If you do, you will feel the wrath of my fat cock again!"
-msgstr ""
+msgstr "แค่อย่าบอกนางละกัน แต่ถ้าเจ้าบอกล่ะก็ เจ้าได้เจอดุ้นพิโรธของข้าแน่!"
 
 #. Key:	6DFC948B4585FAC19AED8692ED4B45F2
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm_RL_F.Default__LeylannaDefault01_RechargeSpiritForm_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
@@ -4607,7 +4659,8 @@ msgstr "ดูดอกไม้สวยๆของข้าสิ มัน�
 
 #. Key:	6FED048C4BF38E565F2ADC90DC3F4390
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",6FED048C4BF38E565F2ADC90DC3F4390"
 msgid "Kindhearted"
 msgstr "โอบอ้อมอารี"
@@ -4734,9 +4787,10 @@ msgstr "ท่าไหนกันล่ะ ที่เจ้าจำไม�
 #. Key:	72676A264244C7A242C2688B7B60F6A5
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01.Default__MirruDefault01_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Mirru/Default/MirruDefault01.Default__MirruDefault01_C.SessionData.Lines(1).Lines
+#, fuzzy
 msgctxt ",72676A264244C7A242C2688B7B60F6A5"
 msgid "Have you come to please this Kraken princess?"
-msgstr ""
+msgstr "มาเพื่อทำให้เจ้าหญิงคราเคนผู้นี้เสียวรึไง?"
 
 #. Key:	729B81554E3D9EF979C07FB7C419E3C5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -4768,10 +4822,11 @@ msgstr "อย่างงั้นแหละ! ฉีดน้ำของเ�
 
 #. Key:	73986546438B9C190B8B769537B05047
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(12 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(12 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(12 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",73986546438B9C190B8B769537B05047"
 msgid "Climax Peak"
-msgstr "จุดสุดยอด"
+msgstr "เขาแห่งจุดสุดยอด"
 
 #. Key:	73B062844EF9F666A3FC88A79A97D47A
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(0).Lines
@@ -4841,7 +4896,7 @@ msgstr "นี่เจ้ามีหัวใจหลายดวงเหร
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",74AA1A6D401AC350EC36AA9E8E34202A"
 msgid "*Yawn*"
-msgstr ""
+msgstr "*หาว*"
 
 #. Key:	74E667E542A1B2DD54B1A4852E0B5BDE
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_T.Default__FernDefault02_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
@@ -4862,11 +4917,12 @@ msgstr ""
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Peak.PlaceMessage
 msgctxt ",7519309946A12CD84883FC98FC964091"
 msgid "Climax Peak is now accessible."
-msgstr ""
+msgstr "สามารถไปยังเขาแห่งจุดสุดยอดได้แล้ว"
 
 #. Key:	752BA5D9498A3D0A3B274BA6E3AFDDAE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",752BA5D9498A3D0A3B274BA6E3AFDDAE"
 msgid "Lewd Desert"
 msgstr ""
@@ -4929,7 +4985,8 @@ msgstr ""
 
 #. Key:	76C3B8B24ADB1D21C1F205A4E3B35D2A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 -
+#: Value).TraitIcons.HelpText
 msgctxt ",76C3B8B24ADB1D21C1F205A4E3B35D2A"
 msgid "Atypical: Inherited an unusual size for its variant."
 msgstr "ผิดพวก: มีขนาดตัวที่ใหญ่หรือเล็กกว่าปกติ"
@@ -4979,20 +5036,23 @@ msgstr "เจ้าจะไม่สงสัยเลย ที่จะไ�
 #. Key:	77E7C4FC4287147D1A10F5BD3D5F5081
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(5).Lines
 #: /Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(5).Lines
+#, fuzzy
 msgctxt ",77E7C4FC4287147D1A10F5BD3D5F5081"
 msgid "Bathe them of course, if they're dirty. Fortunately, @MONSTER_RACE@ are very clean naturally."
-msgstr ""
+msgstr "ก็ล้างตัวให้สิ ถ้าพวกมันสกปรก แต่แย่หน่อยนะ เพราะพวก@MONSTER_RACE@น่ะ สะอาดเป็นทุนเดิมอยู่แล้ว"
 
 #. Key:	786684AF43E49B03AB1575A2054AC196
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",786684AF43E49B03AB1575A2054AC196"
 msgid "Large Size"
 msgstr "ขนาดใหญ่"
 
 #. Key:	78B7319E49FA8E32267F09898482F929
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",78B7319E49FA8E32267F09898482F929"
 msgid "Slender"
 msgstr "หุ่นเรียว"
@@ -5083,7 +5143,8 @@ msgstr "ข้าอยากจะเดินทางเข้าไปใน
 
 #. Key:	7B5F72194EE494B66BEC5CAD05253722
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",7B5F72194EE494B66BEC5CAD05253722"
 msgid "Juicy"
 msgstr "แฉะ"
@@ -5100,7 +5161,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToMale(0).LinesToMale
 msgctxt ",7BA8039A45383C5B11EEA9AC428E3158"
 msgid "Ohhh @BREEDER_NAME@... you were amazing."
-msgstr ""
+msgstr "โอ้ว @BREEDER_NAME@... เจ้าช่างสุดยอดไปเลย"
 
 #. Key:	7C4054234127D8843978CD80C4B540B7
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(1).LinesToMale
@@ -5121,7 +5182,7 @@ msgstr ""
 #: /Game/Dialogue/Romy/Default/RomyLockedDungeon.Default__RomyLockedDungeon_C.SessionData.Lines(0).Lines
 msgctxt ",7C5554A44E14D8611780E99EAC37F747"
 msgid "I don't know how to access it, but beware."
-msgstr ""
+msgstr "ข้าไม่รู้วิธีที่จะเข้าไปหรอกนะ แต่ระวังตัวด้วยล่ะ"
 
 #. Key:	7C5853BA4383F9B61021B3A6AD59FA09
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01.Default__ParvatiDefault01_C.SessionData.Lines(3).Lines
@@ -5156,7 +5217,7 @@ msgstr "*แผล่บๆ**อ๊อกๆ*"
 #: /Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(0).Lines
 msgctxt ",7D4DC0064FB622869AA3E3B8CFCF2444"
 msgid "Ah you mean the Cockblock Gates."
-msgstr ""
+msgstr "อ่อ ท่านคงหมายถึงประตูดุ้นสินะ"
 
 #. Key:	7D9B8CD848A3DAA68B924CA2B1E60858
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeSlimesMade.Default__MegaSlimeSlimesMade_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -5181,7 +5242,8 @@ msgstr "สัมผัสถึงลิ้นนุ่มๆของข้า
 
 #. Key:	7E871257404E27C20903A3877220C69A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(10 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(10 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(10 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",7E871257404E27C20903A3877220C69A"
 msgid "Pleasure Pastures"
 msgstr "ทุ่งหญ้าพิสมัย"
@@ -5209,7 +5271,8 @@ msgstr "จัดการกับภูติ ของคุณ"
 
 #. Key:	7EF6E26243EE042D016B90AFA2F62AE7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",7EF6E26243EE042D016B90AFA2F62AE7"
 msgid "Divergent"
 msgstr "แตกต่าง"
@@ -5275,14 +5338,14 @@ msgstr "นมข้ามันใหญ่มากเลยนะ เจ้�
 #: /Game/Dialogue/Kybele/Default/KybeleHadSex01.Default__KybeleHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",8169C4CD4FCCAEC60B1417A262737D1E"
 msgid "Oh that felt amazing!!"
-msgstr ""
+msgstr "โอ้ว นั่นมันสุดยอดไปเลย!"
 
 #. Key:	8178665B4810CB468AA548A496C72040
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaHadSex01.Default__LeylannaHadSex01_C.SessionData.LinesToMale(3).LinesToMale
 #: /Game/Dialogue/Leylanna/Default/LeylannaHadSex01.Default__LeylannaHadSex01_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",8178665B4810CB468AA548A496C72040"
 msgid "Bring that hard cock over here... I want to feel it inside me."
-msgstr ""
+msgstr "เอาดุ้นแข็งๆของเจ้า... เสียบเข้ามาในนี้สิ"
 
 #. Key:	81AE34CA41E9CDDCF3756EBC867EF3A5
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_NoSpiritVariant.Default__LeylannaDefault01_NoSpiritVariant_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -5300,7 +5363,8 @@ msgstr ""
 
 #. Key:	81BA7F3C4947D886880CA687DA5D133F
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(7 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(7 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(7 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",81BA7F3C4947D886880CA687DA5D133F"
 msgid "Homestead"
 msgstr "บ้านพัก"
@@ -5331,7 +5395,7 @@ msgstr "ในฐานะคนรับใช้ของท่าน ร่�
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",833370124F1D6AF95E5FC9844AB0DA75"
 msgid "It's not often one so small has the courage to dick a kraken. I hope my fleshy body pleased you."
-msgstr ""
+msgstr "มันมีไม่บ่อยหรอกนะ ที่จะมีดุ้นเล็กๆที่กล้าพอจะเสียบเข้ามาในร่องของข้า ข้าหวังว่าจะทำให้เจ้าเสียวได้นะ"
 
 #. Key:	8362C8D747AF6B672FEF0CB58B2B5B0C
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(3).Lines
@@ -5366,18 +5430,20 @@ msgstr ""
 #: /Game/Dialogue/Kybele/Default/KybeleHaveKeystone.Default__KybeleHaveKeystone_C.SessionData.Lines(1).Lines
 msgctxt ",83F4F4214C815B64605575ADD36AEAC7"
 msgid "Tell you what, since you're a breeder, if you give me one of your best offspring, I will let you use the keystone."
-msgstr ""
+msgstr "จะบอกอะไรเจ้านะ เพราะว่าเจ้าเป็นนักเพาะพันธุ์ ถ้าเจ้าให้ลูกที่ดีที่สุดของเจ้าแก่ข้า ข้าจะให้กุญแจที่เจ้าต้องการ"
 
 #. Key:	83F96FD847C509C2689331A208A49D12
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(5).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(5).Lines
+#, fuzzy
 msgctxt ",83F96FD847C509C2689331A208A49D12"
 msgid "Now... cometh thy to offer @MONSTER_RACE@?"
-msgstr ""
+msgstr "เอาล่ะ ทีนี้... มาที่นี่เพื่อมาเสนอพวก@MONSTER_RACE@ เหรอคะ?"
 
 #. Key:	840B179B496FE7BBE7487EAE11227191
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(9 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(9 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(9 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",840B179B496FE7BBE7487EAE11227191"
 msgid "Lustwood"
 msgstr "ป่าแห่งความใคร่"
@@ -5475,14 +5541,16 @@ msgstr "ข้าต้องไปแล้วล่ะ โชคดีนะ!"
 
 #. Key:	854AE3F2484BF88BB14875815FEE38B4
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",854AE3F2484BF88BB14875815FEE38B4"
 msgid "Sadistic"
 msgstr "ซาดิสต์"
 
 #. Key:	855B7EB248E6DF97FE4486BAE527851B
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",855B7EB248E6DF97FE4486BAE527851B"
 msgid "Small Size"
 msgstr "ขนาดเล็ก"
@@ -5534,7 +5602,7 @@ msgstr ""
 #: /Game/Dialogue/Kybele/Default/KybeleDefault01_RL.Default__KybeleDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",86354AD5497243D13289CF9220240F60"
 msgid "Can I ride you?"
-msgstr ""
+msgstr "ข้าขอขี่เจ้าหน่อยได้มั้ย?"
 
 #. Key:	863580FA480DA6167885D1A2BBF22B9C
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToMale(8).LinesToMale
@@ -5625,7 +5693,7 @@ msgstr "รู้สึกดีจังเลย, และเพราะข�
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay.Default__MegaSlimePlay_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",8738B95245E3A4C3EBFE789CB296F4FD"
 msgid "Well what are you waiting for? Come on in!"
-msgstr ""
+msgstr "เจ้ารออะไรอยู่ล่ะ? มานี่สิ!"
 
 #. Key:	876C0AAA40651DB0D464218A41FDE0CB
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleDragonMatriarch.Default__KybeleDragonMatriarch_C.SessionData.Lines(1).Lines
@@ -5644,9 +5712,10 @@ msgstr ""
 #. Key:	87F01F0B48F45D7E461449960ED82A56
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaGreeting01.Default__LeylannaGreeting01_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Leylanna/Default/LeylannaGreeting01.Default__LeylannaGreeting01_C.SessionData.Lines(1).Lines
+#, fuzzy
 msgctxt ",87F01F0B48F45D7E461449960ED82A56"
 msgid "I am high priestess Leylanna, enlightened servant of the Goddess most high."
-msgstr ""
+msgstr "ข้าคือนักบุญเลย์แลนนา สาวกของท่านเทพธิดาผู้สูงส่ง"
 
 #. Key:	8800985D4901B4EF2FE2FD9B6D818E41
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_Pregnancy.Default__FaleneDefault01_Pregnancy_C.SessionData.Lines(1).Lines
@@ -5702,7 +5771,7 @@ msgstr "ฉนั้น เจ้าควรอยู่เฉยๆ แล้�
 #: /Game/Dialogue/Monarch/Default/MonarchShySexF_RL.Default__MonarchShySexF_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",88C799D944DFFE73BC3FD485C3770EEE"
 msgid "No!"
-msgstr ""
+msgstr "ไม่!"
 
 #. Key:	88E908134B3B56C2274F33974CFB4AE5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(0).LinesToMale
@@ -5790,7 +5859,8 @@ msgstr ""
 
 #. Key:	8B26942A46ED0C778AE5E1BC7C39336A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 -
+#: Value).TraitIcons.HelpText
 msgctxt ",8B26942A46ED0C778AE5E1BC7C39336A"
 msgid "Fertile: Fertility doubles pregnancy chance from repeated breeding."
 msgstr "เจริญพันธุ์: มีโอกาสที่จะท้องซ้ำจากการร่วมรักติดต่อกัน"
@@ -5804,7 +5874,8 @@ msgstr ""
 
 #. Key:	8B77D0FA4239D5EB678BAE8CDE396838
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",8B77D0FA4239D5EB678BAE8CDE396838"
 msgid "Hedonist"
 msgstr "เจ้าสำราญ"
@@ -6014,7 +6085,8 @@ msgstr ""
 
 #. Key:	8FFFE80A49114390AEF4A190D3F0A48F
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",8FFFE80A49114390AEF4A190D3F0A48F"
 msgid "Fertile"
 msgstr "เจริญพันธุ์"
@@ -6022,9 +6094,10 @@ msgstr "เจริญพันธุ์"
 #. Key:	900A82D44250A3392806469644B7B93B
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(3).Lines
+#, fuzzy
 msgctxt ",900A82D44250A3392806469644B7B93B"
 msgid "However, roaming this land are lesser @MONSTER_RACE@, to which many brand as \"wild\"."
-msgstr ""
+msgstr "อย่างไรก็ตาม พวกที่อาศัยอยู่รอบๆนี้ คงเรียกว่าพวก@MONSTER_RACE@ได้ไม่เต็มปาก เรียกว่าเป็นสัตว์ปกติดีกว่า"
 
 #. Key:	902A41DB403EFA60B99E8CB596EFE0BF
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -6056,7 +6129,8 @@ msgstr "*อ๊อก**อ๊อก*"
 
 #. Key:	90BF47A74AF19E981D455BAB280C9D02
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 -
+#: Value).TraitIcons.HelpText
 msgctxt ",90BF47A74AF19E981D455BAB280C9D02"
 msgid "Hedonist: Gains the XP that would have been granted to the other mate."
 msgstr ""
@@ -6094,7 +6168,7 @@ msgstr ""
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeSlimesMade.Default__MegaSlimeSlimesMade_C.SessionData.LinesToFuta(7).LinesToFuta
 msgctxt ",91512E3C41CA91E3C203E3BFD899DA24"
 msgid "Human cum is something I have always wanted."
-msgstr ""
+msgstr "น้ำของมนุษย์คือสิ่งที่ข้าต้องการมาโดยตลอด"
 
 #. Key:	91BFB5AF42AF2A7DA5B8219CB5296CAC
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault02.Default__FaleneDefault02_C.SessionData.Lines(2).Lines
@@ -6112,7 +6186,8 @@ msgstr "ข้าต้องการน้ำของมนุษย์ เ�
 
 #. Key:	926325814BBC6464CA76E097764B7F27
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 -
+#: Value).TraitIcons.HelpText
 msgctxt ",926325814BBC6464CA76E097764B7F27"
 msgid "Hominal: Inherited more human traits."
 msgstr "เชื้อมนุษย์: มียีนส์ที่ทำให้มีลักษณะของมนุษย์ที่มากขึ้น"
@@ -6134,9 +6209,10 @@ msgstr ""
 #. Key:	92CD80ED43FA1902AD31098F05B9E924
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(0).Lines
+#, fuzzy
 msgctxt ",92CD80ED43FA1902AD31098F05B9E924"
 msgid "Oh the old temple?"
-msgstr ""
+msgstr "วิหารเก่านั่นน่ะเหรอ?"
 
 #. Key:	92E3821949A8C289A4AAFCA4103F1915
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(3).LinesToMale
@@ -6150,7 +6226,7 @@ msgstr "อย่างงั้นแหละ! โอ้ววว, ใหญ�
 #: /Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFuta(5).LinesToFuta
 msgctxt ",92E810794E27E1F318AD0C9D4701705B"
 msgid "My fuzzy hands will fix this, but some human love could help too..."
-msgstr ""
+msgstr "มือนุ่มฟูของข้าจะซ่อมมันเอง แต่ความรักจากมนุษย์สักเล็กน้อยก็อาจช่วยได้นะ..."
 
 #. Key:	931A324E4A49D084F8210CA54C479750
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -6238,7 +6314,8 @@ msgstr "ได้เลยแม่สาวน้อย!"
 
 #. Key:	94451EBE42500C5CEC2E988DDD887046
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 -
+#: Value).TraitIcons.HelpText
 msgctxt ",94451EBE42500C5CEC2E988DDD887046"
 msgid "Nymphomaniac: Loyalty is increased twice as fast from having sex."
 msgstr "กระหาย: ความภักดีจะเพิ่มขึ้นอย่างรวดเร็วจากการมีเซ็กส์"
@@ -6281,9 +6358,10 @@ msgstr "ไม่เหมือนกับคราเคนตัวอื่
 #. Key:	94DDBB0049FCED99D5C08FB803C12B7D
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleHadSex01.Default__KybeleHadSex01_C.SessionData.LinesToFuta(1).LinesToFuta
 #: /Game/Dialogue/Kybele/Default/KybeleHadSex01.Default__KybeleHadSex01_C.SessionData.LinesToFuta(1).LinesToFuta
+#, fuzzy
 msgctxt ",94DDBB0049FCED99D5C08FB803C12B7D"
 msgid "You paid the price, now your little human ejaculation is all mine."
-msgstr ""
+msgstr "คราวนี้ เจ้าต้องใช้เยอะหน่อยนะ ตอนนี้น้ำทั้งหมดของเจ้าเป็นของข้าแล้ว"
 
 #. Key:	94FAC38648F37068EA98D4BEB220AA61
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(4).Lines
@@ -6297,14 +6375,14 @@ msgstr "ที่ข้าจำได้แม่นเลยก็คือ �
 #: /Game/Dialogue/Monarch/Default/MonarchStartShySexT.Default__MonarchStartShySexT_C.SessionData.Lines(0).Lines
 msgctxt ",954CCB0A40A176E6B34A32A8E4590B0A"
 msgid "*Blush*"
-msgstr ""
+msgstr "*อาย*"
 
 #. Key:	9562407547DB97CDA2482285D47741B5
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchShySex_RL.Default__MonarchShySex_RL_C.ResponseData(0).ResponseData.BreederPrompt
 #: /Game/Dialogue/Monarch/Default/MonarchShySex_RL.Default__MonarchShySex_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",9562407547DB97CDA2482285D47741B5"
 msgid "You can have sex with me!"
-msgstr ""
+msgstr "เจ้ามีเซ็กส์กับข้าได้นะ!"
 
 #. Key:	9575F3C94F07BC8A511E8D85F3737E68
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Harpy/Harvest/HarpyHarvest.Default__HarpyHarvest_C.Harvest.Description
@@ -6315,7 +6393,8 @@ msgstr "ของเหลวของนก"
 
 #. Key:	95781B414AAF336B071430A39FC2F698
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(5 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(5 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(5 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",95781B414AAF336B071430A39FC2F698"
 msgid "Esoteric Glade"
 msgstr "บึงลึกลับ"
@@ -6395,7 +6474,7 @@ msgstr "ข้าเคยลิ้มลองทั้งดุ้นและ
 #: /Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(1).Lines
 msgctxt ",96FA042F4830A4781D9FA0874F4705D7"
 msgid "The Goddess wisely placed them there to test your ability."
-msgstr ""
+msgstr "ท่านเทพธิดาประสงค์ที่จะตั้งมันขึ้นมาเพื่อทดสอบท่านน่ะ"
 
 #. Key:	97086CA946BFA31C6199599097E76015
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieButterButtF.Default__CassieButterButtF_C.SessionData.Lines(4).Lines
@@ -6413,7 +6492,8 @@ msgstr "นี่จะทำให้เจ้าสามารถที่จ
 
 #. Key:	97244FB84D6D7CC0273CD3BB89B847D9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",97244FB84D6D7CC0273CD3BB89B847D9"
 msgid "Swift"
 msgstr "คล่องแคล่ว"
@@ -6451,7 +6531,7 @@ msgstr ""
 #: /Game/Dialogue/Monarch/Default/MonarchPrettyButterfly.Default__MonarchPrettyButterfly_C.SessionData.Lines(5).Lines
 msgctxt ",97B89613437939D3F62A4F9364D46263"
 msgid "*Blush*"
-msgstr ""
+msgstr "*อาย*"
 
 #. Key:	97C48C5D4FCF938DF123EA94C35A3858
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(3).Lines
@@ -6500,7 +6580,7 @@ msgstr "ถึงเวลารีดน้ำหรือยังคะ?"
 #: /Game/Dialogue/Parvati/Default/ParvatiHadSex01.Default__ParvatiHadSex01_C.SessionData.Lines(1).Lines
 msgctxt ",982CC755420F84E3E4F0E5A5452A5A48"
 msgid "I want to make love with you, I will not lie."
-msgstr ""
+msgstr "ข้าอยากจะร่วมรักกับเจ้าจริงๆนะ"
 
 #. Key:	985E4BA14797DC7FF94FF4974E66471A
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(6).Lines
@@ -6535,7 +6615,7 @@ msgstr ""
 #: /Game/World/Overworld.Overworld:PersistentLevel.HarpyAviary.ManageActionMessage
 msgctxt ",9948725645B6492AE76EDB8B38DB1C7F"
 msgid "Manage your Harpies"
-msgstr "จัดการกับนก ของคุณ"
+msgstr "จัดการกับพวกนกของคุณ"
 
 #. Key:	99AAA6394A3838FD6FEF1EAA31AD6102
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaGreeting01.Default__LeylannaGreeting01_C.SessionData.Lines(0).Lines
@@ -6619,14 +6699,15 @@ msgstr "โอ้ววว ลำแท่งของเจ้า! ในที
 #: /Game/Dialogue/Kybele/Default/KybeleGreeting01.Default__KybeleGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",9BD2015749AE3D2CD457DDB2CBC112F4"
 msgid "The offspring of the Dragon Matriarch will be protected by any means necessary."
-msgstr ""
+msgstr "ลูกของเจ้าแม่มังกร จะถูกปกป้องโดยทุกวิถีทาง"
 
 #. Key:	9BDBC0EB4511337E7515C89A6620BBA0
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.Lines(3).Lines
+#, fuzzy
 msgctxt ",9BDBC0EB4511337E7515C89A6620BBA0"
 msgid "Come back and drink up anytime."
-msgstr ""
+msgstr "กลับมาดูดอีกได้ตลอดเวลาเลยนะ"
 
 #. Key:	9BF2AD09410781A66302329DB25BA0EC
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot.Default__ParvatiDefault01_Forgot_C.SessionData.Lines(5).Lines
@@ -6645,9 +6726,10 @@ msgstr "วิธีที่เร็วที่สุดคือการม
 #. Key:	9C7CF64D42692442A687709D5C22BB3D
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeLikesPresent.Default__MegaSlimeLikesPresent_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeLikesPresent.Default__MegaSlimeLikesPresent_C.SessionData.Lines(0).Lines
+#, fuzzy
 msgctxt ",9C7CF64D42692442A687709D5C22BB3D"
 msgid "*Sniff*"
-msgstr ""
+msgstr "*ฟุดฟิด*"
 
 #. Key:	9CB6C5E14DD6C412AD7898B8D2120925
 #. SourceLocation:	/Game/UI/TaskDescriptions.TaskDescriptions.TextEntries(8).TextEntries
@@ -6675,7 +6757,7 @@ msgstr ""
 #: /Game/Dialogue/Kybele/Default/KybeleDefault01_RL.Default__KybeleDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
 msgctxt ",9DCE82F542FEDB443D7432A9C8EE7AF6"
 msgid "By any means necessary..."
-msgstr ""
+msgstr "ทุกวิถีทางเลยล่ะ..."
 
 #. Key:	9E0F2A7F4F6510D820FB12BE4580D421
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_EnlightenedOne.Default__NeelaDefault01_EnlightenedOne_C.SessionData.Lines(3).Lines
@@ -6710,18 +6792,19 @@ msgstr ""
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(7).ResponseData.BreederPrompt
 msgctxt ",9E8424C246BEBF834649DAABF8B5CD18"
 msgid "How do I open the stone gates?"
-msgstr ""
+msgstr "ข้าจะเปิดประตูนั่นได้อย่างไรเหรอ?"
 
 #. Key:	9E8C52C446FF788D61D6B98D9189D88D
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",9E8C52C446FF788D61D6B98D9189D88D"
 msgid "Maybe between my fat ass cheeks?"
-msgstr ""
+msgstr "หรือจะเป็นตรงแก้มก้นของข้าดีล่ะ?"
 
 #. Key:	9ECA418E4EC2E9617CD48B82C43CB5FA
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 -
+#: Value).TraitIcons.HelpText
 msgctxt ",9ECA418E4EC2E9617CD48B82C43CB5FA"
 msgid "Huge: Roughly 10ft in height."
 msgstr "ใหญ่: สูงราว 10ฟุต"
@@ -6738,7 +6821,7 @@ msgstr ""
 #: /Game/World/Overworld.Overworld:PersistentLevel.FormurianPond.ManageActionMessage
 msgctxt ",9EEFE8B54303A99BB5053CA7F7960A23"
 msgid "Manage your Formurians"
-msgstr "จัดการกับสัตว์น้ำ ของคุณ"
+msgstr "จัดการกับพวกสัตว์น้ำของคุณ"
 
 #. Key:	9F2120194C14A491202338AEB2C05883
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieHadSex01.Default__CassieHadSex01_C.SessionData.LinesToFuta(5).LinesToFuta
@@ -6749,14 +6832,16 @@ msgstr ""
 
 #. Key:	9F25BEB847378BA942933C8A503B4F1A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 -
+#: Value).TraitIcons.HelpText
 msgctxt ",9F25BEB847378BA942933C8A503B4F1A"
 msgid "Swift: Dexterity reduces lust cost of actions as a percentage."
 msgstr "คล่องแคล่ว: ช่วยลดค่าความหื่นกระหายที่ต้องใช้ลง"
 
 #. Key:	9F83DE504D98E2D4C149568C1F8DE768
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 -
+#: Value).TraitIcons.HelpText
 msgctxt ",9F83DE504D98E2D4C149568C1F8DE768"
 msgid "Massive: Roughly 15ft in height."
 msgstr "มหึมา: สูงราว 15ฟุต"
@@ -6822,7 +6907,7 @@ msgstr "โอ้ ตายจริง! ข้ายังไม่ได้แ
 #: /Game/Dialogue/Leylanna/Default/LeylannaOldTempleDungeon.Default__LeylannaOldTempleDungeon_C.SessionData.Lines(3).Lines
 msgctxt ",A084B03140D9C320BD31DCA76ED4873F"
 msgid "There's something under this temple?"
-msgstr ""
+msgstr "มีอะไรอยู่ใต้วิหารนี้ด้วยเหรอเนี่ย?"
 
 #. Key:	A0B0E60C4AD4856B54C5298236CC5BC3
 #. SourceLocation:	/Game/Ranch/Upgrades/MuttHut.Default__MuttHut_C.Upgrade.DisplayName
@@ -6883,6 +6968,7 @@ msgstr "ข้าต้องไปแล้วล่ะ โชคดีนะ!"
 #. Key:	A2EE900942F55DC4C6AA92BC44E482E4
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R03.Default__CamillaDefault01_R03_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R03.Default__CamillaDefault01_R03_C.SessionData.Lines(2).Lines
+#, fuzzy
 msgctxt ",A2EE900942F55DC4C6AA92BC44E482E4"
 msgid "Most dicks in this world are larger than me! As someone who collects and studies cum, you can't imagine how miserable it is stroking dick after dick and never being able to feel them penetrate me."
 msgstr "ดุ้นในโลกนี้ส่วนมาก ใหญ่กว่าตัวข้าซะอีกนะ! ในฐานะที่เป็นคนรวบรวมน้ำว่าวแล้วเอาไปศึกษา, เจ้าต้องนึกไม่ออกแน่เลยว่า มันน่าสมเพชแค่ไหนที่ไม่สามารถรู้สึกได้ว่ามันเสียบเข้ามาในตัวข้า"
@@ -6938,7 +7024,8 @@ msgstr ""
 
 #. Key:	A4C22B3045E8159B66E47CB636E23172
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",A4C22B3045E8159B66E47CB636E23172"
 msgid "Nurturing"
 msgstr "อุดมสมบูรณ์"
@@ -6976,7 +7063,7 @@ msgstr "นั่นแหละที่ข้าเป็น"
 #: /Game/Dialogue/Mirru/Default/MirruGreeting01.Default__MirruGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",A6DD5AA2419F165755885E8ED44BB09B"
 msgid "You are lucky, for today you have crossed paths with the Kraken princess of Formuria."
-msgstr ""
+msgstr "เจ้าโชคดีนะ ที่วันนี้เดินมาเจอกับเจ้าหญิงคราเคนแห่งท้องทะเล"
 
 #. Key:	A6EE239344DA6CC08AFE6E8689A1996F
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(1).Lines
@@ -7088,14 +7175,14 @@ msgstr "ท่ามิชชันแนรี"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_RL.Default__CamillaDefault01_RL_C.ResponseData(7).ResponseData.BreederPrompt
 msgctxt ",A926E381450A057D1E6C1598ABA5B917"
 msgid "About that dungeon over there..."
-msgstr ""
+msgstr "ถามเรื่องลูกบอล..."
 
 #. Key:	A931FB674A22AA9E31C00B9F0762AF5C
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleDefault01_RL.Default__KybeleDefault01_RL_C.ResponseData(5).ResponseData.BreederPrompt
 #: /Game/Dialogue/Kybele/Default/KybeleDefault01_RL.Default__KybeleDefault01_RL_C.ResponseData(5).ResponseData.BreederPrompt
 msgctxt ",A931FB674A22AA9E31C00B9F0762AF5C"
 msgid "Too much information... now, the keystone."
-msgstr ""
+msgstr "เยี่ยมไปเลย... ทีนี้ ขอกุญแจให้ข้าได้รึยัง"
 
 #. Key:	A97AEF8E47499B2AEB627CAE711C36BC
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow_StartSplinters.Default__CassieDefault01_Meow_StartSplinters_C.SessionData.Lines(0).Lines
@@ -7165,7 +7252,7 @@ msgstr ""
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Crag.PlaceMessage
 msgctxt ",AB33AE4E444B3C498B0DFF9C8B60192F"
 msgid "Moaning Crag is now accessible."
-msgstr ""
+msgstr "สามารถไปยังผาเสียงครางได้แล้ว"
 
 #. Key:	AB9D2C374B19A9E1B3E16E8EF742C9C8
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01.Default__EmissaryDefault01_C.SessionData.Lines(1).Lines
@@ -7277,7 +7364,7 @@ msgstr "ถ้าเจ้าโดนเซ็กส์แบบกระทั
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(29).LinesToFemale
 msgctxt ",AE61589245BE1F5DEB7163B4C2AD2756"
 msgid "A world of sex and adventures awaits!"
-msgstr "โลกแห่งเซ็กส์ และการผจญภัย รอคุณอยู่!"
+msgstr "โลกแห่งเซ็กส์ และการผจญภัย รอเจ้าอยู่นะ!"
 
 #. Key:	AE9DC6E246625CE553B669ADBD1EB570
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow_RL_F.Default__CassieDefault01_Meow_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
@@ -7312,18 +7399,19 @@ msgstr "เจ้าคือเจ้าถิ่นที่ หรือจ�
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeSad_RL.Default__MegaSlimeSad_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",AF5E23FC4ED6AD9A92E6E98CE8F2080F"
 msgid "Uh... are you alright?"
-msgstr ""
+msgstr "เอ่อ... เจ้าเป็นอะไรมั้ย?"
 
 #. Key:	AF6126694453EEB0A7AA7787649EC605
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",AF6126694453EEB0A7AA7787649EC605"
 msgid "Perhaps you would like to stick that dick in my sparkly elf pussy? Ahhh I would love that..."
-msgstr ""
+msgstr "เหมือนว่าเจ้าจะอยากเอาดุ้นเสียบเข้ามันในร่องของข้าใช่ไหมล่ะ? ข้าล่ะอย่างชอบเลยล่ะ..."
 
 #. Key:	AFBF754C422E5E00DF8BB7A37B956DFB
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 -
+#: Value).TraitIcons.HelpText
 msgctxt ",AFBF754C422E5E00DF8BB7A37B956DFB"
 msgid "Divergent: Offspring have a chance to generate a random trait upon being summoned."
 msgstr "แตกต่าง: ลูกที่ออกมา มีโอกาสที่จะสุ่มลักษณะที่แตกต่างจากสายพันธุ์ตน"
@@ -7337,7 +7425,8 @@ msgstr "พวก@MONSTER_RACE@ ก็คือ พวกตัวที่เ�
 
 #. Key:	B088E0624E17857FAE8AE4B893251DA2
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",B088E0624E17857FAE8AE4B893251DA2"
 msgid "Hominal"
 msgstr "เชื้อมนุษย์"
@@ -7368,7 +7457,7 @@ msgstr "ใช่แล้วล่ะ @BREEDER_NAME@"
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay1.Default__MegaSlimePlay1_C.SessionData.LinesToFuta(5).LinesToFuta
 msgctxt ",B146211A43E4F159EC3A0C85790314DD"
 msgid "Well what are you waiting for? Come on in!"
-msgstr ""
+msgstr "เจ้ารออะไรอยู่ล่ะ? มานี่สิ!"
 
 #. Key:	B16A16AD4DAD11735CC38DBC5E9237B1
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToFuta(1).LinesToFuta
@@ -7414,7 +7503,8 @@ msgstr ""
 
 #. Key:	B20F5D9040267E77436A9B94B5F68150
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",B20F5D9040267E77436A9B94B5F68150"
 msgid "Gaudy"
 msgstr "ฉูดฉาด"
@@ -7443,9 +7533,10 @@ msgstr "ฮิๆ บลอสซัม รักท่านนะคะ!"
 #. Key:	B2DF6AC642DDC3C552F43290DCBE4EA7
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(1).LinesToFuta
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(1).LinesToFuta
+#, fuzzy
 msgctxt ",B2DF6AC642DDC3C552F43290DCBE4EA7"
 msgid "A human! A super cute human... this is my lucky day. I've been waiting for this phenomenon for... huh. Well as long as I can remember!"
-msgstr ""
+msgstr "มนุยษ์! มนุษย์นี่นา! มนุษย์แสนน่ารัก... โชคดีของข้าจังเลยวันนี้ "
 
 #. Key:	B2E660614B8D73E10C0B2194E4C87529
 #. SourceLocation:	/Game/Ranch/Upgrades/HarpyAviary.Default__HarpyAviary_C.Upgrade.DisplayName
@@ -7470,7 +7561,8 @@ msgstr ""
 
 #. Key:	B3953BA1451F630DE2CF019EB4CB6A69
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",B3953BA1451F630DE2CF019EB4CB6A69"
 msgid "Valuable"
 msgstr "มีค่า"
@@ -7501,7 +7593,7 @@ msgstr ""
 #: /Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",B40913204435868CB2B615986906CFE4"
 msgid "I've taken advantage of that massive cock many times."
-msgstr ""
+msgstr "ข้าจะใช้ดุ้นแน่นๆนั่น จนลีบเลย"
 
 #. Key:	B40DA93F4D87A08B36AB2198B2D523AF
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiHadSex01.Default__ParvatiHadSex01_C.SessionData.Lines(2).Lines
@@ -7564,7 +7656,7 @@ msgstr ""
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(5).LinesToFemale
 msgctxt ",B5E173FA45294C4DE256EF836668F092"
 msgid "Both?"
-msgstr ""
+msgstr "หรือจะทั้งสองที่เลยดีล่ะ?"
 
 #. Key:	B5F3B5B2436545B9AAC067B451FA7563
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchQueen.Default__MonarchQueen_C.SessionData.Lines(2).Lines
@@ -7585,7 +7677,7 @@ msgstr ""
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Cove.PlaceMessage
 msgctxt ",B63337A041FFD99C138E44AB261A71CE"
 msgid "Cove of Rapture is now accessible."
-msgstr ""
+msgstr "สามารถไปยังอ่าวแห่งความปลาบปลื้มได้แล้ว"
 
 #. Key:	B685468D40290FF6E84B0D812D2A7F2F
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaGreeting01.Default__CamillaGreeting01_C.SessionData.Lines(2).Lines
@@ -7638,7 +7730,8 @@ msgstr ""
 
 #. Key:	B7AB851641C9ABEE4A178B9DFFD50B0B
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",B7AB851641C9ABEE4A178B9DFFD50B0B"
 msgid "Hybrid"
 msgstr "ลูกผสม"
@@ -7659,7 +7752,8 @@ msgstr ""
 
 #. Key:	B7DDB984480E5280CB46B69238C0654E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 -
+#: Value).TraitIcons.HelpText
 msgctxt ",B7DDB984480E5280CB46B69238C0654E"
 msgid "Chubby: This one has more body fat."
 msgstr "จ้ำม่ำ: ร่างกายมีไขมันเยอะ"
@@ -7690,7 +7784,7 @@ msgstr ""
 #: /Game/Dialogue/Monarch/Default/MonarchGreeting01.Default__MonarchGreeting01_C.SessionData.Lines(3).Lines
 msgctxt ",B8297A054AB04B137F3266B6480756F5"
 msgid "I'm here to collect nectar for our queen."
-msgstr ""
+msgstr "ข้ามาที่นี่เพื่อเก็บน้ำหวานกลับไปให้ราชินีน่ะ"
 
 #. Key:	B82A33C04616825E1FC07F99415D421D
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(1).ResponseData.BreederPrompt
@@ -7725,7 +7819,7 @@ msgstr "การท้องมันไม่สมเหตุสมผลเ
 #: /Game/Dialogue/Monarch/Default/MonarchHaveKeystone.Default__MonarchHaveKeystone_C.SessionData.Lines(1).Lines
 msgctxt ",B8579E3C4F6006CC5CA3CF899F4C6E39"
 msgid "Can y-y-you help me first?"
-msgstr ""
+msgstr "จ จ เจ้าช่วยอะไรข้าก่อนได้ไหม?"
 
 #. Key:	B85AAF9E46DEE4DCD0E942BEAB518960
 #. SourceLocation:	/Game/Breeding/Positions/Butterfly.Default__Butterfly_C.SessionData.Description
@@ -7744,16 +7838,17 @@ msgstr "..."
 #. Key:	B89AB95C43AA6DC8279A10A4ECA0DD22
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeAboutOrb.Default__MegaSlimeAboutOrb_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeAboutOrb.Default__MegaSlimeAboutOrb_C.SessionData.Lines(2).Lines
+#, fuzzy
 msgctxt ",B89AB95C43AA6DC8279A10A4ECA0DD22"
 msgid "After being down here alone for so long, I had forgotten what it was like to speak with someone."
-msgstr ""
+msgstr "หลังจากที่แม่นางนั่นลงมา ข้าก็ลืมไปเลยว่าการได้คุยกับคนอื่นมันเป็นยังไง"
 
 #. Key:	B8C3F96E4BB231CDD5684BA134FF69CB
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToFuta(1).LinesToFuta
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",B8C3F96E4BB231CDD5684BA134FF69CB"
 msgid "Your cock was so big, I didn't think I could take all of it."
-msgstr ""
+msgstr "ดุ้นของเจ้ามันช่างใหญ่เหลือเกิน ข้าไม่คิดว่าจะรับมันไหวนะ"
 
 #. Key:	B8D3474E436959F3B7C140BFE42CF3C0
 #. SourceLocation:	/Game/Breeding/Positions/Doggy.Default__Doggy_C.SessionData.Description
@@ -7816,7 +7911,7 @@ msgstr "หรือถ้าเจ้า"
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay.Default__MegaSlimePlay_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",BB111DD44D5B70DED7DD519DD967FEC8"
 msgid "Really?! These truly are the best days of my life!"
-msgstr ""
+msgstr "จริงเหรอ?! นี่เป็นวันที่ดีที่สุดในชีวิตของข้าเลย!"
 
 #. Key:	BB8503A14E015AEDED4E1C866261B05C
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHowLong.Default__MegaSlimeHowLong_C.SessionData.Lines(3).Lines
@@ -7954,9 +8049,10 @@ msgstr ""
 #. Key:	BED6E4EB4536C7A1E1D8EF8C6FA3F149
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(3).Lines
+#, fuzzy
 msgctxt ",BED6E4EB4536C7A1E1D8EF8C6FA3F149"
 msgid "But beware, other blessed @MONSTER_RACE@ have collected the keystones over the years."
-msgstr ""
+msgstr "แต่ระวังด้วยนะ พวก@MONSTER_RACE@ประเสริฐเป็นผู้เก็บมันไว้หลายปีแล้ว"
 
 #. Key:	BEDA154E4410DE62211DBFA48872ED35
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchHadSex01.Default__MonarchHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -7982,9 +8078,10 @@ msgstr "ปีศาจ"
 #. Key:	BF7F7E1041AD5B8267C70694F83985F6
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R03.Default__CamillaDefault01_R03_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R03.Default__CamillaDefault01_R03_C.SessionData.Lines(0).Lines
+#, fuzzy
 msgctxt ",BF7F7E1041AD5B8267C70694F83985F6"
 msgid "Meh... you're just another one of those who thinks I'm cute because I'm small!"
-msgstr ""
+msgstr "เห้อ... เจ้าก็เป็นแค่คนอีกคนที่มองว่าข้าน่ารัก เพราะข้าตัวเล็ก!"
 
 #. Key:	BFA3EA894BDCD8476E3C3E83125BF435
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(3).Lines
@@ -7995,7 +8092,8 @@ msgstr ""
 
 #. Key:	BFCA3659420358C2CFA5B5B426282E9A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 -
+#: Value).TraitIcons.HelpText
 msgctxt ",BFCA3659420358C2CFA5B5B426282E9A"
 msgid "Debauched: Offspring have a 20% chance to ignore the negative impacts of inbreeding."
 msgstr "สำส่อน: ลูกที่เกิดมา มีโอกาส20% ที่จะไม่ได้รับผลกระทบจากการสืบสายเลือดเดียวกัน"
@@ -8040,7 +8138,7 @@ msgstr "พวกเราเคย... เอ่อ... พบกันมาก�
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",C156402F4738F87B9C9392A5443BE29F"
 msgid "You are unique in this world, for all other living things, myself included, are @MONSTER_RACE@. We are merely half human, crossed with... something else."
-msgstr "เจ้าเป็นสิ่งที่ไม่เหมือนใครในโลกนี้ สิ่งมีชีวิตอื่นๆรวมถึงข้านั้นเป็นพวก@MONSTER_RACE@ พวกข้านั้นเป็นแค่สัตว์ครึ่งมนุษย์ครึ่ง... อะไรสักอย่างนึง..."
+msgstr "เจ้าเป็นสิ่งที่ไม่เหมือนใครในโลกนี้ สิ่งมีชีวิตอื่นๆรวมถึงข้านั้นเป็นพวก@MONSTER_RACE@ พวกข้านั้นเป็นแค่ครึ่งสัตว์ครึ่งมนุษย์... "
 
 #. Key:	C18558714C7A7B697778D68CFD03FAF0
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(4).Lines
@@ -8110,7 +8208,7 @@ msgstr "ท่าLap Dance"
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeLikesPresent.Default__MegaSlimeLikesPresent_C.SessionData.Lines(5).Lines
 msgctxt ",C38FF14A44AD68B06D904480EECFAC58"
 msgid "*Sobbing*"
-msgstr ""
+msgstr "*ร้องไห้*"
 
 #. Key:	C45BFAF14EABF8D1BD3502825C5C1560
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(1).Lines
@@ -8145,7 +8243,7 @@ msgstr "ถอดเสื้อเจ้าซะ เจ้าต้องเ�
 #: /Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(1).Lines
 msgctxt ",C4C596ED4DE277B929ABDDB01255A79B"
 msgid "Meow... no one has been down there for as long as I remember."
-msgstr ""
+msgstr "เมี๊ยว... ไม่มีใครลงไปที่นั่นหลายปีแล้วนะ เท่าที่ข้าจำได้"
 
 #. Key:	C4F4ECA34FB62457AF54C48B18A75686
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01.Default__EmissaryDefault01_C.SessionData.Lines(2).Lines
@@ -8164,9 +8262,10 @@ msgstr "สัตว์น้ำ"
 #. Key:	C5113B72490FFD8142C52EBDED0B4656
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.Lines(0).Lines
+#, fuzzy
 msgctxt ",C5113B72490FFD8142C52EBDED0B4656"
 msgid "Oh the songs of pleasure we sang, how good they felt."
-msgstr ""
+msgstr "เพลงแห่งความสุขที่พวกเราร้องกัน"
 
 #. Key:	C52FEFD44780735A14B2A78C9F57D862
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(6).LinesToFemale
@@ -8180,35 +8279,35 @@ msgstr ""
 #: /Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(4).Lines
 msgctxt ",C544F8824FC4DDC6DBEFE084C3987F32"
 msgid "How I miss the old days."
-msgstr ""
+msgstr "คิดถึงวันเก่าๆจังเลย"
 
 #. Key:	C55370A04CAE38FD1D15A9AC46E99FBD
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToFemale(2).LinesToFemale
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",C55370A04CAE38FD1D15A9AC46E99FBD"
 msgid "If you... uh... ever get desperate again, you know where to find me!"
-msgstr ""
+msgstr "ถ้าเจ้า... เอ่อ... รู้สึกหมดหวัง รู้ใช่ไหมว่าหาข้าได้ที่ไหน!"
 
 #. Key:	C5A392E248451A7506C787B6B7724091
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaOldTempleDungeon1.Default__LeylannaOldTempleDungeon1_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Leylanna/Default/LeylannaOldTempleDungeon1.Default__LeylannaOldTempleDungeon1_C.SessionData.Lines(1).Lines
 msgctxt ",C5A392E248451A7506C787B6B7724091"
 msgid "Ahhhh..."
-msgstr ""
+msgstr "อ่าาห์..."
 
 #. Key:	C5CEDF194D3B59C00FF3338949A33FDE
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleHaveKeystone2.Default__KybeleHaveKeystone2_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Kybele/Default/KybeleHaveKeystone2.Default__KybeleHaveKeystone2_C.SessionData.Lines(0).Lines
 msgctxt ",C5CEDF194D3B59C00FF3338949A33FDE"
 msgid "A deal is a deal, take it."
-msgstr ""
+msgstr "ตามที่ตกลงกันไว้, เอาไปสิ"
 
 #. Key:	C5E724D9440EB6AC1E01458A6325FC39
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R02.Default__FernDefault01_R02_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02.Default__FernDefault01_R02_C.SessionData.Lines(1).Lines
 msgctxt ",C5E724D9440EB6AC1E01458A6325FC39"
 msgid "Me like this name Fern. Hiss!"
-msgstr "ฉันชอบชื่อ เฟิร์น นะ ฮิๆ!"
+msgstr "ข้าชอบชื่อ เฟิร์น นะ ฮิๆ!"
 
 #. Key:	C5F9CCA94803FF5DA8A42E947B60C68D
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(12).LinesToMale
@@ -8241,9 +8340,10 @@ msgstr ""
 #. Key:	C6B18EAC4E513704AB264E9A875521FB
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyLockedDungeon.Default__RomyLockedDungeon_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Romy/Default/RomyLockedDungeon.Default__RomyLockedDungeon_C.SessionData.Lines(1).Lines
+#, fuzzy
 msgctxt ",C6B18EAC4E513704AB264E9A875521FB"
 msgid "A very sad song radiates from within..."
-msgstr ""
+msgstr "ข้าได้ยินเพลงแห่งความโศกเศร้า ออกมาจากข้างในนั้น..."
 
 #. Key:	C6D9B8644431D431610683A58FC57B84
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToMale(6).LinesToMale
@@ -8275,7 +8375,8 @@ msgstr "มาเติมพลังให้วิญญาณเจ้าป
 
 #. Key:	C7BA93A840AB5FA97F357E802955A851
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",C7BA93A840AB5FA97F357E802955A851"
 msgid "Exotic"
 msgstr "แปลกใหม่"
@@ -8290,9 +8391,10 @@ msgstr "นางจะสอนเจ้าเกี่ยวกับท่า
 #. Key:	C933962A4C5DD7F022D428AEE50FE2C0
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeDefault01_RL.Default__MegaSlimeDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeDefault01_RL.Default__MegaSlimeDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
+#, fuzzy
 msgctxt ",C933962A4C5DD7F022D428AEE50FE2C0"
 msgid "I want to play in your slime again!"
-msgstr ""
+msgstr "ข้าอยากจะเล่นกับเจ้าอีกครั้งน่ะ!"
 
 #. Key:	C93F66124DFE84936731BDBDEB0840B9
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_SexPositions.Default__FaleneDefault01_SexPositions_C.SessionData.Lines(2).Lines
@@ -8317,7 +8419,8 @@ msgstr "ข้ารู้ว่าเจ้าจำอะไรก่อนห
 
 #. Key:	C9DFA1EB40C3BF78D4B015AC82833310
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",C9DFA1EB40C3BF78D4B015AC82833310"
 msgid "Normal Size"
 msgstr "ขนาดปกติ"
@@ -8374,9 +8477,10 @@ msgstr "จินตนาการถึงที่ที่เจ้าจะ
 #. Key:	CBF60252404E432514F2A08225E15D38
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(1).Lines
+#, fuzzy
 msgctxt ",CBF60252404E432514F2A08225E15D38"
 msgid "Of course, as soon as she appeared we made love... for many hours. Well I made love to her... she was sadly not so interested."
-msgstr "แน่นอนสิ ทันทีที่เรามีอะไรกัน... หลายชั่วโมง ข้าก็จะไปทำมีอะไรกับแม่นางฟ้านั่น... นางเศร้าที่นางไม่น่าสนใจ"
+msgstr "แน่นอนสิ ทันทีที่เรามีอะไรกัน... หลายชั่วโมง ข้าก็จะไปทำมีอะไรกับแม่นางฟ้านั่น... นางเศร้าที่นางไม่เป็นที่น่าสนใจ"
 
 #. Key:	CCBDEE9E4366EC8D550F4DB7D8C546F8
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaFaleneWeek.Default__CamillaFaleneWeek_C.SessionData.Lines(4).Lines
@@ -8429,7 +8533,8 @@ msgstr "ข้าสามารถสร้างอะไรก็ได้ท
 
 #. Key:	CE50C843466352316F4461BC2722C00E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 -
+#: Value).TraitIcons.HelpText
 msgctxt ",CE50C843466352316F4461BC2722C00E"
 msgid "Nurturing: Offspring inherit 20% higher stats."
 msgstr "อุดมสมบูรณ์: ลูกที่ออกมา จะมีค่าสถานะเพิ่มขึ้น 20%"
@@ -8527,7 +8632,8 @@ msgstr ""
 
 #. Key:	D066439244AFE855B06F90AB1A4A0829
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(8 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(8 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(8 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",D066439244AFE855B06F90AB1A4A0829"
 msgid "Sultry Plateau"
 msgstr "ที่ราบสูง เขตร้อน"
@@ -8535,9 +8641,10 @@ msgstr "ที่ราบสูง เขตร้อน"
 #. Key:	D0AFE2FE43D96C0225B202A9DF9DC0CB
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleHadSex01.Default__KybeleHadSex01_C.SessionData.LinesToFemale(2).LinesToFemale
 #: /Game/Dialogue/Kybele/Default/KybeleHadSex01.Default__KybeleHadSex01_C.SessionData.LinesToFemale(2).LinesToFemale
+#, fuzzy
 msgctxt ",D0AFE2FE43D96C0225B202A9DF9DC0CB"
 msgid "You paid the price, now you are filled with a giant load of centaur cum."
-msgstr ""
+msgstr "คราวนี้ เจ้าต้องโดนหนักหน่อยนะ ตอนนี้จะถูกน้ำมหาศาลฉีดเข้าไปในตัวเจ้า"
 
 #. Key:	D0D371BB447B4CD8A5A17682F596B922
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDungeon.Default__CamillaDungeon_C.SessionData.Lines(0).Lines
@@ -8555,14 +8662,16 @@ msgstr ""
 
 #. Key:	D0FA90CC4E9378DF7150FB881B18DC60
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 -
+#: Value).TraitIcons.HelpText
 msgctxt ",D0FA90CC4E9378DF7150FB881B18DC60"
 msgid "Normal: Roughly 6ft in height."
 msgstr "ทั่วไป: สูงราว 6ฟุต"
 
 #. Key:	D15AF6D44FBD9FB7572622AE572A21D7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 -
+#: Value).TraitIcons.HelpText
 msgctxt ",D15AF6D44FBD9FB7572622AE572A21D7"
 msgid "Hybrid: This one is a mix of two races."
 msgstr "ลูกผสม: ผสมผสานระหว่าง2สายพันธุ์"
@@ -8577,16 +8686,17 @@ msgstr "เจ้าคือ... เจ้าแห่งแดนบนบก�
 #. Key:	D177C30A4E176DA263EBCDB1F6E13158
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeGreeting01.Default__MegaSlimeGreeting01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeGreeting01.Default__MegaSlimeGreeting01_C.SessionData.Lines(0).Lines
+#, fuzzy
 msgctxt ",D177C30A4E176DA263EBCDB1F6E13158"
 msgid "Wow a visitor!"
-msgstr ""
+msgstr "ว้าว! มีคนมาหาด้วยล่ะ!"
 
 #. Key:	D18F5F504013858974D982AA49D9035F
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(13).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(13).Lines
 msgctxt ",D18F5F504013858974D982AA49D9035F"
 msgid "I'm fighting that urge right now..."
-msgstr ""
+msgstr "ข้าก็กำลังข่มความหวั่นไหว ที่ก่อตัวในใจอยู่น่ะ..."
 
 #. Key:	D1984E71418CEF4F3D39AC911B217790
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(1).Lines
@@ -8635,21 +8745,22 @@ msgstr "ข้าคือ คามิลลา! ผู้ช่วยตัว
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeDefault01_RL.Default__MegaSlimeDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",D2F9DD5648274637A18B9A8777C5CF03"
 msgid "About that orb..."
-msgstr ""
+msgstr "ถามเรื่องลูกบอล..."
 
 #. Key:	D320A28645DC907082F6169F08223AA5
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault02.Default__CamillaDefault02_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Camilla/Default/CamillaDefault02.Default__CamillaDefault02_C.SessionData.Lines(0).Lines
 msgctxt ",D320A28645DC907082F6169F08223AA5"
 msgid "Oh great Falene is back."
-msgstr ""
+msgstr "โอ้วเยี่ยมไปเลย เฟลินน์กลับมาแล้ว"
 
 #. Key:	D395A99C4C2FAC4029FBE0A0AACFDE16
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(3).Lines
+#, fuzzy
 msgctxt ",D395A99C4C2FAC4029FBE0A0AACFDE16"
 msgid "The Goddess smiles upon her, and she will remain as high priestess."
-msgstr ""
+msgstr "ท่านเทพธิดาทรงยิ้มให้กับนาง และนางก็ยังคงเป็นนักบวชหญิง"
 
 #. Key:	D3E9009E43E0327FC24371950104BD21
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(18).LinesToFemale
@@ -8716,7 +8827,8 @@ msgstr ""
 
 #. Key:	D535E0D84F73A7E07CA72DA2ED4F1B11
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 -
+#: Value).TraitIcons.HelpText
 msgctxt ",D535E0D84F73A7E07CA72DA2ED4F1B11"
 msgid "Meaty: Strength raises the XP granted to mates when breeding as a percentage."
 msgstr "แน่นเนื้อ: เพิ่มค่าประสบการณ์ให้กับคู่ที่ร่มรักด้วย"
@@ -8817,7 +8929,7 @@ msgstr ""
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay.Default__MegaSlimePlay_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",D720325F44DF14DB1473D0A78512EB8E"
 msgid "Well what are you waiting for? Come on in!"
-msgstr ""
+msgstr "เจ้ารออะไรอยู่ล่ะ? มานี่สิ!"
 
 #. Key:	D75F1B6640E7E50789CBE7B4CBEE0FF3
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -8831,7 +8943,7 @@ msgstr ""
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeAboutOrb_RL.Default__MegaSlimeAboutOrb_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",D76798CF4DCADF9AF42C6B88C36E27FB"
 msgid "This won't be easy..."
-msgstr ""
+msgstr "นี่คงจะยากหน่อยนะ..."
 
 #. Key:	D79654914AB8CE6E58B5A28BDCFB3EBC
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeSlimesMade.Default__MegaSlimeSlimesMade_C.SessionData.LinesToMale(5).LinesToMale
@@ -8878,30 +8990,31 @@ msgstr "ดูดอกไม้สวยๆของข้าสิ มัน�
 #. Key:	D8048E504EF52CFA3D3F618130F77DB0
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleRideYou_RL.Default__KybeleRideYou_RL_C.ResponseData(0).ResponseData.BreederPrompt
 #: /Game/Dialogue/Kybele/Default/KybeleRideYou_RL.Default__KybeleRideYou_RL_C.ResponseData(0).ResponseData.BreederPrompt
+#, fuzzy
 msgctxt ",D8048E504EF52CFA3D3F618130F77DB0"
 msgid "Aww what an adorable titty pony."
-msgstr ""
+msgstr "งื้ออ ช่างเป็นม้าน้อยที่น่ารักซะจริง"
 
 #. Key:	D857E31D47711B85E634029A4E3EB6E7
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.CBGate_Breaks.PlaceMessage
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Breaks.PlaceMessage
 msgctxt ",D857E31D47711B85E634029A4E3EB6E7"
 msgid "Virgin Breaks is now accessible."
-msgstr ""
+msgstr "สามารถไปยังหุบเขาเปิดบริสุทธิ์ได้แล้ว"
 
 #. Key:	D8702B7C4C5E95A9D843A79FCFBFB106
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeVerySad.Default__MegaSlimeVerySad_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeVerySad.Default__MegaSlimeVerySad_C.SessionData.Lines(0).Lines
 msgctxt ",D8702B7C4C5E95A9D843A79FCFBFB106"
 msgid "*Sniff*"
-msgstr ""
+msgstr "*ฟุดฟิด*"
 
 #. Key:	D87AAD604344FB1EAE2D0F9DCC51E7EA
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleHaveKeystone2.Default__KybeleHaveKeystone2_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Kybele/Default/KybeleHaveKeystone2.Default__KybeleHaveKeystone2_C.SessionData.Lines(1).Lines
 msgctxt ",D87AAD604344FB1EAE2D0F9DCC51E7EA"
 msgid "But don't tell the Dragon Matriarch!"
-msgstr ""
+msgstr "แต่อย่าได้บอกเจ้าแม่มังกรเชียวนะ!"
 
 #. Key:	D8A6098049B17D17442735B4FDBAB323
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_FutaBalls.Default__FaleneDefault01_FutaBalls_C.SessionData.Lines(2).Lines
@@ -8922,7 +9035,7 @@ msgstr ""
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeDefault01_RL.Default__MegaSlimeDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",D8F0F94A480E7784CAF965A42BDDDC9A"
 msgid "How are slimes made?"
-msgstr ""
+msgstr "สไลม์เกิดมาได้ยังไงเหรอ?"
 
 #. Key:	D8F23CE1423B47137E2603AC9C522535
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(4).Lines
@@ -8940,7 +9053,8 @@ msgstr ""
 
 #. Key:	D913C6254D30AA08E8B01787AE3D1B68
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",D913C6254D30AA08E8B01787AE3D1B68"
 msgid "Hivelands"
 msgstr "ดินแดนวิหค"
@@ -9004,9 +9118,10 @@ msgstr "เข้ามาในอ้อมกอดข้าสิ"
 #. Key:	DA2AFA94407EDEA10F42C4A25864E68E
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(6).Lines
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(6).Lines
+#, fuzzy
 msgctxt ",DA2AFA94407EDEA10F42C4A25864E68E"
 msgid "You buy semen from me! I am a first class cum alchemist, and no one knows more about it!"
-msgstr "เจ้าต้องมาซื้อน้ำขาวขุ่นที่ข้านะ! ข้าคือนักขายน้ำขาวขุ่นอันดับหนึ่ง ไม่มีใครจะรู้ดีไปกว่านี้อีกแล้ว!"
+msgstr "เจ้ามาซื้อน้ำขาวขุ่นที่ข้าได้นะ! ข้าคือนักขายน้ำขาวขุ่นอันดับหนึ่ง ไม่มีใครจะรู้ดีไปกว่านี้อีกแล้ว!"
 
 #. Key:	DA8A389840F92C11D80A20A1593273B7
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R01.Default__FernDefault01_R01_C.SessionData.Lines(1).Lines
@@ -9048,7 +9163,7 @@ msgstr "ฉันช่วยคุณเก็บของเหลวจาก
 #: /Game/Dialogue/Monarch/Default/MonarchGreeting01.Default__MonarchGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",DB0CF562471898C2200245955791C3B9"
 msgid "What brings you here?"
-msgstr ""
+msgstr "อะไรนำพาเจ้ามาที่นี่เนี่ย?"
 
 #. Key:	DB15AC1342DDCD7D060351944CB369E4
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(2).Lines
@@ -9083,7 +9198,7 @@ msgstr ""
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R03_RL.Default__CamillaDefault01_R03_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",DB49BD62447CAE7EAA40869818522E59"
 msgid "Aww. I'm no Titan but..."
-msgstr "ฉันไม่ใช่ยักษ์หรอกนะ แต่ว่า..."
+msgstr "ข้าไม่ใช่ยักษ์หรอกนะ แต่ว่า..."
 
 #. Key:	DB69E46B4983BD0EAA6594BCFCD514ED
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernGreeting01.Default__FernGreeting01_C.SessionData.Lines(0).Lines
@@ -9130,9 +9245,10 @@ msgstr ""
 #. Key:	DC3FF6AD41D27D03E1D980BAD76F4897
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleHadSex01.Default__KybeleHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 #: /Game/Dialogue/Kybele/Default/KybeleHadSex01.Default__KybeleHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
+#, fuzzy
 msgctxt ",DC3FF6AD41D27D03E1D980BAD76F4897"
 msgid "Still... you pleased me like a stallion. That's amazing for one of your size!"
-msgstr ""
+msgstr "เจ้าทำให้ข้าเสียวอย่างกับว่าเจ้าเป็นม้าอย่างงั้นแหละ น่าทึ่งมากเลยนะสำหรับขนาดตัวแค่นี้!"
 
 #. Key:	DC59A07E4D2FC78409E32EA7A64B7007
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(7).LinesToFemale
@@ -9164,7 +9280,8 @@ msgstr "ส่งตัวมนุษย์มา... ข้าทนไม่�
 
 #. Key:	DC956C0949E5CA05486F1583CEACA3ED
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",DC956C0949E5CA05486F1583CEACA3ED"
 msgid "Busty"
 msgstr "อึ๋ม"
@@ -9174,7 +9291,7 @@ msgstr "อึ๋ม"
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay.Default__MegaSlimePlay_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",DCA3C7F14DDEBDAEB595FB95AA6A4F3C"
 msgid "Really?! These truly are the best days of my life!"
-msgstr ""
+msgstr "จริงเหรอ?! นี่เป็นวันที่ดีที่สุดในชีวิตของข้าเลย!"
 
 #. Key:	DCBFA42D4FD9520CA7F586A84DCF3921
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01.Default__LeylannaDefault01_C.SessionData.Lines(0).Lines
@@ -9195,7 +9312,7 @@ msgstr ""
 #: /Game/Dialogue/Monarch/Default/MonarchGreeting01.Default__MonarchGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",DD27BA4F486D3C23B0BAE6ABF193831E"
 msgid "A human... t-t-that's not something you see everyday."
-msgstr ""
+msgstr "มนุษย์นี่นา... ม ม ไม่ใช่อะไรที่จะได้เห็นทุกวันนะเนี่ย"
 
 #. Key:	DD3959194243B910FF07BC8D7CA651AB
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(0).Lines
@@ -9319,9 +9436,10 @@ msgstr "ฮ่า ข้าทนไม่ไหวแล้ว ข้าจะ�
 #. Key:	E082A93948F5919CEB7D19BF935DA14E
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(2).Lines
+#, fuzzy
 msgctxt ",E082A93948F5919CEB7D19BF935DA14E"
 msgid "All were in vain, for I am an archangel, but her kindess and loyatly to the Goddess are unquestionable."
-msgstr ""
+msgstr "ทั้งหมดนั่นล้วนไร้สาระสำหรับข้าที่เป็นถึงอัครทูตสวรรค์ แต่ว่าความใจดีและซื่อสัตย์ของนางต่อท่านเทพธิดานั้นเป็นอะไรที่จริงแท้สุดๆ"
 
 #. Key:	E0B9E9894DD5921A03759097168DF006
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_T.Default__FernDefault02_RL_T_C.ResponseData(4).ResponseData.BreederPrompt
@@ -9375,9 +9493,10 @@ msgstr "อะไรคือพวก@MONSTER_RACE@?"
 #. Key:	E1E308E24203BE20934F4FBC8BEC61C7
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFuta(1).LinesToFuta
 #: /Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFuta(1).LinesToFuta
+#, fuzzy
 msgctxt ",E1E308E24203BE20934F4FBC8BEC61C7"
 msgid "With my voluptuous mermaid body, I shall play your dick like an instrument"
-msgstr ""
+msgstr "ข้าจะเล่นดุ้นของเจ้าเยี่ยงเครื่องดนตรีเลยล่ะ"
 
 #. Key:	E1E5995441F81E5B6E79E8A5481789F0
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchF.Default__MirruSnatchF_C.SessionData.Lines(1).Lines
@@ -9395,7 +9514,8 @@ msgstr ""
 
 #. Key:	E20511A746C7BFEF4C46D5A2F2586CD0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 -
+#: Value).TraitIcons.HelpText
 msgctxt ",E20511A746C7BFEF4C46D5A2F2586CD0"
 msgid "Slick: Inherited slick oily skin."
 msgstr "มันวาว: มียีนส์ที่ทำผิวมันวาว"
@@ -9482,7 +9602,7 @@ msgstr ""
 #: /Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(4).LinesToFuta
 msgctxt ",E456792841D9433268D3C186837C9B2F"
 msgid "The perfect toy for such a boring task. You have my thanks."
-msgstr ""
+msgstr "ช่างเป็นของเล่นที่เหมาะกับงานน่าเบื่อแบบนี้ซะจริง ขอบใจเจ้ามากนะ"
 
 #. Key:	E45685834D7AE2795D9FA29F5CCF8B18
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchT.Default__MirruSnatchT_C.SessionData.Lines(1).Lines
@@ -9515,9 +9635,10 @@ msgstr "ข้าสัมผัสได้ถึงความปราถณ
 #. Key:	E4AA6F334E8152CCB55879A1FD73219D
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaFaleneWeek.Default__CamillaFaleneWeek_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Camilla/Default/CamillaFaleneWeek.Default__CamillaFaleneWeek_C.SessionData.Lines(0).Lines
+#, fuzzy
 msgctxt ",E4AA6F334E8152CCB55879A1FD73219D"
 msgid "Every week she embarks on a \"field study\"."
-msgstr ""
+msgstr "ทุกๆอาทิตย์ นางเอาแต่วุ่นอยู่กับการเรียนรู้ภาคสนาม"
 
 #. Key:	E4B026D641AF98C38A86DC827DC789C9
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHowLong.Default__MegaSlimeHowLong_C.SessionData.Lines(0).Lines
@@ -9529,9 +9650,10 @@ msgstr ""
 #. Key:	E4D00AF649A1E7AC5659FFA04BB04427
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(0).Lines
+#, fuzzy
 msgctxt ",E4D00AF649A1E7AC5659FFA04BB04427"
 msgid "Well done @BREEDER_NAME@, thou hast restored my world's link to the Void."
-msgstr ""
+msgstr "ทำได้ดีมาก @BREEDER_NAME@ ท่านได้ทำให้โลกของข้ากับหลุมนั่น เชื่อมกันอีกครั้ง"
 
 #. Key:	E5058E9246E1827F928D6681023A71A0
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(10).LinesToFemale
@@ -9550,9 +9672,10 @@ msgstr ""
 #. Key:	E5582CD145475FD1FDA1C88BC2821A2A
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleHaveKeystone.Default__KybeleHaveKeystone_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Kybele/Default/KybeleHaveKeystone.Default__KybeleHaveKeystone_C.SessionData.Lines(2).Lines
+#, fuzzy
 msgctxt ",E5582CD145475FD1FDA1C88BC2821A2A"
 msgid "The Dragon Matriarch probably wouldn't mind if I let you BORROW it for awhile."
-msgstr ""
+msgstr "เจ้าแม่มังกรคงไม่ว่าอะไรหรอกมั้ง ถ้าข้าให้กุญแจแก่เจ้า"
 
 #. Key:	E594716B40413B6747D21BA87B26EE43
 #. SourceLocation:	/Game/Breeding/Positions/Test4.Default__Test4_C.SessionData.PositionName
@@ -9592,13 +9715,15 @@ msgstr ""
 #. Key:	E63E125C4A07D646D1BFD48E816B5B37
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_Accept.Default__EmissaryRaiseTraitLvl_Accept_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_Accept.Default__EmissaryRaiseTraitLvl_Accept_C.SessionData.Lines(0).Lines
+#, fuzzy
 msgctxt ",E63E125C4A07D646D1BFD48E816B5B37"
 msgid "A wise choice human, for the Goddess has further endowed wild @MONSTER_RACE@."
-msgstr ""
+msgstr "ฉลาดเลือกดีนี่ท่าน เพื่อเทพธิดา ท่านต้องถวายพวก@MONSTER_RACE@ ให้มากขึ้น"
 
 #. Key:	E663A2A8494081C671EA74A317740FAD
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",E663A2A8494081C671EA74A317740FAD"
 msgid "Atypical"
 msgstr "ผิดพวก"
@@ -9608,7 +9733,7 @@ msgstr "ผิดพวก"
 #: /Game/Dialogue/Monarch/Default/MonarchHaveKeystone.Default__MonarchHaveKeystone_C.SessionData.Lines(0).Lines
 msgctxt ",E69826E04F46B36F08DF61ADC6BE1350"
 msgid "You were nice to me... I can part with it."
-msgstr ""
+msgstr "เจ้าดีกับข้ามากเลย... เดี๋ยวข้าจะยกกุญแจให้"
 
 #. Key:	E6AE999D442B37DD898ED3B14ADA261A
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(2).Lines
@@ -9643,14 +9768,14 @@ msgstr ""
 #: /Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(3).Lines
 msgctxt ",E786C6B44314BBD71D79DA9FE5AF0C96"
 msgid "Cassie thinks there is a way to open it!"
-msgstr ""
+msgstr "แคสซีคิดว่า มันมีทางที่จะเปิดมันอยู่นะ!"
 
 #. Key:	E79C52514246BC9F37D1229336510455
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",E79C52514246BC9F37D1229336510455"
 msgid "*Yawn*"
-msgstr ""
+msgstr "*หาว*"
 
 #. Key:	E7BA70CA4CDE49CD26EE3A92475B70E2
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(12).Lines
@@ -9664,11 +9789,12 @@ msgstr "พวกนั้นเริ่มสร้างสิ่งมีช
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Cavern.PlaceMessage
 msgctxt ",E869210B499044B8227AF0B4F982A564"
 msgid "Amorous Hallows is now accessible."
-msgstr ""
+msgstr "สามารถไปยังสถานที่บูชาได้แล้ว"
 
 #. Key:	E8789C0E4CCC57BB8A98178902DA8110
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 -
+#: Value).TraitIcons.HelpText
 msgctxt ",E8789C0E4CCC57BB8A98178902DA8110"
 msgid "Exotic: Inherited more monster traits."
 msgstr "แปลกใหม่: มีความเป็นสัตว์มากขึ้น"
@@ -9676,13 +9802,15 @@ msgstr "แปลกใหม่: มีความเป็นสัตว์�
 #. Key:	E884B8E5410C3C8C00BFC3AFDA4097F9
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleDefault01.Default__KybeleDefault01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Kybele/Default/KybeleDefault01.Default__KybeleDefault01_C.SessionData.Lines(0).Lines
+#, fuzzy
 msgctxt ",E884B8E5410C3C8C00BFC3AFDA4097F9"
 msgid "By any means necessary, I will not let you pass human."
-msgstr ""
+msgstr "โดยทุกวิถีทางเลยล่ะ ข้าจะไม่ให้เจ้าผ่านเข้าไปหรอกนะ"
 
 #. Key:	E89A6BB74D15111C98632A99F45745CC
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",E89A6BB74D15111C98632A99F45745CC"
 msgid "Meaty"
 msgstr "แน่นเนื้อ"
@@ -9706,7 +9834,7 @@ msgstr ""
 #: /Game/World/Overworld.Overworld:PersistentLevel.DragonHoard.ManageActionMessage
 msgctxt ",E91EF4164FCD12832A52B095A8557B4A"
 msgid "Manage your Dragons"
-msgstr "จัดการกับมังกร ของคุณ"
+msgstr "จัดการกับพวกมังกรของคุณ"
 
 #. Key:	E9306878425673698C22F9AA8CD2A8CC
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(9).LinesToFemale
@@ -9717,7 +9845,8 @@ msgstr "พวกข้ารักในการร่วมรักกับ
 
 #. Key:	E95C5DA945F5D8A92099E9892F4615A7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(1 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(1 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(1 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",E95C5DA945F5D8A92099E9892F4615A7"
 msgid "Amorous Hallows"
 msgstr "สถานที่บูชา"
@@ -9815,7 +9944,8 @@ msgstr ""
 
 #. Key:	EC01A5624439E2DDB75614A1656451DD
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 -
+#: Value).TraitIcons.HelpText
 msgctxt ",EC01A5624439E2DDB75614A1656451DD"
 msgid "Hung: Inherited a larger dick."
 msgstr "ดุ้นใหญ่: มียีนส์ที่ทำให้แท่งใหญ่กว่าปกติ"
@@ -9830,9 +9960,10 @@ msgstr "ทำไมเจ้าถึงเรียกข้าว่า ท�
 #. Key:	EC7D97C640A2B4A5E3BFACACD27F84F8
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDungeon2.Default__CassieDungeon2_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Cassie/Default/CassieDungeon2.Default__CassieDungeon2_C.SessionData.Lines(2).Lines
+#, fuzzy
 msgctxt ",EC7D97C640A2B4A5E3BFACACD27F84F8"
 msgid "It was locked for many years."
-msgstr ""
+msgstr "มันถูกล็อคไว้หลายปีแล้วล่ะ"
 
 #. Key:	EC9757E141CD427BCC7326B974A16B82
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleF.Default__NeelaSnakeCuddleF_C.SessionData.Lines(4).Lines
@@ -9920,7 +10051,8 @@ msgstr "โอ้ว ท่านคะ ท่านเลี้ยงดูข�
 
 #. Key:	EEBA2B7C475E9710DEB122887C14BEE9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 -
+#: Value).TraitIcons.HelpText
 msgctxt ",EEBA2B7C475E9710DEB122887C14BEE9"
 msgid "Charmer: Allure raises XP from breeding as a percentage."
 msgstr "เจ้าเสน่ห์: เพิ่ม XP จากการร่วมรัก"
@@ -10032,7 +10164,8 @@ msgstr ""
 
 #. Key:	F1D3A2E044E22D62A15FD2A3C291C751
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 -
+#: Value).TraitIcons.HelpText
 msgctxt ",F1D3A2E044E22D62A15FD2A3C291C751"
 msgid "Small: Roughly 5ft in height."
 msgstr "เล็ก: สูงราว 5ฟุต"
@@ -10070,7 +10203,7 @@ msgstr "พวก@MONSTER_RACE@นี่ หื่นกระหายกัน
 #: /Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.Lines(1).Lines
 msgctxt ",F2106FBD47C33358DD8CBE9C4F4ABE40"
 msgid "Ahhh... I sure do appreciate tak'n yer time to please this old milkmaid."
-msgstr ""
+msgstr "อ่าห์... ข้าจะยินดีมากถ้าเจ้ามาสนุกร่วมกับข้าอีกสักหน่อย"
 
 #. Key:	F21C5AFA463E6FCE44980EAAEE23498C
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchDefault01_RL.Default__MonarchDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -10091,14 +10224,14 @@ msgstr ""
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeLikesPresent.Default__MegaSlimeLikesPresent_C.SessionData.Lines(3).Lines
 msgctxt ",F275980145B2B095A80AA99110DF5A3B"
 msgid "*Sniff*"
-msgstr ""
+msgstr "*ฟุดฟิด*"
 
 #. Key:	F320BEE04338B72C9D0242A03C05EBBD
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(3).LinesToFuta
 #: /Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",F320BEE04338B72C9D0242A03C05EBBD"
 msgid "Such a large dick penetrating my deep vagina... ahhh!"
-msgstr ""
+msgstr "นี่จะเป็นดุ้นที่เสียบจนร่องข้าบานแน่ๆ... อ่าาห์!"
 
 #. Key:	F37DF7694328A3895D54B3BC4DB0147D
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R03.Default__BlossomDefault01_R03_C.SessionData.Lines(0).Lines
@@ -10110,6 +10243,7 @@ msgstr ""
 #. Key:	F39F0EAF49B80BDC208978900604CC74
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(10).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(10).Lines
+#, fuzzy
 msgctxt ",F39F0EAF49B80BDC208978900604CC74"
 msgid "But be warned, wild @MONSTER_RACE@ have no control over their desires and will surprise you with sex!"
 msgstr "แต่ขอเตือนไว้หน่อยนะ ว่าพวก@MONSTER_RACE@น่ะ ควบคุมความหื่นกระหายของพวกมันไม่ได้ และมันจะพุ่งมาหาเจ้าเพื่อเล่นอะไรสนุกๆ!"
@@ -10159,9 +10293,10 @@ msgstr "นี่จะทำให้เจ้าสามารถที่จ
 #. Key:	F5C8C3C7475F573785E31C934B9F38B9
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleRideYou.Default__KybeleRideYou_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Kybele/Default/KybeleRideYou.Default__KybeleRideYou_C.SessionData.Lines(1).Lines
+#, fuzzy
 msgctxt ",F5C8C3C7475F573785E31C934B9F38B9"
 msgid "Just for asking that, you are going to be my sex toy for the rest of the day!"
-msgstr ""
+msgstr "เจ้าจะได้เป็นของเล่นของข้าตลอดทั้งวันเลย!"
 
 #. Key:	F5D89EF24DD4E97F5789B4AF367D8E47
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(4).Lines
@@ -10187,16 +10322,18 @@ msgstr ""
 #. Key:	F6969BA84DEC3DFDB3D93F9DDA026D6A
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeDefault01_RL.Default__MegaSlimeDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeDefault01_RL.Default__MegaSlimeDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
+#, fuzzy
 msgctxt ",F6969BA84DEC3DFDB3D93F9DDA026D6A"
 msgid "How long have you been down here?"
-msgstr ""
+msgstr "นี่เจ้าอยู่ตรงนี้มานานแค่ไหนแล้วเนี่ย?"
 
 #. Key:	F69BD2354184895C493EA985FE74F5CC
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(1).Lines
+#, fuzzy
 msgctxt ",F69BD2354184895C493EA985FE74F5CC"
 msgid "To think your vessel made love with a pathetic blob to achieve this."
-msgstr ""
+msgstr "นึกถึงดุ้นของเจ้าที่เข้าไปข้างในเจ้าสไลม์น่าสมเพชรนั่น เพื่อที่จะทำให้ภาระกิจสำเร็จสิ"
 
 #. Key:	F6A2BD8D4CBE73666D030B83D56908E8
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RaiseTraitLvl.Default__EmissaryDefault01_RaiseTraitLvl_C.SessionData.Lines(2).Lines
@@ -10231,7 +10368,7 @@ msgstr "*คราง*"
 #: /Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(2).Lines
 msgctxt ",F7525328451BBC6ED4F59587DBE6C854"
 msgid "It has been locked for many years."
-msgstr ""
+msgstr "มันถูกล็อคไว้หลายปีแล้วล่ะ"
 
 #. Key:	F75595714B06DF676D20B5B79FB8C222
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(20).LinesToMale
@@ -10271,9 +10408,10 @@ msgstr ""
 #. Key:	F84550BD45785F99DC5ACC9F2C125EDF
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleDefault01_RL.Default__KybeleDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 #: /Game/Dialogue/Kybele/Default/KybeleDefault01_RL.Default__KybeleDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
+#, fuzzy
 msgctxt ",F84550BD45785F99DC5ACC9F2C125EDF"
 msgid "Dragon Matriarch?"
-msgstr ""
+msgstr "ผู้นำมังกร อย่างงั้นเหรอ?"
 
 #. Key:	F88AA516424D4DB3A67953803B2F3000
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(3).Lines
@@ -10313,9 +10451,10 @@ msgstr "ท่านคะ?"
 #. Key:	F9C66FA74BAA102FE1238A952823D3D9
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(17).Lines
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(17).Lines
+#, fuzzy
 msgctxt ",F9C66FA74BAA102FE1238A952823D3D9"
 msgid "I wish I could remember my own birth and childhood, it would make this a lot easier. Hell, I wish I could remember how I got here, some 300 years ago. Hehe I lost count."
-msgstr ""
+msgstr "ข้าหวังว่าจะจำช่วงเวลาในวัยเด็กของข้าได้ นี่จะทำให้มันง่ายขึ้น ให้ตายสิ ข้าหวังว่าจะจำว่าข้ามาที่นี้ได้ยังไง ประมาณ 300ปีที่แล้ว มั้ง... ข้าจำไม่ได้แล้ว"
 
 #. Key:	F9EF68BC4CE831DD669546BF6213C846
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow_StartButterButt.Default__CassieDefault01_Meow_StartButterButt_C.SessionData.Lines(0).Lines
@@ -10326,14 +10465,16 @@ msgstr "เมี๊ยว!!! Cassie จะเติมเต็มคุณด�
 
 #. Key:	FA099D00490628CE02692F98F8341539
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",FA099D00490628CE02692F98F8341539"
 msgid "Buxom"
 msgstr "อวบ"
 
 #. Key:	FA16663A4C4765BC8F4CBC80FF774B75
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 -
+#: Value).TraitIcons.HelpText
 msgctxt ",FA16663A4C4765BC8F4CBC80FF774B75"
 msgid "Grungy: Mates have a 20% of getting dirty, reducing allure by 50%."
 msgstr "สกปรก: คู่ร่วมรัก จะสกปรกลง20% และลดค่าความยั่วยวนลงถึง 50%"
@@ -10385,7 +10526,7 @@ msgstr "คุณได้ทำการเปลี่ยน"
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",FAB1F6F548473C3126B60F9981FBA341"
 msgid "Ohhh @BREEDER_NAME@... you were amazing."
-msgstr ""
+msgstr "โอ้ว @BREEDER_NAME@... เจ้าช่างสุดยอดไปเลย"
 
 #. Key:	FAC3B1AA48B55AC22C81BABA4025A329
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_TheVoid.Default__NeelaDefault01_TheVoid_C.SessionData.Lines(3).Lines
@@ -10427,14 +10568,14 @@ msgstr "ระวังนะ เจ้ามนุษย์, อย่าได
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay.Default__MegaSlimePlay_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",FB4D6F564D28EE26BC34658F3C9B1F73"
 msgid "Well what are you waiting for? Come on in!"
-msgstr ""
+msgstr "เจ้ารออะไรอยู่ล่ะ? มานี่สิ!"
 
 #. Key:	FB6284F34E0BBFD934651EAD6C3DC5D8
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchGreeting01.Default__MonarchGreeting01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Monarch/Default/MonarchGreeting01.Default__MonarchGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",FB6284F34E0BBFD934651EAD6C3DC5D8"
 msgid "Oh, hello!"
-msgstr ""
+msgstr "โอ้ว ว่าไงจ๊ะ!"
 
 #. Key:	FB857A0E425DC310680C179A127076D3
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchF.Default__MirruSnatchF_C.SessionData.Lines(3).Lines
@@ -10515,7 +10656,8 @@ msgstr ""
 
 #. Key:	FD257CB04C6B3AB420244298D2C33047
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",FD257CB04C6B3AB420244298D2C33047"
 msgid "Hornball"
 msgstr "ขี้เงี่ยน"
@@ -10543,10 +10685,11 @@ msgstr ""
 
 #. Key:	FD8011CC4C321FCEC4C41F88F97FDCD1
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(3 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(3 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(3 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",FD8011CC4C321FCEC4C41F88F97FDCD1"
 msgid "Moaning Crag"
-msgstr "*คราง*"
+msgstr "ผาเสียงคราง"
 
 #. Key:	FD905EC14D8B8AC5E3D8D28AB7280C39
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid_RL.Default__NeelaDefault01_YourVoid_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -10571,7 +10714,8 @@ msgstr ""
 
 #. Key:	FDBDE7714A97FE255B38A0BACEC479DB
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",FDBDE7714A97FE255B38A0BACEC479DB"
 msgid "Tiny Size"
 msgstr "ขนาดเล็ก"
@@ -10669,7 +10813,8 @@ msgstr "โอ้ ตายจริง! ข้ายังไม่ได้แ
 
 #. Key:	FFEB9256402DB5ADDFEED38770F40285
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 -
+#: Value).TraitIcons.HelpText
 msgctxt ",FFEB9256402DB5ADDFEED38770F40285"
 msgid "Busty: Inherited very large breasts."
 msgstr "อึ๋ม: มียีนส์ที่ทำให้หน้าอกใหญ่"
@@ -10896,7 +11041,7 @@ msgstr "ทุ่งหญ้าพิสมัย"
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:194
 msgctxt "ASexyOverworldInterface,Sands"
 msgid "Lewd Desert"
-msgstr ""
+msgstr "ทะเลทรายลามก"
 
 #. Key:	BoringCum
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:685
@@ -10971,16 +11116,17 @@ msgstr "คุณอยู่ที่นี่อยู่แล้ว"
 #. Key:	KybeleMateTaskF
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:384
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:384
+#, fuzzy
 msgctxt "ASexyWorldSystem,KybeleMateTaskF"
 msgid "Bring to me a Vulwarg with large soft ass! I wish feel her cushion as I thrust my cock deep and plant my seed in her strong body."
-msgstr ""
+msgstr "หาหมาป่าที่ก้นใหญ่ๆนุ่มๆมาให้ข้า! ข้าอยากจับสัมผัสก้นนุ่มๆของมัน เหมือนกับที่ข้าเสียบดุ้นของข้าและฉีดน้ำเข้าไปในตัวมัน"
 
 #. Key:	KybeleMateTaskReward
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:381
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:381
 msgctxt "ASexyWorldSystem,KybeleMateTaskReward"
 msgid "Kybele wishes to speak with you."
-msgstr ""
+msgstr "ไคเบลอยากจะคุยกับคุณ"
 
 #. Key:	KybeleMateTaskT
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:387
@@ -10999,16 +11145,17 @@ msgstr ""
 #. Key:	MonarchMateTask
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:436
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:436
+#, fuzzy
 msgctxt "ASexyWorldSystem,MonarchMateTask"
 msgid "Uh... please b-b-breed me an adorable Foxen that is fast enough to collect nectar for me. Thank you!"
-msgstr ""
+msgstr "เอ่อ... ช่วย ผ ผ ผสมข้ากับจิ้งจอกที่รวดเร็วพอ ที่จะเก็บน้ำหวานให้ข้าหน่อยสิ ขอบคุณมาก!"
 
 #. Key:	MonarchMateTaskReward
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:434
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:434
 msgctxt "ASexyWorldSystem,MonarchMateTaskReward"
 msgid "Monarch wishes to speak with you."
-msgstr ""
+msgstr "โมนาชอยากจะคุยกับคุณ"
 
 #. Key:	MonarchMateTitle
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:433
@@ -11035,22 +11182,30 @@ msgstr "มีเควสใหม่"
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:348
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:348
 msgctxt "ASexyWorldSystem,TraitRequirement"
-msgid "{0}\n{1}\nLevel {2}\n"
+msgid ""
+"{0}\n"
+"{1}\n"
+"Level {2}\n"
 msgstr ""
 
 #. Key:	TraitRequirementStat
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:345
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:345
 msgctxt "ASexyWorldSystem,TraitRequirementStat"
-msgid "{0}\n{1}\nLevel {2}\n{3}"
+msgid ""
+"{0}\n"
+"{1}\n"
+"Level {2}\n"
+"{3}"
 msgstr ""
 
 #. Key:	Activate
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:179
 #: Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:179
+#, fuzzy
 msgctxt "ASOG,Activate"
 msgid "View Inscribed Names"
-msgstr ""
+msgstr "ดูรายชื่อที่สลักไว้"
 
 #. Key:	Description
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyBarnActionDetails.cpp:21
@@ -11069,9 +11224,10 @@ msgstr "เลือกท่า จากนั้นให้กด เริ�
 #. Key:	NewOffspring
 #. SourceLocation:	Source/Radiant/Public/Characters/Breeder/SexyBreederController.cpp:137
 #: Source/Radiant/Public/Characters/Breeder/SexyBreederController.cpp:137
+#, fuzzy
 msgctxt "BreederController,NewOffspring"
 msgid "Congratulations, {0} has summoned new offspring!"
-msgstr ""
+msgstr "ยินดีด้วย {0}ได้ให้กำเนิดลูกคนใหม่!"
 
 #. Key:	AdvanceButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:108
@@ -11490,8 +11646,12 @@ msgstr "ตั้งท้อง"
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:57
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:57
 msgctxt "CharacterDetails,PregnancyTooltip"
-msgid "Progress toward summoning offspring.\nMilk production is doubled during pregnancy."
-msgstr "การให้กำเนิดยังดำเนินต่อไป\nปริมาณน้ำนมที่รีดได้ จะมากขึ้นเท่าตัวในช่วงที่ตั้งท้อง"
+msgid ""
+"Progress toward summoning offspring.\n"
+"Milk production is doubled during pregnancy."
+msgstr ""
+"การให้กำเนิดยังดำเนินต่อไป\n"
+"ปริมาณน้ำนมที่รีดได้ จะมากขึ้นเท่าตัวในช่วงที่ตั้งท้อง"
 
 #. Key:	Procreators
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:94
@@ -11617,7 +11777,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:444
 msgctxt "CharacterEditor,AdditionalMaterial"
 msgid "Additional Material"
-msgstr ""
+msgstr "ของเพิ่มเติม"
 
 #. Key:	AmbientEffects
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:487
@@ -11721,8 +11881,12 @@ msgstr "ยกเลิก"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:263
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:263
 msgctxt "CharacterEditor,ChangeSexTooltip"
-msgid "Change this character's sex.\nWARNING: This will overwrite the current appearance."
-msgstr "เปลี่ยนเพศตัวละครตัวนี้ \nคำเตือน: นี่จะเป็นเปลี่ยนรูปร่างหน้าตาที่ใช้อยู่"
+msgid ""
+"Change this character's sex.\n"
+"WARNING: This will overwrite the current appearance."
+msgstr ""
+"เปลี่ยนเพศตัวละครตัวนี้ \n"
+"คำเตือน: นี่จะเป็นเปลี่ยนรูปร่างหน้าตาที่ใช้อยู่"
 
 #. Key:	ChooseAnimationTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:179
@@ -11756,7 +11920,9 @@ msgstr "รายละเอียด"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:158
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:158
 msgctxt "CharacterEditor,ExoticTooltip"
-msgid "Give this character its exotic trait if one exists.\nWARNING: This will overwrite the current appearance."
+msgid ""
+"Give this character its exotic trait if one exists.\n"
+"WARNING: This will overwrite the current appearance."
 msgstr ""
 
 #. Key:	EyebrowMaterial
@@ -11840,7 +12006,9 @@ msgstr "ผม"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:151
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:151
 msgctxt "CharacterEditor,HominalTooltip"
-msgid "Give this character its hominal trait if one exists.\nWARNING: This will overwrite the current appearance."
+msgid ""
+"Give this character its hominal trait if one exists.\n"
+"WARNING: This will overwrite the current appearance."
 msgstr ""
 
 #. Key:	LeaveButton
@@ -11861,7 +12029,9 @@ msgstr "หยุดการปรับแต่งร่างจุติ"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:128
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:128
 msgctxt "CharacterEditor,LoadUsrPresetTooltip"
-msgid "Load a saved preset.\nWARNING: This will overwrite the current appearance."
+msgid ""
+"Load a saved preset.\n"
+"WARNING: This will overwrite the current appearance."
 msgstr ""
 
 #. Key:	LowerBodyShape
@@ -11917,7 +12087,9 @@ msgstr "หัวนม"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:223
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:223
 msgctxt "CharacterEditor,PasteTooltip"
-msgid "Paste from clipboard.\nWARNING: This will overwrite the current appearance, and might look terrible on different variants."
+msgid ""
+"Paste from clipboard.\n"
+"WARNING: This will overwrite the current appearance, and might look terrible on different variants."
 msgstr ""
 
 #. Key:	PresetNameTitle
@@ -12022,8 +12194,12 @@ msgstr "เสื้อ"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:144
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:144
 msgctxt "CharacterEditor,VariantTooltip"
-msgid "Change this character's variant.\nWARNING: This will overwrite the current appearance."
-msgstr "เปลี่ยนค่าตัวนี้ \nคำเตือน: นี่จะเป็นเปลี่ยนรูปร่างหน้าตาที่ใช้อยู่"
+msgid ""
+"Change this character's variant.\n"
+"WARNING: This will overwrite the current appearance."
+msgstr ""
+"เปลี่ยนค่าตัวนี้ \n"
+"คำเตือน: นี่จะเป็นเปลี่ยนรูปร่างหน้าตาที่ใช้อยู่"
 
 #. Key:	ErrorSavingPreset
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2441
@@ -12261,7 +12437,7 @@ msgstr "บันทึก"
 #: Source/Radiant/Public/UI/Components/SexyGridItem.cpp:58
 msgctxt "GridItem,Null"
 msgid "Null"
-msgstr ""
+msgstr "เป็นศูนย์"
 
 #. Key:	NotInterested
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestContainerGrid.cpp:25
@@ -12912,21 +13088,21 @@ msgstr "เปลี่ยนชื่อลูกตัวนี้้ ก่�
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:334
 msgctxt "Radiant,Female"
 msgid "Female"
-msgstr ""
+msgstr "เพศเมีย"
 
 #. Key:	Futa
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:337
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:337
 msgctxt "Radiant,Futa"
 msgid "Futa"
-msgstr ""
+msgstr "พวกสองเพศ"
 
 #. Key:	Male
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:340
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:340
 msgctxt "Radiant,Male"
 msgid "Male"
-msgstr ""
+msgstr "เพศผู้"
 
 #. Key:	NullText
 #. SourceLocation:	Source/Radiant/Public/Data/SexyData.h:2399
@@ -13218,16 +13394,17 @@ msgstr "Controls"
 #. Key:	CumInflation
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:104
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:104
+#, fuzzy
 msgctxt "SettingsMenu,CumInflation"
 msgid "Cum Inflation"
-msgstr "รอยน้ำแตก"
+msgstr "ท้องป่อง"
 
 #. Key:	DickSheath
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:341
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:341
 msgctxt "SettingsMenu,DickSheath"
 msgid "Dick Blur Sheath"
-msgstr "Dick Blur Sheath"
+msgstr "การเบลอของดุ้น"
 
 #. Key:	EffectsVolume
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:410
@@ -13394,8 +13571,12 @@ msgstr "ตั้งท้อง"
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:101
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:101
 msgctxt "SettingsMenu,PregnancyHelp"
-msgid "Female Nephelym will take 4 days to summon their offspring, and the belly will morph to reflect this.\nWARNING: Toggling this off during gameplay will cause existing pregnancies to be lost."
-msgstr "สัตว์วิเศษเพศเมียจะใช้เวลา 4วัน ในการที่จะให้กำเนิดลูกออกมา และหน้าท้องก็จะนูนออกมาด้วยเช่นกัน\nคำเตือน: การปิดการตั้งค่านี้ระหว่างที่มีสัตว์วิเศษตั้งท้องอยู่ อาจจะทำให้การตั้งท้องยกเลิกในทันที"
+msgid ""
+"Female Nephelym will take 4 days to summon their offspring, and the belly will morph to reflect this.\n"
+"WARNING: Toggling this off during gameplay will cause existing pregnancies to be lost."
+msgstr ""
+"สัตว์วิเศษเพศเมียจะใช้เวลา 4วัน ในการที่จะให้กำเนิดลูกออกมา และหน้าท้องก็จะนูนออกมาด้วยเช่นกัน\n"
+"คำเตือน: การปิดการตั้งค่านี้ระหว่างที่มีสัตว์วิเศษตั้งท้องอยู่ อาจจะทำให้การตั้งท้องยกเลิกในทันที"
 
 #. Key:	Quality
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:326
@@ -13626,14 +13807,14 @@ msgstr "เติมเต็ม"
 #: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:174
 msgctxt "SSexyGenericMenu,FulfillButtonTooltip"
 msgid "Accept the reward for this task."
-msgstr "รับรางวัลเควส"
+msgstr "รับรางวัล"
 
 #. Key:	SpecialTasksTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:127
 #: Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:127
 msgctxt "SSexyGenericMenu,SpecialTasksTitle"
 msgid "Special Requests"
-msgstr ""
+msgstr "ภารกิจพิเศษ"
 
 #. Key:	TaskMonsterWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGenericMenu.cpp:183
@@ -13689,7 +13870,7 @@ msgstr "ดูข้อมูล"
 #: Source/Radiant/Public/UI/Menus/SexyRanchMenu.cpp:76
 msgctxt "SSexyRanchMenu,ManageWindowTitle"
 msgid "Actions"
-msgstr ""
+msgstr "จัดการ"
 
 #. Key:	ClearFilterTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:144
@@ -13799,9 +13980,10 @@ msgstr "สัตว์วิเศษ:"
 #. Key:	RBJ
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:292
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:292
+#, fuzzy
 msgctxt "SSexyRoamerMenu,RBJ"
 msgid "Spontaneous Blow Job!"
-msgstr ""
+msgstr "การอมและดูด!"
 
 #. Key:	ResistMessage
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:299
@@ -13815,7 +13997,7 @@ msgstr "คลิกรัวๆ เพื่อไม่ให้ถึงจ�
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:202
 msgctxt "SSexyRoamerMenu,RoamerWindowTitle"
 msgid "Actions"
-msgstr ""
+msgstr "จัดการ"
 
 #. Key:	SurpriseSex
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:292
@@ -14131,4 +14313,3 @@ msgstr "พูดคุย"
 msgctxt "WorldAction,TraverseAction"
 msgid "Traverse Portal"
 msgstr "วาร์ป"
-
