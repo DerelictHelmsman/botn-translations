@@ -1,17 +1,18 @@
-﻿# turkish Turkish (Turkey) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: turkish\n"
 "POT-Creation-Date: 2020-08-23 23:10\n"
-"PO-Revision-Date: 2020-08-23 23:10\n"
+"PO-Revision-Date: 2020-09-07 12:26+0300\n"
 "Language-Team: \n"
-"Language: tr-TR\n"
+"Language: tr_TR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.4\n"
 
 #. Key:	0009BEE346934010A7F79C8CF23B20D5
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(1).Lines
@@ -92,7 +93,8 @@ msgstr "Ah, sanırım çoğu @MONSTER_RACE@ gibisin."
 
 #. Key:	01DB8D8A43F7EC40F07FB3A355D39722
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",01DB8D8A43F7EC40F07FB3A355D39722"
 msgid "Cove of Rapture"
 msgstr "Rapture Koyu"
@@ -116,7 +118,7 @@ msgstr "Bu kadar küçük birinin Kraken'e sokması alışılmış değil. Taze 
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL5_F.Default__DMDefault_RL5_F_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",026D19BC4A6B81E2694FF6B5E6EC3D9C"
 msgid "Eeek... big genitals!"
-msgstr ""
+msgstr "İyyk.. büyük cinsel organlar!"
 
 #. Key:	028C9ACB45CFD05DB106DBA06B056886
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.StarfallenMonolith.ManageActionMessage
@@ -137,7 +139,7 @@ msgstr "Elbette, bugüne kadar @ MONSTER_RACE @ 'nin kasıtlı olarak bir insana
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(2).Lines
 msgctxt ",02FA062A4ABF915F50D8B38C08105557"
 msgid "From what I remember, I was of Liasis descent. A race said to roam Lewd Desert long ago."
-msgstr ""
+msgstr "Hatırladığım kadarıyla Liasis kökenliydim. Çapkın Kumlar'da uzun zaman önce gezinen bir ırk."
 
 #. Key:	02FDE6D44BCEE7E9CD0113AACDF9C4E2
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm_RL_T.Default__LeylannaDefault01_RechargeSpiritForm_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
@@ -305,7 +307,7 @@ msgstr "Bu dünya @MONSTER_RACE@lere bir ev, insan-canavar melezlerinin esrareng
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(3).Lines
 msgctxt ",07035EA54B778F47897F278270889BBF"
 msgid "Aww... it's so adorable watching them figure out how to reach the fruit on the high branches."
-msgstr ""
+msgstr "Aaa… Yüksek dallardaki meyvelere nasıl ulaşacaklarını izlemek çok tatlı."
 
 #. Key:	075A16DA4BA7F51C3A07099921F7F1B3
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.LinesGrungy(1).LinesGrungy
@@ -361,7 +363,7 @@ msgstr "Onlar vazgeçmeden önce onların arzularını tatmin etmek gerekiyor."
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",0925499D4273278AA298A99B40C4550F"
 msgid "Believe me human, I have birthed many offspring."
-msgstr ""
+msgstr "İnan bana insan, bir sürü yavru doğurdum."
 
 #. Key:	093760FD4181D0AA284C4D96884A3801
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(1).Lines
@@ -424,7 +426,7 @@ msgstr "Biz, dalgaların altındaki en asil, kudretli ve korkulan ırkız!"
 #: /Game/Dialogue/DragonMatriarch/Default/DMClimaxPeak.Default__DMClimaxPeak_C.SessionData.Lines(3).Lines
 msgctxt ",0B1F283F4C4E0D0752DF53AB312D45F9"
 msgid "I've heard about fertile Bovaur roaming in the south which produce vast quantities of breast milk."
-msgstr ""
+msgstr "Güneyde büyük miktarlarda süt üreten doğurgan bir Bovaur'un dolaştığını duymuştum."
 
 #. Key:	0B2CFD3342EAE68FB552BF9F7876374B
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaHadSex01.Default__NeelaHadSex01_C.SessionData.Lines(2).Lines
@@ -554,7 +556,8 @@ msgstr "Doggy"
 
 #. Key:	0E2A96C54ACC4571431587B73459221E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",0E2A96C54ACC4571431587B73459221E"
 msgid "Nymphomaniac"
 msgstr "Seks düşkünü"
@@ -575,7 +578,8 @@ msgstr "Miyav... kendimi bildim bileli oraya kimse inmedi."
 
 #. Key:	0E6E1156457FB3513C060D979FF6B9AE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 -
+#: Value).TraitIcons.HelpText
 msgctxt ",0E6E1156457FB3513C060D979FF6B9AE"
 msgid "Sterile: Cannot produce offspring."
 msgstr "Kısır: Yavru üretemez."
@@ -799,7 +803,8 @@ msgstr "Özünde sadece haz arayanlarız!"
 
 #. Key:	1276E5EB4781A0238A9705AC9FEE680E
 #. SourceLocation:	/Game/World/Events/EM_Keystone.EM_Keystone_C:ExecuteUbergraph_EM_Keystone [Script Bytecode]
-#: /Game/World/Events/EM_Keystone.EM_Keystone_C:ExecuteUbergraph_EM_Keystone [Script Bytecode]
+#: /Game/World/Events/EM_Keystone.EM_Keystone_C:ExecuteUbergraph_EM_Keystone
+#: [Script Bytecode]
 msgctxt ",1276E5EB4781A0238A9705AC9FEE680E"
 msgid "Keystone acquired."
 msgstr "Anahtar taşı elde edildi."
@@ -991,7 +996,7 @@ msgstr "Vajinam sulanıyor..."
 #: /Game/Dialogue/DragonMatriarch/Default/DMMuchEnergy.Default__DMMuchEnergy_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",17A76DB943E2CB6F9ACC2A823244D892"
 msgid "Now I want to mate! I've been slumbering for many days, and I am extremely horny."
-msgstr ""
+msgstr "Şimdi sevişmek istiyorum! Günlerdir uyuyorum ve şu an aşırı azgınım."
 
 #. Key:	17D6A70C4116B743F6CB26ADEB18DFD0
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -1005,7 +1010,7 @@ msgstr "Uzun zamandır sperm tatmıyorum."
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL3.Default__DMDefault_RL3_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",186FDC7F49586189532EC29D0F8296D3"
 msgid "It's presently grasslands and trees..."
-msgstr ""
+msgstr "Şu anda yeşillikler ve ağaçlar..."
 
 #. Key:	18CAD01243ECA034DDADA1A0880C715D
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot.Default__ParvatiDefault01_Forgot_C.SessionData.Lines(2).Lines
@@ -1030,7 +1035,8 @@ msgstr "@MONSTER_RACE@ menisi güçlü bir maddedir - sadece cildinize uygulamak
 
 #. Key:	193B4CF045056BF6C0B7E0AF2A4A65FF
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 -
+#: Value).TraitIcons.HelpText
 msgctxt ",193B4CF045056BF6C0B7E0AF2A4A65FF"
 msgid "Valuable: Value is increased by 35%."
 msgstr "Değerli: Değer %35 artar."
@@ -1145,14 +1151,14 @@ msgstr "Bir gün için çok heyecan, uykum geliyor."
 #: /Game/Dialogue/DragonMatriarch/Default/DMMuchEnergy.Default__DMMuchEnergy_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",1C71641945A1D7E57E40EEB16FB66E75"
 msgid "The lucky Titan will not expect such a massive load!"
-msgstr ""
+msgstr "Şanslı Titan bu kadar boşalacağını tahmin etmemişti!"
 
 #. Key:	1C771B6F4DD1FF210888A5BB37418D44
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFemale(0).LinesToFemale
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",1C771B6F4DD1FF210888A5BB37418D44"
 msgid "Many of them, but like all wild ones, they frequently phase in and out of the Void."
-msgstr ""
+msgstr "Neredeyse hepsi, ama vahşi olanların hepsi, Boşluk'a sürekli girip çıkıyorlar."
 
 #. Key:	1C97795346C0DCFF24FCF7965DB04AFF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(2).Lines
@@ -1187,7 +1193,7 @@ msgstr "Bundan memnun olan Tanrıça, yarattıklarının ikamet etmesi için dü
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(0).Lines
 msgctxt ",1CE3D3C14381A71E21FE5C9262A5AB20"
 msgid "Once every 1200 years, the Tree of Bliss will produce a fruit."
-msgstr ""
+msgstr "Her 1200 yılda bir, Mutluluk Ağacı meyve üretir."
 
 #. Key:	1CF80140486F2A7F4E727D8E50B64B37
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFemale(7).LinesToFemale
@@ -1352,7 +1358,8 @@ msgstr "Sen... miyav... zavallı Cassie'ye bu problemin üstesinden gelmek için
 
 #. Key:	1FC53FEF4A2414ADEC40FA84C1B8848D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 -
+#: Value).TraitIcons.HelpText
 msgctxt ",1FC53FEF4A2414ADEC40FA84C1B8848D"
 msgid "Kindhearted: Grants twice as much XP to mates but only receives half as much."
 msgstr "Nazik kalpli: Partneri iki kat, kendi yarım XP alır."
@@ -1411,7 +1418,7 @@ msgstr "Test5"
 #: /Game/Dialogue/Autumn/Default/DryadGreeting01.Default__DryadGreeting01_C.SessionData.Lines(3).Lines
 msgctxt ",20D5FBB14DDFF45AA9B224862543CAFD"
 msgid "Sweet and juicy... oh!"
-msgstr ""
+msgstr "Tatlı ve tuzlu… oh!"
 
 #. Key:	20FEDBA24B5C623E162B85A3D6ACF514
 #. SourceLocation:	/Game/Ranch/Upgrades/StarfallenMonolith.Default__StarfallenMonolith_C.Upgrade.DisplayName
@@ -1446,11 +1453,12 @@ msgstr "Bu çiçek vücut harika, umarım sende eğlenmişsindir Efendim."
 #: /Game/Dialogue/DragonMatriarch/Default/DMGreeting01.Default__DMGreeting01_C.SessionData.Lines(6).Lines
 msgctxt ",213C826F44FC31430F08EE8F97663F9A"
 msgid "Go play with the wild dragons, I'm sure they would love to get to know you better."
-msgstr ""
+msgstr "Git vahşi ejderhalarla oyna, eminim seni daha iyi tanımak isterler."
 
 #. Key:	217058F6486D81B1085B329585491A13
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 -
+#: Value).TraitIcons.HelpText
 msgctxt ",217058F6486D81B1085B329585491A13"
 msgid "Hornball: Loses 35% less lust during breeding."
 msgstr "Fazla Azgın: İlişki sırasında %35 daha az şehvet kaybeder."
@@ -1460,7 +1468,7 @@ msgstr "Fazla Azgın: İlişki sırasında %35 daha az şehvet kaybeder."
 #: /Game/Dialogue/DragonMatriarch/Default/DMGreeting01.Default__DMGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",219DB5F74ED7CB5AAC90FA94BF883682"
 msgid "How interesting... *yawn*"
-msgstr ""
+msgstr "Ne kadar ilginç... *Esner*"
 
 #. Key:	21A08FF347BC7DE708B258BAD0F4BEF3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(22).LinesToMale
@@ -1611,7 +1619,8 @@ msgstr "Neko Konutu"
 
 #. Key:	249E987842C35A9986491A967E86BEC3
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 -
+#: Value).TraitIcons.HelpText
 msgctxt ",249E987842C35A9986491A967E86BEC3"
 msgid "Stoic: Increases maximum lust by 20%."
 msgstr "Acıya Katlanan: Maksimum şehveti %20 arttırır."
@@ -1621,7 +1630,7 @@ msgstr "Acıya Katlanan: Maksimum şehveti %20 arttırır."
 #: /Game/Dialogue/Autumn/Default/DryadDefault01_RL.Default__DryadDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",2501139743DDD3B68A226FB25573A87A"
 msgid "Yum... can I have the keystone now?"
-msgstr ""
+msgstr "Mmm... şimdi Anahtar Taşı alabilir miyim?"
 
 #. Key:	25085F2F407D8D979CA1B39E030426E5
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
@@ -1663,11 +1672,12 @@ msgstr "Türünün son örneği olmanın garip olduğunu düşünmelisin, daha �
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Cove.BlockMessage
 msgctxt ",25F0F67B48B7F4AEF73F849ED76DC655"
 msgid "Roots block this gate."
-msgstr ""
+msgstr "Kökler bu kapıyı kapatıyor."
 
 #. Key:	2632B36446A9D5F9E018209CB73837B8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",2632B36446A9D5F9E018209CB73837B8"
 msgid "Massive Size"
 msgstr "İri Yapılı"
@@ -1698,7 +1708,7 @@ msgstr "Benimle istediğin gibi oyna!"
 #: /Game/Dialogue/Autumn/Default/DryadHadSex01.Default__DryadHadSex01_C.SessionData.Lines(2).Lines
 msgctxt ",26DAA5B74F8BBB68C15E26ADBB255431"
 msgid "It's true what they say about humans, you really can please us like nothing else."
-msgstr ""
+msgstr "İnsanlar hakkında söyledikleri doğruymuş, gerçekten bizi benzeri olmayan bir zevk ile tanıştırıyorsunuz."
 
 #. Key:	26DCB9EA476437386094CA87FFE3E422
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_R02.Default__EmissaryBlessedInquiry01_R02_C.SessionData.Lines(0).Lines
@@ -1768,14 +1778,14 @@ msgstr "Bilirsin... portal temsilcisi olunca yalnız oluyorsun."
 #: /Game/Dialogue/DragonMatriarch/Default/DMMuchEnergy.Default__DMMuchEnergy_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",2811094D446D211B1E656D8729FC40AD"
 msgid "Indeed, so much newfound energy!"
-msgstr ""
+msgstr "Kesinlikle, çok fazla bulunan enerji!"
 
 #. Key:	286C68074B4BC23284A19AB99A24049A
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToFemale(0).LinesToFemale
 #: /Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",286C68074B4BC23284A19AB99A24049A"
 msgid "A chance to make a cherry with a human..."
-msgstr ""
+msgstr "Bir insanla kiraz üretme şansı..."
 
 #. Key:	28D2D40946F49E829D7D26B007908332
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(8).Lines
@@ -1786,7 +1796,8 @@ msgstr "Ah, tanrım, çok fazla konuştum!"
 
 #. Key:	29A421FC41D83A2B9DCC669ECA1F708D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 -
+#: Value).TraitIcons.HelpText
 msgctxt ",29A421FC41D83A2B9DCC669ECA1F708D"
 msgid "Buxom: Inherited a very large ass."
 msgstr "Balık Etli: Genetik olarak büyük popoya sahip."
@@ -1821,7 +1832,8 @@ msgstr "Elbette kendim gidip görebilirim, ama merdivenleri çıkamayacak kadar 
 
 #. Key:	2ABC84814DE5DC3039A61BBA0723AF73
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 -
+#: Value).TraitIcons.HelpText
 msgctxt ",2ABC84814DE5DC3039A61BBA0723AF73"
 msgid "Tiny: Roughly 4ft in height."
 msgstr "Küçücük: Yaklaşık olarak 4ft boyunda."
@@ -1894,7 +1906,7 @@ msgstr "Ejderha vücut sıvıları."
 #: /Game/Dialogue/Autumn/Default/DryadDefault01.Default__DryadDefault01_C.SessionData.Lines(1).Lines
 msgctxt ",2C4B1039457C01738B40D6AC73FC0E41"
 msgid "Oh how good it feels to make each one..."
-msgstr ""
+msgstr "Ah her birini yapmak ne kadar iyi hissettiriyor..."
 
 #. Key:	2C6E28494FB2D15A239584A77B01FA67
 #. SourceLocation:	/Game/Ranch/Upgrades/FoxenHouse.Default__FoxenHouse_C.Upgrade.DisplayName
@@ -1908,7 +1920,7 @@ msgstr "Foxen Evi"
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(5).Lines
 msgctxt ",2C85485F41A9CB181E6BF3A7AFBAD94C"
 msgid "Perhaps a little too much... they sure get chubby. Aww... but look how cute they are!"
-msgstr ""
+msgstr "Belki biraz fazla… tabii ki balık etli oluyorlar. Aaa.. ama ne kadar tatlı göründüklerine bir bak!"
 
 #. Key:	2CBC22E04FC3D2621685D7A54A4B69A8
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleGreeting01.Default__KybeleGreeting01_C.SessionData.Lines(0).Lines
@@ -1943,7 +1955,7 @@ msgstr "İnsan vajinasının tadı tam da hayal ettiğim gibi!"
 #: /Game/Dialogue/DragonMatriarch/Default/DMWantHuman.Default__DMWantHuman_C.SessionData.Lines(3).Lines
 msgctxt ",2D7FF6A641C8DE1EC57F84A825BA2219"
 msgid "To think I can mate with one... ah... yesss."
-msgstr ""
+msgstr "Birisiyle ilişkiye girme düşüncesi… ah... eveeet."
 
 #. Key:	2DBE58DB4B0AEBCB9FDD04BC94C039BD
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(5).Lines
@@ -2034,7 +2046,7 @@ msgstr "Fern'in Alraune olması için insan sütüne ihtiyacı var! Hissss, Fern
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault01.Default__DMDefault01_C.SessionData.Lines(1).Lines
 msgctxt ",2EDA99CC46CBEB3206A527B95F55FAB9"
 msgid "Go away human, this is my comfy spot and you can't have it."
-msgstr ""
+msgstr "Git insan, burası benim rahatlama yerim ve buraya sahip olamazsın."
 
 #. Key:	2EF1966C455529B6A75289AD5EF81C2E
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -2055,7 +2067,7 @@ msgstr "Vücudunu bana ver, coşku içinde penisin üzerinde çalışacağız."
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(7).Lines
 msgctxt ",2F11F20945669A4E95B79EA1B7856C2A"
 msgid "A dryad's power reaches its peak at the moment of orgasm."
-msgstr ""
+msgstr "Bir Dryad, orgasm olduğunda en güçlü haline ulaşır."
 
 #. Key:	2F5513164D00080A441C1292E501C786
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(4).Lines
@@ -2090,7 +2102,7 @@ msgstr "Büyük bir inek olduğumu düşünyorsan, bir de gençlik zamanlarımı
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(7).Lines
 msgctxt ",2FC584B146298BF0F75983AB7F59C5E1"
 msgid "Don't look at me like that, a dryad needs a break once in awhile!"
-msgstr ""
+msgstr "Bana öyle bakma, bir dryad'ın arada bir dinlenmesi gerekiyor!"
 
 #. Key:	2FFC051448D7AD3EA274FF8D334EE641
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex02.Default__MegaSlimeHadSex02_C.SessionData.Lines(1).Lines
@@ -2132,7 +2144,7 @@ msgstr "Alıcı, göğüslerini vericiye yaslarken vericinin kucağında sıçra
 #: /Game/Dialogue/DragonMatriarch/Default/DMWantHuman.Default__DMWantHuman_C.SessionData.Lines(1).Lines
 msgctxt ",307B12694EA9D8B0251B9D86E3760DB8"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. Key:	308622B94E5A8BC25F1160888147CB16
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHowLong.Default__MegaSlimeHowLong_C.SessionData.Lines(4).Lines
@@ -2181,7 +2193,7 @@ msgstr "Benim labialarım kutsal ve büyülü. Dilin onların varlığıyla şer
 #: /Game/Dialogue/DragonMatriarch/Default/DMLame.Default__DMLame_C.SessionData.Lines(0).Lines
 msgctxt ",30B4EDAF4D579766E7CE6082217D4CAC"
 msgid "*Yawwwwwwn*"
-msgstr ""
+msgstr "*Uzunca Esner*"
 
 #. Key:	3101A3934639560426484AA6C6AAE3A1
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R02.Default__FernDefault01_R02_C.SessionData.Lines(0).Lines
@@ -2335,7 +2347,7 @@ msgstr "Aaaa… miyav... Cassie üzgün."
 #: /Game/Dialogue/DragonMatriarch/Default/DMSoBeIt.Default__DMSoBeIt_C.SessionData.Lines(0).Lines
 msgctxt ",350B5B304D18A9FD50E44AA8A979877B"
 msgid "Ahhh... so be it!"
-msgstr ""
+msgstr "Ahhh, öyle olsun o zaman!"
 
 #. Key:	3526724A47197988348500AADC4A0504
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_RL.Default__RomyDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -2468,7 +2480,7 @@ msgstr "Bu dünyada küçük olmak nasıl bir şey biliyor musun?"
 #: /Game/Dialogue/DragonMatriarch/Default/DMTaskFulfilled.Default__DMTaskFulfilled_C.SessionData.Lines(1).Lines
 msgctxt ",3815589C483262ECB1EA19B8C0F8DABA"
 msgid "You gave me so much milk, and I consumed all of it!"
-msgstr ""
+msgstr "Bana çok fazla süt verdin, ve ben hepsini içtim!"
 
 #. Key:	382D95F84EE60493751368AE5D1FFE56
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFuta(6).LinesToFuta
@@ -2503,14 +2515,14 @@ msgstr "..."
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(9).Lines
 msgctxt ",38BCD1174242BC7366EC2D967B472DE1"
 msgid "You can tell how hard I came by the size of the fruit. The larger ones were oh so fun to make."
-msgstr ""
+msgstr "Meyvenin büyüklüğünden ne kadar zevk aldığımı görebilirsin. Büyük olanlar yapması en zevkli olanlar."
 
 #. Key:	38CC526548FEE9E798647C9C32B75ECE
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(4).Lines
 msgctxt ",38CC526548FEE9E798647C9C32B75ECE"
 msgid "I decided to use my dryad power to produce fruit for them, and they love it."
-msgstr ""
+msgstr "Dryad güçlerimi kullanarak onlara meyve üretmeye karar verdim, ve bunu sevdiler."
 
 #. Key:	38F493C44D198004851E1399B9B3A835
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToMale(1).LinesToMale
@@ -2587,7 +2599,7 @@ msgstr "Miyav! Bu iyi hissettirdi..."
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone.Default__DryadHaveKeystone_C.SessionData.Lines(2).Lines
 msgctxt ",3A46F38444516EB07B8D84BC38A2B77C"
 msgid "Sure we made a giant fruit, but you lack the lust I require to feed these cows."
-msgstr ""
+msgstr "Evet büyük bir meyve yaptık, ama bu inekleri besleyecek istek yok sende."
 
 #. Key:	3A5C7D5342118BA87B8C6595C9B5D200
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(7).Lines
@@ -2678,7 +2690,7 @@ msgstr "Thriae Kovanı"
 #: /Game/Dialogue/Autumn/Default/DryadDefault01_RL.Default__DryadDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",3C6949B84E9BE02327C5408DC7F1D673"
 msgid "I can help you make a cherry!"
-msgstr ""
+msgstr "Kiraz yapmana yardımcı olabilirim!"
 
 #. Key:	3C944B624D25292479528987C3078CBF
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(7).Lines
@@ -2689,7 +2701,8 @@ msgstr "O'ndan önce, şimdi ve sonrası... Hepsi O'nun sonsuza dek sürecek şa
 
 #. Key:	3CA687014A0A2E686C1525BCF1F25CAE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 -
+#: Value).TraitIcons.HelpText
 msgctxt ",3CA687014A0A2E686C1525BCF1F25CAE"
 msgid "Gaudy: Inherited an unusual vivid color scheme."
 msgstr "Şatafatlı: Değişik bir renk paletine sahip."
@@ -2703,7 +2716,8 @@ msgstr "Bu sana tatlı midil-- yani güçlü centaur savaşhanımını geçmeyi 
 
 #. Key:	3D4441784AF4D03AE277679928164F4E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",3D4441784AF4D03AE277679928164F4E"
 msgid "Stoic"
 msgstr "Acıya Katlanan"
@@ -2755,7 +2769,7 @@ msgstr "Ahhh! Böyle sıkıcı bir görev için mükemmel bir oyuncak. Teşekkü
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL.Default__DMDefault_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",3E509CE6430904677DC8DBB0A19336D8"
 msgid "Can't you nap somewhere else?"
-msgstr ""
+msgstr "Başka bir yerde kestiremez misin?"
 
 #. Key:	3E5797444DCB450E19730E9C8CB6A4FB
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -2808,7 +2822,8 @@ msgstr "İblis'ler İnleyen Kayalık'taki lavı tercih ediyor."
 
 #. Key:	3EF6E0F646189B89DDE495A5A01F7FC3
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",3EF6E0F646189B89DDE495A5A01F7FC3"
 msgid "Abomination"
 msgstr "İğrenç"
@@ -2839,7 +2854,7 @@ msgstr "Oh..."
 #: /Game/Dialogue/Autumn/Default/DryadCherryHelp_RL.Default__DryadCherryHelp_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",3FA017C943E38117C9C5C1B911067136"
 msgid "Let's make a fruit!"
-msgstr ""
+msgstr "Hadi meyve yapalım!"
 
 #. Key:	3FF7BD1544456D7735C2D2AA0DCBAA1A
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaHadSex01.Default__CamillaHadSex01_C.SessionData.LinesToFuta(1).LinesToFuta
@@ -2930,7 +2945,7 @@ msgstr "Çoğu Kraken, zevkimizi ve üreme potansiyelimizi en üst düzeye çık
 #: /Game/Dialogue/DragonMatriarch/Default/DMMuchEnergy.Default__DMMuchEnergy_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",415BAAD3485DF4862A1042A34A209E90"
 msgid "Perhaps a quick flight up to Climax Peak is in order, there's bound to be a dumb Titan lumbering about."
-msgstr ""
+msgstr "Belki de sıradaki şey Doruk Noktası'na bir uçuş gerçekleştirmek, orada dolaşan aptal bit Titan olmalı."
 
 #. Key:	4190CA08434458A4DA0C58AFFD9BDDC9
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(2).Lines
@@ -3007,7 +3022,7 @@ msgstr "Işığı sınırlamak için başka bir güç lazımdı, bunun için Tan
 #: /Game/Dialogue/DragonMatriarch/Default/DMNapSomewhereElse.Default__DMNapSomewhereElse_C.SessionData.Lines(1).Lines
 msgctxt ",433691C34A0864415618B78808993A0E"
 msgid "For hundreds of years I have come to this rock to rest, it's quite comfortable."
-msgstr ""
+msgstr "Yüzlerce yıldır dinlenmek için bu kayaya geldim, oldukça rahat."
 
 #. Key:	434F3EDD4D71E19F342B9FB4B2780A63
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaHadSex01.Default__NeelaHadSex01_C.SessionData.Lines(0).Lines
@@ -3028,7 +3043,7 @@ msgstr "*Mrrr* Beni zevke getirdin… bu yüzden Cassie senin için tamir etti!"
 #: /Game/Dialogue/DragonMatriarch/Default/DMNapSomewhereElse.Default__DMNapSomewhereElse_C.SessionData.Lines(0).Lines
 msgctxt ",436AE5954AEC637113E3E1A30DFDE1C5"
 msgid "Nah."
-msgstr ""
+msgstr "Hayır."
 
 #. Key:	437DBE7940749A6838FDA39FD90FF637
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryRaiseTraitLvl_RL.Default__EmissaryRaiseTraitLvl_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -3095,7 +3110,8 @@ msgstr "Her dünyaya yaşamın evrimine rehberlik etmek için başmelek olan öz
 
 #. Key:	44BC09AE4BDFA439FBFD8BAABD7A96D0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",44BC09AE4BDFA439FBFD8BAABD7A96D0"
 msgid "Chubby"
 msgstr "Tombul"
@@ -3168,7 +3184,7 @@ msgstr "Annem muhteşem bir Kraken, denizin güzel, şehvetli bir kızı. Bir kr
 #: /Game/Dialogue/Autumn/Default/DryadHadSex01.Default__DryadHadSex01_C.SessionData.Lines(0).Lines
 msgctxt ",46745F5D451EF7EB89BFE58F57B364E3"
 msgid "Look at the size of it!"
-msgstr ""
+msgstr "Şunun büyüklüğüne bak!"
 
 #. Key:	46C09FA14157EC1F3D6608BB30F25A60
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(3).Lines
@@ -3228,7 +3244,8 @@ msgstr "Sütüme sahip olabilirsin!"
 
 #. Key:	47D73C824ADC81BC6CCF3D92213FA9A5
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",47D73C824ADC81BC6CCF3D92213FA9A5"
 msgid "Sterile"
 msgstr "Kısır"
@@ -3256,7 +3273,8 @@ msgstr "İlk defa birinin beni yıkmasını istiyorum. Çok zor bir istek değil
 
 #. Key:	48107A45419D9511DA312F919A7866E8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(6 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(6 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(6 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",48107A45419D9511DA312F919A7866E8"
 msgid "Hedon Township"
 msgstr "Hedon Yerleşkesi"
@@ -3326,7 +3344,8 @@ msgstr "Giysilerini çıkar, çıplak olmalısın."
 
 #. Key:	49C9E46943998C63648E12A033938266
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",49C9E46943998C63648E12A033938266"
 msgid "Debauched"
 msgstr "Ahlaksız"
@@ -3539,7 +3558,7 @@ msgstr "Ne yapabilirsin?"
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(2).Lines
 msgctxt ",4EBD4351412C922E0D1B4DAE8A11ABC7"
 msgid "It's not uncommon for a single Ayrshire to eat ten bosom cherries in a single day."
-msgstr ""
+msgstr "Tek bir Ayrshire'ın bir günde 10 tane göğüs kirazı yemesi nadir görülen bir şey değildir."
 
 #. Key:	4F17407F4C735CA48643138A59606A3C
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01.Default__FernDefault01_C.SessionData.Lines(2).Lines
@@ -3560,7 +3579,7 @@ msgstr "*Yalama sesleri*"
 #: /Game/Dialogue/Autumn/Default/DryadGreeting01.Default__DryadGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",4F3471C54B27DDD9BC7D5F8A12D1E871"
 msgid "Soft and plump, with many a bump."
-msgstr ""
+msgstr "Yumuşak ve tombul, birçok yumru ile."
 
 #. Key:	4F37D08C43E11EDF706D07998D86692F
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.LinesGrungy(0).LinesGrungy
@@ -3620,14 +3639,16 @@ msgstr "Ah! Mirru, denizin prensesi bu tür şeyleri açığa vurmaz!"
 
 #. Key:	50B849704DFA728D7330279E30E472A8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 -
+#: Value).TraitIcons.HelpText
 msgctxt ",50B849704DFA728D7330279E30E472A8"
 msgid "Large: Roughly 8ft in height."
 msgstr "Büyük: Yaklaşık olarak 8ft boyunda."
 
 #. Key:	50BBFEDE44CEF2DA10124AAE7DBF17B9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",50BBFEDE44CEF2DA10124AAE7DBF17B9"
 msgid "Slick"
 msgstr "Kaygan"
@@ -3641,7 +3662,8 @@ msgstr "Suda yeteri miktarda sperm birikince, slime'a dönüşmesi için bir şa
 
 #. Key:	51444A264763D03D8B5051AEDAB55B5F
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 -
+#: Value).TraitIcons.HelpText
 msgctxt ",51444A264763D03D8B5051AEDAB55B5F"
 msgid "Abomination: This one was the product of incest."
 msgstr "İğrenç: Ensest ürünü."
@@ -3683,7 +3705,8 @@ msgstr "..."
 
 #. Key:	5243F67240932D62D7FDFABA63222594
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",5243F67240932D62D7FDFABA63222594"
 msgid "Hung"
 msgstr "Sarkık"
@@ -3809,7 +3832,8 @@ msgstr "Vulvarg"
 
 #. Key:	55894A674E5C647D1DC14EB1951CE50D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 -
+#: Value).TraitIcons.HelpText
 msgctxt ",55894A674E5C647D1DC14EB1951CE50D"
 msgid "Sadistic: Reduces the loyalty of breeding partners, but gains twice as much XP."
 msgstr "Sadist: Eşlerinin bağlılığını düşürür, ama iki kat Tecrübe alır."
@@ -3837,7 +3861,8 @@ msgstr "*Esniyor*"
 
 #. Key:	560FCF68432946FE1C6D7BA2F8088AB6
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(0 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(0 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(0 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",560FCF68432946FE1C6D7BA2F8088AB6"
 msgid "Virgin Breaks"
 msgstr "Bakire Vadisi"
@@ -3882,7 +3907,7 @@ msgstr "Tanrıça'nın neden böyle değersiz yaşam formları yaratma ihtiyacı
 #: /Game/Dialogue/DragonMatriarch/Default/DMHadSex01.Default__DMHadSex01_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",577526BD4B68AFD89F753E8F9023A937"
 msgid "Somehow your little cock made me feel amazing."
-msgstr ""
+msgstr "Nasılsa küçük penisin muhteşem hissettirdi."
 
 #. Key:	57759F684D98A4E1D01E469878BF79D9
 #. SourceLocation:	/Game/Dialogue/Neela/SexScenes/NeelaSnakeCuddleT.Default__NeelaSnakeCuddleT_C.SessionData.Lines(2).Lines
@@ -3977,7 +4002,8 @@ msgstr "Ahh… Lamia dilim çok iyi hissettirecek..."
 
 #. Key:	5A3E7C5348B9CE872B1AC68AF9AEF76B
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 -
+#: Value).TraitIcons.HelpText
 msgctxt ",5A3E7C5348B9CE872B1AC68AF9AEF76B"
 msgid "Slender: This one has less body fat."
 msgstr "Narin: Daha az vücut yağına sahip."
@@ -4155,11 +4181,12 @@ msgstr "Dişi insanlara nazaran, @MONSTER_RACE@lerin dişileri daha fazla süt �
 #: /Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",5F4FDDD7441D663752F3D78544042EEA"
 msgid "I'm getting wet just thinking about your thick cock seeding me."
-msgstr ""
+msgstr "Penisin içimdeyken boşalmanı düşünmek beni ıslatıyor."
 
 #. Key:	5F71A084478332FD553228BF6DB08550
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",5F71A084478332FD553228BF6DB08550"
 msgid "Huge Size"
 msgstr "Dev Yapılı"
@@ -4239,7 +4266,7 @@ msgstr "Büyük Konsept nedir?"
 #: /Game/Dialogue/DragonMatriarch/Default/DMTaskFulfilled.Default__DMTaskFulfilled_C.SessionData.Lines(0).Lines
 msgctxt ",613E368A449069B472AC11842731C6AB"
 msgid "Ahhh so sweet and creamy! I haven't felt this good in decades."
-msgstr ""
+msgstr "Ahhh çok tatlı ve kremsi! Yıllardır bu kadar iyi hissetmemiştim."
 
 #. Key:	61A8146D43CCAA9D468CCC9D2CB22F42
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon.Default__AmberMaeLockedDungeon_C.SessionData.Lines(4).Lines
@@ -4351,7 +4378,7 @@ msgstr "Evet, oraya yıllardır kimse inmiyor!"
 #: /Game/Dialogue/DragonMatriarch/Default/DMHadSex01.Default__DMHadSex01_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",63B540744119014025598C8555237076"
 msgid "Humans... I can understand why the world is obsessed with you now."
-msgstr ""
+msgstr "Insanlar... Dünyanın neden sizlere takıntılı olduğunu şimdi anlayabiliyorum."
 
 #. Key:	63B6296840BB64E725E7219F715EEAB1
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -4460,7 +4487,8 @@ msgstr "Oh Efendim... bana karşı çok iyisiniz."
 
 #. Key:	65F2B1384977D80660A4E4A91389BC9D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",65F2B1384977D80660A4E4A91389BC9D"
 msgid "Grungy"
 msgstr "Pis"
@@ -4470,7 +4498,7 @@ msgstr "Pis"
 #: /Game/Dialogue/DragonMatriarch/Default/DMClimaxPeak.Default__DMClimaxPeak_C.SessionData.Lines(4).Lines
 msgctxt ",660193204E5DEA727DEC1C858BA2467E"
 msgid "Legends say, when a blessed dragon consumes the milk she will be granted new vigor."
-msgstr ""
+msgstr "Efsaneler, kutsanmış bir ejderha sütü tükettiğinde yeni bir güç kazanacağını söylüyor."
 
 #. Key:	664C0BE948989DEEE1185793CB1EEE77
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFemale(5).LinesToFemale
@@ -4498,7 +4526,7 @@ msgstr "Banyo yap."
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone.Default__DryadHaveKeystone_C.SessionData.Lines(3).Lines
 msgctxt ",66E2EA9044A750BB60AD308B87FE3071"
 msgid "They eat the bossom cherries faster than I can make them."
-msgstr ""
+msgstr "Göğüs kirazlarını yapabileceğimden daha hızlı yiyorlar."
 
 #. Key:	66E8E5AB4E2D126AFBE3A7858C3E70EF
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_PussyPortals.Default__NeelaDefault01_PussyPortals_C.SessionData.Lines(0).Lines
@@ -4600,7 +4628,8 @@ msgstr "Ohhh yes… miyav... ahhh..."
 
 #. Key:	6928C04F4EBC681B1BF676BB56435E32
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",6928C04F4EBC681B1BF676BB56435E32"
 msgid "Charmer"
 msgstr "Büyüleyici"
@@ -4631,7 +4660,7 @@ msgstr "Ne yapabilirsin?"
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(6).Lines
 msgctxt ",69736B6847FFEF0E503D5B911CB4FE32"
 msgid "I may or may not take advantage of cute sleeping cows..."
-msgstr ""
+msgstr "Tatlı uyuyan inekleri kendim için kullanmış veya kullanmamış olabilirim..."
 
 #. Key:	697AC02A4A47BBBD70150ABE216F79E9
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_StartForgotten.Default__ParvatiDefault01_StartForgotten_C.SessionData.Lines(1).Lines
@@ -4754,7 +4783,8 @@ msgstr "Foxen ve Vulvarg'lar Şehvet Ormanı'nın ağaçlarını ve gölgesini s
 
 #. Key:	6D1431474F1C713E9D755F93772C653C
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 -
+#: Value).TraitIcons.HelpText
 msgctxt ",6D1431474F1C713E9D755F93772C653C"
 msgid "Juicy: Produces 50% extra body fluid when harvested."
 msgstr "Sulu: %50 daha fazla vücut sıvısı üretir."
@@ -4771,7 +4801,7 @@ msgstr "Waterfall!"
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone.Default__DryadHaveKeystone_C.SessionData.Lines(4).Lines
 msgctxt ",6D1F8DD440DBF92518A5E6833EB831FA"
 msgid "I've heard legends of the daughters of the queen bee in Hivelands."
-msgstr ""
+msgstr "Kovan Arazisi'ndeki kraliçe arının kızlarının efsanelerini duymuştum."
 
 #. Key:	6D4E481742B09428791263B3A820281E
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(4).Lines
@@ -4883,7 +4913,7 @@ msgstr "Oh bekle... Ben, eee..."
 #: /Game/Dialogue/DragonMatriarch/Default/DMHadSex01.Default__DMHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",6EB1D4054ABCE1E3818FC39FB5A8415A"
 msgid "Somehow you took a cock larger than you and still made it feel amazing."
-msgstr ""
+msgstr "Nasıl yaptın bilmiyorum ama senden büyük bir penisi içine aldın, ve yine de harika hissettirdi."
 
 #. Key:	6ED67799423B871587B12E8DEC3D1BE1
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(0).Lines
@@ -4946,11 +4976,12 @@ msgstr "Çiçeğime bak, açmış! Bunu söylemek niye garip geldi ki..."
 #: /Game/Dialogue/DragonMatriarch/Default/DMGrasslandsTrees.Default__DMGrasslandsTrees_C.SessionData.Lines(0).Lines
 msgctxt ",6FBC636D494A40330AAEBDBCD6886299"
 msgid "What do you know human!"
-msgstr ""
+msgstr "Ne biliyorsun insan!"
 
 #. Key:	6FED048C4BF38E565F2ADC90DC3F4390
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",6FED048C4BF38E565F2ADC90DC3F4390"
 msgid "Kindhearted"
 msgstr "Nazik Kalpli"
@@ -4967,7 +4998,7 @@ msgstr "Tapınağın yanında ki zindan da neyin nesi?"
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL5_F.Default__DMDefault_RL5_F_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",703D9D7D4CD9D794DDE1929CCE0E5D1C"
 msgid "Bring it on dragon."
-msgstr ""
+msgstr "Elinden geleni ardına koyma ejderha."
 
 #. Key:	703FABE24E96D3592AA524833F23CA4D
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_RL.Default__CassieDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -5002,7 +5033,7 @@ msgstr "İsrafa geçecek meniyi yeni bir hayata dönüştürüyoruz, slime'mım�
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL5_T.Default__DMDefault_RL5_T_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",709579B446D8D4D2C2F3EE98857ED27A"
 msgid "Bring it on dragon."
-msgstr ""
+msgstr "Elinden geleni ardına koyma ejderha."
 
 #. Key:	70A96E9D4322ED35C13DF78AF12A5931
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_BlueSmoke.Default__LeylannaDefault01_BlueSmoke_C.SessionData.Lines(0).Lines
@@ -5093,7 +5124,7 @@ msgstr "Hangi pozisyonun üzerinden geçmeliyiz?"
 #: /Game/Dialogue/Autumn/Default/DryadGreeting01.Default__DryadGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",725969164426D429929F949920B9A0BD"
 msgid "Delicious bosom cherries for all of my lovely dairies."
-msgstr ""
+msgstr "Tüm güzel mandıralarım için lezzetli göğüs kirazları."
 
 #. Key:	72676A264244C7A242C2688B7B60F6A5
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01.Default__MirruDefault01_C.SessionData.Lines(1).Lines
@@ -5132,7 +5163,8 @@ msgstr "Ahhh evet! İnsan tohumunla doldur beni... ohhh."
 
 #. Key:	73986546438B9C190B8B769537B05047
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(12 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(12 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(12 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",73986546438B9C190B8B769537B05047"
 msgid "Climax Peak"
 msgstr "Doruk Noktası"
@@ -5170,7 +5202,7 @@ msgstr "Mavi bulut... güzel kokuyor..."
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(2).Lines
 msgctxt ",73F68F1D4C449AE1E1ECBCB61358B27E"
 msgid "Harpies prefer the hot sands of the Lewd Desert."
-msgstr ""
+msgstr "Harpy'ler, Çapkın Kumlar'ın sıcak kumlarını tercih eder."
 
 #. Key:	740E4D7D44C42EC222B32AAF3DB022F4
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(11).Lines
@@ -5230,7 +5262,8 @@ msgstr "Doruk Noktası artık erişilebilir."
 
 #. Key:	752BA5D9498A3D0A3B274BA6E3AFDDAE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",752BA5D9498A3D0A3B274BA6E3AFDDAE"
 msgid "Lewd Desert"
 msgstr "Çapkın Kumlar"
@@ -5293,7 +5326,8 @@ msgstr "*SONU OLMAYAN AĞLAMA*"
 
 #. Key:	76C3B8B24ADB1D21C1F205A4E3B35D2A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 -
+#: Value).TraitIcons.HelpText
 msgctxt ",76C3B8B24ADB1D21C1F205A4E3B35D2A"
 msgid "Atypical: Inherited an unusual size for its variant."
 msgstr "Alışılmamış: Türüne göre değişik bir boyuta sahip."
@@ -5349,14 +5383,16 @@ msgstr "Onlara duş aldıracaksın tabii ki, eğer kirlilerse. Şansına, @MONST
 
 #. Key:	786684AF43E49B03AB1575A2054AC196
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",786684AF43E49B03AB1575A2054AC196"
 msgid "Large Size"
 msgstr "Büyük Boyut"
 
 #. Key:	78B7319E49FA8E32267F09898482F929
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",78B7319E49FA8E32267F09898482F929"
 msgid "Slender"
 msgstr "Narin"
@@ -5443,7 +5479,7 @@ msgstr "Özellik seviyelerini arttır."
 #: /Game/World/Overworld.Overworld:PersistentLevel.EM_Keystone_DM.FailMessage
 msgctxt ",7AF5BE374EF5FF228013EAB5CEA00E2E"
 msgid "Don't touch this."
-msgstr ""
+msgstr "Buna dokunma."
 
 #. Key:	7B46D37346081D01CB0C9B8C6CAEE2DF
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_RL.Default__NeelaDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
@@ -5454,7 +5490,8 @@ msgstr "Vajina portalını… kullanmak istiyorum."
 
 #. Key:	7B5F72194EE494B66BEC5CAD05253722
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",7B5F72194EE494B66BEC5CAD05253722"
 msgid "Juicy"
 msgstr "Sulu"
@@ -5478,14 +5515,14 @@ msgstr "Ohhh @BREEDER_NAME@... sen harikaydın."
 #: /Game/Dialogue/DragonMatriarch/Default/DMGreeting01.Default__DMGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",7BF991CE424A23FC457D0E9B71CACEBE"
 msgid "Is this a dream? Humans aren't supposed to exist."
-msgstr ""
+msgstr "Bu bir rüya mı? İnsanların var olmaması gerekir."
 
 #. Key:	7C125E5D4D9517525ACC16A414D5C0E1
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadGreeting01.Default__DryadGreeting01_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/Autumn/Default/DryadGreeting01.Default__DryadGreeting01_C.SessionData.Lines(4).Lines
 msgctxt ",7C125E5D4D9517525ACC16A414D5C0E1"
 msgid "I didn't notice I had a visitor. A human visitor... how interesting."
-msgstr ""
+msgstr "Bir misafirim olduğunu fark etmemiştim. İnsan bir misafir… ne kadar ilginç."
 
 #. Key:	7C4054234127D8843978CD80C4B540B7
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(1).LinesToMale
@@ -5566,7 +5603,8 @@ msgstr "Penisin ağzımın arkalarına değerken kadife gibi yumuşak dilimi his
 
 #. Key:	7E871257404E27C20903A3877220C69A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(10 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(10 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(10 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",7E871257404E27C20903A3877220C69A"
 msgid "Pleasure Pastures"
 msgstr "Zevk Çayırı"
@@ -5594,7 +5632,8 @@ msgstr "Sylvan'larını Yönet"
 
 #. Key:	7EF6E26243EE042D016B90AFA2F62AE7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",7EF6E26243EE042D016B90AFA2F62AE7"
 msgid "Divergent"
 msgstr "Rastgele"
@@ -5653,7 +5692,7 @@ msgstr "Çok naziksin! Kimse bana hayatım boyunca bu kadar nazik olmamıştı!"
 #: /Game/Dialogue/DragonMatriarch/Default/DMAboutDragons.Default__DMAboutDragons_C.SessionData.Lines(0).Lines
 msgctxt ",80E41C3F423650528E6EDA8372C9D9E8"
 msgid "We are the masters of this mountain range."
-msgstr ""
+msgstr "Dağın etrafındaki bölgelerin efendisiyiz."
 
 #. Key:	8103840A43F7351F6B263C98CC5A6335
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(2).Lines
@@ -5692,7 +5731,8 @@ msgstr "Bu eski tapınak çünkü yenisi daha iyi."
 
 #. Key:	81BA7F3C4947D886880CA687DA5D133F
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(7 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(7 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(7 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",81BA7F3C4947D886880CA687DA5D133F"
 msgid "Homestead"
 msgstr "Çiftlik Alanı"
@@ -5769,7 +5809,8 @@ msgstr "@MOSNTER_RACE@'ini teklif etmeye mi geldin?"
 
 #. Key:	840B179B496FE7BBE7487EAE11227191
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(9 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(9 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(9 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",840B179B496FE7BBE7487EAE11227191"
 msgid "Lustwood"
 msgstr "Şehvet Ormanı"
@@ -5867,14 +5908,16 @@ msgstr "Gitmem lazım, iyi şanslar!"
 
 #. Key:	854AE3F2484BF88BB14875815FEE38B4
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",854AE3F2484BF88BB14875815FEE38B4"
 msgid "Sadistic"
 msgstr "Sadist"
 
 #. Key:	855B7EB248E6DF97FE4486BAE527851B
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",855B7EB248E6DF97FE4486BAE527851B"
 msgid "Small Size"
 msgstr "Küçük Boyut"
@@ -5905,7 +5948,7 @@ msgstr "En büyük silahım mızrağım, bacaklarımın arasında olan büyük �
 #: /Game/Dialogue/DragonMatriarch/Default/DMAboutDragons.Default__DMAboutDragons_C.SessionData.Lines(4).Lines
 msgctxt ",85D697914BECD8CA4AD94DB4BE76C00A"
 msgid "Dragons are old, very old. We were the first to claim these mountains."
-msgstr ""
+msgstr "Ejderhalar yaşlıdır, çok yaşlıdır. Bu dağları ilk alan bizdik."
 
 #. Key:	85EBB13040FCB54F971A719C5A67F240
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(8).Lines
@@ -6108,7 +6151,7 @@ msgstr "Hayır!"
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(3).Lines
 msgctxt ",88DA748247D4C0C5CE3BEC9851A55E05"
 msgid "Our nature inclines us to plant roots and help life flourish. In my case, I saw so many cows wandering aimlessly here."
-msgstr ""
+msgstr "Bizim doğamız rotamızı kök ekmeye ve hayatı güzelleştirmeye çeviriyor. Benim açımdan, fazla sayıda amaçsız dolaşan inek gördim."
 
 #. Key:	88E908134B3B56C2274F33974CFB4AE5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(0).LinesToMale
@@ -6143,7 +6186,7 @@ msgstr "Bir insanla ilişkiye girmek kalp atışlarımı hızlandırıyor, ve do
 #: /Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",89B96FEA426FD3ECBA90259F724E6DF2"
 msgid "I'm getting wet just thinking about us rubbing our labia together."
-msgstr ""
+msgstr "Labialarımızı birbirimize sürttüğümüzü düşünmek bile beni ıslatıyor."
 
 #. Key:	89C2CF4D4CB264FC19F1259B533341FD
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm.Default__LeylannaDefault01_HowToSpiritForm_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -6203,7 +6246,8 @@ msgstr "Vücudunu sınırlarına kadar zorlandığın zaman, bilincini kesin olm
 
 #. Key:	8B26942A46ED0C778AE5E1BC7C39336A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 -
+#: Value).TraitIcons.HelpText
 msgctxt ",8B26942A46ED0C778AE5E1BC7C39336A"
 msgid "Fertile: Fertility doubles pregnancy chance from repeated breeding."
 msgstr "Verimli: Tekrar eden ilişkilerde hamile kalma şansı iki kat artar."
@@ -6217,7 +6261,8 @@ msgstr "Onlar evde kalıp Anne'ye hizmet edip onu memnun edecekler... Oh Anne'yi
 
 #. Key:	8B77D0FA4239D5EB678BAE8CDE396838
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",8B77D0FA4239D5EB678BAE8CDE396838"
 msgid "Hedonist"
 msgstr "Hedonist"
@@ -6367,7 +6412,7 @@ msgstr "Foxen vücut sıvısı."
 #: /Game/Dialogue/Autumn/Default/DryadHadSex01.Default__DryadHadSex01_C.SessionData.Lines(3).Lines
 msgctxt ",8E34225A44160F2F0BD6DD9EFC546B2E"
 msgid "Ohhhh... we should do it again."
-msgstr ""
+msgstr "Ohhhh… bunu tekrar yapmalıyız."
 
 #. Key:	8E5478244452BC05131C69AB8D675563
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeSuckJugs_RL.Default__AmberMaeSuckJugs_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -6434,7 +6479,8 @@ msgstr "Boşluk'tan bile, sana hayranlık duyuyorlar üretici. Zevk ve sevgiyi d
 
 #. Key:	8FFFE80A49114390AEF4A190D3F0A48F
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",8FFFE80A49114390AEF4A190D3F0A48F"
 msgid "Fertile"
 msgstr "Verimli"
@@ -6476,7 +6522,8 @@ msgstr "*Yalama sesleri*"
 
 #. Key:	90BF47A74AF19E981D455BAB280C9D02
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 -
+#: Value).TraitIcons.HelpText
 msgctxt ",90BF47A74AF19E981D455BAB280C9D02"
 msgid "Hedonist: Gains the XP that would have been granted to the other mate."
 msgstr "Hedonist: Partnerine gidecek tüm Tecrübe'yi kendine alır."
@@ -6521,7 +6568,7 @@ msgstr "İnsan spermi hep istediğim bir şeydi."
 #: /Game/World/Overworld.Overworld:PersistentLevel.EM_Keystone_Dryad.FailMessage
 msgctxt ",91922DC94FEA86B72D24D097B1B9B169"
 msgid "Tree roots hold it in place."
-msgstr ""
+msgstr "Ağaç kökleri onu yerinde tutuyor."
 
 #. Key:	91BFB5AF42AF2A7DA5B8219CB5296CAC
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault02.Default__FaleneDefault02_C.SessionData.Lines(2).Lines
@@ -6539,7 +6586,8 @@ msgstr "Son formuma ulaşmam için insan spermine ihtiyacım var. Penisini son d
 
 #. Key:	926325814BBC6464CA76E097764B7F27
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 -
+#: Value).TraitIcons.HelpText
 msgctxt ",926325814BBC6464CA76E097764B7F27"
 msgid "Hominal: Inherited more human traits."
 msgstr "Hominal: Daha insancıl bir görünüşe sahip."
@@ -6584,7 +6632,7 @@ msgstr "Tüy gibi ellerim bunu halledebilir, ama insan sevisi de yardımcı olab
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(5).Lines
 msgctxt ",9309BD074F9B0FFE924A35B157A44C07"
 msgid "The thunderous clash of their fall sometimes even shakes the fruit loose."
-msgstr ""
+msgstr "Bazen yere düştükleri zaman meyveler düşüyor."
 
 #. Key:	931A324E4A49D084F8210CA54C479750
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -6605,7 +6653,7 @@ msgstr "İnanılmaz!"
 #: /Game/Dialogue/Autumn/Default/DryadGreeting01.Default__DryadGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",934029E9456E811CFA0084839F9BABE4"
 msgid "Sweet and juicy, but just a little squishy."
-msgstr ""
+msgstr "Tatlı ve sulu, ama azıcık yumuşak."
 
 #. Key:	93692542487EDBAE8A18A699EC9053E1
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFemale(4).LinesToFemale
@@ -6679,7 +6727,8 @@ msgstr "Spermime sahip olabilirsin!"
 
 #. Key:	94451EBE42500C5CEC2E988DDD887046
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 -
+#: Value).TraitIcons.HelpText
 msgctxt ",94451EBE42500C5CEC2E988DDD887046"
 msgid "Nymphomaniac: Loyalty is increased twice as fast from having sex."
 msgstr "Seks Düşkünü: Bağlılık, ilişkiye dirildiğinde iki kat artar."
@@ -6756,7 +6805,8 @@ msgstr "Harpy vücut sıvısı."
 
 #. Key:	95781B414AAF336B071430A39FC2F698
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(5 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(5 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(5 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",95781B414AAF336B071430A39FC2F698"
 msgid "Esoteric Glade"
 msgstr "Ezoterik Açıklık"
@@ -6854,7 +6904,8 @@ msgstr "Bu tüm Foxen türlerini yakalayıp depolamana izin verecektir."
 
 #. Key:	97244FB84D6D7CC0273CD3BB89B847D9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",97244FB84D6D7CC0273CD3BB89B847D9"
 msgid "Swift"
 msgstr "Çevik"
@@ -6892,7 +6943,7 @@ msgstr "İpek gibi vücuduma sığın ve seni saatler boyunca zevke getireyim. �
 #: /Game/Dialogue/DragonMatriarch/Default/DMWantHuman.Default__DMWantHuman_C.SessionData.Lines(4).Lines
 msgctxt ",97B7D1BE4E385C8A6215AC8465CF6026"
 msgid "Your little body will be overwhelmed, and the next thing you know will be the sweet embrace of the Reaper."
-msgstr ""
+msgstr "Küçük bedenin bunalacak ve sonraki hissedeceğin şey Reaper'ın tatlı kucaklaması olacak."
 
 #. Key:	97B89613437939D3F62A4F9364D46263
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchPrettyButterfly.Default__MonarchPrettyButterfly_C.SessionData.Lines(5).Lines
@@ -6969,14 +7020,14 @@ msgstr "Foxenlerini yönet"
 #: /Game/Dialogue/DragonMatriarch/Default/DMClimaxPeak.Default__DMClimaxPeak_C.SessionData.Lines(2).Lines
 msgctxt ",9894566A4CC22E8EE536A59E367BF98A"
 msgid "*Yawn*"
-msgstr ""
+msgstr "*Esner*"
 
 #. Key:	9906C87647695E1D9105C3867D704EB0
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMAboutDragons.Default__DMAboutDragons_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/DragonMatriarch/Default/DMAboutDragons.Default__DMAboutDragons_C.SessionData.Lines(3).Lines
 msgctxt ",9906C87647695E1D9105C3867D704EB0"
 msgid "I have taken the... heavy burden... upon myself of growing the dragon population."
-msgstr ""
+msgstr "Ben... üzerime ağır bir yük aldım… Ejderha popülasyonunun artması üzerine."
 
 #. Key:	992B062D49B06DDE4398A58352D2F7DF
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchStartShySexF.Default__MonarchStartShySexF_C.SessionData.Lines(0).Lines
@@ -7102,7 +7153,7 @@ msgstr "Meditasyon yapıyorken, aklımda ki tek şey seninle birlikte olmak."
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",9C0628944A08387197D344B7CBC502FB"
 msgid "The dragon race will reign supreme over all of @WORLD_NAME@!"
-msgstr ""
+msgstr "Ejder ırkı @WORLD_NAME@ üzerindeki her karış toprağa sahip olacak!"
 
 #. Key:	9C3FDDD5490B3180DDD3329C692C0B4D
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(3).Lines
@@ -7123,7 +7174,7 @@ msgstr "*Burun Çekme Sesleri*"
 #: /Game/Dialogue/Autumn/Default/DryadDefault01_RL.Default__DryadDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",9CA55551425FE9DE83AB5B9535E62AFC"
 msgid "Tell me about dryads!"
-msgstr ""
+msgstr "Dryadlardan bahset!"
 
 #. Key:	9CB6C5E14DD6C412AD7898B8D2120925
 #. SourceLocation:	/Game/UI/TaskDescriptions.TaskDescriptions.TextEntries(8).TextEntries
@@ -7197,7 +7248,8 @@ msgstr "Belki göt yanaklarımın arasında?"
 
 #. Key:	9ECA418E4EC2E9617CD48B82C43CB5FA
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 -
+#: Value).TraitIcons.HelpText
 msgctxt ",9ECA418E4EC2E9617CD48B82C43CB5FA"
 msgid "Huge: Roughly 10ft in height."
 msgstr "Dev: Yaklaşık 10ft boyunda."
@@ -7207,7 +7259,7 @@ msgstr "Dev: Yaklaşık 10ft boyunda."
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(8).Lines
 msgctxt ",9ECDE7F64C28F7F9624081B927CA3030"
 msgid "Compared to other Alraunes, dryads are wise and mobile. We use our pleasure to help others."
-msgstr ""
+msgstr "Diğer Alraunelere kıyasla, dryadlar daha bilge ve hareketliler. Arzularımızı kullanarak diğerlerine yardım ediyoruz."
 
 #. Key:	9EEBDB0446F2AAFA8F605E8A3DE83534
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic.Default__RomyDefault01_YourMusic_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -7232,7 +7284,8 @@ msgstr "Bir daha çıkartmak istiyorum... siz insanlar çok kolaysınız."
 
 #. Key:	9F25BEB847378BA942933C8A503B4F1A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 -
+#: Value).TraitIcons.HelpText
 msgctxt ",9F25BEB847378BA942933C8A503B4F1A"
 msgid "Swift: Dexterity reduces lust cost of actions as a percentage."
 msgstr "Çevik: Beceri şehvet ihtiyacını yüzde olarak düşürür."
@@ -7242,11 +7295,12 @@ msgstr "Çevik: Beceri şehvet ihtiyacını yüzde olarak düşürür."
 #: /Game/Dialogue/DragonMatriarch/Default/DMGrasslandsTrees.Default__DMGrasslandsTrees_C.SessionData.Lines(1).Lines
 msgctxt ",9F82F5BC4976131C6A3861A1CAF32EFA"
 msgid "Yeah... I suppose you're right though."
-msgstr ""
+msgstr "Evet... doğru olduğunu düşünüyorum."
 
 #. Key:	9F83DE504D98E2D4C149568C1F8DE768
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 -
+#: Value).TraitIcons.HelpText
 msgctxt ",9F83DE504D98E2D4C149568C1F8DE768"
 msgid "Massive: Roughly 15ft in height."
 msgstr "İri: Yaklaşık olarak 15ft boyunda."
@@ -7428,7 +7482,8 @@ msgstr "Önemli değil, o çiftlik asırlardır öyle."
 
 #. Key:	A4C22B3045E8159B66E47CB636E23172
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",A4C22B3045E8159B66E47CB636E23172"
 msgid "Nurturing"
 msgstr "Besleyici"
@@ -7459,14 +7514,14 @@ msgstr "Oyuncağıma sahip olmak güzel bir şey!"
 #: /Game/Dialogue/DragonMatriarch/Default/DMGreeting01.Default__DMGreeting01_C.SessionData.Lines(3).Lines
 msgctxt ",A5496AE246B786D1E975C6A2F4004B43"
 msgid "That useless titty pony failed again I see. She will feel my wrath."
-msgstr ""
+msgstr "O işe yaramaz memeli midilli yine beceremedi galiba. Gazabımı hissedecek."
 
 #. Key:	A59547D94C2E8733CA14998734EBC002
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMWantHuman.Default__DMWantHuman_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/DragonMatriarch/Default/DMWantHuman.Default__DMWantHuman_C.SessionData.Lines(0).Lines
 msgctxt ",A59547D94C2E8733CA14998734EBC002"
 msgid "Haha! You joke human, my genitals are too big for you."
-msgstr ""
+msgstr "Haha! Şaka yapıyorsun, cinsel organlarım senin için çok büyük."
 
 #. Key:	A6D19C3141AF406B6318CA8CB0A72613
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(0).Lines
@@ -7585,7 +7640,7 @@ msgstr "Slime slime slime… Tüm gün slime ile oynayabilirim!"
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",A91571364DFC6A4FA3772D9FCBDB52AA"
 msgid "Who knows which of them are mine, and I don't care. This matriarch will continue reproducing until the end of time."
-msgstr ""
+msgstr "Hangisinin benim olduğunu kimse bilmiyor, umrumda da değil zaten. Bu maderşahi zamanı gelene kadar üretmeye devam edecek."
 
 #. Key:	A91A80914B126F3C3F262D93E88AEA71
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(5).ResponseData.BreederPrompt
@@ -7662,7 +7717,7 @@ msgstr "Değişmişsin!"
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone.Default__DryadHaveKeystone_C.SessionData.Lines(6).Lines
 msgctxt ",AA4B233A44217B671C811FA495E456B5"
 msgid "She can pollinate me all day, and her sweet honey will make amazing fruit."
-msgstr ""
+msgstr "Bütün gün beni tozlayabilir, ve onun tatlı balı harika meyveler yapacak."
 
 #. Key:	AAD8CEA34AE6DE13A8683089046598D3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(6).Lines
@@ -7732,7 +7787,7 @@ msgstr "Bardağı taşırdın insan. Şu taşa yaslan ve parçalanmaya hazırlan
 #: /Game/Dialogue/Autumn/Default/DryadGreeting01.Default__DryadGreeting01_C.SessionData.Lines(5).Lines
 msgctxt ",AC4DD54E4585ECFF9E20A9806DEDCEE4"
 msgid "My apologies human, I was lost in thought. I'm always busy making fruit for the cows."
-msgstr ""
+msgstr "Beni affet insan, düşüncelerimin içinde kayboldum. Sürekli inekler için meyve yapmakla meşgulüm."
 
 #. Key:	ACB6D0AB4FEF709BE8976DAF20A467D6
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaGreeting01.Default__CamillaGreeting01_C.SessionData.Lines(0).Lines
@@ -7781,7 +7836,7 @@ msgstr "Sadece vahşi @MONSTER_RACE@leri yakalayacaksın, zaten neredeyse bir ha
 #: /Game/Dialogue/Autumn/Default/DryadDefault01_RL.Default__DryadDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",AD8370D449B2058385D511BCC7D8B193"
 msgid "Bosom cherries?"
-msgstr ""
+msgstr "Göğüs kirazı mı?"
 
 #. Key:	ADECACEF405669C45FAC77AB2A48E637
 #. SourceLocation:	/Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -7816,7 +7871,7 @@ msgstr "Seks ve macera dolu bir dünya seni bekliyor!"
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",AE940C0E4203F3605E98088D0827EA0B"
 msgid "Believe me human, I have sired many offspring."
-msgstr ""
+msgstr "İnan bana insan, bir sürü çocuk gördüm."
 
 #. Key:	AE9DC6E246625CE553B669ADBD1EB570
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow_RL_F.Default__CassieDefault01_Meow_RL_F_C.ResponseData(0).ResponseData.BreederPrompt
@@ -7862,7 +7917,8 @@ msgstr "Belki de parıltılı elf vajinama o penisi takmak istersin, hmm? Ahhh n
 
 #. Key:	AFBF754C422E5E00DF8BB7A37B956DFB
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 -
+#: Value).TraitIcons.HelpText
 msgctxt ",AFBF754C422E5E00DF8BB7A37B956DFB"
 msgid "Divergent: Offspring have a chance to generate a random trait upon being summoned."
 msgstr "Rastgele: Yavrular belli bir şans ile rastgele bir özelliğe sahip olabilir."
@@ -7872,14 +7928,14 @@ msgstr "Rastgele: Yavrular belli bir şans ile rastgele bir özelliğe sahip ola
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToMale(1).LinesToMale
 msgctxt ",AFF40FDB49E0435621047691DD80B3DC"
 msgid "Who knows which of them are mine, and I don't care. This matriarch will continue reproducing until the end of time."
-msgstr ""
+msgstr "Hangisinin benim olduğunu kimse bilmiyor, umrumda da değil zaten. Bu maderşahi zamanı gelene kadar üretmeye devam edecek."
 
 #. Key:	B0133AC44E841D002819DB9289664369
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMAboutDragons.Default__DMAboutDragons_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/DragonMatriarch/Default/DMAboutDragons.Default__DMAboutDragons_C.SessionData.Lines(2).Lines
 msgctxt ",B0133AC44E841D002819DB9289664369"
 msgid "However, they are mere simpletons that serve as my breeding stock!"
-msgstr ""
+msgstr "Ancak, onlar sadece basit üretim stoklarım, daha fazlası değil!"
 
 #. Key:	B071E1E04B9EA4D9C227C2935955161A
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(0).Lines
@@ -7890,7 +7946,8 @@ msgstr "Vahşi @MONSTER_RACE@ler yakalayıp çoğaltacağın şeyler."
 
 #. Key:	B088E0624E17857FAE8AE4B893251DA2
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",B088E0624E17857FAE8AE4B893251DA2"
 msgid "Hominal"
 msgstr "İnsansı"
@@ -7921,7 +7978,7 @@ msgstr "Evet @BREEDER_NAME@."
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL2.Default__DMDefault_RL2_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",B1435DF7419D2F4948DD9B9EFF8E628E"
 msgid "Are all of these wild dragons your children?"
-msgstr ""
+msgstr "Tüm bu vahşi ejderhalar senin çocukların mı?"
 
 #. Key:	B146211A43E4F159EC3A0C85790314DD
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePlay1.Default__MegaSlimePlay1_C.SessionData.LinesToFuta(5).LinesToFuta
@@ -7942,7 +7999,7 @@ msgstr "Bana binileli uzun zaman oldu, biraz sert olabilir!"
 #: /Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",B17C429C4AE53B8CA98F5E8166D598D2"
 msgid "Come closer human..."
-msgstr ""
+msgstr "Yakınlaş insan..."
 
 #. Key:	B18F6EA040A16FCFD95EB3894A067B79
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeAboutOrb.Default__MegaSlimeAboutOrb_C.SessionData.Lines(5).Lines
@@ -7981,7 +8038,8 @@ msgstr "Birbirimizi memnun ettiğimizde, Tanrıça bu zevki paylaşır."
 
 #. Key:	B20F5D9040267E77436A9B94B5F68150
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",B20F5D9040267E77436A9B94B5F68150"
 msgid "Gaudy"
 msgstr "Şatafatlı"
@@ -8037,7 +8095,8 @@ msgstr "Fern'in Alraune olması için insan spermine ihtiyacı var! Hissss, Fern
 
 #. Key:	B3953BA1451F630DE2CF019EB4CB6A69
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",B3953BA1451F630DE2CF019EB4CB6A69"
 msgid "Valuable"
 msgstr "Değerli"
@@ -8194,7 +8253,7 @@ msgstr "Asıl soru: sen buraya nasıl geldin insan?"
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(8).Lines
 msgctxt ",B79CA71847A95B814D43088A9A29BF45"
 msgid "Besides, when I make love with them it spares them from dealing with the Reaper, and my orgasm creates another bosom cherry."
-msgstr ""
+msgstr "Ayrıca, onlarla sevişirken onları Reaper ile uğraşmaktan kurtarıyor ve orgazmım başka bir göğüs kirazı yaratıyor."
 
 #. Key:	B79CB910400AA9573644BCA03D3D9F51
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(15).Lines
@@ -8212,7 +8271,8 @@ msgstr "Vay insan, bu değerli şeye sevgini vermek için uğraşıyorsan umutsu
 
 #. Key:	B7AB851641C9ABEE4A178B9DFFD50B0B
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",B7AB851641C9ABEE4A178B9DFFD50B0B"
 msgid "Hybrid"
 msgstr "Melez"
@@ -8233,7 +8293,8 @@ msgstr "Benimle seviş @BREEDER_NAME@, O'nun bakışlarından önce zevkten dör
 
 #. Key:	B7DDB984480E5280CB46B69238C0654E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 -
+#: Value).TraitIcons.HelpText
 msgctxt ",B7DDB984480E5280CB46B69238C0654E"
 msgid "Chubby: This one has more body fat."
 msgstr "Tombul: Daha fazla vücut yağına sahip."
@@ -8264,7 +8325,7 @@ msgstr "Neyi bekliyorsun? İçeri gel!"
 #: /Game/Dialogue/DragonMatriarch/Default/DMMuchEnergy.Default__DMMuchEnergy_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",B825E1564FCBA4D960D238AFD10804AC"
 msgid "The lucky Titan's cock won't be able to keep up!"
-msgstr ""
+msgstr "Şanslı Titan artık dayanamıyor!"
 
 #. Key:	B8297A054AB04B137F3266B6480756F5
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchGreeting01.Default__MonarchGreeting01_C.SessionData.Lines(3).Lines
@@ -8320,7 +8381,7 @@ msgstr "Verici ayakta sokarken, alıcı sırt üstü yatar."
 #: /Game/Dialogue/DragonMatriarch/Default/DMNapSomewhereElse.Default__DMNapSomewhereElse_C.SessionData.Lines(2).Lines
 msgctxt ",B864A1D642255D8E7C1821AC53EC9231"
 msgid "*Yawn*"
-msgstr ""
+msgstr "*Esner*"
 
 #. Key:	B87B8D5E4C3F16D731F4EA884051A1FD
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_StartButterfly.Default__ParvatiDefault01_StartButterfly_C.SessionData.Lines(0).Lines
@@ -8439,7 +8500,7 @@ msgstr "Kızımıza isim vermelisin!"
 #: /Game/Dialogue/Autumn/Default/DryadCherryHelp_RL.Default__DryadCherryHelp_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",BC29BB8B478C65C2CBA0898E60299364"
 msgid "Uh, I only make babies not fruit."
-msgstr ""
+msgstr "Uh, ben sadece bebek yapıyorum, meyve değil."
 
 #. Key:	BC33AF644FC93D01CDEF628CB3209014
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchHadSex01.Default__MonarchHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -8516,7 +8577,7 @@ msgstr "Ama eğer cinsel bir yakınlaşma için geldiysen..."
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(1).Lines
 msgctxt ",BDF0CA7D47EE073120067A9FCE686C17"
 msgid "They are for the Ayrshires that roam around here, and oh my can they eat!"
-msgstr ""
+msgstr "Burada gezen Ayrshire'ler için geliyorlar, ve inan bana onlar yiyebiliyor!"
 
 #. Key:	BDF9214F4D266A69032FE9921524969C
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -8597,7 +8658,8 @@ msgstr "Şimdi oynayabileceğim bir insan olduğu için, bu teorileri test etmey
 
 #. Key:	BFCA3659420358C2CFA5B5B426282E9A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 -
+#: Value).TraitIcons.HelpText
 msgctxt ",BFCA3659420358C2CFA5B5B426282E9A"
 msgid "Debauched: Offspring have a 20% chance to ignore the negative impacts of inbreeding."
 msgstr "Ahlaksız: Yavrular %20 ihtimalle ensest ilişkinin olumsuz etkilerine sahip olmaz."
@@ -8621,14 +8683,14 @@ msgstr "Thriae vücut sıvıları."
 #: /Game/Dialogue/Autumn/Default/DryadHadSex01.Default__DryadHadSex01_C.SessionData.Lines(1).Lines
 msgctxt ",C0073F7149266435A304ECAB73399664"
 msgid "Ahhh... you made me feel so good, I've never produced such a large fruit."
-msgstr ""
+msgstr "Ahhh... Beni o kadar iyi hissettirdin ki, hiç bu kadar büyük bir meyve üretmedim."
 
 #. Key:	C034823A4189F2EED2DFEBB7B3005286
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMDefault_RL4.Default__DMDefault_RL4_C.ResponseData(0).ResponseData.BreederPrompt
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL4.Default__DMDefault_RL4_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",C034823A4189F2EED2DFEBB7B3005286"
 msgid "Forget the Titan, how about some human?"
-msgstr ""
+msgstr "Titan'ı unut, bir insana ne dersin?"
 
 #. Key:	C03BBCDD4AACD3CC387AAAB2A4FD00E9
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R01.Default__CamillaDefault01_R01_C.SessionData.Lines(1).Lines
@@ -8705,7 +8767,7 @@ msgstr "Ohh… buna pişman olmayacaksın insan."
 #: /Game/Dialogue/DragonMatriarch/Default/DMSoBeItT.Default__DMSoBeItT_C.SessionData.Lines(0).Lines
 msgctxt ",C31358424DDC04F9D0E9C2AFEADAFCE4"
 msgid "Ahhh... so be it!"
-msgstr ""
+msgstr "Ahhh, öyle olsun o zaman!"
 
 #. Key:	C3445C514F78EFD7116EE28D6898079D
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(5).Lines
@@ -8880,7 +8942,7 @@ msgstr "Evet! Boşalmak üzere olduğunu hissedebiliyorum... hepsini istiyorum. 
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone2.Default__DryadHaveKeystone2_C.SessionData.Lines(0).Lines
 msgctxt ",C6E5F355439A82543536AA974313674B"
 msgid "It's yours now, I hope it serves you well."
-msgstr ""
+msgstr "Artık senindir, umarım iyi bir yardımcı olur."
 
 #. Key:	C720F2B64D81061E9D1CC7A3ACD4F0BB
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(12).Lines
@@ -8905,7 +8967,8 @@ msgstr "Ruhani formum için enerji ver."
 
 #. Key:	C7BA93A840AB5FA97F357E802955A851
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",C7BA93A840AB5FA97F357E802955A851"
 msgid "Exotic"
 msgstr "Ekzotik"
@@ -8922,7 +8985,7 @@ msgstr "Sana vücudunu en uygun seks tecrübesi için nasıl ayarlayacağını �
 #: /Game/Dialogue/DragonMatriarch/Default/DMGreeting01.Default__DMGreeting01_C.SessionData.Lines(5).Lines
 msgctxt ",C91B08354F7D144D174BCB8A2C8384CF"
 msgid "Now if you don't mind, I'd love to get back to my nap."
-msgstr ""
+msgstr "Ve şimdi kızmazsan, şekerlememe geri dönmek istiyorum."
 
 #. Key:	C933962A4C5DD7F022D428AEE50FE2C0
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeDefault01_RL.Default__MegaSlimeDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
@@ -8954,7 +9017,8 @@ msgstr "O olaydan öncesine ait hiç bir hatıranın olmadığını biliyorum, y
 
 #. Key:	C9DFA1EB40C3BF78D4B015AC82833310
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",C9DFA1EB40C3BF78D4B015AC82833310"
 msgid "Normal Size"
 msgstr "Normal Boyut"
@@ -9020,7 +9084,7 @@ msgstr "Tabii ki, geldiği an... saatlerce seviştik. Ama ne yazık ki o benimle
 #: /Game/Dialogue/DragonMatriarch/Default/DMHadSex01.Default__DMHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",CC453F864879B9206AA86C866817E4F7"
 msgid "Do come back... my deep dragon pussy yearns for more."
-msgstr ""
+msgstr "Mutlaka geri gel... derin ejderha vajinam daha fazlası için yalvarıyor."
 
 #. Key:	CCBDEE9E4366EC8D550F4DB7D8C546F8
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaFaleneWeek.Default__CamillaFaleneWeek_C.SessionData.Lines(4).Lines
@@ -9076,11 +9140,12 @@ msgstr "Arzularının istediği her şeyi inşa edebilirim!"
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone.Default__DryadHaveKeystone_C.SessionData.Lines(1).Lines
 msgctxt ",CE38F80044474A7AE6C3A68384DE4350"
 msgid "You can have it if you help me with a little problem."
-msgstr ""
+msgstr "Küçük bir sorunumda yardımcı olursan alabilirsin."
 
 #. Key:	CE50C843466352316F4461BC2722C00E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 -
+#: Value).TraitIcons.HelpText
 msgctxt ",CE50C843466352316F4461BC2722C00E"
 msgid "Nurturing: Offspring inherit 20% higher stats."
 msgstr "Besleyici: Yavrular %20 ihtimalle daha yüksek istatistiklere sahip olur."
@@ -9097,7 +9162,7 @@ msgstr "Ben... uh… öğretmeyi \"unuttum\"."
 #: /Game/Dialogue/DragonMatriarch/Default/DMWantHuman.Default__DMWantHuman_C.SessionData.Lines(5).Lines
 msgctxt ",CE86D5D34609962D9883CD82312DAC88"
 msgid "Are you sure you can handle this human?"
-msgstr ""
+msgstr "Bununla başa çıkabileceğinden emin misin insan?"
 
 #. Key:	CEC4092D45D0DBE6546A729EE34F0267
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(3).Lines
@@ -9185,7 +9250,8 @@ msgstr "Centaurlar düzenli olarak salınmadığı zaman agresifleşebiliyorlar.
 
 #. Key:	D066439244AFE855B06F90AB1A4A0829
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(8 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(8 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(8 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",D066439244AFE855B06F90AB1A4A0829"
 msgid "Sultry Plateau"
 msgstr "Tutkulu Plato"
@@ -9213,14 +9279,16 @@ msgstr "Bu sana tatlı midil-- yani güçlü centaur savaşhanımını geçmeyi 
 
 #. Key:	D0FA90CC4E9378DF7150FB881B18DC60
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 -
+#: Value).TraitIcons.HelpText
 msgctxt ",D0FA90CC4E9378DF7150FB881B18DC60"
 msgid "Normal: Roughly 6ft in height."
 msgstr "Normal: Yaklaşık 6ft boyunda."
 
 #. Key:	D15AF6D44FBD9FB7572622AE572A21D7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 -
+#: Value).TraitIcons.HelpText
 msgctxt ",D15AF6D44FBD9FB7572622AE572A21D7"
 msgid "Hybrid: This one is a mix of two races."
 msgstr "Melez: İki farklı türün karışmasının ürünü."
@@ -9251,7 +9319,7 @@ msgstr "Bu dürtüyle savaşıyorum..."
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(0).Lines
 msgctxt ",D195ECC34D71382CA65FD091CD7680D5"
 msgid "It's the giant red fruit you see all over the pastures. Everyone was crafted with love by me."
-msgstr ""
+msgstr "Otlakların her yerinde gördüğünüz dev kırmızı meyve. Hepsi benim tarafından sevgiyle hazırlandı."
 
 #. Key:	D1984E71418CEF4F3D39AC911B217790
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Formuria.Default__MirruDefault01_Formuria_C.SessionData.Lines(1).Lines
@@ -9265,7 +9333,7 @@ msgstr "Çoğu suda yaşayan @MONSTER_RACE@ bizim adil krallığımızda yaşar,
 #: /Game/Dialogue/DragonMatriarch/Default/DMHadSex01.Default__DMHadSex01_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",D1B21A3544F4242222944E97EA03E1BB"
 msgid "Do come back... my cock will be waiting."
-msgstr ""
+msgstr "Mutlaka geri gel... penisim bekliyor olacak."
 
 #. Key:	D1FC026043E82386A07099A46452AB0F
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(13).Lines
@@ -9293,7 +9361,7 @@ msgstr "Eğer Efendi toplamak istemezse... Fern yapar."
 #: /Game/Dialogue/DragonMatriarch/Default/DMWantHuman.Default__DMWantHuman_C.SessionData.Lines(2).Lines
 msgctxt ",D251615D4084E3BFFB18D4B26806806F"
 msgid "I admit, it is quite tempting. Humans were a myth until I met you."
-msgstr ""
+msgstr "Kabul ediyorum, oldukça cezbedici. Seninle tanışana kadar insanlar bir efsaneydi."
 
 #. Key:	D2C5AD664FCA892932A70188B37B1378
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(4).LinesToFemale
@@ -9321,7 +9389,7 @@ msgstr "O küre hakkında..."
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL2.Default__DMDefault_RL2_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",D3139F1545004EAAF227C0A0C62B74E9"
 msgid "Tell me about dragons!"
-msgstr ""
+msgstr "Ejderhalardan bahset!"
 
 #. Key:	D320A28645DC907082F6169F08223AA5
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault02.Default__CamillaDefault02_C.SessionData.Lines(0).Lines
@@ -9349,7 +9417,7 @@ msgstr "*İç geçirir* Fark ettiğin üzere, biz @MONSTER_RACE@lerin aşırı y
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone2.Default__DryadHaveKeystone2_C.SessionData.Lines(1).Lines
 msgctxt ",D3EBA5FE4F8C935CB40680BE9D7ED27E"
 msgid "I see I've been slacking off and let my roots overtake the gate to the cove."
-msgstr ""
+msgstr "Kaytarıyorum ve köklerimin koya giden kapıyı geçmesine izin veriyorum."
 
 #. Key:	D3EBB7904D4648D8930D5B98189AC73D
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Hybrid/Harvest/HybridHarvest.Default__HybridHarvest_C.Harvest.RaceName
@@ -9398,7 +9466,7 @@ msgstr "Yakında... ahhh… yapışkan Kraken zevki ile kaplanacaksın..."
 #: /Game/Dialogue/DragonMatriarch/Default/DMClimaxPeak.Default__DMClimaxPeak_C.SessionData.Lines(5).Lines
 msgctxt ",D4E7C4CC40DA7F02F81C91A5CFBF13E8"
 msgid "Bring me Bovaur milk, and lots of it."
-msgstr ""
+msgstr "Bana Bovaur sütü getir, çok fazla hemde."
 
 #. Key:	D4F1F3F04E4BCBC46FFF2E9AC9B301C0
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm_RL_T.Default__LeylannaDefault01_RechargeSpiritForm_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
@@ -9419,11 +9487,12 @@ msgstr "Çok az @MONSTER_RACE@ benden yaşlıdır, ama Pawsmaati bir istisna."
 #: /Game/Dialogue/Autumn/Default/DryadDefault01_RL.Default__DryadDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
 msgctxt ",D52E88834BD47EFB47BD74839CEEB65D"
 msgid "Can I have that keystone?"
-msgstr ""
+msgstr "Anahtar Taşı alabilir miyim?"
 
 #. Key:	D535E0D84F73A7E07CA72DA2ED4F1B11
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 -
+#: Value).TraitIcons.HelpText
 msgctxt ",D535E0D84F73A7E07CA72DA2ED4F1B11"
 msgid "Meaty: Strength raises the XP granted to mates when breeding as a percentage."
 msgstr "Etli: Güç, belli bir yüzde ile partnerlere fazladan tecrübe verir."
@@ -9489,7 +9558,7 @@ msgstr "Boşluk'ta bu dünyaya gelmeyi bekleyen sonsuz sayıda @MONSTER_RACE@ ru
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone.Default__DryadHaveKeystone_C.SessionData.Lines(5).Lines
 msgctxt ",D5F8F9DC452D7E14F022B7A4C04B523C"
 msgid "If you can breed me a lovely honey bee, it would be a massive help."
-msgstr ""
+msgstr "Eğer bana güzel bir bal arısı yetiştirebilirsen, bana çok yardımı dokunur."
 
 #. Key:	D60B38ED43ABAC98BCB33FBB4B3477F4
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(4).LinesToFemale
@@ -9531,7 +9600,7 @@ msgstr "Benim açımdan, yukarıda ki Simyacı Lonca'sı yukarıdan sürekli taz
 #: /Game/Dialogue/DragonMatriarch/Default/DMClimaxPeak.Default__DMClimaxPeak_C.SessionData.Lines(0).Lines
 msgctxt ",D6ECEFA141121C7CDA69A5BAC65087CE"
 msgid "Ah, you wish to have sex with the mighty Titans; I can respect that, for I have done it many times."
-msgstr ""
+msgstr "Ah, sen kudretli Titan'lar ile sevişmek istiyorsun; Buna saygı duyarım, bende aynısını defalarca yaptım."
 
 #. Key:	D720325F44DF14DB1473D0A78512EB8E
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePlay.Default__MegaSlimePlay_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -9566,7 +9635,7 @@ msgstr "Bu besleyici, çok güçlü bir afrodizyak, kullanırken dikkatli ol!"
 #: /Game/Dialogue/DragonMatriarch/Default/DMHadSex01.Default__DMHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",D7A6D67F4C7BFFA071AA8480399A5D41"
 msgid "I can't believe it!"
-msgstr ""
+msgstr "İnanamıyorum!"
 
 #. Key:	D7B87B2D4E7F9B733C981C804A0914C8
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -9615,7 +9684,7 @@ msgstr "Aaa ne kadar sevimli bir midilli."
 #: /Game/Dialogue/DragonMatriarch/Default/DMAboutDragons.Default__DMAboutDragons_C.SessionData.Lines(1).Lines
 msgctxt ",D839985345EFF273DA362C9BB07DA471"
 msgid "Don't be fooled by those Titans. They might seem like they own the place with their massive size and strength."
-msgstr ""
+msgstr "O Titanlara aldanmayın. Büyük boyutları ve gücüyle buranın sahibi gibi görünebilirler."
 
 #. Key:	D857E31D47711B85E634029A4E3EB6E7
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.CBGate_Breaks.PlaceMessage
@@ -9675,7 +9744,8 @@ msgstr "Sütüm lezzetliydi değil mi? Geldiği yerde daha bolca var!"
 
 #. Key:	D913C6254D30AA08E8B01787AE3D1B68
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",D913C6254D30AA08E8B01787AE3D1B68"
 msgid "Hivelands"
 msgstr "Kovan Arazisi"
@@ -9692,14 +9762,14 @@ msgstr "Oh Efendim... bana karşı çok iyisiniz."
 #: /Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToMale(2).LinesToMale
 msgctxt ",D946784E4574F80408FA7D82B80E4EAC"
 msgid "I'm getting wet just thinking about your thick cock seeding me."
-msgstr ""
+msgstr "Penisin içimdeyken boşalmanı düşünmek beni ıslatıyor."
 
 #. Key:	D98B804D4BEB2904234F77AB902776CD
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(2).Lines
 msgctxt ",D98B804D4BEB2904234F77AB902776CD"
 msgid "Every dryad is blessed by the Goddess, there are no wild dryads."
-msgstr ""
+msgstr "Her dryad Tanrıça tarafından kutsanmıştır, hiçbir yabani dryad yoktur."
 
 #. Key:	D9AEE5314A7E8A6D9F57F6B9A6116A55
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -9913,7 +9983,8 @@ msgstr "İtaat et insan... arzularımı kontrol edemiyorum!"
 
 #. Key:	DC956C0949E5CA05486F1583CEACA3ED
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",DC956C0949E5CA05486F1583CEACA3ED"
 msgid "Busty"
 msgstr "Büyük Göğüslü"
@@ -9986,7 +10057,7 @@ msgstr "Gerçi, bu çit sınırını çizen her kimse tam bir deli!"
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone2.Default__DryadHaveKeystone2_C.SessionData.Message
 msgctxt ",DDEC9C474F3624331E30EEB35B19842A"
 msgid "Autumn is satisfied."
-msgstr ""
+msgstr "Autumn memnun edildi."
 
 #. Key:	DE21C1784F767D32E852689C8D264665
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -10070,7 +10141,7 @@ msgstr "Yumuşak altın cildim iyi hissettiriyor mu @BREEDER_NAME@?"
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(1).Lines
 msgctxt ",E04E71634CD5DA9067A43C8F3AE1A4F3"
 msgid "After decades of growth, the fruit will fall off and a dryad will emerge."
-msgstr ""
+msgstr "Onlarca yıl süren büyüme sürecinden sonar, meyve düşecek ve bir Dryad ortaya çıkacaktır."
 
 #. Key:	E0699FC749A0DDDF3E385CA8D6F3E80E
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToMale(1).LinesToMale
@@ -10105,7 +10176,7 @@ msgstr "Bu nedenle, kendimizi sık sık seksin alıcı ucunda buluruz..."
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(6).Lines
 msgctxt ",E0CB0262419C2D4379873799FB2844BC"
 msgid "I guess I do spoil them..."
-msgstr ""
+msgstr "Sanırım onları şımartıyorum..."
 
 #. Key:	E0E93AA54E36B2C3F876CEBE1F52C2FC
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(4).Lines
@@ -10165,7 +10236,8 @@ msgstr "O yeni tapınağı yaptıklarında, kapısı mühürlüydü... 1000 yıl
 
 #. Key:	E20511A746C7BFEF4C46D5A2F2586CD0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 -
+#: Value).TraitIcons.HelpText
 msgctxt ",E20511A746C7BFEF4C46D5A2F2586CD0"
 msgid "Slick: Inherited slick oily skin."
 msgstr "Kaygan: Yağlı bir cilde sahip."
@@ -10224,7 +10296,7 @@ msgstr "Ellerin çok iyi hissettiriyor. Beni okşamayı bırakma!"
 #: /Game/Dialogue/DragonMatriarch/Default/DMAboutDragons.Default__DMAboutDragons_C.SessionData.Lines(5).Lines
 msgctxt ",E2F13B714EEE6046C9069A8F6F71DA0B"
 msgid "Why I remember when this area was just grasslands and trees!"
-msgstr ""
+msgstr "Buranın sadece yeşillik ve ağaçlardan oluştuğu zamanları hatırlıyorum!"
 
 #. Key:	E34457BA4EEA184519C5E4AAD2E0B122
 #. SourceLocation:	/Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(7).Lines
@@ -10252,7 +10324,7 @@ msgstr "Vayy... Bu benim pazarlık ettiğimden daha fazla!"
 #: /Game/Dialogue/DragonMatriarch/Default/DMClimaxPeak.Default__DMClimaxPeak_C.SessionData.Lines(1).Lines
 msgctxt ",E41A1FB14C3203DC5709BD9DDA4C90B4"
 msgid "Perhaps we can strike a bargain."
-msgstr ""
+msgstr "Belki bir pazarlık yapabiliriz."
 
 #. Key:	E44DC681421F83D23915B6BCE7AF12EF
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeAboutOrb.Default__MegaSlimeAboutOrb_C.SessionData.Lines(0).Lines
@@ -10315,7 +10387,7 @@ msgstr "Yaklaşıl 1000 yıldır burada büyüyorum... tek başıma...."
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL2.Default__DMDefault_RL2_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",E4C07523420122C952973D869A7F228C"
 msgid "Now that you have so much energy..."
-msgstr ""
+msgstr "Şimdi bu kadar fazla enerjin varken..."
 
 #. Key:	E4D00AF649A1E7AC5659FFA04BB04427
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(0).Lines
@@ -10357,7 +10429,7 @@ msgstr "Test4"
 #: /Game/Dialogue/Autumn/Default/DryadTaskFulfilled.Default__DryadTaskFulfilled_C.SessionData.Lines(0).Lines
 msgctxt ",E5B424C34D393C3602C0EA8AF2AB1F9E"
 msgid "What a sweet little honey bee."
-msgstr ""
+msgstr "Ne kadar tatlı bir bal arısı."
 
 #. Key:	E5B7F2E2469864C41253FC892250ED92
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_YourMusic_Start.Default__RomyDefault01_YourMusic_Start_C.SessionData.Lines(0).Lines
@@ -10396,7 +10468,8 @@ msgstr "Bilgece bir karar insan, Tanrıça için vahşi @MONSTER_RACE@ bahşetme
 
 #. Key:	E663A2A8494081C671EA74A317740FAD
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",E663A2A8494081C671EA74A317740FAD"
 msgid "Atypical"
 msgstr "Alışılmamış"
@@ -10466,7 +10539,8 @@ msgstr "Aşk Oyukları artık erişilebilir."
 
 #. Key:	E8789C0E4CCC57BB8A98178902DA8110
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 -
+#: Value).TraitIcons.HelpText
 msgctxt ",E8789C0E4CCC57BB8A98178902DA8110"
 msgid "Exotic: Inherited more monster traits."
 msgstr "Ekzotik: Hayvancıl bir görünüşe sahip."
@@ -10480,7 +10554,8 @@ msgstr "Şartlar ne olursa olsun, seni geçirmeyeceğim insan."
 
 #. Key:	E89A6BB74D15111C98632A99F45745CC
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",E89A6BB74D15111C98632A99F45745CC"
 msgid "Meaty"
 msgstr "Etli"
@@ -10504,7 +10579,7 @@ msgstr "Evet... bir keresinde buraya bir sülük getirmişti ve beni tek hamlede
 #: /Game/Dialogue/DragonMatriarch/Default/DMTaskFulfilled.Default__DMTaskFulfilled_C.SessionData.Lines(2).Lines
 msgctxt ",E90C40EC48C37A3A560F8083C83692A7"
 msgid "Perhaps I should do this from now on instead of wasting days slumbering."
-msgstr ""
+msgstr "Belkide uykuya dalıp günlerimi harcamak yerine bunu yapmalıyım."
 
 #. Key:	E91EF4164FCD12832A52B095A8557B4A
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.DragonHoard.ManageActionMessage
@@ -10522,7 +10597,8 @@ msgstr "Diğer @MONSTER_RACE@ler ile birlikte olmayı seviyoruz."
 
 #. Key:	E95C5DA945F5D8A92099E9892F4615A7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(1 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(1 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(1 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",E95C5DA945F5D8A92099E9892F4615A7"
 msgid "Amorous Hallows"
 msgstr "Aşk Oyukları"
@@ -10532,7 +10608,7 @@ msgstr "Aşk Oyukları"
 #: /Game/Dialogue/DragonMatriarch/Default/DMNap_RL.Default__DMNap_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",E9A374BB46F94E4B206A549D48B4D6FD"
 msgid "But I must go to Climax Peak."
-msgstr ""
+msgstr "Ama Doruk Noktası'na gitmem lazım."
 
 #. Key:	E9AB731F47E3F6759C9BEA90AA3E32CB
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchPrettyButterfly.Default__MonarchPrettyButterfly_C.SessionData.Lines(0).Lines
@@ -10627,7 +10703,8 @@ msgstr "Ah, sana geçiş izni verebilirim, ama... karşılığında bir isteğim
 
 #. Key:	EC01A5624439E2DDB75614A1656451DD
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 -
+#: Value).TraitIcons.HelpText
 msgctxt ",EC01A5624439E2DDB75614A1656451DD"
 msgid "Hung: Inherited a larger dick."
 msgstr "Sarkık: Büyük bir penise sahip."
@@ -10637,7 +10714,7 @@ msgstr "Sarkık: Büyük bir penise sahip."
 #: /Game/Dialogue/Autumn/Default/DryadDefault01.Default__DryadDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",EC505AF645F08A603F4BDF98F4F09BAC"
 msgid "So many bosom cherries to make, the cows are always ready to eat them."
-msgstr ""
+msgstr "Çok fazla göğüs kirazı yapmam lazım, inekler onları her zaman bekler."
 
 #. Key:	EC6BFF394580DB5B2B148096C2994439
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_M.Default__FernDefault02_RL_M_C.ResponseData(0).ResponseData.BreederPrompt
@@ -10651,7 +10728,7 @@ msgstr "Bana niye 'Efendim' diye sesleniyorsun?"
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL.Default__DMDefault_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",EC7903464D18A00937FD1CB94B22B7B8"
 msgid "Lame. I thought the Dragon Matriarch would be better!"
-msgstr ""
+msgstr "Meh. Ejder Maderşahi'nin daha iyi olacağını düşünmüştüm!"
 
 #. Key:	EC7D97C640A2B4A5E3BFACACD27F84F8
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDungeon2.Default__CassieDungeon2_C.SessionData.Lines(2).Lines
@@ -10686,7 +10763,7 @@ msgstr "Sıvı almak için başka bir vahşiye ihtiyacımız var! Basit gibi gö
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone.Default__DryadHaveKeystone_C.SessionData.Lines(0).Lines
 msgctxt ",ECE912E146D6A887F2F7C39091185320"
 msgid "Oh that old thing stuck in my roots?"
-msgstr ""
+msgstr "Oh, o eski şey köklerime mi takılmış?"
 
 #. Key:	ED31F33C43B35F55174029803CC7A311
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -10753,7 +10830,8 @@ msgstr "Oh Master, you have fed me well."
 
 #. Key:	EEBA2B7C475E9710DEB122887C14BEE9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 -
+#: Value).TraitIcons.HelpText
 msgctxt ",EEBA2B7C475E9710DEB122887C14BEE9"
 msgid "Charmer: Allure raises XP from breeding as a percentage."
 msgstr "Büyüleyici: Cazibe, tecrübeyi yüzde olarak arttırır."
@@ -10770,14 +10848,14 @@ msgstr "Bu kutsal yardımcıya bu şekilde dokunulduğundan beri binlerce yıl g
 #: /Game/Dialogue/DragonMatriarch/Default/DMNapSomewhereElse.Default__DMNapSomewhereElse_C.SessionData.Lines(3).Lines
 msgctxt ",EF23DE3948A14D6E8E26C397EFF2D243"
 msgid "You're just jealous and want it for yourself!"
-msgstr ""
+msgstr "Kıskanıyorsun, bu yüzden hepsini kendine istiyorsun!"
 
 #. Key:	EF902B4F424735BE83B622865F58AED8
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadStartMakeCherry.Default__DryadStartMakeCherry_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Autumn/Default/DryadStartMakeCherry.Default__DryadStartMakeCherry_C.SessionData.Lines(0).Lines
 msgctxt ",EF902B4F424735BE83B622865F58AED8"
 msgid "Climb up here with me..."
-msgstr ""
+msgstr "Benimle birlikte tırman..."
 
 #. Key:	EFEE39A441DF6F79110B608104881B11
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeAboutOrb.Default__MegaSlimeAboutOrb_C.SessionData.Lines(7).Lines
@@ -10798,7 +10876,7 @@ msgstr "Vay.. bu Foxen h-hızlı!"
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL5_T.Default__DMDefault_RL5_T_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",EFFEEA9A4CC82094FD20CABC0AF432BB"
 msgid "Eeek... big genitals!"
-msgstr ""
+msgstr "İyyk.. büyük cinsel organlar!"
 
 #. Key:	F010E1B74164FC7DBBA07E8F73124FEF
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -10826,7 +10904,7 @@ msgstr "*Yalama sesleri*"
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(4).Lines
 msgctxt ",F04A18AC479B4181D244928A4D159C06"
 msgid "Most of the time they fall, and then immediately sleep from over exertion."
-msgstr ""
+msgstr "Çoğunlukla düşüyorlar, ve anında yorgunluktan uyumaya başlıyorlar."
 
 #. Key:	F05FD1324ABB81C7141ED7A41A996723
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R02.Default__CamillaDefault01_R02_C.SessionData.Lines(7).Lines
@@ -10854,7 +10932,7 @@ msgstr "Her saniye daha da ıslanıyorum."
 #: /Game/Dialogue/DragonMatriarch/Default/DMGreeting01.Default__DMGreeting01_C.SessionData.Lines(4).Lines
 msgctxt ",F0A3AEEB4B43B9230E0996961D788CD4"
 msgid "I am the Dragon Matriarch of Virgin Breaks, and you have awoken me from my slumber."
-msgstr ""
+msgstr "Ben  Bakire Vadisi'nin Ejder Maderşahi'yim ve sen beni uykumdan uyandırdın."
 
 #. Key:	F0AE51CA47FD221A60043B81E2DB05FB
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaHadSex01.Default__CamillaHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -10900,7 +10978,8 @@ msgstr "Küçük kız kardeşimi özledim! O h-h-hala bir tırtıl."
 
 #. Key:	F1D3A2E044E22D62A15FD2A3C291C751
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 -
+#: Value).TraitIcons.HelpText
 msgctxt ",F1D3A2E044E22D62A15FD2A3C291C751"
 msgid "Small: Roughly 5ft in height."
 msgstr "Küçük: Yaklaşık 5ft boyunda."
@@ -10910,7 +10989,7 @@ msgstr "Küçük: Yaklaşık 5ft boyunda."
 #: /Game/Dialogue/DragonMatriarch/Default/DMGreeting01.Default__DMGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",F1DF0EFD4196365D249B2EBDA93F7F85"
 msgid "*Yawn*"
-msgstr ""
+msgstr "*Esner*"
 
 #. Key:	F1E5410345C530DA657424BD124E30D9
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernHadSex03.Default__FernHadSex03_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -11141,7 +11220,7 @@ msgstr "Dikkatli ol insan, Kraken'in şehveti küçümsenecek bir şey değildir
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",F7C4336C4CE85A985EE8819488AD2853"
 msgid "Who knows which of them are mine, and I don't care. This matriarch will continue reproducing until the end of time."
-msgstr ""
+msgstr "Hangisinin benim olduğunu kimse bilmiyor, umrumda da değil zaten. Bu maderşahi zamanı gelene kadar üretmeye devam edecek."
 
 #. Key:	F80CC71F49A124229467EC98902D86F9
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleCentaur.Default__KybeleCentaur_C.SessionData.Lines(4).Lines
@@ -11208,14 +11287,16 @@ msgstr "MİYAV!!! Cassie seni kedi tohumu ile dolduracak!"
 
 #. Key:	FA099D00490628CE02692F98F8341539
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",FA099D00490628CE02692F98F8341539"
 msgid "Buxom"
 msgstr "Buxom"
 
 #. Key:	FA16663A4C4765BC8F4CBC80FF774B75
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 -
+#: Value).TraitIcons.HelpText
 msgctxt ",FA16663A4C4765BC8F4CBC80FF774B75"
 msgid "Grungy: Mates have a 20% of getting dirty, reducing allure by 50%."
 msgstr "Pis: Eşler %20 ihtimalle kirlenir, cazibeyi %50 azaltır."
@@ -11246,7 +11327,7 @@ msgstr "En azından, Krakenlerin vücutları eşlerini muazzam bir zevk ile kar�
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault01.Default__DMDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",FA986E53459F35B9F05FE5909E9153CE"
 msgid "*Yawn*"
-msgstr ""
+msgstr "*Esner*"
 
 #. Key:	FAA596EC4B5291C8FF02FC9966C3C4B6
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeDefault01.Default__MegaSlimeDefault01_C.SessionData.Lines(1).Lines
@@ -11358,7 +11439,7 @@ msgstr "Boşluk'u 4,000 yılın üzerinde incelememe rağmen, daha efsanevi doğ
 #: /Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",FBC59E69493451F2A30A66818584F9BC"
 msgid "Ohhh how I've waited for this."
-msgstr ""
+msgstr "Ohhh Bunun için ne kadar bekledim bilemezsin."
 
 #. Key:	FBE363A241E1A6C5172380A2F5CAFD27
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleGreeting01.Default__KybeleGreeting01_C.SessionData.Lines(1).Lines
@@ -11411,7 +11492,8 @@ msgstr "Oyuncağım umarım iyi hissettirmiştir. Belki… y-yine yaparız, değ
 
 #. Key:	FD257CB04C6B3AB420244298D2C33047
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",FD257CB04C6B3AB420244298D2C33047"
 msgid "Hornball"
 msgstr "Fazla Azgın"
@@ -11421,7 +11503,7 @@ msgstr "Fazla Azgın"
 #: /Game/Dialogue/Autumn/Default/DryadHaveKeystone2.Default__DryadHaveKeystone2_C.SessionData.Lines(2).Lines
 msgctxt ",FD45A2EF441A8E608939FF9788710118"
 msgid "There, they will no longer block your path."
-msgstr ""
+msgstr "İşte, artık yolunu engellemiyorlar."
 
 #. Key:	FD467EAE4829745CF23D4BA9D511E423
 #. SourceLocation:	/Game/Dialogue/Mirru/SexScenes/MirruSnatchF.Default__MirruSnatchF_C.SessionData.Lines(2).Lines
@@ -11446,7 +11528,8 @@ msgstr "İnan veya inanma, eskiden daha büyüktüm, ama kendimden büyük bir p
 
 #. Key:	FD8011CC4C321FCEC4C41F88F97FDCD1
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(3 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(3 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(3 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",FD8011CC4C321FCEC4C41F88F97FDCD1"
 msgid "Moaning Crag"
 msgstr "İnleyen Kayalık"
@@ -11474,7 +11557,8 @@ msgstr "Beni yemedi, küçük bedenime başka şeyler yaptı... aslında harika 
 
 #. Key:	FDBDE7714A97FE255B38A0BACEC479DB
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",FDBDE7714A97FE255B38A0BACEC479DB"
 msgid "Tiny Size"
 msgstr "Cüce"
@@ -11491,7 +11575,7 @@ msgstr "Efsaneler, güzel meleklerin kulelerinin etrafında uçtuğunu söylüyo
 #: /Game/Dialogue/Autumn/Default/DryadTaskFulfilled.Default__DryadTaskFulfilled_C.SessionData.Lines(1).Lines
 msgctxt ",FDF4297C47FFAC2C90A1C8A5AC503A21"
 msgid "She knows how to please, and her delicious honey has increased my fruit production."
-msgstr ""
+msgstr "Nasıl memnun edeceğini biliyor ve lezzetli balı meyve üretimimi arttırdı."
 
 #. Key:	FE11832245764B482A5550B347EB143E
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(25).LinesToMale
@@ -11579,7 +11663,8 @@ msgstr "Ah aptal ben, kendimi hiç tanıtmadım."
 
 #. Key:	FFEB9256402DB5ADDFEED38770F40285
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 -
+#: Value).TraitIcons.HelpText
 msgctxt ",FFEB9256402DB5ADDFEED38770F40285"
 msgid "Busty: Inherited very large breasts."
 msgstr "Büyük Göğüslü: Çok büyük göğüslere sahip."
@@ -11883,42 +11968,42 @@ msgstr "Zaten buradasın."
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:503
 msgctxt "ASexyWorldSystem,DMMilkMateTask"
 msgid "Quench my thirst for creamy Bovaur breast milk, and perhaps it will restore my energy."
-msgstr ""
+msgstr "Kremalı Bovaur anne sütüne olan susuzluğumu giderir ,ve enerjimi geri kazandırır."
 
 #. Key:	DMMilkTaskReward
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:502
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:502
 msgctxt "ASexyWorldSystem,DMMilkTaskReward"
 msgid "The Dragon Matriarch wishes to speak with you."
-msgstr ""
+msgstr "Ejder Maderşahi seninle konuşmak istiyor."
 
 #. Key:	DMMilkTitle
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:501
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:501
 msgctxt "ASexyWorldSystem,DMMilkTitle"
 msgid "Milk for the Matriarch"
-msgstr ""
+msgstr "Maderşahi İçin Süt"
 
 #. Key:	DryadMateTask
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:494
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:494
 msgctxt "ASexyWorldSystem,DryadMateTask"
 msgid "If you would, breed me a lusty little honey bee. She can \"pollinate\" me all day, and I can produce more bosom cherries for my adorable cows."
-msgstr ""
+msgstr "Eğer yapabilirsen, bana şehvetli küçük bir bal arısı yetiştir. Bütün gün beni \"tozlayabilir\", ben de sevimli ineklerim için daha fazla göğüs kirazı üretebilirim."
 
 #. Key:	DryadMateTaskReward
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:492
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:492
 msgctxt "ASexyWorldSystem,DryadMateTaskReward"
 msgid "Autumn wishes to speak with you."
-msgstr ""
+msgstr "Autumn seninle konuşmak istiyor."
 
 #. Key:	DryadMateTitle
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:491
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:491
 msgctxt "ASexyWorldSystem,DryadMateTitle"
 msgid "Autumn's Honey Bee"
-msgstr ""
+msgstr "Autumn'un Bal Arısı"
 
 #. Key:	KybeleMateTaskF
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:404
@@ -11953,7 +12038,7 @@ msgstr "Kybele'nin Güçlü Eşi"
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:337
 msgctxt "ASexyWorldSystem,MilkFluid"
 msgid "Milk"
-msgstr ""
+msgstr "Süt"
 
 #. Key:	MonarchMateTask
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:462
@@ -11981,21 +12066,21 @@ msgstr "Monarch'ın Atik Yardımcısı"
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:537
 msgctxt "ASexyWorldSystem,NotEnoughMilk"
 msgid "More milk is required."
-msgstr ""
+msgstr "Daha fazla süt gerekli."
 
 #. Key:	NotEnoughSemen
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:543
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:543
 msgctxt "ASexyWorldSystem,NotEnoughSemen"
 msgid "More semen is required."
-msgstr ""
+msgstr "Daha fazla sperm gerekli."
 
 #. Key:	SemenFluid
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:327
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:327
 msgctxt "ASexyWorldSystem,SemenFluid"
 msgid "Semen"
-msgstr ""
+msgstr "Sperm"
 
 #. Key:	TaskFullfilled
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:597
@@ -12015,22 +12100,40 @@ msgstr "Yeni çiftleştirme istekleri geldi."
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:367
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:367
 msgctxt "ASexyWorldSystem,TraitRequirement"
-msgid "{0}\n{1}\nLevel {2}\n"
-msgstr "{0}\n{1}\nSeviye {2}\n"
+msgid ""
+"{0}\n"
+"{1}\n"
+"Level {2}\n"
+msgstr ""
+"{0}\n"
+"{1}\n"
+"Seviye {2}\n"
 
 #. Key:	TraitRequirementFluid
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:340
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:340
 msgctxt "ASexyWorldSystem,TraitRequirementFluid"
-msgid "{0} {1}\n{2}ml\n"
+msgid ""
+"{0} {1}\n"
+"{2}ml\n"
 msgstr ""
+"{0} {1}\n"
+"{2}ml\n"
 
 #. Key:	TraitRequirementStat
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:364
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:364
 msgctxt "ASexyWorldSystem,TraitRequirementStat"
-msgid "{0}\n{1}\nLevel {2}\n{3}"
-msgstr "{0}\n{1}\nSeviye {2}\n{3}"
+msgid ""
+"{0}\n"
+"{1}\n"
+"Level {2}\n"
+"{3}"
+msgstr ""
+"{0}\n"
+"{1}\n"
+"Seviye {2}\n"
+"{3}"
 
 #. Key:	Activate
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyBreederCharacter.cpp:179
@@ -12477,8 +12580,12 @@ msgstr "Hamile"
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:57
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:57
 msgctxt "CharacterDetails,PregnancyTooltip"
-msgid "Progress toward summoning offspring.\nMilk production is doubled during pregnancy."
-msgstr "Yavru doğmasına kalan süre.\nSüt üretimi bu dönemde iki katına çıkar."
+msgid ""
+"Progress toward summoning offspring.\n"
+"Milk production is doubled during pregnancy."
+msgstr ""
+"Yavru doğmasına kalan süre.\n"
+"Süt üretimi bu dönemde iki katına çıkar."
 
 #. Key:	Procreators
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:94
@@ -12708,8 +12815,12 @@ msgstr "İptal Et"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:263
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:263
 msgctxt "CharacterEditor,ChangeSexTooltip"
-msgid "Change this character's sex.\nWARNING: This will overwrite the current appearance."
-msgstr "Karakterin cinsiyetini değiştir.\nDİKKAT: Şu anki görünüş kaybolacaktır."
+msgid ""
+"Change this character's sex.\n"
+"WARNING: This will overwrite the current appearance."
+msgstr ""
+"Karakterin cinsiyetini değiştir.\n"
+"DİKKAT: Şu anki görünüş kaybolacaktır."
 
 #. Key:	ChooseAnimationTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:179
@@ -12743,8 +12854,12 @@ msgstr "Detaylar"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:158
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:158
 msgctxt "CharacterEditor,ExoticTooltip"
-msgid "Give this character its exotic trait if one exists.\nWARNING: This will overwrite the current appearance."
-msgstr "Bu karaktere varsa hayvancıl özellik ver.\nDİKKAT: Şu anki görünüş kaybolacaktır."
+msgid ""
+"Give this character its exotic trait if one exists.\n"
+"WARNING: This will overwrite the current appearance."
+msgstr ""
+"Bu karaktere varsa hayvancıl özellik ver.\n"
+"DİKKAT: Şu anki görünüş kaybolacaktır."
 
 #. Key:	EyebrowMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:404
@@ -12827,8 +12942,12 @@ msgstr "Saç"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:151
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:151
 msgctxt "CharacterEditor,HominalTooltip"
-msgid "Give this character its hominal trait if one exists.\nWARNING: This will overwrite the current appearance."
-msgstr "Bu karaktere varsa insancıl özellikler ver.\nDİKKAT: Şu anki görünüş kaybolacaktır."
+msgid ""
+"Give this character its hominal trait if one exists.\n"
+"WARNING: This will overwrite the current appearance."
+msgstr ""
+"Bu karaktere varsa insancıl özellikler ver.\n"
+"DİKKAT: Şu anki görünüş kaybolacaktır."
 
 #. Key:	LeaveButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:98
@@ -12848,8 +12967,12 @@ msgstr "Ruhani formu ayarlamayı durdur."
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:128
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:128
 msgctxt "CharacterEditor,LoadUsrPresetTooltip"
-msgid "Load a saved preset.\nWARNING: This will overwrite the current appearance."
-msgstr "Kadedilmiş bir görüntüyü yükle.\nDİKKAT: Şu anki görünüş kaybolacaktır."
+msgid ""
+"Load a saved preset.\n"
+"WARNING: This will overwrite the current appearance."
+msgstr ""
+"Kadedilmiş bir görüntüyü yükle.\n"
+"DİKKAT: Şu anki görünüş kaybolacaktır."
 
 #. Key:	LowerBodyShape
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:366
@@ -12904,8 +13027,12 @@ msgstr "Göğüs Ucu"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:223
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:223
 msgctxt "CharacterEditor,PasteTooltip"
-msgid "Paste from clipboard.\nWARNING: This will overwrite the current appearance, and might look terrible on different variants."
-msgstr "Panodan yapıştır.\nDİKKAT: Şu anki görünüş kaybolacaktır, ve değişik türlerde berbat gözükebilir."
+msgid ""
+"Paste from clipboard.\n"
+"WARNING: This will overwrite the current appearance, and might look terrible on different variants."
+msgstr ""
+"Panodan yapıştır.\n"
+"DİKKAT: Şu anki görünüş kaybolacaktır, ve değişik türlerde berbat gözükebilir."
 
 #. Key:	PresetNameTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:505
@@ -13009,8 +13136,12 @@ msgstr "Üst Vücut Kıyafetleri"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:144
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:144
 msgctxt "CharacterEditor,VariantTooltip"
-msgid "Change this character's variant.\nWARNING: This will overwrite the current appearance."
-msgstr "Bu karakterin türünü değiştir.\nDİKKAT: Şu anki görünüş kaybolacaktır."
+msgid ""
+"Change this character's variant.\n"
+"WARNING: This will overwrite the current appearance."
+msgstr ""
+"Bu karakterin türünü değiştir.\n"
+"DİKKAT: Şu anki görünüş kaybolacaktır."
 
 #. Key:	ErrorSavingPreset
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:2441
@@ -13087,7 +13218,7 @@ msgstr "Görevi tamamlamak istiyor musun?"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:111
 msgctxt "ConfirmationBox,FulfillFluidConfirm"
 msgid "Fluids will be removed from your inventory."
-msgstr ""
+msgstr "Sıvılar envanterinizden çıkarılacak."
 
 #. Key:	NewGameConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:83
@@ -14374,8 +14505,12 @@ msgstr "Hamilelik"
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:101
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:101
 msgctxt "SettingsMenu,PregnancyHelp"
-msgid "Female Nephelym will take 4 days to summon their offspring, and the belly will morph to reflect this.\nWARNING: Toggling this off during gameplay will cause existing pregnancies to be lost."
-msgstr "Dişi Nephelym'lerin hamilelik süresi 4 gün olur, ve karın büyüklükleri bunu gösterir.\nDİKKAT: Bu ayarı oyun içinde kapatmanız hali hazırda olan hamilelikleri yok eder."
+msgid ""
+"Female Nephelym will take 4 days to summon their offspring, and the belly will morph to reflect this.\n"
+"WARNING: Toggling this off during gameplay will cause existing pregnancies to be lost."
+msgstr ""
+"Dişi Nephelym'lerin hamilelik süresi 4 gün olur, ve karın büyüklükleri bunu gösterir.\n"
+"DİKKAT: Bu ayarı oyun içinde kapatmanız hali hazırda olan hamilelikleri yok eder."
 
 #. Key:	Quality
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:326
@@ -15111,4 +15246,3 @@ msgstr "Konuş"
 msgctxt "WorldAction,TraverseAction"
 msgid "Traverse Portal"
 msgstr "Geçiş Portalı"
-
