@@ -25,7 +25,7 @@ msgstr "이게 내 마지막 모습이야. 너무 놀라워. 나 좋은 냄새�
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay_RL.Default__MegaSlimePlay_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",00164C5345E544D784CC289035CEF701"
 msgid "About that orb..."
-msgstr ""
+msgstr "그 오브는..."
 
 #. Key:	002DAFE7433D240D0A5822A932016D65
 #. SourceLocation:	/Game/Ranch/Upgrades/BovaurShed.Default__BovaurShed_C.Upgrade.DisplayName
@@ -39,7 +39,7 @@ msgstr "보바울 오두막"
 #: /Game/Dialogue/Leylanna/Default/LeylannaHadSex01.Default__LeylannaHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",002F7FED4D68AF160CEAFFB092D0F2E2"
 msgid "Bring that hard cock over here... I want to feel it inside me."
-msgstr ""
+msgstr "그 단단한 자지를 이리줘...내 안에서 느끼고 싶어"
 
 #. Key:	0061A5124B098F61DE991D81AB884112
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -67,7 +67,7 @@ msgstr "그래, 마지막 한 방울마저 빨아먹을 때까지 떠날수 없�
 #: /Game/Dialogue/Monarch/Default/MonarchStartShySex.Default__MonarchStartShySex_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",0169F2A34BA4C1104CDDEE99B3A3B50E"
 msgid "So I can, y-y-you know... feel your cock deep inside me."
-msgstr ""
+msgstr "그래서 난, 너..너..너도 알잖아...네 자지를 내 깊숙한 곳까지 느끼고 싶어"
 
 #. Key:	017B23B341D5CE5BB9CC0293262CBD91
 #. SourceLocation:	/Game/Ranch/Upgrades/HarpyAviary.Default__HarpyAviary_C.Upgrade.Description
@@ -109,14 +109,14 @@ msgstr "글쌔, 드문 광경이네."
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToMale(4).LinesToMale
 msgctxt ",022313C047D185193F98C48BE5852E62"
 msgid "It's not often one so small has the courage to dick a kraken. I hope my fleshy body pleased you."
-msgstr ""
+msgstr "작은몸으로 크라켄의 자지를 받아들일 용기있는 사람은 많지 않아, 내 두꺼운 몸이 널 기쁘게 할수 있으면 좋겠어"
 
 #. Key:	026D19BC4A6B81E2694FF6B5E6EC3D9C
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMDefault_RL5_F.Default__DMDefault_RL5_F_C.ResponseData(1).ResponseData.BreederPrompt
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL5_F.Default__DMDefault_RL5_F_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",026D19BC4A6B81E2694FF6B5E6EC3D9C"
 msgid "Eeek... big genitals!"
-msgstr ""
+msgstr "으윽...큰 성기네!"
 
 #. Key:	028C9ACB45CFD05DB106DBA06B056886
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.StarfallenMonolith.ManageActionMessage
@@ -137,7 +137,7 @@ msgstr "물론, 지금까지 @MONSTER_RACE@가 의도적으로 인간을 해친�
 #: /Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(2).Lines
 msgctxt ",02FA062A4ABF915F50D8B38C08105557"
 msgid "From what I remember, I was of Liasis descent. A race said to roam Lewd Desert long ago."
-msgstr ""
+msgstr "내가 기억하기로는 리아시스 혈통이였어요, 오래전 류드사막을 배회했다고 전해지는 종족말이죠."
 
 #. Key:	02FDE6D44BCEE7E9CD0113AACDF9C4E2
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm_RL_T.Default__LeylannaDefault01_RechargeSpiritForm_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
@@ -200,7 +200,7 @@ msgstr "아아 좋아! 아아아....내 오래된 보지를 뚫어줘..."
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",0468AC1040BB9A10D1960B833F9A8305"
 msgid "For that I am thankful."
-msgstr ""
+msgstr "나는 그것에 감사합니다. "
 
 #. Key:	04744CA84CBAE9AB13EA1989A23A0DDC
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01.Default__FaleneDefault01_C.SessionData.Lines(0).Lines
@@ -228,14 +228,14 @@ msgstr "레미는 너가 야생@MONSTER_RACE@을 위한 새로운 건물을 원�
 #: /Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(4).Lines
 msgctxt ",051883BC403A71EC7220ACAE27A63552"
 msgid "That old rusty set of gears above the town entrance probably controls a pulley system."
-msgstr ""
+msgstr "마을입구 위에있는 그 낡고 오래된 기어셋트는 아마도 도르래를 제어하는데 쓰입니다"
 
 #. Key:	0522652344116C917836F4A1A78C8815
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFemale(0).LinesToFemale
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R07.Default__CamillaDefault01_R07_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",0522652344116C917836F4A1A78C8815"
 msgid "Don't waste your beautiful tall body on me human. Just wait for Falene to come back, or go suck on Amber's tits."
-msgstr "저에게 당신의 아름다운 키 큰 몸을 낭비하지 마세요. 펠린이 돌아오길 기다리시거나 엠버의 가슴이나 빨으시던가 하세요."
+msgstr "인간이시여 당신의 크고 아름다운 몸을 제게 낭비하지 마세요. 펠린이 돌아오길 기다리시거나 엠버의 가슴이나 빨던가 하세요."
 
 #. Key:	052657834F6DBDBBC49BDAADA6E5E88A
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_RL.Default__NeelaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -249,14 +249,14 @@ msgstr "라미아에 대해 알려줘."
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_FutaBalls.Default__CamillaDefault01_FutaBalls_C.SessionData.Lines(0).Lines
 msgctxt ",0559493D46F48B86A2683FB3AC087112"
 msgid "Sugar walls before balls!"
-msgstr "아랫입 전에 봉알 먼저!"
+msgstr "아랫입 전에 불알 먼저!"
 
 #. Key:	06271AC24974DE1182364AAD430A9574
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToMale(3).LinesToMale
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",06271AC24974DE1182364AAD430A9574"
 msgid "If you... uh... ever get desperate again, you know where to find me!"
-msgstr ""
+msgstr "만약 당신이....어...다시 절망에 빠지셨다면, 당신은 나를 어디서 찾을 수 있는지 알게될 거예요!"
 
 #. Key:	0629816F428092E0C5B0169DD3E8F968
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(8).Lines
@@ -305,21 +305,21 @@ msgstr "이 세계는 인간과 몬스터 융합체인 수수께끼같은 종족
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(3).Lines
 msgctxt ",07035EA54B778F47897F278270889BBF"
 msgid "Aww... it's so adorable watching them figure out how to reach the fruit on the high branches."
-msgstr ""
+msgstr "아아...높은가지에 열매맺는 방법을 알아내는 모습이 너무 귀여워"
 
 #. Key:	075A16DA4BA7F51C3A07099921F7F1B3
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.LinesGrungy(1).LinesGrungy
 #: /Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.LinesGrungy(1).LinesGrungy
 msgctxt ",075A16DA4BA7F51C3A07099921F7F1B3"
 msgid "You need a bath. Come now, place your body between my breasts and let's get you clean."
-msgstr ""
+msgstr "당신 목욕이 필요하군요. 이리와요, 내 가슴으로 당신을 깨끗하게 해줄게요."
 
 #. Key:	07B2E95342A617616201F19B87E3655A
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePlay1.Default__MegaSlimePlay1_C.SessionData.LinesToFuta(3).LinesToFuta
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay1.Default__MegaSlimePlay1_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",07B2E95342A617616201F19B87E3655A"
 msgid "You will feel so good as I milk your cock for all of its delicious semen..."
-msgstr ""
+msgstr "내가 맛있는 정액을 위해 너의 자지를 짜내면, 네 기분이 좋아질거야... "
 
 #. Key:	07F233504BDA1232640FB1846CBFE868
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01.Default__FernDefault01_C.SessionData.Lines(0).Lines
@@ -347,35 +347,35 @@ msgstr "제 정액을 가져가세요!"
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",08A2508F4D57261E790AB8BEA258D6B2"
 msgid "Understand, thou has licked a vagina as old as time itself."
-msgstr ""
+msgstr "이해해, 너는 시간 그 자체라고 할만큼 오래된 질을 핥았어"
 
 #. Key:	08DE001E4420BE30688798BF6B70729D
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(4).Lines
 msgctxt ",08DE001E4420BE30688798BF6B70729D"
 msgid "You will need to satisfy their desires before they will give them up."
-msgstr ""
+msgstr "그들이 포기하기 전에 그들의 욕망을 충족시켜줘야 해요."
 
 #. Key:	0925499D4273278AA298A99B40C4550F
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFuta(2).LinesToFuta
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",0925499D4273278AA298A99B40C4550F"
 msgid "Believe me human, I have birthed many offspring."
-msgstr ""
+msgstr "인간이시여 나를 믿으세요, 나는 많은 자손을 나았어요."
 
 #. Key:	093760FD4181D0AA284C4D96884A3801
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(1).Lines
 msgctxt ",093760FD4181D0AA284C4D96884A3801"
 msgid "Took me love for milk too far, 'an the 'ol bovaur genes kicked in."
-msgstr ""
+msgstr "우유에 대한 애정을 너무 많이 가져왔네, 올 보바울의 유전자가 발동됐어"
 
 #. Key:	094AB3854E6DACE10C94B28ADCB83FE0
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaFaleneWeek.Default__CamillaFaleneWeek_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Camilla/Default/CamillaFaleneWeek.Default__CamillaFaleneWeek_C.SessionData.Lines(2).Lines
 msgctxt ",094AB3854E6DACE10C94B28ADCB83FE0"
 msgid "The best thing she finds, she brings back here to examine."
-msgstr ""
+msgstr "그녀가 찾은 가장 좋은점은, 그녀가 이곳으로 돌아왔다는 거야"
 
 #. Key:	0968DD0D4744523D6AFCEABE502C530F
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R07.Default__FaleneDefault01_R07_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -389,14 +389,14 @@ msgstr "난 흥분해서 더이상 참을수가 없어! 인간한테 내가 왔�
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(4).LinesToFemale
 msgctxt ",099488164DB48F48395E94B86F3EE565"
 msgid "My lust is quickly regenerating, and I would gladly mate with you again."
-msgstr ""
+msgstr "내 욕망은 빠르게 재생되고 있어요, 그리고 나는 기꺼이 당신과 다시 짝짓기를 거예요."
 
 #. Key:	09C95B9C48668D0B269B88826710F912
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",09C95B9C48668D0B269B88826710F912"
 msgid "Is that a comforting feeling?"
-msgstr ""
+msgstr "그게 위로가되는 느낌인가요?"
 
 #. Key:	0A1E776A4877D11A8A4716A6FEE789C1
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(7).LinesToMale
@@ -410,35 +410,35 @@ msgstr "@MONSTER_RACE@의 기원은 오래되었고 알 수 없습니다. 그러
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay1.Default__MegaSlimePlay1_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",0A6CE0B4469F4068DE66F4AB8EC4EDA9"
 msgid "I think... you might be my best friend of all time."
-msgstr ""
+msgstr "내 생각엔...넌 내 가장 친한 친구일지도 몰라"
 
 #. Key:	0AA608164C47369E28D0C6BFDB27289A
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Mirru/Default/MirruDefault01_AboutKrakens.Default__MirruDefault01_AboutKrakens_C.SessionData.Lines(0).Lines
 msgctxt ",0AA608164C47369E28D0C6BFDB27289A"
 msgid "The most noble, mighty, and feared race beneath the waves we are!"
-msgstr "우리는 파도 아래에서 가장 고귀하고, 강력하고, 두려운 종족!"
+msgstr "우리는 파도 아래에서 가장 고귀하고, 강력하고, 두려운 종족이다!"
 
 #. Key:	0B1F283F4C4E0D0752DF53AB312D45F9
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMClimaxPeak.Default__DMClimaxPeak_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/DragonMatriarch/Default/DMClimaxPeak.Default__DMClimaxPeak_C.SessionData.Lines(3).Lines
 msgctxt ",0B1F283F4C4E0D0752DF53AB312D45F9"
 msgid "I've heard about fertile Bovaur roaming in the south which produce vast quantities of breast milk."
-msgstr ""
+msgstr "나는 많은 양의 모유를 생산하는 보바울들이 남부에서 배회하고 있다고 들었습니다. "
 
 #. Key:	0B2CFD3342EAE68FB552BF9F7876374B
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaHadSex01.Default__NeelaHadSex01_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Neela/Default/NeelaHadSex01.Default__NeelaHadSex01_C.SessionData.Lines(2).Lines
 msgctxt ",0B2CFD3342EAE68FB552BF9F7876374B"
 msgid "Ahhh... I feel so good!"
-msgstr ""
+msgstr "아아....너무 기분 좋아!"
 
 #. Key:	0B796FF84644C0154CA874BFDFA16D50
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Romy/Default/RomyHadSex01.Default__RomyHadSex01_C.SessionData.Lines(2).Lines
 msgctxt ",0B796FF84644C0154CA874BFDFA16D50"
 msgid "Let us spend the day together, for here in the warmth of this water we can sing again for hours."
-msgstr ""
+msgstr "우리 같이 하루를 보내자, 이 따뜻한 물속에서는 몇시간이고 계속 노래할 수 있을거야"
 
 #. Key:	0BB0A695454FD69DAA129F82F023EB23
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(1).LinesToFemale
@@ -480,7 +480,7 @@ msgstr "여신과 직접 관계를 가진 사람들은 너무나 많은 기쁨�
 #: /Game/Dialogue/Monarch/Default/MonarchShySexF_RL.Default__MonarchShySexF_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",0CBE9A9A40E9ADB708F7C28FA2F1B657"
 msgid "My body is ready"
-msgstr ""
+msgstr "내 몸은 준비됐어"
 
 #. Key:	0CD45BB44BFDB28371B663B5B53FD368
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(5).Lines
@@ -522,14 +522,14 @@ msgstr "나비"
 #: /Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.Lines(2).Lines
 msgctxt ",0D3C4D8D4F6C01DE00A1B88BD745C860"
 msgid "A bath perhaps? Or maybe one of your wild ones made love with the dirt. I will wash them all."
-msgstr ""
+msgstr "아마 목욕? 아니면 당신의 야생동물중 하나가 흙을 사랑했을 수도 있겠네요. 내가 다 닦아줄게요."
 
 #. Key:	0D41FE0947E3B6D0F4FD10AF14FE68BE
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleCentaur.Default__KybeleCentaur_C.SessionData.Lines(5).Lines
 #: /Game/Dialogue/Kybele/Default/KybeleCentaur.Default__KybeleCentaur_C.SessionData.Lines(5).Lines
 msgctxt ",0D41FE0947E3B6D0F4FD10AF14FE68BE"
 msgid "For one of the @MONSTER_RACE@ race it is torture!"
-msgstr ""
+msgstr "그건 @MONSTER_RACE@ 종족에게는 고문입니다!"
 
 #. Key:	0DB9C395441D2A229D61EE963260C09C
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.TitanCave.ManageActionMessage
@@ -543,7 +543,7 @@ msgstr "타이탄 관리"
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeVerySad2.Default__MegaSlimeVerySad2_C.SessionData.Lines(0).Lines
 msgctxt ",0DF191BF45A432F3BF190CAA63DF44DA"
 msgid "*Continued sobbing*"
-msgstr ""
+msgstr "*계속 울고있다*"
 
 #. Key:	0DFBAC884A0E11B073E5269E92E6DC30
 #. SourceLocation:	/Game/Breeding/Positions/Doggy.Default__Doggy_C.SessionData.PositionName
@@ -564,14 +564,14 @@ msgstr "색광"
 #: /Game/Dialogue/Parvati/Default/ParvatiHadSex01.Default__ParvatiHadSex01_C.SessionData.Lines(3).Lines
 msgctxt ",0E3AF3704D88CDB26D17458852A1792E"
 msgid "Using our bodies in ways all too perverse."
-msgstr ""
+msgstr "우리의 몸을 너무 비뚤어진 방법으로 사용하고 있어요."
 
 #. Key:	0E4B3CBA440B587A805453A5FAC01859
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDungeon2.Default__CassieDungeon2_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Cassie/Default/CassieDungeon2.Default__CassieDungeon2_C.SessionData.Lines(1).Lines
 msgctxt ",0E4B3CBA440B587A805453A5FAC01859"
 msgid "Meow... no one has been down there for as long as I remember."
-msgstr ""
+msgstr "냐옹...내가 기억으론 거기에 아무도 없었어."
 
 #. Key:	0E6E1156457FB3513C060D979FF6B9AE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.HelpText
@@ -599,7 +599,7 @@ msgstr "감소"
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",0EC0E30B4EEFEC910A9F1D90DC5AB286"
 msgid "Judging by the mess on the temple floor, quite good."
-msgstr ""
+msgstr "엉망진창인 사원바닥 이지만, 꽤 괜찮았다."
 
 #. Key:	0EEEC9A34AD6162338FCA699384590D4
 #. SourceLocation:	/Game/Ranch/Upgrades/BovaurShed.Default__BovaurShed_C.Upgrade.TypeDisplay
@@ -641,14 +641,14 @@ msgstr "그러나 우리는 파괴적인 과거를 가졌지만, 대부분의 �
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToMale(7).LinesToMale
 msgctxt ",0FAF6E0B4308E0F116E3C3BC117672E3"
 msgid "That creepy golden seraphim, the one in the temple. She appeared only a few days ago, constantly asking to speak with \"the human\"."
-msgstr ""
+msgstr "성전에 있는 그 오싹한 황금 세라핌, 그녀는 불과 며칠전에 나타나서 끊임없이 '인간'과 대화를 요청했습니다."
 
 #. Key:	0FC69F2441505B7DAACAC7807627892D
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R05.Default__FernDefault03_R05_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R05.Default__FernDefault03_R05_C.SessionData.Lines(1).Lines
 msgctxt ",0FC69F2441505B7DAACAC7807627892D"
 msgid "We made her together when your bodily fluids merged with mine."
-msgstr "우린 함께 체액을 합쳤을때 그녀를 만들어 냈다."
+msgstr "당신과 내 체액이 합쳐졌을때, 우린 함께 그녀를 만들어냈습니다."
 
 #. Key:	0FDE723F46BC47FD23DB75A6EDA9C79C
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_BlueSmoke.Default__LeylannaDefault01_BlueSmoke_C.SessionData.Lines(2).Lines
@@ -676,7 +676,7 @@ msgstr "마음대로 하세요!"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(2).Lines
 msgctxt ",1074EFCF47610848DA1E09AED2EF9B29"
 msgid "That disgusting creature will not see the light of day so long as this emissary remains."
-msgstr ""
+msgstr "사절이 남아있는 한, 그 역겨운 생물은 한 낮의 빛을 볼수 없을겁니다."
 
 #. Key:	107C6B8448B1F139A90AFDBD17AE1AA9
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(25).LinesToFemale
@@ -704,7 +704,7 @@ msgstr "암컷 폭슨을 잡으면 내게로 돌아오라."
 #: /Game/Dialogue/Kybele/Default/KybeleHaveKeystone.Default__KybeleHaveKeystone_C.SessionData.Lines(4).Lines
 msgctxt ",10E4A32B499DC549B6EE719D6FEAFD45"
 msgid "I want a strong mate large enough to please me, a Vulwarg fleshy in the right areas will do."
-msgstr ""
+msgstr "난 나를 기쁘게 할 만큼 크고 강한 짝을 원해, 적절한 부위에 살이 많은 불워그가 그렇지."
 
 #. Key:	1101687D48DB923571BCF99F288D40BC
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.Lines(3).Lines
@@ -760,21 +760,21 @@ msgstr "그 아름다운 인간 자지를 리마아 몸속 깊이 찔러줘...�
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Jungle.PlaceMessage
 msgctxt ",11A9B90644E91677CD9DEFB4CC831C2C"
 msgid "Sultry Plateau is now accessible."
-msgstr ""
+msgstr "무더운 고원에 접근할 수 있습니다."
 
 #. Key:	11BBEDC74B6704427E32B6A7F9FB5D77
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchStartShySex.Default__MonarchStartShySex_C.SessionData.LinesToFuta(2).LinesToFuta
 #: /Game/Dialogue/Monarch/Default/MonarchStartShySex.Default__MonarchStartShySex_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",11BBEDC74B6704427E32B6A7F9FB5D77"
 msgid "May I... ride you?"
-msgstr ""
+msgstr "당신에게 올라타도 될까요?"
 
 #. Key:	11C0FBB845185DFCD5E67DA5B758B432
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(2).Lines
 msgctxt ",11C0FBB845185DFCD5E67DA5B758B432"
 msgid "At me peak I could barely walk! The jugs 'an belly were mighty heavy."
-msgstr ""
+msgstr "나는 절정이라 걷질 못하겠다! 젓통과 배가 엄청 무겁다"
 
 #. Key:	12036FB64912193341380BA267A64971
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToFemale(4).LinesToFemale
@@ -802,14 +802,14 @@ msgstr "우리는 정말 마음속으로 쾌락을 추구하는 사람들이야!
 #: /Game/World/Events/EM_Keystone.EM_Keystone_C:ExecuteUbergraph_EM_Keystone [Script Bytecode]
 msgctxt ",1276E5EB4781A0238A9705AC9FEE680E"
 msgid "Keystone acquired."
-msgstr ""
+msgstr "키스톤을 인수했습니다."
 
 #. Key:	129A33314E1BA60BA7698394A0DEDCD7
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieHadSex01.Default__CassieHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 #: /Game/Dialogue/Cassie/Default/CassieHadSex01.Default__CassieHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",129A33314E1BA60BA7698394A0DEDCD7"
 msgid "So many splinters in my back, but it was worth it!"
-msgstr ""
+msgstr "내 등에 아주 많은 파편이 있지만, 그만한 가치가 있어요!"
 
 #. Key:	129E92F14686D57C52A26598C5257AF6
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(12).LinesToFemale
@@ -858,7 +858,7 @@ msgstr "타이탄 동굴"
 #: /Game/Dialogue/Monarch/Default/MonarchShySexT_RL.Default__MonarchShySexT_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",1313BBB44A4D1E05E98E26A226B6226B"
 msgid "No!"
-msgstr ""
+msgstr "안돼!"
 
 #. Key:	1314F6404A2F1B2C9E0F9F856E1D18C6
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToFuta(1).LinesToFuta
@@ -879,7 +879,7 @@ msgstr "공허가 뭐야?"
 #: /Game/Dialogue/Monarch/Default/MonarchQueen.Default__MonarchQueen_C.SessionData.Lines(3).Lines
 msgctxt ",1375B52C45BC0C13C5B21D954838AE4B"
 msgid "As a butterfly, my t-t-task is to fly around the world and collect exotic nectar."
-msgstr ""
+msgstr "나비로서의 내 사-사-사명은 전 세계를 날아다니며 이국적인 꿀을 수집하는거예요."
 
 #. Key:	13E887904839CEF7B4D79EBD63EA0F05
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -893,7 +893,7 @@ msgstr "너가 타이탄이 아니어도 난 상관없어! 아아아아아....�
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03_R02_R01.Default__FernDefault03_R02_R01_C.SessionData.Lines(1).Lines
 msgctxt ",13F822424D7968B826D8E79C10C52DBC"
 msgid "But we can make love now! Let's do that. Maybe something magical will happen."
-msgstr "하지만 우리는 이제 사랑을 나눌 수 있어! 그렇게 하자. 어쩌면 마법같은 일이 일어날지도 몰라."
+msgstr "하지만 우리는 이제 사랑을 나눌 수 있어! 그렇게 하자, 어쩌면 마법같은 일이 일어날지도 몰라."
 
 #. Key:	14597A3447ACFD81E4E72CB43D419E39
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(4).Lines
@@ -935,14 +935,14 @@ msgstr "옷을 벗으십시오, 당신은 나체여야 합니다."
 #: /Game/Dialogue/Neela/Default/NeelaGreeting01.Default__NeelaGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",14F5C7E34772BFD4F5E7039EF72ACF9E"
 msgid "Through all of my long years and endless travels, I never thought to cross paths with a human."
-msgstr "긴 세월과 끝없는 여행을 통해, 너눈 인간과 길을 건널 생각으 해본적이 없었다."
+msgstr "내 오랜 세월과 끝없는 여정에서, 나는 결코 인간과 여정을 함께할것이라 생각해본적이 없었다."
 
 #. Key:	158D44FA46C00C7898EF1C99A9A99EA7
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(7).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(7).Lines
 msgctxt ",158D44FA46C00C7898EF1C99A9A99EA7"
 msgid "Claiming \"the spirits told me to make love with the golden angel\" or something similar."
-msgstr "\"영혼들이 황금천사와 사랑을 나누라고 했다\"같은 주장이거나 비슷한 것."
+msgstr "\"영혼들이 황금천사와 사랑을 나누라고 했다\" 혹은 그와 비슷한 뭔가를 주장한다."
 
 #. Key:	16049E004B001A3FEF8E25BEBE498398
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_RL.Default__ParvatiDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -977,7 +977,7 @@ msgstr "너가 타이탄이 아니어도 난 상관없어! 아아아아아....�
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeHowLong.Default__MegaSlimeHowLong_C.SessionData.Lines(2).Lines
 msgctxt ",16EC466F4A9673C3FA08CF9ED0AD4534"
 msgid "Until now! These last few days have been the happiest of my life."
-msgstr ""
+msgstr "지금까지! 지난 몇일은 내 인생에서 가장 했복했어"
 
 #. Key:	170B9C2D49AD3C9EDFB2F98BB3947924
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(13).LinesToMale
@@ -991,21 +991,21 @@ msgstr "내 보지가 두근거려..."
 #: /Game/Dialogue/DragonMatriarch/Default/DMMuchEnergy.Default__DMMuchEnergy_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",17A76DB943E2CB6F9ACC2A823244D892"
 msgid "Now I want to mate! I've been slumbering for many days, and I am extremely horny."
-msgstr ""
+msgstr "이제 짝짓기를 하고 싶어요! 나는 많은 날들을 졸고있었는데, 매우 흥분되네요. "
 
 #. Key:	17D6A70C4116B743F6CB26ADEB18DFD0
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",17D6A70C4116B743F6CB26ADEB18DFD0"
 msgid "It's been so long since I have tasted warm cum."
-msgstr ""
+msgstr "따끈따끈한 정액을 맛본지 너무 오래됐어요."
 
 #. Key:	186FDC7F49586189532EC29D0F8296D3
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMDefault_RL3.Default__DMDefault_RL3_C.ResponseData(0).ResponseData.BreederPrompt
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault_RL3.Default__DMDefault_RL3_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",186FDC7F49586189532EC29D0F8296D3"
 msgid "It's presently grasslands and trees..."
-msgstr ""
+msgstr "현제는 초원과 나무뿐..."
 
 #. Key:	18CAD01243ECA034DDADA1A0880C715D
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot.Default__ParvatiDefault01_Forgot_C.SessionData.Lines(2).Lines
@@ -1047,7 +1047,7 @@ msgstr "인간과 관계를 맺을수 있는 기회가 내 심장을 두근거�
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeSad_RL2.Default__MegaSlimeSad_RL2_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",195D4E38448666E82EA5BEA6A446E98A"
 msgid "What have I done..."
-msgstr ""
+msgstr "내가 무슨 짓을 한거야..."
 
 #. Key:	19A2E9D044587CE3E0AC5B8D366B6974
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01.Default__AmberMaeDefault01_C.SessionData.Lines(0).Lines
@@ -1131,28 +1131,28 @@ msgstr "나는 그 변종을 잡으러 떠났다."
 #: /Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Message
 msgctxt ",1BE4B0584A935AE797E21B89CFDDEBF9"
 msgid "A mechanism was repaired."
-msgstr ""
+msgstr "기계장치가 수리되었습니다."
 
 #. Key:	1C3E96114020C3F1D5514C998DF520B9
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(4).LinesToFuta
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(4).LinesToFuta
 msgctxt ",1C3E96114020C3F1D5514C998DF520B9"
 msgid "So much excitement for one day, getting sleepy."
-msgstr ""
+msgstr "하루는 너무 설레이고 졸려"
 
 #. Key:	1C71641945A1D7E57E40EEB16FB66E75
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMMuchEnergy.Default__DMMuchEnergy_C.SessionData.LinesToFemale(3).LinesToFemale
 #: /Game/Dialogue/DragonMatriarch/Default/DMMuchEnergy.Default__DMMuchEnergy_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",1C71641945A1D7E57E40EEB16FB66E75"
 msgid "The lucky Titan will not expect such a massive load!"
-msgstr ""
+msgstr "행운의 타이탄은 그렇게 엄청난 부하를 기대하지 않는다!"
 
 #. Key:	1C771B6F4DD1FF210888A5BB37418D44
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFemale(0).LinesToFemale
 #: /Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",1C771B6F4DD1FF210888A5BB37418D44"
 msgid "Many of them, but like all wild ones, they frequently phase in and out of the Void."
-msgstr ""
+msgstr "많은 이들이, 아니 모든 야생동물과 마찬가지로, 그들은 자주 공허 안팎을 단계적으로 드나듭니다."
 
 #. Key:	1C97795346C0DCFF24FCF7965DB04AFF
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R06.Default__FaleneDefault01_R06_C.SessionData.Lines(2).Lines
@@ -1173,7 +1173,7 @@ msgstr "또는 축복받은 존재와 섹스 함으로써 부분적으로 자신
 #: /Game/World/Overworld.Overworld:PersistentLevel.EM_HedonDungeonSwitch.Message
 msgctxt ",1CB51DBE4D43642F605E479B59AC73A0"
 msgid "A mechanism was activated."
-msgstr ""
+msgstr "기계장치가 활성화되었습니다."
 
 #. Key:	1CCC14A74CE9A9AC038704B5BCC41068
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(7).Lines
@@ -1187,7 +1187,7 @@ msgstr "이에 만족한 여신은 그녀의 창조물이 살 수 있는 세계�
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(0).Lines
 msgctxt ",1CE3D3C14381A71E21FE5C9262A5AB20"
 msgid "Once every 1200 years, the Tree of Bliss will produce a fruit."
-msgstr ""
+msgstr "행복의 나무는 1200년에 한번 열매를 맺습니다."
 
 #. Key:	1CF80140486F2A7F4E727D8E50B64B37
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFemale(7).LinesToFemale
@@ -1201,7 +1201,7 @@ msgstr "*햝짝* *햝짝*"
 #: /Game/Dialogue/Camilla/Default/CamillaDefault02.Default__CamillaDefault02_C.SessionData.Lines(1).Lines
 msgctxt ",1D0919E245DEEDE87FD63C8852480108"
 msgid "I wonder what she brought me this time."
-msgstr ""
+msgstr "이번에는 그녀가 내게 무엇을 가져왔는지 궁금해"
 
 #. Key:	1D44F1774A53A6682BEE0BB2C13C2732
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01.Default__CassieDefault01_C.SessionData.Lines(0).Lines
@@ -1229,7 +1229,7 @@ msgstr "슬프게도 나는 더이상 너가 야생@MONSTER_RACE@에게서 체�
 #: /Game/Dialogue/Kybele/Default/KybeleDragonMatriarch.Default__KybeleDragonMatriarch_C.SessionData.Lines(4).Lines
 msgctxt ",1D9FC9EA4EBB827C25C418BF316240BB"
 msgid "This lust is driving me mad human! You have no idea."
-msgstr ""
+msgstr "이 정욕이 나를 미친사람으로 만들어! 당신은 모르겠지"
 
 #. Key:	1DA742CA40AC6A3A7EC5B6834EEA93B8
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(2).Lines
@@ -1243,7 +1243,7 @@ msgstr "인어들은 특별한 포물리안인이야. 우리는 대부분의 다
 #: /Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.Lines(0).Lines
 msgctxt ",1DB7FBDD4A80D06FCF9019965B0E0008"
 msgid "Ye drank so much for a wee lass!"
-msgstr ""
+msgstr "너희는 꼬마아가씨를 위해 너무 많이 마셨다!"
 
 #. Key:	1E0C491A43E8C2F67FA568B20B5A6743
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(5).Lines
@@ -1264,7 +1264,7 @@ msgstr "나와 함께 이 안으로 들어가자, 내몸은 비단결같고 달�
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeVerySad.Default__MegaSlimeVerySad_C.SessionData.Lines(4).Lines
 msgctxt ",1E2A2FC04EF0D4BCC92A3A911348230A"
 msgid "I thought... finally... I would have friends again..."
-msgstr ""
+msgstr "마침내....나 다시 친구가 생겼다고 생각해..."
 
 #. Key:	1E3AD95641E1D41AAA9115A007EDC28A
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(2).Lines
@@ -1292,21 +1292,21 @@ msgstr "어떻게 할까?"
 #: /Game/Dialogue/Cassie/Default/CassieHadSex01.Default__CassieHadSex01_C.SessionData.LinesToFemale(5).LinesToFemale
 msgctxt ",1EB41EAD40088E3874A4E0A7F3C437DC"
 msgid "I need to release again already... you humans have it so easy."
-msgstr ""
+msgstr "다시 풀어줘야 해, 이미...당신들 인간은 그것을 너무 쉽게 가지고 있어"
 
 #. Key:	1EB7986D40F6A7B90EB5ADB781104A11
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(6).ResponseData.BreederPrompt
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(6).ResponseData.BreederPrompt
 msgctxt ",1EB7986D40F6A7B90EB5ADB781104A11"
 msgid "How do I access the area under the temple?"
-msgstr ""
+msgstr "사원아래에는 어떻게 접근합니까?"
 
 #. Key:	1EBEB6D94E78F0B72A365EAD5BD52461
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(5).LinesToFuta
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(5).LinesToFuta
 msgctxt ",1EBEB6D94E78F0B72A365EAD5BD52461"
 msgid "*Yawn*"
-msgstr ""
+msgstr "*하~암(하품소리)*"
 
 #. Key:	1EC1BDF8474319018DE2CBA3602448F1
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_R01.Default__EmissaryBlessedInquiry01_R01_C.SessionData.Lines(1).Lines
@@ -1320,7 +1320,7 @@ msgstr "나는 모든 욕망과 감정을 극복하였다. 여신의 대천사�
 #: /Game/Dialogue/Monarch/Default/MonarchHaveKeystone2.Default__MonarchHaveKeystone2_C.SessionData.Lines(2).Lines
 msgctxt ",1EC6ED68400A0EEDE25F8BA9CAB37F8E"
 msgid "T-t-thank you human!"
-msgstr ""
+msgstr "고-고-고마워요 인간!"
 
 #. Key:	1EDF51EB413B2D360FB8C6B5AD2E62ED
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -1334,14 +1334,14 @@ msgstr "나비!"
 #: /Game/World/Events/EM_Keystone.Default__EM_Keystone_C.ActivateMessage
 msgctxt ",1F1CAEA0490338B83DFFE19139FBE3C2"
 msgid "Take Keystone"
-msgstr ""
+msgstr "키스톤을 받아"
 
 #. Key:	1F2830D14059782BF943B5BD1F8A5942
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFemale(0).LinesToFemale
 #: /Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",1F2830D14059782BF943B5BD1F8A5942"
 msgid "Ah such a glorious mate you have given me!"
-msgstr ""
+msgstr "아아! 당신이 내게 주어진 영광스러운 짝이로군요!"
 
 #. Key:	1FA8B3E8448F66CB1045EAB3F54ADE2B
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(5).LinesToFemale
@@ -1362,7 +1362,7 @@ msgstr "친절함: 짝에게 XP를 두배로 주지만 받을땐 절반만 받�
 #: /Game/Dialogue/Cassie/Default/CassieHadSex01.Default__CassieHadSex01_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",1FEA2992437543C7A8B378B9046E4AE5"
 msgid "Such sweet release for Cassie!"
-msgstr ""
+msgstr "캐씨를 위한 달콤한 발매!"
 
 #. Key:	20149E5046FF32B65667FBA243C9BED4
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_HowToSpiritForm.Default__LeylannaDefault01_HowToSpiritForm_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -1411,7 +1411,7 @@ msgstr "테스트5"
 #: /Game/Dialogue/Autumn/Default/DryadGreeting01.Default__DryadGreeting01_C.SessionData.Lines(3).Lines
 msgctxt ",20D5FBB14DDFF45AA9B224862543CAFD"
 msgid "Sweet and juicy... oh!"
-msgstr ""
+msgstr "달콤하고 촉촉해...오오!"
 
 #. Key:	20FEDBA24B5C623E162B85A3D6ACF514
 #. SourceLocation:	/Game/Ranch/Upgrades/StarfallenMonolith.Default__StarfallenMonolith_C.Upgrade.DisplayName
@@ -1439,14 +1439,14 @@ msgstr "*쭙쭙* *츄릅*"
 #: /Game/Dialogue/Fern/DefaultP3/FernHadSex03.Default__FernHadSex03_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",212DDF504562E903B436369721416CBC"
 msgid "This flower body is great, I hope you enjoyed it too master."
-msgstr ""
+msgstr "이 꽃의 몸은 훌륭합니다, 주인님이 그것을 충분히 즐겼길 바랍니다."
 
 #. Key:	213C826F44FC31430F08EE8F97663F9A
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMGreeting01.Default__DMGreeting01_C.SessionData.Lines(6).Lines
 #: /Game/Dialogue/DragonMatriarch/Default/DMGreeting01.Default__DMGreeting01_C.SessionData.Lines(6).Lines
 msgctxt ",213C826F44FC31430F08EE8F97663F9A"
 msgid "Go play with the wild dragons, I'm sure they would love to get to know you better."
-msgstr ""
+msgstr "야생 드래곤과 함께 놀아주세요. 그들은 당신을 더 알고싶어 할거예요, 제가 확신해요."
 
 #. Key:	217058F6486D81B1085B329585491A13
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.HelpText
@@ -1460,7 +1460,7 @@ msgstr "흥분: 번식하는 동안 성욕을 35% 더 적게 잃는다."
 #: /Game/Dialogue/DragonMatriarch/Default/DMGreeting01.Default__DMGreeting01_C.SessionData.Lines(2).Lines
 msgctxt ",219DB5F74ED7CB5AAC90FA94BF883682"
 msgid "How interesting... *yawn*"
-msgstr ""
+msgstr "이 흥미로운...*하~암*(하품소리)"
 
 #. Key:	21A08FF347BC7DE708B258BAD0F4BEF3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(22).LinesToMale
@@ -1481,14 +1481,14 @@ msgstr "불운의 카우걸"
 #: /Game/Dialogue/Leylanna/Default/LeylannaOldTempleDungeon1.Default__LeylannaOldTempleDungeon1_C.SessionData.Lines(2).Lines
 msgctxt ",21F3FE504159303A7B601594A76A9D1D"
 msgid "Have you come here to make love with me?"
-msgstr ""
+msgstr "나와 사랑을 나누려고 여기까지 왔나요?"
 
 #. Key:	221EB3E64F8474A44715CA969A344204
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchHaveKeystone.Default__MonarchHaveKeystone_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Monarch/Default/MonarchHaveKeystone.Default__MonarchHaveKeystone_C.SessionData.Lines(3).Lines
 msgctxt ",221EB3E64F8474A44715CA969A344204"
 msgid "The wild @MONSTER_RACE@ around here are so big and s-s-strong."
-msgstr ""
+msgstr "이주변의 야생 @MONSTER_RACE@은(는) 매우크고 가-가-강력해요."
 
 #. Key:	2232F66F4BB565CC2A75538123292067
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(19).LinesToMale
@@ -1502,7 +1502,7 @@ msgstr "그러면 일이 훨씬 쉬워지지!"
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",2262A6F64B6CB59E0A4D93A13609ED6A"
 msgid "Human cum tastes just like I dreamt it would!"
-msgstr ""
+msgstr "인간의 정액은 내가 꿈꾸던 맛이야!"
 
 #. Key:	226CAB5E40652DCF455036A02B7F0BEF
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.LinesGrungy(3).LinesGrungy
@@ -1621,7 +1621,7 @@ msgstr "참을성: 최대 욕정을 20% 증가시킨다."
 #: /Game/Dialogue/Autumn/Default/DryadDefault01_RL.Default__DryadDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",2501139743DDD3B68A226FB25573A87A"
 msgid "Yum... can I have the keystone now?"
-msgstr ""
+msgstr "냠...이제 키스톤을 가져도 되나요?"
 
 #. Key:	25085F2F407D8D979CA1B39E030426E5
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(3).ResponseData.BreederPrompt
@@ -1635,21 +1635,21 @@ msgstr "영혼의 형태를 변경한다."
 #: /Game/Dialogue/Monarch/Default/MonarchPrettyButterfly.Default__MonarchPrettyButterfly_C.SessionData.Lines(4).Lines
 msgctxt ",253A15E2499151C9550E6A80742E78B6"
 msgid "We love it, but every butterfly's dream is... w-w-well..."
-msgstr ""
+msgstr "우리는 그걸 좋아하지만 모든 나비의 꿈은...자-자-잘...."
 
 #. Key:	25580E6145BF9216DA12689E0973DCD0
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleAnyMeans.Default__KybeleAnyMeans_C.SessionData.LinesToFemale(2).LinesToFemale
 #: /Game/Dialogue/Kybele/Default/KybeleAnyMeans.Default__KybeleAnyMeans_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",25580E6145BF9216DA12689E0973DCD0"
 msgid "I am a well trained centaur warmaiden, you would not stand a chance."
-msgstr ""
+msgstr "나는 잘 훈련된 켄타울 워메이든입니다. 당신에게 기회는 없을겁니다."
 
 #. Key:	2562C2DF4A1E2558709AB9BF6D7F7974
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaHadSex01.Default__NeelaHadSex01_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/Neela/Default/NeelaHadSex01.Default__NeelaHadSex01_C.SessionData.Lines(3).Lines
 msgctxt ",2562C2DF4A1E2558709AB9BF6D7F7974"
 msgid "You don't have to run off now do you? Stay awhile... and..."
-msgstr ""
+msgstr "이제 도망갈 필요 없어요? 잠시만...그리고..."
 
 #. Key:	25D626114231ECB08961C6AB69737AE1
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_UpHere.Default__RomyDefault01_UpHere_C.SessionData.Lines(1).Lines
@@ -1663,7 +1663,7 @@ msgstr "너는 너만 혼자라는게 이상하다고 생각하겠지, 난 네 �
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Cove.BlockMessage
 msgctxt ",25F0F67B48B7F4AEF73F849ED76DC655"
 msgid "Roots block this gate."
-msgstr ""
+msgstr "뿌리가 이 문을 막고있어."
 
 #. Key:	2632B36446A9D5F9E018209CB73837B8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.DisplayName
@@ -1677,7 +1677,7 @@ msgstr "거대한 크기"
 #: /Game/Dialogue/Camilla/Default/CamillaHadSex02.Default__CamillaHadSex02_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",268AD0D344A4D1238CEC5798F2ED5EF0"
 msgid "If you... uh... ever get desperate again, you know where to find me!"
-msgstr ""
+msgstr "만약 당신이....어...다시 절망에 빠지셨다면, 당신은 나를 어디서 찾을 수 있는지 알게될 거예요!"
 
 #. Key:	26BF34E64E91FAF8BA6ACF94AB76AB90
 #. SourceLocation:	/Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToMale(2).LinesToMale
@@ -1698,7 +1698,7 @@ msgstr "마음대로 하세요!"
 #: /Game/Dialogue/Autumn/Default/DryadHadSex01.Default__DryadHadSex01_C.SessionData.Lines(2).Lines
 msgctxt ",26DAA5B74F8BBB68C15E26ADBB255431"
 msgid "It's true what they say about humans, you really can please us like nothing else."
-msgstr ""
+msgstr "그들이 인간에 대해 말하는 것은 사실입니다, 당신은 다른 어떤것 보다 우리를 정말로 기쁘게 할 수 있어요."
 
 #. Key:	26DCB9EA476437386094CA87FFE3E422
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_R02.Default__EmissaryBlessedInquiry01_R02_C.SessionData.Lines(0).Lines
@@ -1712,14 +1712,14 @@ msgstr "내가 너를 어떻게 더 도울 수 있을까, 인간?"
 #: /Game/Dialogue/Monarch/Default/MonarchHadSex01.Default__MonarchHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",274F1AF94ECA42FE2B8A2E8E36BB6611"
 msgid "*Blush*"
-msgstr ""
+msgstr "*발그레*"
 
 #. Key:	27565BD64B41A94885451F8607E68D2F
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.CBGate_Pastures.PlaceMessage
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Pastures.PlaceMessage
 msgctxt ",27565BD64B41A94885451F8607E68D2F"
 msgid "Pleasure Pastures is now accessible."
-msgstr ""
+msgstr "이제 '즐거움의 목장'에 접근할 수 있습니다."
 
 #. Key:	276B525843A991FAE2D5FAAE9243EFC9
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01.Default__BlossomDefault01_C.SessionData.Lines(0).Lines
@@ -1747,7 +1747,7 @@ msgstr "내가 처음 도착했을 때, 그녀는 나를 포옹했고, 내 그�
 #: /Game/Dialogue/Monarch/Default/MonarchQueen.Default__MonarchQueen_C.SessionData.Lines(5).Lines
 msgctxt ",27BEBE1A44FE66BEF9575592E9C7F573"
 msgid "Once she metamorphosizes, we are going to fly to Sensual Heavens together."
-msgstr ""
+msgstr "그녀가 변신하면 우리는 함꼐 관능적인 천국으로 날아갈 수 있을겁니다."
 
 #. Key:	27CC628A41235ABEF7B863AD06577CD3
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_F.Default__FernDefault01_RL_F_C.ResponseData(3).ResponseData.BreederPrompt
@@ -1761,21 +1761,21 @@ msgstr "내 모유를 가져가세요!"
 #: /Game/Dialogue/Neela/Default/NeelaHadSex01.Default__NeelaHadSex01_C.SessionData.Lines(4).Lines
 msgctxt ",27DC0A5545483DF96A1A72B802E0F3A6"
 msgid "Well you know... it gets lonely being the portal warden."
-msgstr ""
+msgstr "아시겠지만...포털의 파수꾼은 홀로 남겨졌어요"
 
 #. Key:	2811094D446D211B1E656D8729FC40AD
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMMuchEnergy.Default__DMMuchEnergy_C.SessionData.LinesToFemale(0).LinesToFemale
 #: /Game/Dialogue/DragonMatriarch/Default/DMMuchEnergy.Default__DMMuchEnergy_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",2811094D446D211B1E656D8729FC40AD"
 msgid "Indeed, so much newfound energy!"
-msgstr ""
+msgstr "이렇게 많은 새로운 기운이라니!"
 
 #. Key:	286C68074B4BC23284A19AB99A24049A
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToFemale(0).LinesToFemale
 #: /Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",286C68074B4BC23284A19AB99A24049A"
 msgid "A chance to make a cherry with a human..."
-msgstr ""
+msgstr "인간과 체리를 만들수 있는 기회..."
 
 #. Key:	28D2D40946F49E829D7D26B007908332
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(8).Lines
@@ -1803,7 +1803,7 @@ msgstr "넌 축복받은 @MONSTER_RACE@야?"
 #: /Game/Dialogue/Cassie/Default/CassieDungeon.Default__CassieDungeon_C.SessionData.Lines(5).Lines
 msgctxt ",2A2C90CA4F62D70955E3F3A98524FEAA"
 msgid "*Purr* You made me feel so good... Cassie wants to fix it for you!"
-msgstr ""
+msgstr "*가르릉* 당신은 나를 기분좋게 만들었어...캐씨가 당신을 위해 그것을 고치고 싶어합니다!"
 
 #. Key:	2AA4EC89483BB63996FEBE9BC4E4055A
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow_RL_T.Default__CassieDefault01_Meow_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
@@ -1831,7 +1831,7 @@ msgstr "초소형: 대략 4피트 정도(약 120cm)"
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeAboutOrb.Default__MegaSlimeAboutOrb_C.SessionData.Lines(1).Lines
 msgctxt ",2AE92EB74AEF856F0FE56487E2289FD2"
 msgid "My life was empty and meaningless without it."
-msgstr ""
+msgstr "내 삶은 공허하고 무의미 했습니다."
 
 #. Key:	2B2323B74BC7F2E6E2CF40A3E50FEFC2
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_M.Default__FernDefault02_RL_M_C.ResponseData(3).ResponseData.BreederPrompt
@@ -1873,7 +1873,7 @@ msgstr "와, 사실 저 음치에요."
 #: /Game/Dialogue/Monarch/Default/MonarchDefault01.Default__MonarchDefault01_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",2BD0260D4AF5544E8E7FEE98A41B8289"
 msgid "If I wiggle it the right way, it w-w-will distract any potential... mates."
-msgstr ""
+msgstr "내가 확실한 방향으로 흔들면, 잠재적인...짝을 산만하게 할거예요."
 
 #. Key:	2BF4676042EE4C0FA5B54F8CDCD3C5A6
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieSplintersT.Default__CassieSplintersT_C.SessionData.Lines(1).Lines
@@ -1894,7 +1894,7 @@ msgstr "드래곤의 체액."
 #: /Game/Dialogue/Autumn/Default/DryadDefault01.Default__DryadDefault01_C.SessionData.Lines(1).Lines
 msgctxt ",2C4B1039457C01738B40D6AC73FC0E41"
 msgid "Oh how good it feels to make each one..."
-msgstr ""
+msgstr "오오 하나하나 만드는게 얼마나 기분이 좋은지..."
 
 #. Key:	2C6E28494FB2D15A239584A77B01FA67
 #. SourceLocation:	/Game/Ranch/Upgrades/FoxenHouse.Default__FoxenHouse_C.Upgrade.DisplayName
@@ -1908,14 +1908,14 @@ msgstr "폭슨 집"
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(5).Lines
 msgctxt ",2C85485F41A9CB181E6BF3A7AFBAD94C"
 msgid "Perhaps a little too much... they sure get chubby. Aww... but look how cute they are!"
-msgstr ""
+msgstr "아마 너무많이...그들은 확실히 통통해지겠죠. 앗...근데 너무 귀여워!"
 
 #. Key:	2CBC22E04FC3D2621685D7A54A4B69A8
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleGreeting01.Default__KybeleGreeting01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Kybele/Default/KybeleGreeting01.Default__KybeleGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",2CBC22E04FC3D2621685D7A54A4B69A8"
 msgid "None may pass!"
-msgstr ""
+msgstr "아무도 통과 할 수 없다!"
 
 #. Key:	2CCE0ADD406CF961196E5BAEDA387652
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_AboutMusic.Default__RomyDefault01_AboutMusic_C.SessionData.Lines(0).Lines
@@ -1936,14 +1936,14 @@ msgstr "더이상 나를 성장시킬 필요는 없지만, 내 놀라운 꽃 몸
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",2D636C78456A78C86B5305B72E889E11"
 msgid "Human pussy tastes just like I dreamt it would!"
-msgstr ""
+msgstr "인간의 보지는 내가 꿈꾸던 맛이야!"
 
 #. Key:	2D7FF6A641C8DE1EC57F84A825BA2219
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMWantHuman.Default__DMWantHuman_C.SessionData.Lines(3).Lines
 #: /Game/Dialogue/DragonMatriarch/Default/DMWantHuman.Default__DMWantHuman_C.SessionData.Lines(3).Lines
 msgctxt ",2D7FF6A641C8DE1EC57F84A825BA2219"
 msgid "To think I can mate with one... ah... yesss."
-msgstr ""
+msgstr "내가 한명과 짝짓기를 할 수 있다고 생각하면....아...그래애애"
 
 #. Key:	2DBE58DB4B0AEBCB9FDD04BC94C039BD
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(5).Lines
@@ -1971,7 +1971,7 @@ msgstr "나는 너의 노래를 듣고 싶어."
 #: /Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",2E166A6948BC2569CE3FCAB659B7FE7D"
 msgid "Maybe my nipples?"
-msgstr ""
+msgstr "아마 내 젖꼭지?"
 
 #. Key:	2E18B0B24CC860D3136F0CA493EDDD3B
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(0).Lines
@@ -1999,7 +1999,7 @@ msgstr "축복받은 @MONSTER_RACE@는 너희 인간들과 똑같다. 우리는 
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Hivelands.PlaceMessage
 msgctxt ",2E3E08D0489FB126A2E91CAA491280F4"
 msgid "Hivelands is now accessible."
-msgstr ""
+msgstr "이제 하이브랜드에 접근 가능합니다."
 
 #. Key:	2E7BB9B84F5D0CB4DA2DF986BEFCB857
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(0).LinesToFuta
@@ -2013,7 +2013,7 @@ msgstr "와! 그럴리 없어!"
 #: /Game/Dialogue/Romy/Default/RomyLockedDungeon.Default__RomyLockedDungeon_C.SessionData.Lines(2).Lines
 msgctxt ",2E8395B6412987FEE6DC3E8FE37DC549"
 msgid "One of extraordinary loneliness and self-loathing."
-msgstr ""
+msgstr "비범한 외로움와 자기혐오 중 하나"
 
 #. Key:	2E8D7983446334A29BB4E0BCEFBBC092
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(4).Lines
@@ -2034,14 +2034,14 @@ msgstr "고사리는 큰 알라우네로 자라려면 인간의 모유가 필요
 #: /Game/Dialogue/DragonMatriarch/Default/DMDefault01.Default__DMDefault01_C.SessionData.Lines(1).Lines
 msgctxt ",2EDA99CC46CBEB3206A527B95F55FAB9"
 msgid "Go away human, this is my comfy spot and you can't have it."
-msgstr ""
+msgstr "저리가 인간, 이곳은 내 쉼터이고 당신은 그걸 가질 수 없어"
 
 #. Key:	2EF1966C455529B6A75289AD5EF81C2E
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToFuta(0).LinesToFuta
 #: /Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",2EF1966C455529B6A75289AD5EF81C2E"
 msgid "That's it human, you have annoyed me long enough. Get against that rock and prepare to be smashed."
-msgstr ""
+msgstr "그거야 인간, 넌 나를 충분히 오랬동안 괴롭혔어. 그 바위에 맞서서 박살날 준비나 해"
 
 #. Key:	2EF454D94FCEA805F55F20A94627C808
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFuta(6).LinesToFuta
@@ -2055,7 +2055,7 @@ msgstr "네 몸을 내게 주면, 환상적인 기분으로 우리는 하루종�
 #: /Game/Dialogue/Autumn/Default/DryadAboutDryads.Default__DryadAboutDryads_C.SessionData.Lines(7).Lines
 msgctxt ",2F11F20945669A4E95B79EA1B7856C2A"
 msgid "A dryad's power reaches its peak at the moment of orgasm."
-msgstr ""
+msgstr "드라이어드는 오르가즘 순간에 힘이 절정에 이릅니다."
 
 #. Key:	2F5513164D00080A441C1292E501C786
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(4).Lines
@@ -2069,7 +2069,7 @@ msgstr "혹시 너가 @MONSTER_RACE@ 모유를 팔고싶거나 사길 원한다�
 #: /Game/Dialogue/Kybele/Default/KybeleDragonMatriarch.Default__KybeleDragonMatriarch_C.SessionData.Lines(5).Lines
 msgctxt ",2F7D02EE4B2C5C30E72919BE9D83BD1F"
 msgid "As reward, the Dragon Matriarch promised me a chance to mate with her, and I can't wait!"
-msgstr ""
+msgstr "드래곤 마트리아치는 보상으로 나에게 그녀와 짝짓기할 기회를 약속했죠, 나는 기다릴 수 없습니다!"
 
 #. Key:	2F988E7B4E35BA65FB81488EC3339C51
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_GreatConception.Default__EmissaryDefault01_GreatConception_C.SessionData.Lines(2).Lines
@@ -2083,21 +2083,21 @@ msgstr "먼저, 그녀는 빛과 세라핌을 가져오기 위해 그녀 자신�
 #: /Game/Dialogue/AmberMae/Default/AmberMaeLockedDungeon2.Default__AmberMaeLockedDungeon2_C.SessionData.Lines(0).Lines
 msgctxt ",2FA4621047A86335175276AF22BFDE52"
 msgid "If ye think I'm a big cow today, 'mai goodness was I larger in me younger days!"
-msgstr ""
+msgstr "만약 너네들이 오늘 내가 큰 소라고 생각한다면, 내가 젊었을 때 더 컷다는걸 다행으로 여겨야해! "
 
 #. Key:	2FC584B146298BF0F75983AB7F59C5E1
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(7).Lines
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(7).Lines
 msgctxt ",2FC584B146298BF0F75983AB7F59C5E1"
 msgid "Don't look at me like that, a dryad needs a break once in awhile!"
-msgstr ""
+msgstr "날 그렇게 쳐다 보지마, 드라이어드는 가끔 휴식이 필요하다구!"
 
 #. Key:	2FFC051448D7AD3EA274FF8D334EE641
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex02.Default__MegaSlimeHadSex02_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex02.Default__MegaSlimeHadSex02_C.SessionData.Lines(1).Lines
 msgctxt ",2FFC051448D7AD3EA274FF8D334EE641"
 msgid "*She is fast asleep, her slime has relaxed*"
-msgstr ""
+msgstr "그녀는 빠르게 잠들었고, 그녀의 글라임은 이완됐습니다."
 
 #. Key:	3002153B48BD52898AEAE78030617CF7
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R01.Default__FernDefault02_R01_C.SessionData.Lines(2).Lines
@@ -2132,28 +2132,28 @@ msgstr "주는자는 무릎위에 걸쳐져 위아래로 움직이며 받는자�
 #: /Game/Dialogue/DragonMatriarch/Default/DMWantHuman.Default__DMWantHuman_C.SessionData.Lines(1).Lines
 msgctxt ",307B12694EA9D8B0251B9D86E3760DB8"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. Key:	308622B94E5A8BC25F1160888147CB16
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHowLong.Default__MegaSlimeHowLong_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeHowLong.Default__MegaSlimeHowLong_C.SessionData.Lines(4).Lines
 msgctxt ",308622B94E5A8BC25F1160888147CB16"
 msgid "The stuff in the water is always cold... oh the slime I could make with a fresh hot load."
-msgstr ""
+msgstr "물속의 재료는 항상 차갑지...오 슬라임 이제 내 신선한 새 부하를 만들 수 있겠어"
 
 #. Key:	308B8DB245EC118210674A84BB3AFDC3
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleRideYou_RL_T.Default__KybeleRideYou_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
 #: /Game/Dialogue/Kybele/Default/KybeleRideYou_RL_T.Default__KybeleRideYou_RL_T_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",308B8DB245EC118210674A84BB3AFDC3"
 msgid "Aww what an adorable titty pony."
-msgstr ""
+msgstr "아아 사랑스러운 찌찌의 조랑말 이라니"
 
 #. Key:	3092F47E411D4A54A80D53BAF9BCBC3F
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeSlimesMade.Default__MegaSlimeSlimesMade_C.SessionData.LinesToFuta(5).LinesToFuta
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeSlimesMade.Default__MegaSlimeSlimesMade_C.SessionData.LinesToFuta(5).LinesToFuta
 msgctxt ",3092F47E411D4A54A80D53BAF9BCBC3F"
 msgid "It's a nutritious aphrodisiac, a very powerful one so be careful!"
-msgstr ""
+msgstr "이건 영양가있는 최음제예요, 매우 강력한 약이니까 조심하세요!"
 
 #. Key:	30940E7C46EDA0BA71E783B92668ECFD
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernHadSex01.Default__FernHadSex01_C.SessionData.Lines(0).Lines
