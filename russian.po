@@ -3455,7 +3455,7 @@ msgstr "Да. Во что бы то ни стало!"
 #: /Game/Dialogue/Petra/Default/PetraDefault01_RL.Default__PetraDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",409211234F50BB3CC5987D94FC8463AA"
 msgid "Can you help me get that keystone?"
-msgstr "Ты можешь помочь мне достать этот Ключевой камень?"
+msgstr "Ты можешь помочь мне достать этот ключ-камень?"
 
 #. Key:	40FFE44B48699F620EAC16A81249A058
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -4057,7 +4057,7 @@ msgstr "Ты можешь подоить мою грудь!"
 #: /Game/Dialogue/Petra/Default/PetraGetKeystone.Default__PetraGetKeystone_C.SessionData.Lines(9).Lines
 msgctxt ",4B400F8545DB288AE092E39BA2CD24BF"
 msgid "If you can find me a succubus, I will get that keystone for you."
-msgstr "Если ты приведешь ко мне суккуба, я достану для тебя этот Ключевой камень."
+msgstr "Если ты приведешь ко мне суккуба, я достану для тебя этот ключ-камень."
 
 #. Key:	4B96D56447562EBC8748929A5D3B51FD
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -5562,7 +5562,7 @@ msgstr "Насладись мгновением, пока я наношу нем
 #: /Game/Dialogue/Kybele/Default/KybeleDefault01_RL.Default__KybeleDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",698288A146113C1492125B891EA3456D"
 msgid "Can I have that keystone?"
-msgstr "Могу я взять этот Ключевой камень?"
+msgstr "Могу я взять этот ключ-камень?"
 
 #. Key:	6993DD7B4964C190B75F98AABA008FAA
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(0).Lines
@@ -6437,7 +6437,7 @@ msgstr "Еще... у тебя получилось принял мой толс�
 #: /Game/World/Overworld.Overworld:PersistentLevel.EM_Keystone_Kybele.FailMessage
 msgctxt ",7A0924884575833B8154E88AE733B3E4"
 msgid "Kybele fiercely guards this keystone."
-msgstr "Кибела ревностно охраняет этот Ключевой камень."
+msgstr "Кибела ревностно охраняет этот ключ-камень."
 
 #. Key:	7A22D0874255FC1001174C8C01466911
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePearl.Default__MegaSlimePearl_C.SessionData.Lines(3).Lines
@@ -6899,7 +6899,7 @@ msgstr "Да, оох... накорми мое сладострастное те�
 #: /Game/Dialogue/Kybele/Default/KybeleHaveKeystone.Default__KybeleHaveKeystone_C.SessionData.Lines(1).Lines
 msgctxt ",83F4F4214C815B64605575ADD36AEAC7"
 msgid "Tell you what, since you're a breeder, if you give me one of your best offspring, I will let you use the keystone."
-msgstr "Знаешь что, поскольку ты заводчик, если ты дашь мне одного из своих лучших нефилимов, я позволю тебе забрать Ключевой камень."
+msgstr "Знаешь что, поскольку ты заводчик, если ты дашь мне одного из своих лучших нефилимов, я позволю тебе забрать ключ-камень."
 
 #. Key:	83F96FD847C509C2689331A208A49D12
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(5).Lines
@@ -7935,7 +7935,7 @@ msgstr "Сарай Нефилимов"
 #: /Game/Dialogue/QueenBee/Default/BeeDefault02_RL.Default__BeeDefault02_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",939FC3974789211249F6CB84A4A9FCB8"
 msgid "Can I have that keystone?"
-msgstr "Могу я взять этот Ключевой камень?"
+msgstr "Могу я взять этот ключ-камень?"
 
 #. Key:	93ACD44B44EFF7C20AF15E9D718C3166
 #. SourceLocation:	/Game/Breeding/Positions/Missionary.Default__Missionary_C.SessionData.PositionName
@@ -11344,7 +11344,7 @@ msgstr "Немногие @MONSTER_RACE@ старше меня, но Лапорв
 #: /Game/Dialogue/Autumn/Default/DryadDefault01_RL.Default__DryadDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
 msgctxt ",D52E88834BD47EFB47BD74839CEEB65D"
 msgid "Can I have that keystone?"
-msgstr "Можно мне взять этот Ключевой камень?"
+msgstr "Можно мне взять этот ключ-камень?"
 
 #. Key:	D535E0D84F73A7E07CA72DA2ED4F1B11
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.HelpText
