@@ -7235,7 +7235,7 @@ msgstr "Как печально... они не росли сотни лет. Б�
 #: /Game/Dialogue/Autumn/Default/DryadFlowers.Default__DryadFlowers_C.SessionData.Lines(5).Lines
 msgctxt ",87AE8529473D2DEE9E580591D88F1EE5"
 msgid "As you might have guessed from the name, ejaculum-phallis are famous for producing tons of nectar."
-msgstr "Как ты мог догадаться из названия, Эякулум фаллис знаменит тем, что производят тонны нектара."
+msgstr "Как ты мог догадаться из названия, Эякулум Фаллис знаменит тем, что производят тонны нектара."
 
 #. Key:	87F01F0B48F45D7E461449960ED82A56
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaGreeting01.Default__LeylannaGreeting01_C.SessionData.Lines(1).Lines
@@ -9797,7 +9797,7 @@ msgstr "Если городской народ придет сюда чтобы 
 #: /Game/Dialogue/Autumn/Default/DryadFlowers.Default__DryadFlowers_C.SessionData.Lines(3).Lines
 msgctxt ",B72B154840C9EFADCC67BE89C1C467AA"
 msgid "I can feel the roots of many cuminus flowers, but no ejaculum-phallis. Hmm..."
-msgstr "Я чувствую тут много корней кончинус-цветков, но никаких эякулят-фаллосов. Хммм..."
+msgstr "Я чувствую тут много корней цветов Кончинус, но ни одного Эякулум Фаллис. Хммм..."
 
 #. Key:	B740BA7F4ADFB18E32DFE99606B483B3
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(0).Lines
