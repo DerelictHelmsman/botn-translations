@@ -10280,7 +10280,7 @@ msgstr "Демон"
 #: /Game/Dialogue/OrcChief/Default/OrcAkabekoCheck.Default__OrcAkabekoCheck_C.SessionData.Lines(3).Lines
 msgctxt ",BF51DA004C841AAF7E6BE4B506111783"
 msgid "Now tribe sisters are making offspring with her. Tonight she will be mine again."
-msgstr ""
+msgstr "Теперь сестры племени делают с ней потомство. Сегодня она снова будет моей."
 
 #. Key:	BF75C6BF46495EB7F48CD398677B4B16
 #. SourceLocation:	/Game/Dialogue/QueenBee/Default/BeeDefault01.Default__BeeDefault01_C.SessionData.LinesToFemale(4).LinesToFemale
@@ -10679,14 +10679,14 @@ msgstr "Экзотичный"
 #: /Game/Dialogue/Widow/Default/WidowDefault01.Default__WidowDefault01_C.SessionData.Lines(4).Lines
 msgctxt ",C7F43006419AE76ADB041AA7B3BB8DD1"
 msgid "Yes come with me, deeper into my nest of love. You will feel wave after wave of pleasure as I suck on you for every last drop."
-msgstr ""
+msgstr "Да, пойдем со мной, глубже в мое гнездо любви. Тебя накроют волны блаженства, пока я буду высасывать из тебя все до последней капли."
 
 #. Key:	C80F35DE492B934FC30FBE82A653139B
 #. SourceLocation:	/Game/Dialogue/Yasmine/Default/YasmineAwake.Default__YasmineAwake_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Yasmine/Default/YasmineAwake.Default__YasmineAwake_C.SessionData.Lines(0).Lines
 msgctxt ",C80F35DE492B934FC30FBE82A653139B"
 msgid "Ah shooooot, my pearl went and rolled away again."
-msgstr ""
+msgstr "Ах, блин, моя жемчужина выпала и укатилась снова."
 
 #. Key:	C831296B46D9E6D1B4ECA181BCD5520B
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_SexPositions.Default__EmissaryDefault01_SexPositions_C.SessionData.Lines(1).Lines
@@ -10707,7 +10707,7 @@ msgstr "Конечно мы мастурбируем... мы должны. Аа�
 #: /Game/Dialogue/Fesssi/Default/FesssiIdiots.Default__FesssiIdiots_C.SessionData.Lines(5).Lines
 msgctxt ",C905E77348FA5208DABFD693A69EEBA4"
 msgid "Hiss! I've got it."
-msgstr ""
+msgstr "Шипит! Она у меня есть."
 
 #. Key:	C90FBEEB4770B7951F9099B01096A1B0
 #. SourceLocation:	/Game/Dialogue/QueenBee/Default/BeeMasturbate.Default__BeeMasturbate_C.SessionData.Lines(0).Lines
@@ -10840,7 +10840,7 @@ msgstr "Своими нежными пальцами, я буду играть �
 #: /Game/Dialogue/OrcChief/Default/OrcDefault01_RL.Default__OrcDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",CB65DAA6419D0E0F4ADF968694F481DD"
 msgid "Fix your own gate!"
-msgstr ""
+msgstr "Чини свои ворота сама!"
 
 #. Key:	CB9F33B74B20BE432B5B2D991CAF7A38
 #. SourceLocation:	/Game/Dialogue/Widow/Default/WidowScary.Default__WidowScary_C.SessionData.Lines(3).Lines
@@ -11008,7 +11008,7 @@ msgstr "Позволь моим губам обнять твой большой 
 #: /Game/Dialogue/Yasmine/Default/YasmineAwake.Default__YasmineAwake_C.SessionData.Lines(2).Lines
 msgctxt ",CECD706A47419BAE65A5B3979BEFCA77"
 msgid "Oh well... I suppose you can have it. I'm going to make a better one!"
-msgstr ""
+msgstr "Ну что ж... Я полагаю, ты можешь взять его. Я собираюсь сделать его еще лучше!"
 
 #. Key:	CEE2CED74492461582B4EB8D5D2CB4B6
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(11).Lines
@@ -11701,7 +11701,7 @@ msgstr "*Чмок* *Чмок*"
 #: /Game/Dialogue/OrcChief/Default/OrcAkabekoCheck.Default__OrcAkabekoCheck_C.SessionData.Lines(2).Lines
 msgctxt ",D9FB570C43AD0DD02FC1EA8FBF6685E7"
 msgid "Akabeko not found in the wild, her pussy felt unique! Grrrrr!!"
-msgstr ""
+msgstr "Акабеко не водится в дикой природе, ее киска неповторима! Грррр!!"
 
 #. Key:	DA05F5A447D7B5F1C5C75E8A35B95C21
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(4).ResponseData.BreederPrompt
@@ -12345,7 +12345,7 @@ msgstr "Молодец @BREEDER_NAME@, ты восстановил связь м
 #: /Game/World/Events/EM_Pearl.EM_Pearl_C:ExecuteUbergraph_EM_Pearl [Script Bytecode]
 msgctxt ",E4F530D54D663ADF27773EB024081B52"
 msgid "Beautiful Pearl acquired."
-msgstr ""
+msgstr "Красивая Жемчужина приобретена."
 
 #. Key:	E5058E9246E1827F928D6681023A71A0
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(10).LinesToFemale
@@ -12450,7 +12450,7 @@ msgstr "Нестандартный"
 #: /Game/Dialogue/QueenBee/Default/BeeMoreHoney.Default__BeeMoreHoney_C.SessionData.Lines(0).Lines
 msgctxt ",E6729AE74984F181641135921F97D449"
 msgid "Ahhh yes... I knew you wouldn't be able to resist."
-msgstr ""
+msgstr "Ах да... Я знала, что ты не сможешь устоять."
 
 #. Key:	E69826E04F46B36F08DF61ADC6BE1350
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchHaveKeystone.Default__MonarchHaveKeystone_C.SessionData.Lines(0).Lines
@@ -12786,7 +12786,7 @@ msgstr "Почуствуй мой язык, как он скользит меж 
 #: /Game/UI/TaskDescriptions.TaskDescriptions.TextEntries(0).TextEntries
 msgctxt ",ECE1ACB84FCF8F8A06C64385D7909E98"
 msgid "We need another wild one to extract fluids from! You may think such a thing would be easy, but Falene and I go through... many fluids. Don't ask! Besides, I'm too small to do any real fluid harvesting remember?! That's what big human breeders are for. AND YES IN CASE YOU WERE WONDERING, I PINNED THIS ON THE BOARD MYSELF... using a box. I don't need any help from tall folk!!  -Camilla"
-msgstr ""
+msgstr "Нам с Фален нужен еще один нефилим, чтобы надоить из него свежих соков! Ты скажешь что это проще некуда, но мы используем... много соков... Не спрашивай! Короче, я слишком мала, чтобы этим заниматься, понимаешь?! Чего не скажешь о больших людях-селекционерах. И ДА, ЕСЛИ ТЕБЕ ИНТЕРЕСНО, КАК Я ПРИКРЕПИЛА ЭТО ОБЪЯВЛЕНИЕ ТАК ВЫСОКО... просто встала на ящик, в этом мне не нужна помощь высокого человека!! - Камилла"
 
 #. Key:	ECE912E146D6A887F2F7C39091185320
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadHaveKeystone.Default__DryadHaveKeystone_C.SessionData.Lines(0).Lines
