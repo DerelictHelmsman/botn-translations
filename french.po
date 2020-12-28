@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: french\n"
 "POT-Creation-Date: 2020-10-31 17:26\n"
-"PO-Revision-Date: 2020-12-28 16:14-0300\n"
+"PO-Revision-Date: 2020-12-28 16:42-0300\n"
 "Language-Team: \n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
@@ -482,7 +482,7 @@ msgstr "Est-ce une sensation réconfortante ?"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(7).LinesToMale
 msgctxt ",0A1E776A4877D11A8A4716A6FEE789C1"
 msgid "@MONSTER_RACE@ origins are ancient and unknown, but we desire one thing above all else..."
-msgstr "Les origines des @WORLD_RACE@ sont anciennes et inconnues, mais nous désirons tous une chose par-dessus tout..."
+msgstr "Les origines des @MONSTER_RACE@ sont anciennes et inconnues, mais nous désirons tous une chose par-dessus tout..."
 
 #. Key:	0A6AA641405E829B424AFE8894AB0083
 #. SourceLocation:	/Game/Dialogue/Petra/Default/PetraAboutPawsmaati.Default__PetraAboutPawsmaati_C.SessionData.Lines(6).Lines
