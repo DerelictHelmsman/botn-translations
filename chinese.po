@@ -13948,7 +13948,7 @@ msgstr ""
 #: Source/Radiant/Public/Game/Monsters/SexyMonsterSystem.cpp:873
 msgctxt "ASexyDialogueSystem,NoFuta"
 msgid "Futa is disabled."
-msgstr ""
+msgstr "扶她已禁用"
 
 #. Key:	PostBreedingTask
 #. SourceLocation:	Source/Radiant/Public/Characters/Dialogue/SexyDialogueSystem.cpp:357
@@ -14011,49 +14011,49 @@ msgstr ""
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:263
 msgctxt "ASexyOverworldInterface,Breaks"
 msgid "Virgin Breaks"
-msgstr ""
+msgstr "处女休憩地"
 
 #. Key:	Cavern
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:279
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:279
 msgctxt "ASexyOverworldInterface,Cavern"
 msgid "Amorous Hallows"
-msgstr ""
+msgstr "性欲圣地"
 
 #. Key:	ClimaxPeak
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:271
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:271
 msgctxt "ASexyOverworldInterface,ClimaxPeak"
 msgid "Climax Peak"
-msgstr ""
+msgstr "绝顶峰"
 
 #. Key:	Cove
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:247
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:247
 msgctxt "ASexyOverworldInterface,Cove"
 msgid "Cove of Rapture"
-msgstr ""
+msgstr "愉悦湾"
 
 #. Key:	Crag
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:287
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:287
 msgctxt "ASexyOverworldInterface,Crag"
 msgid "Moaning Crag"
-msgstr ""
+msgstr "呻吟峭壁"
 
 #. Key:	Garden
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:223
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:223
 msgctxt "ASexyOverworldInterface,Garden"
 msgid "Hivelands"
-msgstr ""
+msgstr "蜜池之乡 "
 
 #. Key:	Glade
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:255
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:255
 msgctxt "ASexyOverworldInterface,Glade"
 msgid "Esoteric Glade"
-msgstr ""
+msgstr "林间秘所"
 
 #. Key:	HedonTownship
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:191
@@ -14067,35 +14067,35 @@ msgstr ""
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:207
 msgctxt "ASexyOverworldInterface,Homestead"
 msgid "Homestead"
-msgstr ""
+msgstr "牧场小屋"
 
 #. Key:	Jungle
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:231
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:231
 msgctxt "ASexyOverworldInterface,Jungle"
 msgid "Sultry Plateau"
-msgstr ""
+msgstr "闷热高原"
 
 #. Key:	Lustwood
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:199
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:199
 msgctxt "ASexyOverworldInterface,Lustwood"
 msgid "Lustwood"
-msgstr ""
+msgstr "色欲森林"
 
 #. Key:	Pastures
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:215
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:215
 msgctxt "ASexyOverworldInterface,Pastures"
 msgid "Pleasure Pastures"
-msgstr ""
+msgstr "快感牧场"
 
 #. Key:	Sands
 #. SourceLocation:	Source/Radiant/Public/World/SexyOverworldInterface.cpp:239
 #: Source/Radiant/Public/World/SexyOverworldInterface.cpp:239
 msgctxt "ASexyOverworldInterface,Sands"
 msgid "Lewd Desert"
-msgstr ""
+msgstr "淫乱沙漠"
 
 #. Key:	BoringCum
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyRoamingSystem.cpp:900
@@ -14165,7 +14165,7 @@ msgstr ""
 #: Source/Radiant/Public/World/Travel/SexyTravelSystem.cpp:162
 msgctxt "ASexyTravelSystem,SameShrine"
 msgid "You are already here."
-msgstr ""
+msgstr "您已经在这里了。 "
 
 #. Key:	DMMilkMateTask
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:656
@@ -14207,7 +14207,7 @@ msgstr ""
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:597
 msgctxt "ASexyWorldSystem,DragonSemenTitle"
 msgid "Semen Flowers"
-msgstr ""
+msgstr "精液花"
 
 #. Key:	DryadMateTask
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:645
@@ -14284,7 +14284,7 @@ msgstr ""
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:424
 msgctxt "ASexyWorldSystem,MilkFluid"
 msgid "Milk"
-msgstr ""
+msgstr "牛奶"
 
 #. Key:	MonarchMateTask
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:587
@@ -14312,14 +14312,14 @@ msgstr ""
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:796
 msgctxt "ASexyWorldSystem,NotEnoughMilk"
 msgid "More milk is required."
-msgstr ""
+msgstr "我需要更多牛奶。 "
 
 #. Key:	NotEnoughSemen
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:804
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:804
 msgctxt "ASexyWorldSystem,NotEnoughSemen"
 msgid "More semen is required."
-msgstr ""
+msgstr "我需要更多的精液。"
 
 #. Key:	OrcMate
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:730
@@ -14368,14 +14368,14 @@ msgstr ""
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:411
 msgctxt "ASexyWorldSystem,SemenFluid"
 msgid "Semen"
-msgstr ""
+msgstr "精液"
 
 #. Key:	TaskFullfilled
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:869
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:869
 msgctxt "ASexyWorldSystem,TaskFullfilled"
 msgid "Task fulfilled."
-msgstr ""
+msgstr "任务完成。"
 
 #. Key:	TaskRefresh
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:264
@@ -14452,7 +14452,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:108
 msgctxt "BreedingSession,AdvanceButtonTitle"
 msgid "Advance"
-msgstr ""
+msgstr "继续"
 
 #. Key:	BreedButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:100
@@ -14473,7 +14473,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:186
 msgctxt "BreedingSession,DebugTitle"
 msgid "Debug"
-msgstr ""
+msgstr "调试"
 
 #. Key:	IKBelly
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:369
@@ -14578,14 +14578,14 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:388
 msgctxt "BreedingSession,IKTail"
 msgid "Tail"
-msgstr ""
+msgstr "尾巴"
 
 #. Key:	Prop
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:438
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:438
 msgctxt "BreedingSession,Prop"
 msgid "Prop"
-msgstr ""
+msgstr "小道具"
 
 #. Key:	SaveGiverTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:179
@@ -14606,7 +14606,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:450
 msgctxt "BreedingSession,SemenPool"
 msgid "Semen Pool"
-msgstr ""
+msgstr "精液池"
 
 #. Key:	SkipButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:109
@@ -14620,14 +14620,14 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSessionMenu.cpp:31
 msgctxt "BreedingSession,SpeedTitle"
 msgid "Speed"
-msgstr ""
+msgstr "速度"
 
 #. Key:	BreedButtonTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:75
 #: Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:75
 msgctxt "BreedingSetup,BreedButtonTitle"
 msgid "Start"
-msgstr ""
+msgstr "开始"
 
 #. Key:	BreedButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyBreedingSetupMenu.cpp:76
@@ -14669,7 +14669,7 @@ msgstr ""
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:231
 msgctxt "BreedingSystem,ImpossibleCombo"
 msgid "Impossible breeding combination."
-msgstr ""
+msgstr "不可能的交配组合"
 
 #. Key:	NoFemaleGiver
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:226
@@ -14718,14 +14718,14 @@ msgstr ""
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:196
 msgctxt "BreedingSystem,NoSexPosition"
 msgid "Sex position must be selected."
-msgstr ""
+msgstr "选择一个体位"
 
 #. Key:	Allure
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:175
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:175
 msgctxt "CharacterDetails,Allure"
 msgid "Allure"
-msgstr "勾引"
+msgstr "魅力"
 
 #. Key:	AllureTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:176
@@ -14746,7 +14746,7 @@ msgstr "属性"
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:191
 msgctxt "CharacterDetails,Dexterity"
 msgid "Dexterity"
-msgstr "灵巧"
+msgstr "机敏"
 
 #. Key:	DexterityTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:192
@@ -14774,7 +14774,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:167
 msgctxt "CharacterDetails,Fertility"
 msgid "Fertility"
-msgstr "生育能力"
+msgstr "繁殖力"
 
 #. Key:	FertiliyTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:168
@@ -14802,7 +14802,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:45
 msgctxt "CharacterDetails,Lifeforce"
 msgid "Spirit"
-msgstr ""
+msgstr "精神力"
 
 #. Key:	LifeforceTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:46
@@ -14830,7 +14830,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:37
 msgctxt "CharacterDetails,Lust"
 msgid "Lust"
-msgstr "情欲"
+msgstr "性欲"
 
 #. Key:	LustTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:38
@@ -14963,7 +14963,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:183
 msgctxt "CharacterDetails,Willpower"
 msgid "Willpower"
-msgstr ""
+msgstr "意志力"
 
 #. Key:	WillpowerTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:184
@@ -14998,7 +14998,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:606
 msgctxt "CharacterEditor,AmbientEffects"
 msgid "Ambient Effects"
-msgstr ""
+msgstr "环境光"
 
 #. Key:	AnusMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:525
@@ -15026,28 +15026,28 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:456
 msgctxt "CharacterEditor,BellyShape"
 msgid "Belly"
-msgstr ""
+msgstr "腹部"
 
 #. Key:	BodyAttachments
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:600
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:600
 msgctxt "CharacterEditor,BodyAttachments"
 msgid "Attachments"
-msgstr ""
+msgstr "附着物"
 
 #. Key:	BodyAttachmentsMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:561
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:561
 msgctxt "CharacterEditor,BodyAttachmentsMaterial"
 msgid "Body Attachments"
-msgstr ""
+msgstr "身体附着物"
 
 #. Key:	BodyMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:531
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:531
 msgctxt "CharacterEditor,BodyMaterial"
 msgid "Body"
-msgstr ""
+msgstr "身体"
 
 #. Key:	BodyPhysics
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:612
@@ -15061,7 +15061,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:585
 msgctxt "CharacterEditor,BootsGroup"
 msgid "Footwear"
-msgstr ""
+msgstr "靴子"
 
 #. Key:	BreastsShape
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:450
@@ -15193,8 +15193,8 @@ msgstr ""
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:519
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:519
 msgctxt "CharacterEditor,GenitaliaMaterial"
-msgid "生殖器"
-msgstr ""
+msgid "Genitals"
+msgstr "生殖器"
 
 #. Key:	GenitalsShape
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:468
@@ -15271,7 +15271,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:107
 msgctxt "CharacterEditor,NextButton"
 msgid "Next"
-msgstr ""
+msgstr "下一步"
 
 #. Key:	NextButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:108
@@ -15299,7 +15299,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:618
 msgctxt "CharacterEditor,PresetFlags"
 msgid "Flags"
-msgstr "标志"
+msgstr ""
 
 #. Key:	PresetNameTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:632
@@ -15698,14 +15698,14 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:423
 msgctxt "HarvestWidget,BuyMilkTooltip"
 msgid "Buy milk."
-msgstr ""
+msgstr "购买牛奶。"
 
 #. Key:	BuySemenTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:408
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:408
 msgctxt "HarvestWidget,BuySemenTooltip"
 msgid "Buy semen."
-msgstr ""
+msgstr "购买精液。"
 
 #. Key:	MaxMilk
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:250
@@ -15740,7 +15740,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:170
 msgctxt "HarvestWidget,PriceML"
 msgid "Unit Price:"
-msgstr ""
+msgstr "单价:"
 
 #. Key:	SellMilkTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyHarvestWidget.cpp:421
@@ -15908,7 +15908,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:16
 msgctxt "ItemDetails,Name"
 msgid "Item"
-msgstr ""
+msgstr "物品"
 
 #. Key:	Strength
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyItemDetails.cpp:17
@@ -15971,14 +15971,14 @@ msgstr ""
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:187
 msgctxt "Keybinds,Action"
 msgid "Action"
-msgstr ""
+msgstr "交互"
 
 #. Key:	Back
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:192
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:192
 msgctxt "Keybinds,Back"
 msgid "Back"
-msgstr ""
+msgstr "后退"
 
 #. Key:	Crouch
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:152
@@ -16062,56 +16062,56 @@ msgstr ""
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:156
 msgctxt "Keybinds,Slide"
 msgid "Slide"
-msgstr ""
+msgstr "滑动"
 
 #. Key:	SpiritForm
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:201
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:201
 msgctxt "Keybinds,SpiritForm"
 msgid "Spirit Form"
-msgstr ""
+msgstr "变身"
 
 #. Key:	Sprint
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:162
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:162
 msgctxt "Keybinds,Sprint"
 msgid "Sprint"
-msgstr ""
+msgstr "加速"
 
 #. Key:	ToggleBoots
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:224
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:224
 msgctxt "Keybinds,ToggleBoots"
 msgid "Toggle Boots"
-msgstr ""
+msgstr "光腿"
 
 #. Key:	ToggleClothing
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:212
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:212
 msgctxt "Keybinds,ToggleClothing"
 msgid "Toggle Clothing"
-msgstr ""
+msgstr "脱光"
 
 #. Key:	TogglePants
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:218
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:218
 msgctxt "Keybinds,TogglePants"
 msgid "Toggle Pants"
-msgstr ""
+msgstr "胖次"
 
 #. Key:	ToggleShirt
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:215
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:215
 msgctxt "Keybinds,ToggleShirt"
 msgid "Toggle Shirt"
-msgstr ""
+msgstr "光膀子"
 
 #. Key:	ToggleUnderwear
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:221
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:221
 msgctxt "Keybinds,ToggleUnderwear"
 msgid "Toggle Underwear"
-msgstr ""
+msgstr "遛鸟"
 
 #. Key:	Turn
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:169
