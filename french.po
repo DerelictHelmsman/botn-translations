@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Radiant\n"
 "POT-Creation-Date: 2021-02-21 04:12\n"
-"PO-Revision-Date: 2021-03-26 18:29+0100\n"
+"PO-Revision-Date: 2021-03-26 19:33+0100\n"
 "Language-Team: \n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
@@ -2156,7 +2156,7 @@ msgstr "Les légendes disent qu'elle doit être donnée en échange à celui qui
 #: /Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",286C68074B4BC23284A19AB99A24049A"
 msgid "A chance to make a cherry with a human..."
-msgstr "Une chance de pouvoir faire un fruit d'amour avec un humain ..."
+msgstr "Une chance de pouvoir concevoir un fruit d'amour avec un humain ..."
 
 #. Key:	288DF95142A24F16C989F78DB564A8B0
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.EM_Keystone_Orc.FailMessage
@@ -3222,7 +3222,7 @@ msgstr "La magnifique perle a été donnée."
 #: /Game/Dialogue/Autumn/Default/DryadDefault01_RL.Default__DryadDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
 msgctxt ",3C6949B84E9BE02327C5408DC7F1D673"
 msgid "I can help you make a cherry!"
-msgstr "Je peux t'aider à faire une cerise !"
+msgstr "Je peux t'aider à faire un fruit d'amour !"
 
 #. Key:	3C944B624D25292479528987C3078CBF
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(7).Lines
@@ -9900,7 +9900,7 @@ msgstr "Seule une dryade serait capable de faire une telle chose."
 #: /Game/Dialogue/Autumn/Default/DryadBossomCherries.Default__DryadBossomCherries_C.SessionData.Lines(8).Lines
 msgctxt ",B79CA71847A95B814D43088A9A29BF45"
 msgid "Besides, when I make love with them it spares them from dealing with the Reaper, and my orgasm creates another bosom cherry."
-msgstr "De plus, quand je fais l'amour avec eux, cela leur évite d'avoir affaire à la faucheuse. En bonus, mon orgasme crée une autre cerise."
+msgstr "De plus, quand je fais l'amour avec eux, cela leur évite d'avoir affaire à la faucheuse. En bonus, mon orgasme crée un nouveau fruit d'amour."
 
 #. Key:	B79CB910400AA9573644BCA03D3D9F51
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(15).Lines
