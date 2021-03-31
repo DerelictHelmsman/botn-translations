@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Radiant\n"
 "POT-Creation-Date: 2021-02-21 04:12\n"
-"PO-Revision-Date: 2021-03-31 15:33+0200\n"
+"PO-Revision-Date: 2021-03-31 15:42+0200\n"
 "Language-Team: \n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
@@ -5929,7 +5929,7 @@ msgstr "Mon orbe chéri !!! C'est tellement beau, je le chérirai toujours."
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",6FB79F1B4245887D7C56A197959DA2A1"
 msgid "Look at my beautiful flower, it bloomed! Oh my did it feel weird..."
-msgstr "Regardez ma belle fleur, elle a fleurie ! La sensation était si étrange..."
+msgstr "Regardez ma belle fleur, elle a fleuri ! La sensation était si étrange..."
 
 #. Key:	6FBC636D494A40330AAEBDBCD6886299
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMGrasslandsTrees.Default__DMGrasslandsTrees_C.SessionData.Lines(0).Lines
@@ -9175,7 +9175,7 @@ msgstr "Mais non ! Ce n'est pas possible !"
 #: /Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",A9B242A6410BF5830F30419F32801AC2"
 msgid "Look at my beautiful flower, it bloomed! Oh my did it feel weird..."
-msgstr "Regardez ma belle fleur, elle a fleurie ! La sensation était étrange d'ailleurs..."
+msgstr "Regardez ma belle fleur, elle a fleuri ! La sensation était si étrange..."
 
 #. Key:	A9DC970946A02BBA89824685FB14ED6A
 #. SourceLocation:	/Game/Dialogue/QueenBee/Default/BeeDefault01.Default__BeeDefault01_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -11402,7 +11402,7 @@ msgstr "J'ai besoin de lait humain pour atteindre ma forme finale. Vos doux sein
 #: /Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",D48D138B4D55F9A604E2E0AFFACE1674"
 msgid "Look at my beautiful flower, it bloomed! Oh my did it feel weird..."
-msgstr "Regardez ma belle fleur, elle a fleurie ! La sensation était si étrange..."
+msgstr "Regardez ma belle fleur, elle a fleuri ! La sensation était si étrange..."
 
 #. Key:	D4B876E04002BC56FF720D829DA04785
 #. SourceLocation:	/Game/Dialogue/Falene/SexScenes/FaleneBlowJob.Default__FaleneBlowJob_C.SessionData.LinesToFemale(6).LinesToFemale
@@ -11641,7 +11641,7 @@ msgstr "Cheftaine très excitée, tu vas le regretter. Viens par là !"
 #: /Game/Dialogue/Fern/DefaultP3/FernDefault03.Default__FernDefault03_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",D7F8B9C2431BFB6ED28ECAAF83BAE062"
 msgid "Look at my beautiful flower, it bloomed! Oh my did it feel weird..."
-msgstr "Regardez ma belle fleur, elle a fleurie ! La sensation était si étrange..."
+msgstr "Regardez ma belle fleur, elle a fleuri ! La sensation était si étrange..."
 
 #. Key:	D8048E504EF52CFA3D3F618130F77DB0
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleRideYou_RL.Default__KybeleRideYou_RL_C.ResponseData(0).ResponseData.BreederPrompt
@@ -12056,7 +12056,7 @@ msgstr "Amène à cette araignée solitaire un Elfe juteux, le caillou sera à t
 #: /Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",DD7ECB9E437DDF8975868AA3934E909D"
 msgid "Look at my beautiful flower, it bloomed! Oh my did it feel weird..."
-msgstr "Regardez ma belle fleur, elle a fleurie ! La sensation était si étrange..."
+msgstr "Regardez ma belle fleur, elle a fleuri ! La sensation était si étrange..."
 
 #. Key:	DD90913F4C544CDB2D79CDAE67287C68
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01.Default__ParvatiDefault01_C.SessionData.Lines(0).Lines
