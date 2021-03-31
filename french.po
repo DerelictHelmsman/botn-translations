@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Radiant\n"
 "POT-Creation-Date: 2021-02-21 04:12\n"
-"PO-Revision-Date: 2021-03-31 15:31+0200\n"
+"PO-Revision-Date: 2021-03-31 15:33+0200\n"
 "Language-Team: \n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
@@ -14402,14 +14402,14 @@ msgstr "L'assistant avec le talent rapide, requis par Monarch"
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:796
 msgctxt "ASexyWorldSystem,NotEnoughMilk"
 msgid "More milk is required."
-msgstr "Requière plus de lait."
+msgstr "Requiert plus de lait."
 
 #. Key:	NotEnoughSemen
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:804
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:804
 msgctxt "ASexyWorldSystem,NotEnoughSemen"
 msgid "More semen is required."
-msgstr "Requière plus de sperme."
+msgstr "Requiert plus de sperme."
 
 #. Key:	OrcMate
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:730
