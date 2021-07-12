@@ -1,17 +1,18 @@
-﻿# Radiant German (Germany) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Radiant\n"
 "POT-Creation-Date: 2021-06-14 02:04\n"
-"PO-Revision-Date: 2021-06-14 02:04\n"
+"PO-Revision-Date: 2021-07-13 00:20+0200\n"
 "Language-Team: \n"
-"Language: de-DE\n"
+"Language: de_DE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. Key:	0009BEE346934010A7F79C8CF23B20D5
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernDefault03_R02.Default__FernDefault03_R02_C.SessionData.Lines(1).Lines
@@ -67,7 +68,7 @@ msgstr "Formuria?"
 #: /Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(3).Lines
 msgctxt ",014BFFCA4F173DACEC2A00A8398888F4"
 msgid "Aye, yer not leaving 'til you suck every last drop!"
-msgstr "Jup, de kommst hier nimmer weg, bevor du net jeden eenzelnen Tropfen aufjesaugt hast!"
+msgstr "Jup, de kommst hier nimmer weg, bevor de net jeden eenzelnen Tropfen aufjesaugt hast!"
 
 #. Key:	0169F2A34BA4C1104CDDEE99B3A3B50E
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchStartShySex.Default__MonarchStartShySex_C.SessionData.LinesToMale(3).LinesToMale
@@ -99,7 +100,8 @@ msgstr "Ah, dann nehme ich an, du bist wie die meisten @MONSTER_RACE@."
 
 #. Key:	01DB8D8A43F7EC40F07FB3A355D39722
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(2 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",01DB8D8A43F7EC40F07FB3A355D39722"
 msgid "Cove of Rapture"
 msgstr "Bucht der Verzückung"
@@ -389,7 +391,7 @@ msgstr "Du wirst dich so gut fühlen, während ich deinen Schwanz für seinen le
 #: /Game/Breeding/Positions/Harvest.Default__Harvest_C.SessionData.PositionName
 msgctxt ",07E0077146239E020D026BADBDFCE890"
 msgid "Harvest"
-msgstr ""
+msgstr "Ernte"
 
 #. Key:	07F233504BDA1232640FB1846CBFE868
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01.Default__FernDefault01_C.SessionData.Lines(0).Lines
@@ -431,14 +433,14 @@ msgstr "Diese Ecke ist sch-sch-schön und sicher!"
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",08A2508F4D57261E790AB8BEA258D6B2"
 msgid "Understand, thou has licked a vagina as old as time itself."
-msgstr "Verstehe, dass du eine Vagina geleckt hast, die so alt ist wie die Zeit selbst."
+msgstr "Verstehe, dass ihr eine Vagina geleckt habt, die so alt ist wie die Zeit selbst."
 
 #. Key:	08DE001E4420BE30688798BF6B70729D
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(4).Lines
 msgctxt ",08DE001E4420BE30688798BF6B70729D"
 msgid "You will need to satisfy their desires before they will give them up."
-msgstr "Du musst ihre Bedürfnisse erst befriedigen, bevor sie aufgeben."
+msgstr "Ihr müsst ihre Bedürfnisse erst befriedigen, bevor sie aufgeben."
 
 #. Key:	0925499D4273278AA298A99B40C4550F
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMYourChildren.Default__DMYourChildren_C.SessionData.LinesToFuta(2).LinesToFuta
@@ -687,7 +689,8 @@ msgstr "Wow … diese Welt ist voller Idioten."
 
 #. Key:	0E2A96C54ACC4571431587B73459221E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",0E2A96C54ACC4571431587B73459221E"
 msgid "Nymphomaniac"
 msgstr "Nymphoman/Nymphomanin"
@@ -708,7 +711,8 @@ msgstr "Miau … niemand war da unten, solange ich mich erinnern kann."
 
 #. Key:	0E6E1156457FB3513C060D979FF6B9AE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 -
+#: Value).TraitIcons.HelpText
 msgctxt ",0E6E1156457FB3513C060D979FF6B9AE"
 msgid "Sterile: Cannot produce offspring."
 msgstr "Unfruchtbar: Kann keine Nachkommen zeugen."
@@ -732,7 +736,7 @@ msgstr "Ablehnen"
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToMale(3).LinesToMale
 msgctxt ",0EC0E30B4EEFEC910A9F1D90DC5AB286"
 msgid "Judging by the mess on the temple floor, quite good."
-msgstr "Gemessen an der Sauerei, die du auf dem Tempelboden hinterlassen hast, war es anscheinend sehr gut."
+msgstr "Gemessen an der Sauerei, die ihr auf dem Tempelboden hinterlassen hast, war es anscheinend recht gut."
 
 #. Key:	0EEEC9A34AD6162338FCA699384590D4
 #. SourceLocation:	/Game/Ranch/Upgrades/BovaurShed.Default__BovaurShed_C.Upgrade.TypeDisplay
@@ -760,7 +764,7 @@ msgstr "Es gibt keinen Grund, Angst vor mir zu haben. Bleib ein bisschen in mein
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Leylanna.Default__EmissaryDefault01_Leylanna_C.SessionData.Lines(4).Lines
 msgctxt ",0F2C916F409983084088D7B8C734556F"
 msgid "However, she must learn to restrain herself from inhaling so much of that blue smoke."
-msgstr "Jedoch muss sie lernen, sich zu zügeln, damit sie nicht so viel von diesem blauen Rauch einatmet."
+msgstr "Jedoch muss sie lernen, sich zu zügeln und nicht mehr so viel von diesem blauen Rauch einatmen."
 
 #. Key:	0F3DB30048A1D95AFB32AEBCA67D8C96
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.LinesGrungy(1).LinesGrungy
@@ -900,7 +904,7 @@ msgstr "Was für ein reizender, sprechender Farn ..."
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(6).Lines
 msgctxt ",119BE39146D97EAD68AF26B063950DFD"
 msgid "Forgive my daydreaming human, Emissary is your archangel. She will help you."
-msgstr "Vergib mir meine Tagträumerei, Mensch, die Abgesandte ist unser Erzengel. Sie wird dir helfen."
+msgstr "Vergib mir meine Tagträumerei, Mensch, die Abgesandte ist unser Erzengel. Sie wird Euch helfen."
 
 #. Key:	11A588964451AB702EC48CA542D16E81
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(6).LinesToMale
@@ -960,7 +964,8 @@ msgstr "Im Herzen sind wir wirklich nur Sucher der Befriedigung!"
 
 #. Key:	1276E5EB4781A0238A9705AC9FEE680E
 #. SourceLocation:	/Game/World/Events/EM_Keystone.EM_Keystone_C:ExecuteUbergraph_EM_Keystone [Script Bytecode]
-#: /Game/World/Events/EM_Keystone.EM_Keystone_C:ExecuteUbergraph_EM_Keystone [Script Bytecode]
+#: /Game/World/Events/EM_Keystone.EM_Keystone_C:ExecuteUbergraph_EM_Keystone
+#: [Script Bytecode]
 msgctxt ",1276E5EB4781A0238A9705AC9FEE680E"
 msgid "Keystone acquired."
 msgstr "Schlüsselstein erhalten."
@@ -1247,7 +1252,8 @@ msgstr "Es ist Fakt, dass @MONSTER_RACE@ Sperma eine mächtige Substanz ist - al
 
 #. Key:	193B4CF045056BF6C0B7E0AF2A4A65FF
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 -
+#: Value).TraitIcons.HelpText
 msgctxt ",193B4CF045056BF6C0B7E0AF2A4A65FF"
 msgid "Valuable: Value is increased by 35%."
 msgstr "Wertvoll: Wert ist um 35% erhöht."
@@ -1376,7 +1382,7 @@ msgstr "Ein Mechanismus wurde repariert."
 #: /Game/Dialogue/Petra/Default/PetraTaskFulfilled.Default__PetraTaskFulfilled_C.SessionData.Lines(3).Lines
 msgctxt ",1C15952A4859910408BA90BF113F067B"
 msgid "Maybe you and I could have some fun together with this dragon!"
-msgstr ""
+msgstr "Vielleicht könnten wir beide etwas Spaß mit diesem Drachen haben!"
 
 #. Key:	1C3E96114020C3F1D5514C998DF520B9
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(4).LinesToFuta
@@ -1639,7 +1645,8 @@ msgstr "Würdest du ... miau ... der armen Cassie bei diesem Problem helfen?"
 
 #. Key:	1FC53FEF4A2414ADEC40FA84C1B8848D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 -
+#: Value).TraitIcons.HelpText
 msgctxt ",1FC53FEF4A2414ADEC40FA84C1B8848D"
 msgid "Kindhearted: Grants twice as much XP to mates but only receives half as much."
 msgstr "Gutherzig: Gibt dem Partner doppelt soviel EP, erhält selbst allerdings nur halb soviel."
@@ -1758,7 +1765,8 @@ msgstr "Wie lange steckst du schon fest?"
 
 #. Key:	217058F6486D81B1085B329585491A13
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 -
+#: Value).TraitIcons.HelpText
 msgctxt ",217058F6486D81B1085B329585491A13"
 msgid "Hornball: Loses 35% less lust during breeding."
 msgstr "Lüstling: Verliert 35% weniger Lust während der Fortpflanzung."
@@ -1817,7 +1825,7 @@ msgstr "Menschliche Wichse schmeckt genauso, wie ich es mir immer erträumt habe
 #: /Game/Characters/Procedural/Variants/Risu/Harvest/RisuHarvest.Default__RisuHarvest_C.Harvest.Description
 msgctxt ",22657D9344EA0FA193ED4BB66564D308"
 msgid "Risu body fluids."
-msgstr ""
+msgstr "Risu-Körperflüssigkeiten"
 
 #. Key:	226CAB5E40652DCF455036A02B7F0BEF
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.LinesGrungy(3).LinesGrungy
@@ -1961,7 +1969,8 @@ msgstr "Neko-Wohnung"
 
 #. Key:	249E987842C35A9986491A967E86BEC3
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 -
+#: Value).TraitIcons.HelpText
 msgctxt ",249E987842C35A9986491A967E86BEC3"
 msgid "Stoic: Increases maximum lust by 20%."
 msgstr "Stoisch: Erhöht die maximale Lust um 20%."
@@ -2031,7 +2040,8 @@ msgstr "Wurzeln blockieren dieses Tor."
 
 #. Key:	2632B36446A9D5F9E018209CB73837B8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",2632B36446A9D5F9E018209CB73837B8"
 msgid "Massive Size"
 msgstr "Mächtige Statur"
@@ -2178,7 +2188,8 @@ msgstr "Sssie fanden jede Möglichkeit, mich zum Höhepunkt zu bringen - und ess
 
 #. Key:	29A421FC41D83A2B9DCC669ECA1F708D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 -
+#: Value).TraitIcons.HelpText
 msgctxt ",29A421FC41D83A2B9DCC669ECA1F708D"
 msgid "Buxom: Inherited a very large ass."
 msgstr "Drall: Hat einen sehr großen Arsch geerbt."
@@ -2213,7 +2224,8 @@ msgstr "Ich könnte natürlich auch selben nachsehen, aber ich bin zu faul, die 
 
 #. Key:	2ABC84814DE5DC3039A61BBA0723AF73
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 -
+#: Value).TraitIcons.HelpText
 msgctxt ",2ABC84814DE5DC3039A61BBA0723AF73"
 msgid "Tiny: Roughly 4ft in height."
 msgstr "Winzig: Ungefähr 1,20 Meter groß."
@@ -2860,7 +2872,7 @@ msgstr "Ich werde jede Sekunde feuchter ..."
 #: /Game/Dialogue/Widow/Default/WidowHadSex01.Default__WidowHadSex01_C.SessionData.LinesGrungy(1).LinesGrungy
 msgctxt ",360772034C5CFEB38121F884358A5F7C"
 msgid "You need a bath. Come now, place your body between my breasts and let's get you clean."
-msgstr ""
+msgstr "Du brauchst ein Bad! Komm schon, leg dich zwischen meine Brüste und wir machen dich sauber."
 
 #. Key:	364811A44C2FE9E58EA99A89A91D330A
 #. SourceLocation:	/Game/Dialogue/OrcChief/Default/OrcGoneWorse.Default__OrcGoneWorse_C.SessionData.Lines(0).Lines
@@ -2902,7 +2914,7 @@ msgstr "Wow, das hat sich so gut angefühlt!"
 #: /Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",3713C92543DDBF9AF3C3209EE018350C"
 msgid "Does my soft golden skin please you @BREEDER_NAME@?"
-msgstr "Hat dich meine weiche, goldene Haut befriedigt, @BREEDER_NAME@?"
+msgstr "Hat euch meine weiche, goldene Haut befriedigt, @BREEDER_NAME@?"
 
 #. Key:	371A297549D5D30EA8E2A9A04A208FC8
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(4).Lines
@@ -3021,7 +3033,7 @@ msgstr "Ich entschied meine Dryaden-Kräfte dafür zu nutzen, Früchte für sie 
 #: /Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToMale(1).LinesToMale
 msgctxt ",38F493C44D198004851E1399B9B3A835"
 msgid "It's been sometime since I have been mounted, so I might get rough!"
-msgstr ""
+msgstr "Es ist eine Weile her das ich geritten wurde, es könnte also etwas ruppig werden!"
 
 #. Key:	391607BA4B3A996D1551BC9B7E71F385
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Harpy/Harvest/HarpyHarvest.Default__HarpyHarvest_C.Harvest.RaceName
@@ -3133,7 +3145,7 @@ msgstr "@MONSTER_RACE@, die du fangen wirst, werden nicht gesegnet sein so wie i
 #: /Game/Dialogue/Petra/Default/PetraTaskFulfilled.Default__PetraTaskFulfilled_C.SessionData.Lines(1).Lines
 msgctxt ",3AEC10F04A7A17CC79668DBE56DADBEA"
 msgid "It was a dragon all along. How could I not have guessed that!"
-msgstr ""
+msgstr "Es war die ganze Zeit ein Drache. Wieso hab ich mir das nicht denken können!"
 
 #. Key:	3B3FB5184F1E276BF9EE46AB7835441D
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Starfallen/Harvest/StarfallenHarvest.Default__StarfallenHarvest_C.Harvest.Description
@@ -3235,7 +3247,8 @@ msgstr "Erzähl mir über Spinnen."
 
 #. Key:	3CA687014A0A2E686C1525BCF1F25CAE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 -
+#: Value).TraitIcons.HelpText
 msgctxt ",3CA687014A0A2E686C1525BCF1F25CAE"
 msgid "Gaudy: Inherited an unusual vivid color scheme."
 msgstr "Farbenprächtig: Hat eine ungewöhnlich lebendige Farbgebung geerbt."
@@ -3256,7 +3269,8 @@ msgstr "Das sollte dir eine Lehre sein, nicht nochmal deinen Weg mit einem Titte
 
 #. Key:	3D4441784AF4D03AE277679928164F4E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",3D4441784AF4D03AE277679928164F4E"
 msgid "Stoic"
 msgstr "Stoisch"
@@ -3322,7 +3336,7 @@ msgstr "Jetzt reicht es, Mensch! Du hast mich lang genug genervt. Beug dich vorn
 #: /Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(2).Lines
 msgctxt ",3E5B1CA94E6EB9CC180AE3A6F9EC5439"
 msgid "Seek the keystones hidden throughout the world, for one is required per gate."
-msgstr "Suche nach den Schlüsselsteinen, die in der ganzen Welt versteckt sind - du braucht einen für jedes Tor."
+msgstr "Suche nach den Schlüsselsteinen, die in der ganzen Welt versteckt sind - ihr braucht einen für jedes Tor."
 
 #. Key:	3EAFC53348C0B793D4BF32A6B78F4E3F
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Forgot_RL.Default__ParvatiDefault01_Forgot_RL_C.ResponseData(4).ResponseData.BreederPrompt
@@ -3375,7 +3389,8 @@ msgstr "Dämonen bevorzugen die Lavaflüsse der Stöhnenden Klippe."
 
 #. Key:	3EF6E0F646189B89DDE495A5A01F7FC3
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",3EF6E0F646189B89DDE495A5A01F7FC3"
 msgid "Abomination"
 msgstr "Abscheulichkeit"
@@ -3718,7 +3733,8 @@ msgstr "Sie wies jeder Welt einen speziellen Seraphim, einen Erzengel, zu, um di
 
 #. Key:	44BC09AE4BDFA439FBFD8BAABD7A96D0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",44BC09AE4BDFA439FBFD8BAABD7A96D0"
 msgid "Chubby"
 msgstr "Mollig"
@@ -3791,7 +3807,7 @@ msgstr "Mein Name ist Falene, die leitende @MONSTER_RACE@-Spezialistin in ganz @
 #: /Game/Ranch/Upgrades/RisuHutch.Default__RisuHutch_C.Upgrade.Description
 msgctxt ",465ADEB24CD3DDFD522F83BA4982D09B"
 msgid "This allows you to catch and store all variants of Risu."
-msgstr ""
+msgstr "Dieses Gebäude erlaubt dir, jegliche Arten von Risu unterzubringen."
 
 #. Key:	4673804842CCE448A5F016907F5651DD
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_Princess.Default__MirruDefault01_Princess_C.SessionData.Lines(1).Lines
@@ -3879,7 +3895,8 @@ msgstr "Du darfst meine Muttermilch haben!"
 
 #. Key:	47D73C824ADC81BC6CCF3D92213FA9A5
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(29 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",47D73C824ADC81BC6CCF3D92213FA9A5"
 msgid "Sterile"
 msgstr "Unfruchtbar"
@@ -3914,7 +3931,8 @@ msgstr "Nur einmal hätte ich gern jemanden, der mich badet. Wenn es nicht zu vi
 
 #. Key:	48107A45419D9511DA312F919A7866E8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(6 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(6 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(6 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",48107A45419D9511DA312F919A7866E8"
 msgid "Hedon Township"
 msgstr "Gemeinde Hedon"
@@ -3938,7 +3956,7 @@ msgstr "Der Schalter bewegt sich nicht."
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(6).Lines
 msgctxt ",48A773D34A077935AE7A2FAD14F4A978"
 msgid "The more powerful the soul thou entrusts to me, the greater shall be thy bounty."
-msgstr "Je mächtiger die Seele ist, die Ihr mir anvertraut, desto größer wird Eure Belohnung sein."
+msgstr "Je mächtiger die Seele ist, die Ihr mir anvertraut, desto größer wird eure Belohnung sein."
 
 #. Key:	48CC4FFE4554B0228CDDB7A68DA380FB
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Foxen/Harvest/FoxenHarvest.Default__FoxenHarvest_C.Harvest.RaceName
@@ -3952,7 +3970,7 @@ msgstr "Foxe"
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(0).Lines
 msgctxt ",48ECD1FC4E34FAB69B41249F46A1CAB8"
 msgid "@BREEDER_NAME@. Long have I waited for your arrival."
-msgstr "@BREEDER_NAME@. Lange habe ich auf Eure Ankunft gewartet."
+msgstr "@BREEDER_NAME@. Lange habe ich auf eure Ankunft gewartet."
 
 #. Key:	48EDBF874DED77CEE66F469303F265EB
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(9).LinesToFemale
@@ -3984,7 +4002,8 @@ msgstr "Zieh dich aus, nackt musst du sein, nimm's schon in Kauf."
 
 #. Key:	49C9E46943998C63648E12A033938266
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",49C9E46943998C63648E12A033938266"
 msgid "Debauched"
 msgstr "Verkommen"
@@ -4071,7 +4090,7 @@ msgstr "Du darfst meine Muttermilch haben!"
 #: /Game/Dialogue/Petra/Default/PetraGetKeystone.Default__PetraGetKeystone_C.SessionData.Lines(7).Lines
 msgctxt ",4B400F8545DB288AE092E39BA2CD24BF"
 msgid "If you can find me something that fits Pawsmaati's request, I will get that keystone for you."
-msgstr ""
+msgstr "Wenn du etwas findest, was Pawsmaatis Bitte entspricht, und es mir bringst, besorg ich diesen Schlüsselstein für dich."
 
 #. Key:	4B96D56447562EBC8748929A5D3B51FD
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernGreeting02.Default__FernGreeting02_C.SessionData.LinesToFuta(3).LinesToFuta
@@ -4218,7 +4237,7 @@ msgstr "Du hast eine Krakenprinzessin befriedigt und hast mir erlaubt, meiner Lu
 #: /Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_RL.Default__EmissaryBlessedInquiry01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",4E7910C949370E1A22F20886B7F19689"
 msgid "Huh... that means you're just as horny then."
-msgstr "Hmm... das heißt, du bist genau so geil wie sie."
+msgstr "Hmm... das heißt, ihr seit genau so geil wie sie."
 
 #. Key:	4E7998DA4738ECC33C9E7DA9B98FC68B
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_BatheAllDay.Default__RomyDefault01_BatheAllDay_C.SessionData.Lines(2).Lines
@@ -4362,14 +4381,16 @@ msgstr "Ah! Mirru, Prinzessin der Meere, wird solche Dinge nicht preisgeben!"
 
 #. Key:	50B849704DFA728D7330279E30E472A8
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 -
+#: Value).TraitIcons.HelpText
 msgctxt ",50B849704DFA728D7330279E30E472A8"
 msgid "Large: Roughly 8ft in height."
 msgstr "Groß: Ungefähr 2,40 Meter groß."
 
 #. Key:	50BBFEDE44CEF2DA10124AAE7DBF17B9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",50BBFEDE44CEF2DA10124AAE7DBF17B9"
 msgid "Slick"
 msgstr "Glatt"
@@ -4383,7 +4404,8 @@ msgstr "Wenn sich genug Wichse anhäuft - normalerweise im Wasser - ist da eine 
 
 #. Key:	51444A264763D03D8B5051AEDAB55B5F
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(32 -
+#: Value).TraitIcons.HelpText
 msgctxt ",51444A264763D03D8B5051AEDAB55B5F"
 msgid "Abomination: This one was the product of incest."
 msgstr "Abscheulichkeit: Diese Kreatur ist das Resultat von Inzucht."
@@ -4425,7 +4447,8 @@ msgstr "..."
 
 #. Key:	5243F67240932D62D7FDFABA63222594
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",5243F67240932D62D7FDFABA63222594"
 msgid "Hung"
 msgstr "Gut bestückt"
@@ -4579,7 +4602,8 @@ msgstr "Jeder wollte eine 'persönliche Audienz' mit mir - und es war großartig
 
 #. Key:	55894A674E5C647D1DC14EB1951CE50D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 -
+#: Value).TraitIcons.HelpText
 msgctxt ",55894A674E5C647D1DC14EB1951CE50D"
 msgid "Sadistic: Reduces the loyalty of breeding partners, but gains twice as much XP."
 msgstr "Sadistisch: Verringert die Loyalität der Zuchtpartner, erlangt dafür aber doppelt so viele EP."
@@ -4614,7 +4638,8 @@ msgstr "*Gähn*"
 
 #. Key:	560FCF68432946FE1C6D7BA2F8088AB6
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(0 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(0 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(0 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",560FCF68432946FE1C6D7BA2F8088AB6"
 msgid "Virgin Breaks"
 msgstr "Jungfern-Spalte"
@@ -4740,10 +4765,11 @@ msgstr "Ist in Ordnung, ich will deine Milch wirklich."
 
 #. Key:	58F2132B4EDA616F5343D38BA68240E2
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(35 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(35 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(35 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",58F2132B4EDA616F5343D38BA68240E2"
 msgid "Gemini"
-msgstr ""
+msgstr "Klon"
 
 #. Key:	591A0FAA474F00F7E8E2F28C1E009891
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_FutaBalls.Default__FaleneDefault01_FutaBalls_C.SessionData.Lines(0).Lines
@@ -4796,7 +4822,8 @@ msgstr "Ahh... meine Lamiazunge wird dich so gut fühlen lassen ..."
 
 #. Key:	5A3E7C5348B9CE872B1AC68AF9AEF76B
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 -
+#: Value).TraitIcons.HelpText
 msgctxt ",5A3E7C5348B9CE872B1AC68AF9AEF76B"
 msgid "Slender: This one has less body fat."
 msgstr "Schlank: Diese Kreatur hat weniger Körperfett."
@@ -4992,7 +5019,8 @@ msgstr "Ich werde schon feucht, wenn ich nur daran denke, wie dein dicker Schwan
 
 #. Key:	5F71A084478332FD553228BF6DB08550
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",5F71A084478332FD553228BF6DB08550"
 msgid "Huge Size"
 msgstr "Enorme Statur"
@@ -5023,7 +5051,7 @@ msgstr "Ah, natürlich könnte ich dir Zugang gewähren, aber... Da ist etwas, d
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFuta(3).LinesToFuta
 msgctxt ",604FA2154312C173E208F3949C0C0A75"
 msgid "Judging by the mess on the temple floor, quite good."
-msgstr "Gemessen an der Sauerei, die du auf dem Tempelboden hinterlassen hast, war es anscheinend sehr gut."
+msgstr "Gemessen an der Sauerei, die ihr auf dem Tempelboden hinterlassen habt, war es anscheinend recht gut."
 
 #. Key:	60635C454CEF8341039602B6529EEE22
 #. SourceLocation:	/Game/Dialogue/Widow/Default/WidowSpiders.Default__WidowSpiders_C.SessionData.Lines(6).Lines
@@ -5072,7 +5100,7 @@ msgstr "Manche verehren dich so sehr, dass sie Willens sind, sich an deinen phys
 #: /Game/Dialogue/QueenBee/Default/BeeTaskFulfilled.Default__BeeTaskFulfilled_C.SessionData.Lines(2).Lines
 msgctxt ",611DEEEA4F0BEB84BE76FDAD70AB9B96"
 msgid "You came through for us human, and for that you have my thanks. My girls have removed the honey preventing you from entering Sultry Plateau."
-msgstr ""
+msgstr "Du hast dich für uns eingesetzt, Mensch, und dafür gebührt dir mein Dank. Meine Mädels haben den Honig entfernt, der dich daran gehindert hat das Heißblütige Plateau zu bereten."
 
 #. Key:	61341EBA4A04883698FF08BF81A229FB
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(5).ResponseData.BreederPrompt
@@ -5163,14 +5191,14 @@ msgstr "Diese Kreaturen wanderten schwach herum, nur vom Instinkt getrieben. Das
 #: /Game/Dialogue/Kybele/Default/KybeleTaskFulfilled.Default__KybeleTaskFulfilled_C.SessionData.LinesToFuta(2).LinesToFuta
 msgctxt ",6272317B4A4AE3E76212F6A3B94CDAAA"
 msgid "Such strength... ahhh!"
-msgstr ""
+msgstr "So viel Kraft... ahhh!"
 
 #. Key:	62B5CF3C40893752840CAEBF4C8159C3
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(4).Lines
 msgctxt ",62B5CF3C40893752840CAEBF4C8159C3"
 msgid "It did not deserve the pleasures you granted it, and I would advise never speaking with it again."
-msgstr "Es hat das Vergnügen nicht verdient, was du ihm bereitet hast, und ich würde dir raten, nie wieder mit ihm zu sprechen."
+msgstr "Es hat das Vergnügen nicht verdient, was ihr ihm bereitet habt, und ich würde euch raten, nie wieder mit ihm zu sprechen."
 
 #. Key:	62DABAA04453893D6FCD5390D28CB19A
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R02.Default__FernDefault02_R02_C.SessionData.Lines(2).Lines
@@ -5384,7 +5412,8 @@ msgstr "Oh Meister ... du bist zu gut zu mir."
 
 #. Key:	65F2B1384977D80660A4E4A91389BC9D
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",65F2B1384977D80660A4E4A91389BC9D"
 msgid "Grungy"
 msgstr "Schmutzig"
@@ -5545,7 +5574,8 @@ msgstr "Ohhh ja ... miau ... ahhh..."
 
 #. Key:	6928C04F4EBC681B1BF676BB56435E32
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",6928C04F4EBC681B1BF676BB56435E32"
 msgid "Charmer"
 msgstr "Schwerenöter"
@@ -5720,7 +5750,8 @@ msgstr "Angeblich sssollst du die Hölle ssselbst finden, wenn du nur tief genug
 
 #. Key:	6D1431474F1C713E9D755F93772C653C
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 -
+#: Value).TraitIcons.HelpText
 msgctxt ",6D1431474F1C713E9D755F93772C653C"
 msgid "Juicy: Produces 50% extra body fluid when harvested."
 msgstr "Saftig: Gibt 50% zusätzliche Körperflüssigkeit bei der Ernte ab."
@@ -5793,7 +5824,7 @@ msgstr "Wenn du diesen Ort nicht auf der Stelle verlässt, wirst du mich so lang
 #: /Game/Dialogue/Kybele/Default/KybeleHaveKeystone.Default__KybeleHaveKeystone_C.SessionData.Lines(3).Lines
 msgctxt ",6DFA50D843F564F540771EAD2DCC848B"
 msgid "Just don't tell her if you see her! If you do, you will feel my wrath again!"
-msgstr ""
+msgstr "Sag ihr einfach nichts falls du sie siehst! Oder du spürst meinen Zorn noch einmal!"
 
 #. Key:	6DFC948B4585FAC19AED8692ED4B45F2
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm_RL_F.Default__LeylannaDefault01_RechargeSpiritForm_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
@@ -5937,7 +5968,8 @@ msgstr "Du machst Perlen?"
 
 #. Key:	6FED048C4BF38E565F2ADC90DC3F4390
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(16 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",6FED048C4BF38E565F2ADC90DC3F4390"
 msgid "Kindhearted"
 msgstr "Gutherzig"
@@ -6161,7 +6193,8 @@ msgstr "Ahhh ja! Fülle es auf mit deinem Menschensamen... ohhh."
 
 #. Key:	73986546438B9C190B8B769537B05047
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(12 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(12 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(12 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",73986546438B9C190B8B769537B05047"
 msgid "Climax Peak"
 msgstr "Höhepunktgipfel"
@@ -6280,7 +6313,8 @@ msgstr "Höhepunktgipfel ist nun zugänglich."
 
 #. Key:	752BA5D9498A3D0A3B274BA6E3AFDDAE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",752BA5D9498A3D0A3B274BA6E3AFDDAE"
 msgid "Lewd Desert"
 msgstr "Unzuchtwüste"
@@ -6343,7 +6377,8 @@ msgstr "*ENDLOSES SABBERN*"
 
 #. Key:	76C3B8B24ADB1D21C1F205A4E3B35D2A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 -
+#: Value).TraitIcons.HelpText
 msgctxt ",76C3B8B24ADB1D21C1F205A4E3B35D2A"
 msgid "Atypical: Inherited an unusual size for its variant."
 msgstr "Untypisch: Hat eine ungewöhnliche Körperröße für diese Variante geerbt."
@@ -6399,14 +6434,16 @@ msgstr "Ich bade sie natürlich, wenn sie schmutzig sind. Glücklicherweise sind
 
 #. Key:	786684AF43E49B03AB1575A2054AC196
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(3 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",786684AF43E49B03AB1575A2054AC196"
 msgid "Large Size"
 msgstr "Große Statur"
 
 #. Key:	78B7319E49FA8E32267F09898482F929
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(27 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",78B7319E49FA8E32267F09898482F929"
 msgid "Slender"
 msgstr "Schlank"
@@ -6525,7 +6562,8 @@ msgstr "Ich möchte dein Muschi...Portal durchschreiten."
 
 #. Key:	7B5F72194EE494B66BEC5CAD05253722
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(15 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",7B5F72194EE494B66BEC5CAD05253722"
 msgid "Juicy"
 msgstr "Saftig"
@@ -6640,7 +6678,7 @@ msgstr "Erzähl mir über Pawsmaati."
 #: /Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(0).Lines
 msgctxt ",7D4DC0064FB622869AA3E3B8CFCF2444"
 msgid "Ah you mean the Cockblock Gates."
-msgstr "Ah, du meinst die Cockblock-Tore."
+msgstr "Ah, ihr meint die Cockblock-Tore."
 
 #. Key:	7D9B8CD848A3DAA68B924CA2B1E60858
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeSlimesMade.Default__MegaSlimeSlimesMade_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -6679,7 +6717,8 @@ msgstr "Fühle meine seidene Zunge über deinen Schaft streichen, während dein 
 
 #. Key:	7E871257404E27C20903A3877220C69A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(10 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(10 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(10 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",7E871257404E27C20903A3877220C69A"
 msgid "Pleasure Pastures"
 msgstr "Wollust Weiden"
@@ -6721,7 +6760,8 @@ msgstr "Verwalte deine Sylvaner"
 
 #. Key:	7EF6E26243EE042D016B90AFA2F62AE7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",7EF6E26243EE042D016B90AFA2F62AE7"
 msgid "Divergent"
 msgstr "Abweichend"
@@ -6787,7 +6827,7 @@ msgstr "Und Sexstellungen, die jegliche Normen brechen und jedermann begehrt."
 #: /Game/Breeding/Positions/RBJ.Default__RBJ_C.SessionData.PositionName
 msgctxt ",80408EFE4DAB489A51D3D58E74F77AE0"
 msgid "RBJ"
-msgstr ""
+msgstr "RBJ"
 
 #. Key:	8044648D4BB5A708D0C1658B377C01A4
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01.Default__RomyDefault01_C.SessionData.Lines(0).Lines
@@ -6847,7 +6887,8 @@ msgstr "Das ist der alte Tempel, weil … also ich nehme mal an, der neue ist be
 
 #. Key:	81BA7F3C4947D886880CA687DA5D133F
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(7 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(7 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(7 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",81BA7F3C4947D886880CA687DA5D133F"
 msgid "Homestead"
 msgstr "Heimstätte"
@@ -6864,7 +6905,7 @@ msgstr "Test2"
 #: /Game/Dialogue/Widow/Default/WidowTaskFullfilled2.Default__WidowTaskFullfilled2_C.SessionData.Lines(1).Lines
 msgctxt ",8249C21F4D54352D41F755B9013E7ACE"
 msgid "She loves my soft silky webs, and especially my tongue."
-msgstr "Sie liebt meine weichen, seidigen Netze - und meine Zunge besonders."
+msgstr "Sie liebt meine weichen, seidigen Netze - und besonders meine Zunge."
 
 #. Key:	827D026847F470B33C9BA5B6E24201F5
 #. SourceLocation:	/Game/Breeding/Positions/Lifted.Default__Lifted_C.SessionData.PositionName
@@ -6934,11 +6975,12 @@ msgstr "Ich sag dir was, da du ein Züchter bist … gib mir einen deiner Nachko
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(5).Lines
 msgctxt ",83F96FD847C509C2689331A208A49D12"
 msgid "Now... cometh thy to offer @MONSTER_RACE@?"
-msgstr ""
+msgstr "Na... kommst ihr um @MONSTER_RACE@ anzubieten?"
 
 #. Key:	840B179B496FE7BBE7487EAE11227191
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(9 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(9 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(9 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",840B179B496FE7BBE7487EAE11227191"
 msgid "Lustwood"
 msgstr "Lustwald"
@@ -7050,14 +7092,16 @@ msgstr "Grrrrrr!!!!! Hahaha! Du schwacher, kleiner Mensch."
 
 #. Key:	854AE3F2484BF88BB14875815FEE38B4
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(20 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",854AE3F2484BF88BB14875815FEE38B4"
 msgid "Sadistic"
 msgstr "Sadistisch"
 
 #. Key:	855B7EB248E6DF97FE4486BAE527851B
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",855B7EB248E6DF97FE4486BAE527851B"
 msgid "Small Size"
 msgstr "Kleine Statur"
@@ -7445,11 +7489,12 @@ msgstr "Ich bin jetzt eine voll ausgewachsene Alraune!"
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_Daze.Default__EmissaryDefault01_Daze_C.SessionData.Lines(1).Lines
 msgctxt ",8B1379924334951ADC6F618BF40ECB55"
 msgid "Once the body is pushed beyond capacity, it will lose conciousness and for an undetermined time, thou shall not perceive the world."
-msgstr "Sobald der Körper über sein Kapazitäten strapaziert wird, verliert er das Bewusstsein und du wirst für unbestimmte Zeit nichts mehr wahrnehmen."
+msgstr "Sobald der Körper über sein Kapazitäten strapaziert wird, verliert er das Bewusstsein und ihr werdet für unbestimmte Zeit nichts mehr wahrnehmen."
 
 #. Key:	8B26942A46ED0C778AE5E1BC7C39336A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 -
+#: Value).TraitIcons.HelpText
 msgctxt ",8B26942A46ED0C778AE5E1BC7C39336A"
 msgid "Fertile: Fertility doubles pregnancy chance from repeated breeding."
 msgstr "Fruchtbar: Verdoppelt die Wahrscheinlichkeit einer Schwangerschaft bei wiederholtem Züchten."
@@ -7463,7 +7508,8 @@ msgstr "Sie bleiben daheim um Mutter zu dienen und zufriedenzustellen... Oh wie 
 
 #. Key:	8B77D0FA4239D5EB678BAE8CDE396838
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",8B77D0FA4239D5EB678BAE8CDE396838"
 msgid "Hedonist"
 msgstr "Hedonist"
@@ -7722,7 +7768,8 @@ msgstr "Sogar aus der Leere heraus vergöttern sie dich, Züchter. Du hast es di
 
 #. Key:	8FFFE80A49114390AEF4A190D3F0A48F
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(11 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",8FFFE80A49114390AEF4A190D3F0A48F"
 msgid "Fertile"
 msgstr "Fruchtbar"
@@ -7739,7 +7786,7 @@ msgstr "Hmm… vielleicht."
 #: /Game/Dialogue/Emissary/Default/EmissaryGreeting01.Default__EmissaryGreeting01_C.SessionData.Lines(3).Lines
 msgctxt ",900A82D44250A3392806469644B7B93B"
 msgid "However, roaming this land are lesser @MONSTER_RACE@, to which many brand as \"wild\"."
-msgstr "Wie auch immer, in diesem Land streifen geringere @MONSTER_RACE@ umher, die viele als \"wild\" bezeichnen."
+msgstr "Wie auch immer, in diesem Land streifen niedere @MONSTER_RACE@ umher, die viele als \"wild\" bezeichnen."
 
 #. Key:	902A41DB403EFA60B99E8CB596EFE0BF
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02.Default__FernDefault02_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -7771,7 +7818,8 @@ msgstr "*Saug* *Saug*"
 
 #. Key:	90BF47A74AF19E981D455BAB280C9D02
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(13 -
+#: Value).TraitIcons.HelpText
 msgctxt ",90BF47A74AF19E981D455BAB280C9D02"
 msgid "Hedonist: Gains the XP that would have been granted to the other mate."
 msgstr "Hedonist: Erhält die EP die dem anderen Partner zugestanden hätten."
@@ -7848,7 +7896,8 @@ msgstr "Klar, kann ich! Ich bin ein Häschen, da rauf zu springen wäre kein Pro
 
 #. Key:	926325814BBC6464CA76E097764B7F27
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 -
+#: Value).TraitIcons.HelpText
 msgctxt ",926325814BBC6464CA76E097764B7F27"
 msgid "Hominal: Inherited more human traits."
 msgstr "Menschlich: Hat mehr menschliche Merkmale geerbt."
@@ -7907,7 +7956,7 @@ msgstr "Der donnerartige Aufschlag, den ihr Fall jedes Mal macht, schüttelt sog
 #: /Game/Dialogue/Emissary/Default/EmissaryHadSex01.Default__EmissaryHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
 msgctxt ",931A324E4A49D084F8210CA54C479750"
 msgid "Well your tongue certainly found it's way around @BREEDER_NAME@."
-msgstr "Nun, deine Zunge hat auf jeden Fall ihren Weg gefunden, @BREEDER_NAME@."
+msgstr "Nun, eure Zunge hat auf jeden Fall ihren Weg gefunden, @BREEDER_NAME@."
 
 #. Key:	93200BC643D32038D21FA9A6972CB59F
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryBlessedInquiry01_RL.Default__EmissaryBlessedInquiry01_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -8009,7 +8058,8 @@ msgstr "Du darfst meine Wichse haben!"
 
 #. Key:	94451EBE42500C5CEC2E988DDD887046
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(19 -
+#: Value).TraitIcons.HelpText
 msgctxt ",94451EBE42500C5CEC2E988DDD887046"
 msgid "Nymphomaniac: Loyalty is increased twice as fast from having sex."
 msgstr "Nymphomane: Loyalität wird durch Sex doppelt so schnell gesteigert."
@@ -8086,7 +8136,8 @@ msgstr "Harpyien-Körperflüssigkeiten."
 
 #. Key:	95781B414AAF336B071430A39FC2F698
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(5 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(5 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(5 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",95781B414AAF336B071430A39FC2F698"
 msgid "Esoteric Glade"
 msgstr "Esoterische Lichtung"
@@ -8191,7 +8242,8 @@ msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Foxen unterzubringen."
 
 #. Key:	97244FB84D6D7CC0273CD3BB89B847D9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",97244FB84D6D7CC0273CD3BB89B847D9"
 msgid "Swift"
 msgstr "Schnell"
@@ -8355,7 +8407,7 @@ msgstr "Verwalte deine Harpyien"
 #: /Game/Dialogue/Yasmine/Default/YasmineHadSex01.Default__YasmineHadSex01_C.SessionData.LinesGrungy(1).LinesGrungy
 msgctxt ",996ED4764E0D1E469F8958853E2AABAD"
 msgid "You need a bath. Come now, place your body between my breasts and let's get you clean."
-msgstr ""
+msgstr "Du brauchst ein Bad. Komm jetzt, platziere deinen Körper zwischen meinen Brüsten und lass dich sauber machen."
 
 #. Key:	99AAA6394A3838FD6FEF1EAA31AD6102
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaGreeting01.Default__LeylannaGreeting01_C.SessionData.Lines(0).Lines
@@ -8383,7 +8435,7 @@ msgstr "Fern weiß nicht … nicht stark genug."
 #: /Game/Dialogue/Petra/Default/PetraGetKeystone.Default__PetraGetKeystone_C.SessionData.Lines(4).Lines
 msgctxt ",99F080324D7FD127AB659FB7CC382C5A"
 msgid "Perhaps Pawsmaati is testing me... maybe her riddle is a metaphore for my own lust..."
-msgstr ""
+msgstr "Vielleicht will Pawsmaati mich nur testen... vielleicht ist ihr Rätsel eine Metapher meiner eigenen Lust..."
 
 #. Key:	9A0EF6A841D0C76A871BD39DB09AEFD4
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R03.Default__FernDefault01_R03_C.SessionData.Lines(0).Lines
@@ -8604,7 +8656,8 @@ msgstr "Aber esss issst Zeit für eine Veränderung … Zeit, um wieder an die O
 
 #. Key:	9ECA418E4EC2E9617CD48B82C43CB5FA
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(2 -
+#: Value).TraitIcons.HelpText
 msgctxt ",9ECA418E4EC2E9617CD48B82C43CB5FA"
 msgid "Huge: Roughly 10ft in height."
 msgstr "Enorm: Ungefähr 3 Meter groß."
@@ -8639,17 +8692,19 @@ msgstr "Ich könnte schon wieder abspritzen … ihr Menschen habt es einfach zu 
 
 #. Key:	9F25BEB847378BA942933C8A503B4F1A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(22 -
+#: Value).TraitIcons.HelpText
 msgctxt ",9F25BEB847378BA942933C8A503B4F1A"
 msgid "Swift: Dexterity reduces lust cost of actions as a percentage."
 msgstr "Schnell: Geschicklichkeit verringert prozentual den Lustverbrauch durch Aktionen."
 
 #. Key:	9F7E04704B60E2F2EC07E9B3308B36FE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(36 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(36 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(36 -
+#: Value).TraitIcons.HelpText
 msgctxt ",9F7E04704B60E2F2EC07E9B3308B36FE"
 msgid "Surprise: This one was the product of surprise sex."
-msgstr ""
+msgstr "Überraschung: Ist das Zeugnis von Überraschungs-Sex"
 
 #. Key:	9F82F5BC4976131C6A3861A1CAF32EFA
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMGrasslandsTrees.Default__DMGrasslandsTrees_C.SessionData.Lines(1).Lines
@@ -8660,7 +8715,8 @@ msgstr "Ja … ich denke, du hast Recht."
 
 #. Key:	9F83DE504D98E2D4C149568C1F8DE768
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(4 -
+#: Value).TraitIcons.HelpText
 msgctxt ",9F83DE504D98E2D4C149568C1F8DE768"
 msgid "Massive: Roughly 15ft in height."
 msgstr "Mächtig: Ungefähr 4,50 Meter groß."
@@ -8880,11 +8936,12 @@ msgstr "Pawsmaati ist uralt, viel alter als ich oder jeden, den ich jemals getro
 #: /Game/Dialogue/Widow/Default/WidowHadSex01.Default__WidowHadSex01_C.SessionData.LinesGrungy(0).LinesGrungy
 msgctxt ",A4B99F3C407E9C094C137DAF9E60A51F"
 msgid "Oh you dirty dirty human... what have you done to yourself?"
-msgstr ""
+msgstr "Oh du dreckiger Mensch... was hast du bitte mit dir gemacht?"
 
 #. Key:	A4C22B3045E8159B66E47CB636E23172
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",A4C22B3045E8159B66E47CB636E23172"
 msgid "Nurturing"
 msgstr "Fürsorglich"
@@ -9076,7 +9133,7 @@ msgstr "Du kommen, um Tor zu reparieren? Dumme Elfen haben es von ihrer Seite ka
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_SexPositions.Default__EmissaryDefault01_SexPositions_C.SessionData.Lines(0).Lines
 msgctxt ",A90E87E3497D9E41C08BE1AB25DF9AEE"
 msgid "If thou must indulge your desires, seek the Enlightened One in Sultry Plateau."
-msgstr "Wenn du deinen Bedürfnissen nachgeben willst, suche nach der Erleuchteten im Heißblütigen Plateau."
+msgstr "Wenn ihr euren Bedürfnissen nachgehen wollt, sucht nach der Erleuchteten im Heißblütigen Plateau."
 
 #. Key:	A913B249494A32A6AF263BAE0962E781
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeDefault01.Default__MegaSlimeDefault01_C.SessionData.Lines(0).Lines
@@ -9174,7 +9231,7 @@ msgstr "Eine fremde Melodie kommt näher, ein ungehörtes Lied in diesem Land."
 #: /Game/Dialogue/Yasmine/Default/YasmineHadSex01.Default__YasmineHadSex01_C.SessionData.LinesGrungy(0).LinesGrungy
 msgctxt ",AA18E8094B0BEABB8C6A948FC36B6552"
 msgid "Oh you dirty dirty human... what have you done to yourself?"
-msgstr ""
+msgstr "Oh du dreckiger Mensch... was hast du bitte mit dir gemacht?"
 
 #. Key:	AA19D8F246FE5FAD5F7E9D8BEEDF10E3
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -9349,7 +9406,7 @@ msgstr "Mensch, du hast meine Erwartungen übertroffen und hast mich ausgesproch
 #: /Game/Dialogue/Emissary/SexScenes/EmissaryAngelGroinLove.Default__EmissaryAngelGroinLove_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",ADECACEF405669C45FAC77AB2A48E637"
 msgid "My labia are holy and magical. May your tongue be graced by their presence."
-msgstr "Meine Schamlippen sind heilig und magisch. Möge deine Zunge durch ihre Gegenwart gesegnet sein."
+msgstr "Meine Schamlippen sind heilig und magisch. Möge eure Zunge durch ihre Gegenwart gesegnet sein."
 
 #. Key:	ADECFCE04009A18A9FCD358FEAD730A5
 #. SourceLocation:	/Game/Dialogue/Fesssi/Default/FesssiGreeting01.Default__FesssiGreeting01_C.SessionData.Lines(0).Lines
@@ -9430,7 +9487,8 @@ msgstr "Vielleicht willst du deinen Schwanz in meine glitzernde Elfenmuschi stec
 
 #. Key:	AFBF754C422E5E00DF8BB7A37B956DFB
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(10 -
+#: Value).TraitIcons.HelpText
 msgctxt ",AFBF754C422E5E00DF8BB7A37B956DFB"
 msgid "Divergent: Offspring have a chance to generate a random trait upon being summoned."
 msgstr "Abweichend: Nachkommen habe die Chance bei Beschwörung ein zufälliges Merkmal zu erhalten."
@@ -9465,7 +9523,8 @@ msgstr "Wilde @MONSTER_RACE@ sind das was du fangen und züchten wirst."
 
 #. Key:	B088E0624E17857FAE8AE4B893251DA2
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(0 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",B088E0624E17857FAE8AE4B893251DA2"
 msgid "Hominal"
 msgstr "Menschlich"
@@ -9475,7 +9534,7 @@ msgstr "Menschlich"
 #: /Game/Dialogue/QueenBee/Default/BeeHaveKeystone1.Default__BeeHaveKeystone1_C.SessionData.Lines(1).Lines
 msgctxt ",B0D63ADB45CCFD884D1581A5725EA8BF"
 msgid "Should you manage to do it, the keystone will be granted to you and I shall instruct my workers to remove the honey blocking Sultry Plateau."
-msgstr ""
+msgstr "Sollte dir das gelingen, soll der Schlüsselstein dir gehören und ich befehle meinen Arbeiterinnen den Honig, der die Heißblütige Plateau blockiert, zu entfernen."
 
 #. Key:	B0F5CCC741FEDFC39587579F638D56DC
 #. SourceLocation:	/Game/Dialogue/QueenBee/Default/BeeMasturbate.Default__BeeMasturbate_C.SessionData.Lines(3).Lines
@@ -9524,7 +9583,7 @@ msgstr "Na, worauf wartest du? Komm rein!"
 #: /Game/Dialogue/Kybele/Default/KybeleTittyPony.Default__KybeleTittyPony_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",B16A16AD4DAD11735CC38DBC5E9237B1"
 msgid "It's been sometime since I have been mounted, so I might get rough!"
-msgstr ""
+msgstr "Es ist eine Weile her das ich geritten wurde, es könnte also etwas ruppig werden!"
 
 #. Key:	B17C429C4AE53B8CA98F5E8166D598D2
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadCherryHelp.Default__DryadCherryHelp_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -9570,7 +9629,8 @@ msgstr "Wenn wir uns gegenseitig befriedigen, teilt die Göttin unsere Vergnüge
 
 #. Key:	B20F5D9040267E77436A9B94B5F68150
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(30 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",B20F5D9040267E77436A9B94B5F68150"
 msgid "Gaudy"
 msgstr "Farbenprächtig"
@@ -9654,7 +9714,8 @@ msgstr "Farn brauchen Menschensaft um zzzu großer Alraune zu wachsssen! Fauch, 
 
 #. Key:	B3953BA1451F630DE2CF019EB4CB6A69
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",B3953BA1451F630DE2CF019EB4CB6A69"
 msgid "Valuable"
 msgstr "Wertvoll"
@@ -9755,7 +9816,7 @@ msgstr "Icke meente, dat übrigens ernst, wat icke über dich zwischen meen' Mö
 #: /Game/Dialogue/OrcChief/Default/OrcHaveKeystone.Default__OrcHaveKeystone_C.SessionData.Lines(4).Lines
 msgctxt ",B5C876DA4DBA230757C412BE4612735C"
 msgid "Grrrr!!! A cow with some spunk, now get to it human!"
-msgstr ""
+msgstr "Grrr!!! Eine Kuh mit etwas Mumm, los jetzt macht schon, Mensch!"
 
 #. Key:	B5E173FA45294C4DE256EF836668F092
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(5).LinesToFemale
@@ -9878,7 +9939,8 @@ msgstr "Wow, Mensch, du musst echt verzweifelt sein, wenn du dich entscheidest, 
 
 #. Key:	B7AB851641C9ABEE4A178B9DFFD50B0B
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",B7AB851641C9ABEE4A178B9DFFD50B0B"
 msgid "Hybrid"
 msgstr "Mischling"
@@ -9899,7 +9961,8 @@ msgstr "Lass uns noch einmal Liebe machen, @BREEDER_NAME@, und uns unter ihrem B
 
 #. Key:	B7DDB984480E5280CB46B69238C0654E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(25 -
+#: Value).TraitIcons.HelpText
 msgctxt ",B7DDB984480E5280CB46B69238C0654E"
 msgid "Chubby: This one has more body fat."
 msgstr "Mollig: Diese Kreatur hat mehr Körperfett."
@@ -10203,7 +10266,7 @@ msgstr "Was ist die unendliche Benommenheit?"
 #: /Game/Dialogue/Yasmine/Default/YasmineHadSex01.Default__YasmineHadSex01_C.SessionData.Lines(1).Lines
 msgctxt ",BD326ED44A2732523BC286AA438967A7"
 msgid "Waves of ecstasy still course through my body."
-msgstr ""
+msgstr "Wellen der Ekstase strömen noch immer durch meinen Körper. "
 
 #. Key:	BD61F6BE4278688EEA2B878F6E8C6994
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(14).LinesToFemale
@@ -10242,10 +10305,11 @@ msgstr "Du bist gerade @WORLD_NAME@s neuster Einwohner geworden!"
 
 #. Key:	BDFBF2444482EC9CA1B83B92138A12DD
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(35 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(35 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(35 -
+#: Value).TraitIcons.HelpText
 msgctxt ",BDFBF2444482EC9CA1B83B92138A12DD"
 msgid "Gemini: This one has an identical twin."
-msgstr ""
+msgstr "Klon: Hat einen identischen Zwilling."
 
 #. Key:	BE16AB634A0B031F9DEEF79B3D80C4A5
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieHadSex01.Default__CassieHadSex01_C.SessionData.LinesToFemale(4).LinesToFemale
@@ -10280,7 +10344,7 @@ msgstr "Einmal hat sie mich durch das Muschiportal geworfen, als Neela nicht hin
 #: /Game/Dialogue/Emissary/Default/EmissaryCockblockGates.Default__EmissaryCockblockGates_C.SessionData.Lines(3).Lines
 msgctxt ",BED6E4EB4536C7A1E1D8EF8C6FA3F149"
 msgid "But beware, other blessed @MONSTER_RACE@ have collected the keystones over the years."
-msgstr "Aber sei dir bewusst, andere gesegnete @MONSTER_RACE@ haben die Schlüsselsteine über die Jahre gesammelt."
+msgstr "Aber seit euch bewusst, andere gesegnete @MONSTER_RACE@ haben die Schlüsselsteine über die Jahre gesammelt."
 
 #. Key:	BEDA154E4410DE62211DBFA48872ED35
 #. SourceLocation:	/Game/Dialogue/Monarch/Default/MonarchHadSex01.Default__MonarchHadSex01_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -10347,7 +10411,8 @@ msgstr "Jetzt wo ich einen Menschen zum spielen habe, freue ich mich drauf diese
 
 #. Key:	BFCA3659420358C2CFA5B5B426282E9A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(9 -
+#: Value).TraitIcons.HelpText
 msgctxt ",BFCA3659420358C2CFA5B5B426282E9A"
 msgid "Debauched: Offspring have a 20% chance to ignore the negative impacts of inbreeding."
 msgstr "Verkommen: Nachkommen haben eine 20% Chance die negativen Effekte von Inzucht zu ignorieren."
@@ -10658,7 +10723,7 @@ msgstr "Bienenwaben blockieren dieses Tor."
 #: /Game/Dialogue/Petra/Default/PetraGetKeystone.Default__PetraGetKeystone_C.SessionData.Lines(6).Lines
 msgctxt ",C66928AC49FF8C314FC5339591BF860D"
 msgid "You... you must have something to do with it!"
-msgstr "Du … du musst dementsprechend etwas damit zu tun haben!"
+msgstr "Du … du musst also was damit zu tun haben!"
 
 #. Key:	C6B18EAC4E513704AB264E9A875521FB
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyLockedDungeon.Default__RomyLockedDungeon_C.SessionData.Lines(1).Lines
@@ -10700,7 +10765,7 @@ msgstr "Du suchst nach Wegen, wie du benutzen kannst, dein Vergnügunsloch."
 #: /Game/Characters/Procedural/Variants/Risu/Harvest/RisuHarvest.Default__RisuHarvest_C.Harvest.RaceName
 msgctxt ",C760FF8B46FA4C58A2012CB2F41CE6F8"
 msgid "Risu"
-msgstr ""
+msgstr "Risu"
 
 #. Key:	C77FA616486308414031F29069272188
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(2).ResponseData.BreederPrompt
@@ -10711,17 +10776,19 @@ msgstr "Lass uns meine Seelengestalt wiederaufladen."
 
 #. Key:	C7BA93A840AB5FA97F357E802955A851
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",C7BA93A840AB5FA97F357E802955A851"
 msgid "Exotic"
 msgstr "Exotisch"
 
 #. Key:	C7EBEA0D46D85CCCBE6EDDB796DAB929
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(36 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(36 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(36 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",C7EBEA0D46D85CCCBE6EDDB796DAB929"
 msgid "Surprise"
-msgstr ""
+msgstr "Überraschung"
 
 #. Key:	C7F43006419AE76ADB041AA7B3BB8DD1
 #. SourceLocation:	/Game/Dialogue/Widow/Default/WidowDefault01.Default__WidowDefault01_C.SessionData.Lines(4).Lines
@@ -10742,7 +10809,7 @@ msgstr "Oh neiiiiiin, meine Perle ist wieder weg und rollte davon."
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01_SexPositions.Default__EmissaryDefault01_SexPositions_C.SessionData.Lines(1).Lines
 msgctxt ",C831296B46D9E6D1B4ECA181BCD5520B"
 msgid "She will teach you how to position the body for optimal sexual experience."
-msgstr "Sie wird dir beibringen, wie du deinen Körper für eine optimales sexuelles Erlebnis positionierst."
+msgstr "Sie wird euch beibringen, wie ihr euren Körper für eine optimales sexuelles Erlebnis positioniert."
 
 #. Key:	C8F56B5143EC7D77BCE3D483F91BD832
 #. SourceLocation:	/Game/Dialogue/QueenBee/Default/BeeMasturbate.Default__BeeMasturbate_C.SessionData.Lines(4).Lines
@@ -10809,7 +10876,8 @@ msgstr "Ich weiß, dass du dich an nichts vor diesem Moment erinnern kannst, als
 
 #. Key:	C9DFA1EB40C3BF78D4B015AC82833310
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",C9DFA1EB40C3BF78D4B015AC82833310"
 msgid "Normal Size"
 msgstr "Normale Statur"
@@ -10938,7 +11006,7 @@ msgstr "Dann posiere ich aufreizend vor dem, was immer sie mitbringt, und sie ni
 #: /Game/Dialogue/AmberMae/Default/AmberMaeHadSex01.Default__AmberMaeHadSex01_C.SessionData.LinesToMale(0).LinesToMale
 msgctxt ",CCBE2DF04F273EE3D33DE583845CB545"
 msgid "Ye drank so much for a wee lad!"
-msgstr ""
+msgstr "Da haste ganz schön was getrunken, für so en klein' Burschen!"
 
 #. Key:	CCFE0CB04C0DD4BC550FE6AF03BFABB3
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R05.Default__FaleneDefault01_R05_C.SessionData.Lines(1).Lines
@@ -11012,7 +11080,8 @@ msgstr "Du kannst es haben, wenn du mir bei einem kleinen Problem hilfst."
 
 #. Key:	CE50C843466352316F4461BC2722C00E
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(18 -
+#: Value).TraitIcons.HelpText
 msgctxt ",CE50C843466352316F4461BC2722C00E"
 msgid "Nurturing: Offspring inherit 20% higher stats."
 msgstr "Fürsorglich: Nachkommen erben 20% höhere Werte."
@@ -11078,7 +11147,7 @@ msgstr "Nicht nur mit intensiver Lust, sondern auch nützlichen Gegenständen di
 #: /Game/Dialogue/OrcChief/Default/OrcHaveKeystone.Default__OrcHaveKeystone_C.SessionData.Lines(3).Lines
 msgctxt ",CF2AA32C438E34A279D2A599B0899492"
 msgid "Breed my tribe a fertile female that we can share. A soft cow, but not lazy one from pastures!"
-msgstr "Brüte meinen Stamm fruchtbares Weibchen, wir können alle teilen. Weiche Kuh - aber keine faule von den Weiden!"
+msgstr "Brüte meinen Stamm fruchtbares Weibchen, dass wir alle teilen können. Eine weiche Kuh - aber keine faule von den Weiden!"
 
 #. Key:	CF30D7124F42031F52DA0DA6849D4457
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToFemale(6).LinesToFemale
@@ -11152,7 +11221,8 @@ msgstr "Wir Zentauren können echt aggressiv werden, wenn wir eine längere Zeit
 
 #. Key:	D066439244AFE855B06F90AB1A4A0829
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(8 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(8 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(8 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",D066439244AFE855B06F90AB1A4A0829"
 msgid "Sultry Plateau"
 msgstr "Heißblütiges Plateau"
@@ -11180,14 +11250,16 @@ msgstr "Das sollte dir eine Lehre sein, nicht nochmal deinen Weg mit einem Titte
 
 #. Key:	D0FA90CC4E9378DF7150FB881B18DC60
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(5 -
+#: Value).TraitIcons.HelpText
 msgctxt ",D0FA90CC4E9378DF7150FB881B18DC60"
 msgid "Normal: Roughly 6ft in height."
 msgstr "Normal: Ungefähr 1,80 Meter groß."
 
 #. Key:	D15AF6D44FBD9FB7572622AE572A21D7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(33 -
+#: Value).TraitIcons.HelpText
 msgctxt ",D15AF6D44FBD9FB7572622AE572A21D7"
 msgid "Hybrid: This one is a mix of two races."
 msgstr "Mischling: Diese Kreatur ist eine Mischung aus zwei Rassen."
@@ -11404,7 +11476,8 @@ msgstr "Kann ich den Schlüsselstein haben?"
 
 #. Key:	D535E0D84F73A7E07CA72DA2ED4F1B11
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 -
+#: Value).TraitIcons.HelpText
 msgctxt ",D535E0D84F73A7E07CA72DA2ED4F1B11"
 msgid "Meaty: Strength raises the XP granted to mates when breeding as a percentage."
 msgstr "Fleischig: Die Stärke erhöht prozentual die EP die Partner während der Paarung bekommen."
@@ -11645,7 +11718,7 @@ msgstr "Es ist wirklich ein überragendes Design, wenn du darüber nachdenkst--d
 #: /Game/Dialogue/Petra/Default/PetraGetKeystone.Default__PetraGetKeystone_C.SessionData.Lines(2).Lines
 msgctxt ",D8ADF7FF4D4119D1628F44BF0E97521A"
 msgid "Pawsmaati tasked me with practicing my recent lesson with a \"winged mountain maiden\"."
-msgstr ""
+msgstr "Hat Pawsmaati mir aufgetragen meine neuste Lektion an einer \"Geflügelten Berg-Jungfer\" zu üben."
 
 #. Key:	D8D64A6444112501D1C4728A0BB65EB7
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R02.Default__FernDefault02_R02_C.SessionData.Lines(1).Lines
@@ -11677,7 +11750,8 @@ msgstr "Meene Milch war lecker, wat? Jibt janz viel mehr, wo ditte herkommt!"
 
 #. Key:	D913C6254D30AA08E8B01787AE3D1B68
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(4 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",D913C6254D30AA08E8B01787AE3D1B68"
 msgid "Hivelands"
 msgstr "Schwarmländer"
@@ -11820,7 +11894,7 @@ msgstr "@WORLD_NAME@ ist meine Welt."
 #: /Game/Dialogue/Yasmine/Default/YasmineHadSex01.Default__YasmineHadSex01_C.SessionData.Lines(0).Lines
 msgctxt ",DAF3ABC54412C70DC128659F2DB1098C"
 msgid "Oh the songs of pleasure we sang, how good they felt."
-msgstr ""
+msgstr "Oh, die Lieder des Vergügens, die wir sangen, wie gut sie sich anfühlten. "
 
 #. Key:	DB00D91D4420A5D9D4F3FBB7DD1AC099
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_R02_R01.Default__FernDefault02_R02_R01_C.SessionData.Lines(0).Lines
@@ -11957,7 +12031,8 @@ msgstr "Unterwerfe dich, Mensch... Ich kann mein Verlangen nicht kontrollieren!"
 
 #. Key:	DC956C0949E5CA05486F1583CEACA3ED
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",DC956C0949E5CA05486F1583CEACA3ED"
 msgid "Busty"
 msgstr "Vollbusig"
@@ -11967,7 +12042,7 @@ msgstr "Vollbusig"
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Jungle.BlockMessage
 msgctxt ",DC9E09AE4BC0BE32644CA59E071AE774"
 msgid "Honeycomb blocks this gate."
-msgstr ""
+msgstr "Diese Tor wird von Honig blockiert."
 
 #. Key:	DCA3C7F14DDEBDAEB595FB95AA6A4F3C
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePlay.Default__MegaSlimePlay_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -12002,7 +12077,7 @@ msgstr "Ein Mensch … d-d-das ist nichts, was man jeden Tag sieht."
 #: /Game/Dialogue/Leylanna/Default/LeylannaDefault01_Emissary.Default__LeylannaDefault01_Emissary_C.SessionData.Lines(0).Lines
 msgctxt ",DD3959194243B910FF07BC8D7CA651AB"
 msgid "The beautiful golden angel appeared only a few days before you."
-msgstr "Dieser wunderschöne goldene Engel erschien nur ein paar Tage vor dir."
+msgstr "Dieser wunderschöne goldene Engel erschien nur ein paar Tage vor euch."
 
 #. Key:	DD71570B40252FFC58EE9CAB7B9A3230
 #. SourceLocation:	/Game/Dialogue/Widow/Default/WidowKeystone.Default__WidowKeystone_C.SessionData.Lines(6).Lines
@@ -12223,7 +12298,8 @@ msgstr "Nachdem se den neuen Tempel jebaut hatten, wurde die Tür versiegelt …
 
 #. Key:	E20511A746C7BFEF4C46D5A2F2586CD0
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(28 -
+#: Value).TraitIcons.HelpText
 msgctxt ",E20511A746C7BFEF4C46D5A2F2586CD0"
 msgid "Slick: Inherited slick oily skin."
 msgstr "Glatt: Hat glatte ölige Haut geerbt."
@@ -12401,11 +12477,12 @@ msgstr "Jetzt, wo du so viel Energie hast ..."
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault02.Default__EmissaryDefault02_C.SessionData.Lines(0).Lines
 msgctxt ",E4D00AF649A1E7AC5659FFA04BB04427"
 msgid "Well done @BREEDER_NAME@, thou hast restored my world's link to the Void."
-msgstr "Gut gemacht, @BREEDER_NAME@, du hast die Verbindung zwischen meiner Welt und der Leere wiederhergestellt."
+msgstr "Gut gemacht, @BREEDER_NAME@, ihr habt die Verbindung zwischen meiner Welt und der Leere wiederhergestellt."
 
 #. Key:	E4F530D54D663ADF27773EB024081B52
 #. SourceLocation:	/Game/World/Events/EM_Pearl.EM_Pearl_C:ExecuteUbergraph_EM_Pearl [Script Bytecode]
-#: /Game/World/Events/EM_Pearl.EM_Pearl_C:ExecuteUbergraph_EM_Pearl [Script Bytecode]
+#: /Game/World/Events/EM_Pearl.EM_Pearl_C:ExecuteUbergraph_EM_Pearl [Script
+#: Bytecode]
 msgctxt ",E4F530D54D663ADF27773EB024081B52"
 msgid "Beautiful Pearl acquired."
 msgstr "Wunderschöne Perle erhalten."
@@ -12503,7 +12580,8 @@ msgstr "Eine weise Wahl, Mensch, die Göttin hat die wilden @MONSTER_RACE@ weite
 
 #. Key:	E663A2A8494081C671EA74A317740FAD
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",E663A2A8494081C671EA74A317740FAD"
 msgid "Atypical"
 msgstr "Untypisch"
@@ -12601,7 +12679,8 @@ msgstr "Amouröse Heiligtümer sind nun zugänglich."
 
 #. Key:	E8789C0E4CCC57BB8A98178902DA8110
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(1 -
+#: Value).TraitIcons.HelpText
 msgctxt ",E8789C0E4CCC57BB8A98178902DA8110"
 msgid "Exotic: Inherited more monster traits."
 msgstr "Exotisch: Hat mehr Monstermerkmale geerbt."
@@ -12622,7 +12701,8 @@ msgstr "Ich hab den Schlüsselstein für dich geholt - wie versprochen. Schau ma
 
 #. Key:	E89A6BB74D15111C98632A99F45745CC
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(17 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",E89A6BB74D15111C98632A99F45745CC"
 msgid "Meaty"
 msgstr "Fleischig"
@@ -12664,7 +12744,8 @@ msgstr "Wir lieben es uns mit allen anderen @MONSTER_RACE@ zu paaren."
 
 #. Key:	E95C5DA945F5D8A92099E9892F4615A7
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(1 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(1 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(1 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",E95C5DA945F5D8A92099E9892F4615A7"
 msgid "Amorous Hallows"
 msgstr "Amouröse Heiligtümer"
@@ -12674,7 +12755,7 @@ msgstr "Amouröse Heiligtümer"
 #: /Game/Ranch/Upgrades/RisuHutch.Default__RisuHutch_C.Upgrade.DisplayName
 msgctxt ",E97D557A4CC9B101F2F7E1A43C6C27B9"
 msgid "Risu Hutch"
-msgstr ""
+msgstr "Risu-Hütte"
 
 #. Key:	E999DFEA4E92B84DC1426192191A75AA
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadFatAssLamia.Default__DryadFatAssLamia_C.SessionData.Lines(3).Lines
@@ -12751,7 +12832,7 @@ msgstr "Dieses Gebäude erlaubt dir jegliche Arten von Dämonen unterzubringen."
 #: /Game/World/Overworld.Overworld:PersistentLevel.RisuHutch.ManageActionMessage
 msgctxt ",EB1406C440D3EF18AF3C78B296137764"
 msgid "Manage your Risu"
-msgstr ""
+msgstr "Verwalte deine Risu"
 
 #. Key:	EB2D583D443FA7DB15278C95780CBC37
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieDefault01_Meow.Default__CassieDefault01_Meow_C.SessionData.LinesToFemale(0).LinesToFemale
@@ -12804,7 +12885,8 @@ msgstr "Ah, natürlich könnte ich dir Zugang gewähren, aber... Da ist etwas, d
 
 #. Key:	EC01A5624439E2DDB75614A1656451DD
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(26 -
+#: Value).TraitIcons.HelpText
 msgctxt ",EC01A5624439E2DDB75614A1656451DD"
 msgid "Hung: Inherited a larger dick."
 msgstr "Gut bestückt: Hat einen größeren Schwanz geerbt."
@@ -12905,7 +12987,7 @@ msgstr "Doch ohne die Gunst der Göttin wirst du nichts erhalten."
 #: /Game/Dialogue/Petra/Default/PetraGetKeystone.Default__PetraGetKeystone_C.SessionData.Lines(3).Lines
 msgctxt ",EDB37C414F34D2DB942D46BC07E82687"
 msgid "I've been sitting here every day waiting for whatever that is to visit me."
-msgstr ""
+msgstr "Ich sitze seit dem hier rum und warte darauf, dass was auch immer das ist, zu mir findet."
 
 #. Key:	EDC3705644F1B11509FCD4A1CD88991D
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault02.Default__FaleneDefault02_C.SessionData.Lines(0).Lines
@@ -12951,7 +13033,8 @@ msgstr "Oh Meister, du hast mich gut genährt."
 
 #. Key:	EEBA2B7C475E9710DEB122887C14BEE9
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(8 -
+#: Value).TraitIcons.HelpText
 msgctxt ",EEBA2B7C475E9710DEB122887C14BEE9"
 msgid "Charmer: Allure raises XP from breeding as a percentage."
 msgstr "Schwerenöter: Verlockung erhöht prozentual EP durch Paarung."
@@ -13119,7 +13202,8 @@ msgstr "Ejaculum-Phallis ist ein Produkt von Drachensperma. Wenn du mir eine gro
 
 #. Key:	F1D3A2E044E22D62A15FD2A3C291C751
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(6 -
+#: Value).TraitIcons.HelpText
 msgctxt ",F1D3A2E044E22D62A15FD2A3C291C751"
 msgid "Small: Roughly 5ft in height."
 msgstr "Klein: Ungefähr 1,50 Meter groß."
@@ -13136,7 +13220,7 @@ msgstr "*Gähn*"
 #: /Game/Dialogue/Fern/DefaultP3/FernHadSex03.Default__FernHadSex03_C.SessionData.LinesToFemale(2).LinesToFemale
 msgctxt ",F1E5410345C530DA657424BD124E30D9"
 msgid "You squirted a ton in here, how fun!"
-msgstr ""
+msgstr "Du hast hier ganz schön abgespritzt, was ein Spaß!"
 
 #. Key:	F1EF1BEA4E4AF008C65539ADC6740F61
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_RL_M.Default__FernDefault01_RL_M_C.ResponseData(0).ResponseData.BreederPrompt
@@ -13213,7 +13297,7 @@ msgstr "Wie lerne ich neue Sex Stellungen?"
 #: /Game/Dialogue/Petra/Default/PetraGetKeystone.Default__PetraGetKeystone_C.SessionData.Lines(5).Lines
 msgctxt ",F3E1DD1B4ED3DA2D29DB4CA040F01A59"
 msgid "Am I to undertake a journey to find this winged maiden... no, she said to remain in the jungle."
-msgstr ""
+msgstr "Sollte ich mich auf die Suche nach der Geflügelten Jungfrau machen... nein, sie sagte ich soll im Dschungel blieben."
 
 #. Key:	F3F4124041D97034B836478BD7FE0BF9
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Demon/Harvest/DemonHarvest.Default__DemonHarvest_C.Harvest.Description
@@ -13462,14 +13546,16 @@ msgstr "MIAU!!! Cassie wird dich mit Kätzchensamen auffüllen!"
 
 #. Key:	FA099D00490628CE02692F98F8341539
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(34 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",FA099D00490628CE02692F98F8341539"
 msgid "Buxom"
 msgstr "Drall"
 
 #. Key:	FA16663A4C4765BC8F4CBC80FF774B75
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(12 -
+#: Value).TraitIcons.HelpText
 msgctxt ",FA16663A4C4765BC8F4CBC80FF774B75"
 msgid "Grungy: Mates have a 20% of getting dirty, reducing allure by 50%."
 msgstr "Schmutzig: Partner haben eine 20% Chance schmutzig zu werden, was Verlockung um 50% reduziert."
@@ -13626,7 +13712,7 @@ msgstr "Ohhh, wie sehr ich darauf gewartet habe."
 #: /Game/Dialogue/Widow/Default/WidowTaskFullfilled2.Default__WidowTaskFullfilled2_C.SessionData.Lines(2).Lines
 msgctxt ",FBDDB80F480F00F6DF7E1BA03EC927F6"
 msgid "Always she crawls to me, begging me to suck her juicy nethers and breasts... and I gladly oblige."
-msgstr ""
+msgstr "Jedes mal kommt sie angekrabbelt und bettelt, dass ich ihre saftigen Genitalien und Brüste lutsche... und Ich sag gerne ja."
 
 #. Key:	FBE363A241E1A6C5172380A2F5CAFD27
 #. SourceLocation:	/Game/Dialogue/Kybele/Default/KybeleGreeting01.Default__KybeleGreeting01_C.SessionData.Lines(1).Lines
@@ -13693,7 +13779,8 @@ msgstr "Knie und sauge, Mensch. vergehe dich an meinem Honig, es wird mir große
 
 #. Key:	FD257CB04C6B3AB420244298D2C33047
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(14 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",FD257CB04C6B3AB420244298D2C33047"
 msgid "Hornball"
 msgstr "Lüstling"
@@ -13742,7 +13829,8 @@ msgstr "Glaub es oder nicht, aber ich war mal viel größer! Aber ich habe ein g
 
 #. Key:	FD8011CC4C321FCEC4C41F88F97FDCD1
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(3 - Value).TravelShrines.ShrineName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(3 - Value).TravelShrines.ShrineName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(3 -
+#: Value).TravelShrines.ShrineName
 msgctxt ",FD8011CC4C321FCEC4C41F88F97FDCD1"
 msgid "Moaning Crag"
 msgstr "Stöhnende Klippe"
@@ -13770,7 +13858,8 @@ msgstr "Nicht um mich zu essen, das hat andere Dinge zu meinem kleinen Körper g
 
 #. Key:	FDBDE7714A97FE255B38A0BACEC479DB
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.DisplayName
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 - Value).TraitIcons.DisplayName
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(7 -
+#: Value).TraitIcons.DisplayName
 msgctxt ",FDBDE7714A97FE255B38A0BACEC479DB"
 msgid "Tiny Size"
 msgstr "Winzige Statur"
@@ -13801,7 +13890,7 @@ msgstr "Wie auch immer, manche sind dabei eher verspielt und werden dich überra
 #: /Game/Dialogue/Yasmine/Default/YasmineHadSex01.Default__YasmineHadSex01_C.SessionData.Lines(2).Lines
 msgctxt ",FE30CC0F4EC31063CA576A8A6CF941F5"
 msgid "Let us spend the day together, for here in the warmth of this water we can sing again for hours."
-msgstr ""
+msgstr "Lass uns den Tag gemeinsam verbringen, hier in der Wärme des Wassers können wir noch für Stunden singen."
 
 #. Key:	FE908E8B4214DDCF1709D284DCA9D0E1
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieButterButtF.Default__CassieButterButtF_C.SessionData.Lines(1).Lines
@@ -13889,7 +13978,8 @@ msgstr "Ach, ich Dummerchen, ich hab mich ja noch gar nicht vorgestellt."
 
 #. Key:	FFEB9256402DB5ADDFEED38770F40285
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.HelpText
-#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 - Value).TraitIcons.HelpText
+#: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(24 -
+#: Value).TraitIcons.HelpText
 msgctxt ",FFEB9256402DB5ADDFEED38770F40285"
 msgid "Busty: Inherited very large breasts."
 msgstr "Vollbusig: Hat sehr große Brüste geerbt."
@@ -13934,7 +14024,7 @@ msgstr "Einen Schlüsselstein wird gebraucht."
 #: Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:399
 msgctxt "ASexyBreedingSystem,IncestDisabledMessage"
 msgid "Incest is not allowed."
-msgstr ""
+msgstr "Verbietet Inzucht."
 
 #. Key:	IncestMessage
 #. SourceLocation:	Source/Radiant/Public/Game/Monsters/SexyBreedingSystem.cpp:451
@@ -13962,7 +14052,7 @@ msgstr "Weibliche menschliche und exotische Varianten sind ausgeschalten, Standa
 #: Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:3220
 msgctxt "ASexyCharacterSystem,SaveBreeder"
 msgid "Appearance has been saved."
-msgstr ""
+msgstr "Aussehen wurde gespeichert."
 
 #. Key:	SpiritForm
 #. SourceLocation:	Source/Radiant/Public/Characters/SexyCharacterSystem.cpp:3236
@@ -14298,7 +14388,7 @@ msgstr "Fesssi möchte mit dir sprechen."
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:508
 msgctxt "ASexyWorldSystem,KybeleMateTaskF"
 msgid "Bring to me a Vulwarg with a large soft ass! I wish feel her cushion as I thrust my cock deep and plant my seed in her body."
-msgstr ""
+msgstr "Bring mir einen Vulwarg mit einem großen, weichen Arsch! Ich möchte ihre Weiche spüren, wenn ich meinen Schwanz tief in sie hineinstoße und meine Samen in ihr sähe."
 
 #. Key:	KybeleMateTaskReward
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:504
@@ -14312,7 +14402,7 @@ msgstr "Kybele möchte mit dir sprechen."
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:512
 msgctxt "ASexyWorldSystem,KybeleMateTaskT"
 msgid "Bring to me a Vulwarg with massive muscles! I wish feel like I'm being mounted by a mighty stallion."
-msgstr ""
+msgstr "Bring mir einen super muskulösen Vulwarg! Ich wünsche mir das Gefühl, von einem mächtigen Hengst beritten zu werden. "
 
 #. Key:	KybeleMateTitle
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:503
@@ -14389,14 +14479,14 @@ msgstr "Häuptling Xena wünscht dich zu sprechen."
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:753
 msgctxt "ASexyWorldSystem,PetraMate"
 msgid "Practice Dragon"
-msgstr ""
+msgstr "Übungsdrache"
 
 #. Key:	PetraMateTask
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:756
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:756
 msgctxt "ASexyWorldSystem,PetraMateTask"
 msgid "Pawsmaati gave me the task of practicing her lesson with a \"winged mountain maiden\"!"
-msgstr ""
+msgstr "Pawsmaati hat mir aufgetragen ihre Lektion mit einer \"Geflügelten Berg-Jungfer\" zu üben."
 
 #. Key:	PetraMateTaskReward
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:754
@@ -14430,22 +14520,38 @@ msgstr "Neue Zuchtaufträge sind eingetroffen."
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:460
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:460
 msgctxt "ASexyWorldSystem,TraitRequirement"
-msgid "{0}\n{1}\n{2}"
-msgstr "{0}\n{1}\n{2}"
+msgid ""
+"{0}\n"
+"{1}\n"
+"{2}"
+msgstr ""
+"{0}\n"
+"{1}\n"
+"{2}"
 
 #. Key:	TraitRequirementFluid
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:427
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:427
 msgctxt "ASexyWorldSystem,TraitRequirementFluid"
-msgid "{0} {1}\n{2}ml\n"
-msgstr "{0} {1}\n{2}ml\n"
+msgid ""
+"{0} {1}\n"
+"{2}ml\n"
+msgstr ""
+"{0} {1}\n"
+"{2}ml\n"
 
 #. Key:	TraitRequirementStat
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:456
 #: Source/Radiant/Public/World/SexyWorldSystem.cpp:456
 msgctxt "ASexyWorldSystem,TraitRequirementStat"
-msgid "{0}\n{1}\n{2}{3}"
-msgstr "0}\n{1}\n{2}{3}"
+msgid ""
+"{0}\n"
+"{1}\n"
+"{2}{3}"
+msgstr ""
+"0}\n"
+"{1}\n"
+"{2}{3}"
 
 #. Key:	WidowElf
 #. SourceLocation:	Source/Radiant/Public/World/SexyWorldSystem.cpp:707
@@ -14906,8 +15012,12 @@ msgstr "Schwanger"
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:67
 #: Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:67
 msgctxt "CharacterDetails,PregnancyTooltip"
-msgid "Progress toward summoning offspring.\nMilk production is doubled during pregnancy."
-msgstr "Fortschritt bis zur Zeugung eines Nachkommen.\nDie Milchproduktion ist während der Schwangerschaft verdoppelt."
+msgid ""
+"Progress toward summoning offspring.\n"
+"Milk production is doubled during pregnancy."
+msgstr ""
+"Fortschritt bis zur Zeugung eines Nachkommen.\n"
+"Die Milchproduktion ist während der Schwangerschaft verdoppelt."
 
 #. Key:	Procreators
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyCharacterDetails.cpp:111
@@ -15130,8 +15240,12 @@ msgstr "Abbrechen"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:247
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:247
 msgctxt "CharacterEditor,ChangeSexTooltip"
-msgid "Change this character's sex.\nWARNING: This will overwrite the current appearance."
-msgstr "Ändere das Geschlecht des Charakters.\nWARNUNG: Dies setzt das Aussehen des Charakters zurück."
+msgid ""
+"Change this character's sex.\n"
+"WARNING: This will overwrite the current appearance."
+msgstr ""
+"Ändere das Geschlecht des Charakters.\n"
+"WARNUNG: Dies setzt das Aussehen des Charakters zurück."
 
 #. Key:	ChooseAnimationTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:287
@@ -15159,14 +15273,18 @@ msgstr "Details"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:519
 msgctxt "CharacterEditor,EditTraits"
 msgid "Traits and States"
-msgstr ""
+msgstr "Merkmale und Werte"
 
 #. Key:	ExoticTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:232
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:232
 msgctxt "CharacterEditor,ExoticTooltip"
-msgid "Give this character its exotic trait if one exists.\nWARNING: This will overwrite the current appearance."
-msgstr "Gib dem Charakter ein exotisches Aussehen, falls es eins gibt.\nWARNUNG: Dies setzt das Aussehen des Charakters zurück."
+msgid ""
+"Give this character its exotic trait if one exists.\n"
+"WARNING: This will overwrite the current appearance."
+msgstr ""
+"Gib dem Charakter ein exotisches Aussehen, falls es eins gibt.\n"
+"WARNUNG: Dies setzt das Aussehen des Charakters zurück."
 
 #. Key:	EyebrowMaterial
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:402
@@ -15249,8 +15367,12 @@ msgstr "Haare"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:224
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:224
 msgctxt "CharacterEditor,HominalTooltip"
-msgid "Give this character its hominal trait if one exists.\nWARNING: This will overwrite the current appearance."
-msgstr "Gib dem Charakter ein humanoides Aussehen, falls es eins gibt.\nWARNUNG: Dies setzt das Aussehen des Charakters zurück."
+msgid ""
+"Give this character its hominal trait if one exists.\n"
+"WARNING: This will overwrite the current appearance."
+msgstr ""
+"Gib dem Charakter ein humanoides Aussehen, falls es eins gibt.\n"
+"WARNUNG: Dies setzt das Aussehen des Charakters zurück."
 
 #. Key:	LeaveButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:126
@@ -15264,14 +15386,18 @@ msgstr "Verlassen"
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:127
 msgctxt "CharacterEditor,LeaveButtonTooltip"
 msgid "Exit the editor. Unsaved changes will be lost."
-msgstr ""
+msgstr "Verlasse den Editor, nicht gespeicherte Änderungen gehen Verloren "
 
 #. Key:	LoadUsrPresetTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:175
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:175
 msgctxt "CharacterEditor,LoadUsrPresetTooltip"
-msgid "Load a saved preset.\nWARNING: This will overwrite the current appearance."
-msgstr "Lade ein gespeichertes Preset.\nWARNUNG: Dies setzt das Aussehen des Charakters zurück."
+msgid ""
+"Load a saved preset.\n"
+"WARNING: This will overwrite the current appearance."
+msgstr ""
+"Lade ein gespeichertes Preset.\n"
+"WARNUNG: Dies setzt das Aussehen des Charakters zurück."
 
 #. Key:	LowerBodyShape
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:357
@@ -15326,15 +15452,19 @@ msgstr "Nippel"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:201
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:201
 msgctxt "CharacterEditor,PasteTooltip"
-msgid "Paste copied data.\nWARNING: This will overwrite the selected category, and might look terrible on different variants."
+msgid ""
+"Paste copied data.\n"
+"WARNING: This will overwrite the selected category, and might look terrible on different variants."
 msgstr ""
+"Kopierte Daten einfügen.\n"
+"WARNUNG: Die ausgewählte Kategorie wird überschrieben und falls verschiedenen Varianten verwendet werden, könnte das Resultat schrecklich aussehen."
 
 #. Key:	PresetFlags
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:513
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:513
 msgctxt "CharacterEditor,PresetFlags"
 msgid "Flags"
-msgstr ""
+msgstr "Flaggen"
 
 #. Key:	PresetNameTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:527
@@ -15355,7 +15485,7 @@ msgstr "Benenne diesen Charakter um."
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:155
 msgctxt "CharacterEditor,SaveBreederTooltip"
 msgid "Save current appearance."
-msgstr ""
+msgstr "Derzeitiges Aussehen speichern."
 
 #. Key:	SaveButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:557
@@ -15418,7 +15548,7 @@ msgstr "Schalte Unterwäsche an/aus."
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:302
 msgctxt "CharacterEditor,ToolsTooltip"
 msgid "Various editor functions."
-msgstr ""
+msgstr "Verschiedenste Editorfunktionen."
 
 #. Key:	UnderwearGroup
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:474
@@ -15445,7 +15575,9 @@ msgstr "Klamotten Oberteil"
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:216
 #: Source/Radiant/Public/UI/Menus/SexyCharacterEditorMenu.cpp:216
 msgctxt "CharacterEditor,VariantTooltip"
-msgid "Change this character's variant.\nWARNING: This will overwrite the current appearance."
+msgid ""
+"Change this character's variant.\n"
+"WARNING: This will overwrite the current appearance."
 msgstr "Ändere die Art des Characters. WARNUNG: Dies setzt das Aussehen des Charakters zurück."
 
 #. Key:	ErrorSavingPreset
@@ -15558,84 +15690,84 @@ msgstr "Speicherstand überschreiben?"
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:152
 msgctxt "ConfirmationBox,PresetAttachmentConfirm"
 msgid "All presets for this variant will have their attachment colors replaced, this cannot be undone."
-msgstr ""
+msgstr "Bei allen Presets dieser Variante wird die Zubehörfarbe ersetzt, dies kann nicht rückgängig gemacht werden."
 
 #. Key:	PresetAttachmentTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:146
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:146
 msgctxt "ConfirmationBox,PresetAttachmentTitle"
 msgid "Propagate Attachment Color?"
-msgstr ""
+msgstr "Zubehörfarbe auf Presets Anwenden?"
 
 #. Key:	PresetFurConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:147
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:147
 msgctxt "ConfirmationBox,PresetFurConfirm"
 msgid "All presets for this variant will have their fur colors replaced, this cannot be undone."
-msgstr ""
+msgstr "Bei allen Presets dieser Variante wird die Fellfarbe ersetzt, dies kann nicht rückgängig gemacht werden."
 
 #. Key:	PresetFurTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:151
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:151
 msgctxt "ConfirmationBox,PresetFurTitle"
 msgid "Propagate Fur Color?"
-msgstr ""
+msgstr "Fellfarbe auf Presets Anwenden?"
 
 #. Key:	PresetHairConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:162
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:162
 msgctxt "ConfirmationBox,PresetHairConfirm"
 msgid "All presets for this variant will have their hair colors replaced, this cannot be undone."
-msgstr ""
+msgstr "Bei allen Presets dieser Variante wird die Haarfarbe ersetzt, dies kann nicht rückgängig gemacht werden."
 
 #. Key:	PresetOverwriteConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:137
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:137
 msgctxt "ConfirmationBox,PresetOverwriteConfirm"
 msgid "Preset data will be overwritten with defaults, this cannot be undone."
-msgstr ""
+msgstr "Preset wird auf Standard zurückgesetzt, dies kann nicht rückgängig gemacht werden."
 
 #. Key:	PresetOverwriteTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:136
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:136
 msgctxt "ConfirmationBox,PresetOverwriteTitle"
 msgid "Overwrite Preset Shape?"
-msgstr ""
+msgstr "Preset zurücksetzten?"
 
 #. Key:	PresetPropagateConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:142
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:142
 msgctxt "ConfirmationBox,PresetPropagateConfirm"
 msgid "All presets for this variant will be overwritten with the current body shape, this cannot be undone."
-msgstr ""
+msgstr "Alle Presets dieser Variante werden mit der derzeitigen Körperform überschrieben, dies kann nicht rückgängig gemacht werden."
 
 #. Key:	PresetPropagateTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:141
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:141
 msgctxt "ConfirmationBox,PresetPropagateTitle"
 msgid "Propagate Preset Shape?"
-msgstr ""
+msgstr "Körperform auf Presets anwenden?"
 
 #. Key:	PresetSkinConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:172
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:172
 msgctxt "ConfirmationBox,PresetSkinConfirm"
 msgid "All presets for this variant will have their skin colors replaced, this cannot be undone."
-msgstr ""
+msgstr "Bei allen Presets dieser Variante wird die Hautfarbe ersetzt, dies kann nicht rückgängig gemacht werden."
 
 #. Key:	PresetSkinTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:166
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:166
 msgctxt "ConfirmationBox,PresetSkinTitle"
 msgid "Propagate Skin Color?"
-msgstr ""
+msgstr "Hautfarbe auf Presets anwenden?"
 
 #. Key:	PresetTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:161
 #: Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:161
 msgctxt "ConfirmationBox,PresetTitle"
 msgid "Propagate Hair Color?"
-msgstr ""
+msgstr "Haarfarbe auf Presets anwenden?"
 
 #. Key:	ReleaseConfirm
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyConfirmationBox.cpp:122
@@ -16384,14 +16516,14 @@ msgstr "Behalte dieses Nachkommen und füge es deiner Farm hinzu."
 #: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:63
 msgctxt "Offspring,BackButtonTitleTooltip"
 msgid "Return to the gallery."
-msgstr ""
+msgstr "Zurück zur Galerie."
 
 #. Key:	BackTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:62
 #: Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:62
 msgctxt "Offspring,BackTitle"
 msgid "Back"
-msgstr ""
+msgstr "Zurück"
 
 #. Key:	ReceiverWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyOffspringMenu.cpp:71
@@ -16489,7 +16621,7 @@ msgstr "Umbenennen"
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1097
 msgctxt "ResourceList,ActionEditBreeder"
 msgid "Edit Appearance"
-msgstr ""
+msgstr "Aussehen bearbeiten"
 
 #. Key:	ActionGiveFavorite
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1134
@@ -16566,7 +16698,7 @@ msgstr "Sperma Sammeln (Blüte)"
 #: Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1231
 msgctxt "ResourceList,ActionRBJ"
 msgid "Spontaneous Blow Job"
-msgstr ""
+msgstr "Spontaner Blowjob"
 
 #. Key:	ActionRelease
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyResourceList.cpp:1124
@@ -16664,7 +16796,7 @@ msgstr "Dialoge werde automatisch weitergeschalten, ohne das auf Weiter gedrück
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:116
 msgctxt "SettingsMenu,BulgeHelp"
 msgid "Large dicks will slightly bulge the receiver's groin and belly area."
-msgstr ""
+msgstr "Große Penisse den Leisten- und Bauchbereich des Empfängers leicht wölben."
 
 #. Key:	CameraControls
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:243
@@ -16734,14 +16866,14 @@ msgstr "Sperma-Schwellung"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:116
 msgctxt "SettingsMenu,DickBulge"
 msgid "Dick Bulge"
-msgstr ""
+msgstr "Penis-Wölbung"
 
 #. Key:	DickSheath
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:435
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:435
 msgctxt "SettingsMenu,DickSheath"
 msgid "Dick Seam Blend"
-msgstr ""
+msgstr "Dick Seam Blend"
 
 #. Key:	EffectsVolume
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:516
@@ -16853,14 +16985,14 @@ msgstr "Gesamt"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:112
 msgctxt "SettingsMenu,MixHelp"
 msgid "Offspring colors will be blended from parents."
-msgstr ""
+msgstr "Farben der Nachkommen werden aus denen der Eltern gemischt."
 
 #. Key:	MixOffspring
 #. SourceLocation:	Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:112
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:112
 msgctxt "SettingsMenu,MixOffspring"
 msgid "Blend Offspring Colors"
-msgstr ""
+msgstr "Mische Farben bei Nachkommen"
 
 #. Key:	MusicVolume
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:564
@@ -16909,7 +17041,7 @@ msgstr "Schwangerschaft"
 #: Source/Radiant/Public/UI/Settings/SexySettingsSystem.cpp:110
 msgctxt "SettingsMenu,PregnancyHelp"
 msgid "Female Nephelym will take 5 days to summon their offspring, and the belly will morph to reflect this."
-msgstr ""
+msgstr "Weibliche Nephelym werden innerhalb von 5 Tagen Nachkommen zeugen und ihr Bauch wird dementsprechend anschwellen."
 
 #. Key:	Quality
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:417
@@ -17091,14 +17223,14 @@ msgstr "Wähle Gebenden"
 #: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:87
 msgctxt "SSexyGalleryMenu,OffspringButtonTitle"
 msgid "Make Offspring"
-msgstr ""
+msgstr "Nachkommen zeugen"
 
 #. Key:	OffspringButtonTooltip
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:88
 #: Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:88
 msgctxt "SSexyGalleryMenu,OffspringButtonTooltip"
 msgid "See what the selected mates would produce."
-msgstr ""
+msgstr "Sehe was die ausgewählten Partner zeugen würden."
 
 #. Key:	ReceiverWindowTitle
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyGalleryMenu.cpp:134
@@ -17441,7 +17573,7 @@ msgstr "Creator Mode aktiviert."
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:966
 msgctxt "SSexySettingsMenu,CreatorModeMainMenu"
 msgid "Use this code in the main menu."
-msgstr ""
+msgstr "Benutzen diesen Code um Hauptmenü."
 
 #. Key:	DefaultKeyBinds
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:864
@@ -17490,7 +17622,7 @@ msgstr "Futas benutzen SS TG."
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1088
 msgctxt "SSexySettingsMenu,ProudMother"
 msgid "Your mother would be so proud."
-msgstr ""
+msgstr "Deine Mutter währe so stolz auf dich."
 
 #. Key:	SizePairs
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexySexPositionDetails.cpp:35
@@ -17659,4 +17791,3 @@ msgstr "Reden"
 msgctxt "WorldAction,TraverseAction"
 msgid "Traverse Portal"
 msgstr "Portal durchschreiten"
-
